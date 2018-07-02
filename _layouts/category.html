@@ -1,21 +1,38 @@
----
-layout: page
----
-
-{% unless page.content == '' %}
-  {{ content }}
+--- 
+layout: page 
+--- 
+{% unless page.content == '' %} 
+	{{ content }} 
 {% endunless %}
 
 <ul class="posts-list">
-  {% assign category = page.category | default: page.title %}
-  {% for post in site.categories[category] %}
-    <li>
-      <h3>
-        <a href="{{ site.baseurl }}{{ post.url }}">
-          {{ post.title }}
-          <small>{{ post.date | date_to_string }}</small>
-        </a>
-      </h3>
-    </li>
-  {% endfor %}
+	{% assign category = page.category | default: page.title %} 
+	{% for post in site.categories[category] %}
+	<li>
+		{% if post.book %}
+			<article class="book">
+				<figure class="book-cover">
+					<a href="{{ site.baseurl }}{{ post.url }}">
+						<img src="../textbook-covers/{{ post.book }}.jpg" alt="{{ post.title }}">
+					</a>
+				</figure>
+				<div class="book-info">
+					<h3>
+						<a href="{{ site.baseurl }}{{ post.url }}">
+							{{ post.title }}
+						</a>
+					</h3>
+					<small>{{ post.book_authors }}</small>
+				</div>
+			</article>
+		{% else %}
+			<h3>
+				<a href="{{ site.baseurl }}{{ post.url }}">
+					{{ post.title }}
+					<small>{{ post.date | date_to_string }}</small>
+				</a>
+			</h3>
+		{% endif %}
+	</li>
+	{% endfor %}
 </ul>

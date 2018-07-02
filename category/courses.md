@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Papers
+title: Courses
 ---
 
 Course notes.
