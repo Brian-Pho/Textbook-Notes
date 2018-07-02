@@ -203,6 +203,23 @@ body {
       padding: 0;
     }
   }
+
+  article.book {
+    padding-bottom: 40px;
+    figure.book-cover {
+      a {
+        > img {
+              max-width: 25em;
+              width: 100%;
+        }
+      }
+    }
+    div.book-info {
+      > h3 {
+        margin-bottom: 0rem;
+      }
+    }
+  }
 }
 
 
