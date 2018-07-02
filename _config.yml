@@ -3,7 +3,7 @@ title:            Notes
 tagline:          'Notes by Brian'
 description:      'A place where I store my notes on courses, textbooks, and papers.'
 url:              https://brianpho.com
-baseurl:          "" # does not include hostname
+baseurl:          # does not include hostname
        
 # Filtering Content
 show_drafts:      null
