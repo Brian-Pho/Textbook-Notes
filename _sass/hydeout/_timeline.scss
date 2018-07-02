@@ -11,10 +11,6 @@
     padding: 0;
 }
 
-html {
-    height: 100%;
-}
-
 body {
     height: inherit;
     display: flex;
@@ -134,10 +130,6 @@ div.item {
     }
     section.year {
         position: relative;
-        &:first-child section {
-            margin-top: -1.3em;
-            padding-bottom: 0px;
-        }
         section {
             position: relative;
             padding-bottom: 1.25em;
@@ -194,9 +186,10 @@ div.item {
                     &:not(:first-child) {
                         margin-top: .5rem;
                     }
-                    span.price {
+                    span.authors {
                         color: mediumturquoise;
                         font-weight: 500;
+                        font-style: italic;
                     }
                 }
             }
@@ -204,6 +197,6 @@ div.item {
     }
 }
 
-#price {
+#authors {
     display: inline;
 }
