@@ -3,11 +3,11 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Textbook Notes
-tagline:          'A Jekyll theme'
-description:      'A place where I store my textbook notes.'
-url:              https://brianpho.com
-baseurl:          # the optional subpath of your site, e.g. "/blog"
+title:            Notes
+description:      'A place where I store my notes on textbooks and papers.'
+url:              https://brianpho.com/Textbook-Notes
+baseurl:          https://brianpho.com
+                  # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
                   # other pages at root, see the paginate_path and
@@ -24,9 +24,8 @@ paginate:         5
 plugins: [jekyll-gist, jekyll-paginate]
 
 # Custom vars
-version:            3.7.0
 sidebar_home_link:  true
-sidebar_blog_link:  '/blog'   # By default, your home page is your blog
+# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
