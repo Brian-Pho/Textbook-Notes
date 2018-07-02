@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
+title:            Textbook Notes
 tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'A place where I store my textbook notes.'
 url:              https://brianpho.com
 baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -14,17 +14,14 @@ baseurl:          # the optional subpath of your site, e.g. "/blog"
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Brian Pho'
+  url:            https://brianpho.com
 
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
+plugins: [jekyll-gist, jekyll-paginate]
 
 # Custom vars
 version:            3.7.0
@@ -34,4 +31,4 @@ sidebar_blog_link:  '/blog'   # By default, your home page is your blog
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/fongandrew/hydeout
+  repo:             https://github.com/Brian-Pho/Textbook-Notes

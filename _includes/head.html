@@ -14,17 +14,12 @@
     {% endif %}
   </title>
 
-  {% include google-analytics.html %}
-
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
   {% include font-includes.html %}
 
   <!-- Icons -->
   {% include favicons.html %}
-
-  <!-- RSS -->
-  <link rel="alternate" type="application/rss+xml" title="RSS" href="/{{ site.feed.path | default: 'feed.xml' }}" />
 
   {% include custom-head.html %}
 </head>
