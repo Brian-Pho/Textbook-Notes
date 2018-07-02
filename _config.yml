@@ -37,4 +37,4 @@ sidebar_home_link:  true
 github:
   repo:             https://github.com/fongandrew/hydeout
 
-remote_theme: jekyll-theme-hydeout
+remote_theme: fongandrew/hydeout
