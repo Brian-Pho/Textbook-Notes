@@ -1,32 +1,35 @@
-# Dependencies
+# Setup
+title:            Notes
+tagline:          'Notes by Brian'
+description:      'A place where I store my notes on courses, textbooks, and papers.'
+url:              https://brianpho.com
+baseurl:          "" # does not include hostname
+       
+# Filtering Content
+show_drafts:      null
+limit_posts:      0
+future:           false
+unpublished:      false      
+
+# Plugins
+whitelist:        []
+plugins:          [jekyll-gist, jekyll-paginate]
+
+# Conversion
 markdown:         kramdown
 highlighter:      rouge
 
-# Setup
-title:            Notes
-description:      'A place where I store my notes on textbooks and papers.'
-url:              https://brianpho.com
-baseurl:          # the optional subpath of your site, e.g. "/blog"
-                  # NB: This applies to all pages in your Jekyll site.
-                  # If you want to move just the blog index pages but keep
-                  # other pages at root, see the paginate_path and
-                  # sidebar_blog_link below.
-
-author:
-  name:           'Brian Pho'
-  url:            https://brianpho.com
-
+# Outputting
+permalink:        date
 paginate:         5
-# paginate_path:    '/page:num'
-                    # Or '/blog/page:num' if you want to move your index pages
+paginate_path:    /page:num
+timezone:         null
 
-plugins: [jekyll-gist, jekyll-paginate]
+quiet:            false
+verbose:          false
+defaults:         []
 
 # Custom vars
 sidebar_home_link:  true
-# sidebar_blog_link:  '/blog'   # By default, your home page is your blog
-                                # page. If you change your paginate_path,
-                                # set this to the root of the paginate_path
-                                # to enable a separate blog link.
 github:
-  repo:             https://github.com/Brian-Pho/Textbook-Notes
+  repo: https://github.com/Brian-Pho/Textbook-Notes

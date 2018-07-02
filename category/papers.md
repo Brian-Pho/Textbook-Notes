@@ -3,5 +3,5 @@ layout: category
 title: Papers
 ---
 
-Course notes.
+Paper notes.
 
