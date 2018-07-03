@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Neuroscience"
+title: "Cognitive Science"
 categories:
 last_modified_at: 2012-01-30T12:25:10-05:00
-excerpt: "The first neuroscience textbook that I'm using to self-teach myself neuroscience."
+excerpt: "This page outlines my plan to self-study cognitive science, resources, and etc."
 ---
 
 ## Study Plan
@@ -11,4 +11,4 @@ My plan for self-studying neuroscience is to first learn the "hardware" of the m
 My goal after that is to move onto the "software" of the brain, cognition.
 
 ## Resources
-http://www.thebrainworm.com/textbooks-in-neuroscience/
+https://www.reddit.com/r/cogsci/wiki/readinglist

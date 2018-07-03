@@ -4,5 +4,3 @@ title: Textbooks
 ---
 
 Textbook notes.
-
-

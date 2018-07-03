@@ -9,13 +9,4 @@ book_authors: "Mark F. Bear, Barry W. Connors, Michael A. Paradiso"
 excerpt: "The first neuroscience textbook that I'm using to self-teach myself neuroscience."
 ---
 
-fdsajfdkslaf
-fdsafsd
-fdsafd
-f
-dsafsd
-af
-sd
-af
-dsa
-fsd
+The mitochondria is the powerhouse of the cell.

@@ -4,4 +4,3 @@ title: Papers
 ---
 
 Paper notes.
-
