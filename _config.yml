@@ -32,4 +32,4 @@ defaults:         []
 # Custom vars
 sidebar_home_link:  true
 github:
-  repo: https://github.com/Brian-Pho/Textbook-Notes
+  repo: https://github.com/Brian-Pho/CR4-DL
