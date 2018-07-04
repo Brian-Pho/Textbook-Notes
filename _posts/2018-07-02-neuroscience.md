@@ -2,7 +2,6 @@
 layout: post
 title: "Neuroscience"
 categories:
-last_modified_at: 2012-01-30T12:25:10-05:00
 excerpt: "This page outlines my plan to self-study neuroscience, resources, and etc."
 ---
 
