@@ -5,7 +5,7 @@ Notes Link: https://brianpho.com/CR4-DL/
 Main Site Link: https://brianpho.com/
 
 TODO
-- [ ] Compress textbook covers
+- [x] Compress textbook covers
 - [ ] Change favicon
 - [ ] Make timeline colorful with current state
 - [ ] Complete change of site visuals 
