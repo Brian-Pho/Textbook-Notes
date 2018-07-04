@@ -32,7 +32,7 @@ I'm studying AI for multiple reasons:
 "CR4-DL" or "Cradle" is my homage to the TV show "Westworld" where copies
 of the hosts are contained. This is reflective of how this site is used to
 contain my notes but also how I touch on the themes of artificial intelligence,
-psychology, conciousness, and reality.
+psychology, conciousness, and reality. [More info.](http://westworld.wikia.com/wiki/Cradle)
 
 ### How was this site built?
 This site is currently being hosted on Github Pages and the Jekyll theme used is

@@ -1,8 +1,8 @@
 This repository is for me to store and view my notes from courses, textbooks, and papers.
 
-Notes Link: https://brianpho.com/CR4-DL/
+Homepage Link:  www.brianpho.com
 
-Main Site Link: https://brianpho.com/
+CR4-DL Link: https://brianpho.com/CR4-DL
 
 TODO
 - [x] Compress textbook covers
