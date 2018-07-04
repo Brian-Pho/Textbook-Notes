@@ -20,8 +20,8 @@ create the basis for me to generate new ideas about intelligence and how to
 engineer it into a machine.
 
 ### Why are you doing this?
-I started with blog with the intention of sharing my knowledge to help others and as
-an archive that I can quickly refer back to.
+I started this site with the intention of sharing my knowledge to help others and as
+an archive that I can quickly refer back to. It also helps to make my notes look nicer.
 
 I'm studying AI for multiple reasons:
   * In search of the truth. What is intelligence? What is conciousness?
@@ -36,7 +36,7 @@ psychology, conciousness, and reality.
 
 ### How was this site built?
 This site is currently being hosted on Github Pages and the Jekyll theme used is
-[Hydeout](https://github.com/fongandrew/hydeout) (heavily modified by me).
+[Hydeout](https://github.com/fongandrew/hydeout) (modified by me).
 
 ### Why study the subjects you've chosen?
 TODO: Link the subject posts and add the motivation into them
