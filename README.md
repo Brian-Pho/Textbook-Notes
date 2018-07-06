@@ -13,6 +13,7 @@ CR4-DL Link: https://brianpho.com/CR4-DL
 - [ ] Modify the hard coded timeline
 - [ ] Run Google Chrome Audit for futher improvements
 - [ ] Fix favicon not showing properly
+- [ ] Make timeline header more readable
 
 ### Favicon Generator
  * https://favicon.io/
@@ -20,3 +21,15 @@ CR4-DL Link: https://brianpho.com/CR4-DL
  * Background: Square
  * Font Family: Abril Fatface
  * Font Size: 110
+
+### Image Compression
+ * https://compressor.io/
+ 
+### Other Resources
+ * https://docs.mathjax.org/en/latest/index.html
+ * https://kramdown.gettalong.org/quickref.html
+ * https://help.github.com/articles/configuring-jekyll/
+ * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+ * https://codepen.io/mathiesjanssen/pen/ggeBKm
+ * https://jekyllrb.com/docs/
+ * https://shopify.github.io/liquid/
