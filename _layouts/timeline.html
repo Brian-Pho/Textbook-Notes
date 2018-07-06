@@ -2,103 +2,149 @@
 layout: page 
 --- 
 {% unless page.content == '' %} 
-    {{ content }} 
+{{ content }} 
 {% endunless %}
 
-<div class="header">
+<div class="timeline_header">
     <h1>Textbook Reading Plan</h1>
-    <h2>A timeline that shows my plan for getting through various textbooks. 
-    My plan is to follow a "tick-tock" cycle where I alternate between neuroscience and
-    computer science. I'm doing my primary studying during my internship as I have
-    free time but this will change when I return to school.</h2>
+    <h2>A timeline that shows my plan for getting through various textbooks. My plan is to follow a "tick-tock" cycle where I
+        alternate between neuroscience and computer science. I'm doing my primary studying during my internship as I have
+        free time but this will change when I return to school.</h2>
 </div>
-<div class="item">
-    <div id="timeline">
-        <div>
-            <section class="year">
-                <h3>2018</h3>
-                <section>
-                    <ul>
-                        <li>Neuroscience: Exploring the Brain</li>
-                        <li><span class="authors">Mark Bear, Barry Connors, Michael Paradiso</span></li>
-                    </ul>
-                </section>
-                <section>
-                    <ul>
-                        <li>The Quest for Artificial Intelligence</li>
-                        <li><span class="authors">Nils Nilsson</span></li>
-                    </ul>
-                </section>
-                <section>
-                    <ul>
-                        <li>Cognitive Science: An Introduction to the Science of the Mind</li>
-                        <li><span class="authors">Jose Bermudez</span></li>
-                    </ul>
-                </section>
-                <section>
-                    <ul>
-                        <li>Artificial Intelligence: A Modern Approach</li>
-                        <li><span class="authors">Stuart Russell, Peter Norvig</span></li>
-                    </ul>
-                </section>
-                <section>
-                    <ul>
-                        <li>Brain & Behavior: An Introduction to Biological Psychology 
-                        OR Cognitive Neuroscience: The Biology of the Mind</li>
-                        <li><span class="authors">Bob Garrett OR Michael Gazzaniga, Richard Ivry, and George Mangun</span></li>
-                    </ul>
-                </section>
-                <section>
-                    <ul>
-                        <li>Deep Learning</li>
-                        <li><span class="authors">Ian Goodfellow, Yoshua Bengio, Aaron Courville</span></li>
-                    </ul>
-                </section>
-
+<div id="timeline">
+    <div>
+        <section class="year">
+            <h3>2018</h3>
+            <section>
+                <ul class="done">
+                    <li>Neuroscience: Exploring the Brain</li>
+                    <li>
+                        <span class="authors">Mark Bear, Barry Connors, Michael Paradiso</span>
+                    </li>
+                </ul>
             </section>
-            <section class="year">
-                <h3>2019</h3>
-                <section>
-                    <ul>
-                        <li>Fundamentals of Computational Neuroscience</li>
-                        <li><span class="authors">Thomas Trappenberg</span></li>
-                    </ul>
-                </section>
-                <section>
-                    <ul>
-                        <li>Deep Learning with Python OR Hands-On Machine Learning with Scikit-Learn & TensorFlow</li>
-                        <li><span class="authors">Francois Chollet OR Aurelien Geron</span></li>
-                    </ul>
-                </section>
-                <section>
-                    <ul>
-                        <li>Fundamentals of Cognitive Neuroscience: A Beginner's Guide</li>
-                        <li><span class="authors">Bernard Baars, Nicole Gage</span></li>
-                    </ul>
-                </section>
+            <section>
+                <ul class="doing">
+                    <li>The Quest for Artificial Intelligence</li>
+                    <li>
+                        <span class="authors">Nils Nilsson</span>
+                    </li>
+                </ul>
             </section>
-            <section class="year">
-                <h3>????</h3>
-                <section>
-                    <ul>
-                        <li>Probability Theory: The Logic of Science</li>
-                        <li><span class="authors">E.T. Jaynes</span></li>
-                    </ul>
-                </section>
-                <section>
-                    <ul>
-                        <li>[INSERT SOME MATH TEXTBOOKS/ Brush up on my calculus]</li>
-                        <li><span class="authors">Francois Chollet OR Aurelien Geron</span></li>
-                    </ul>
-                </section>
-                <section>
-                    <ul>
-                        <li>Cognition</li>
-                        <li><span class="authors">Margaret Matlin</span></li>
-                    </ul>
-                </section>
+            <section>
+                <ul class="todo">
+                    <li>Cognitive Science: An Introduction to the Science of the Mind</li>
+                    <li>
+                        <span class="authors">Jose Bermudez</span>
+                    </li>
+                </ul>
             </section>
-            <!--
+            <section>
+                <ul class="todo">
+                    <li>Artificial Intelligence: A Modern Approach</li>
+                    <li>
+                        <span class="authors">Stuart Russell, Peter Norvig</span>
+                    </li>
+                </ul class="todo">
+            </section>
+            <section>
+                <ul class="todo">
+                    <li>Brain & Behavior: An Introduction to Biological Psychology OR Cognitive Neuroscience: The Biology of
+                        the Mind</li>
+                    <li>
+                        <span class="authors">Bob Garrett OR Michael Gazzaniga, Richard Ivry, and George Mangun</span>
+                    </li>
+                </ul>
+            </section>
+            <section>
+                <ul class="todo">
+                    <li>Deep Learning</li>
+                    <li>
+                        <span class="authors">Ian Goodfellow, Yoshua Bengio, Aaron Courville</span>
+                    </li>
+                </ul>
+            </section>
+        </section>
+        <section class="year">
+            <h3>2019</h3>
+            <section>
+                <ul class="todo">
+                    <li>Fundamentals of Computational Neuroscience OR Theoretical Neuroscience</li>
+                    <li>
+                        <span class="authors">Thomas Trappenberg OR Peter Dayan, Larry Abbot</span>
+                    </li>
+                </ul>
+            </section>
+            <section>
+                <ul class="todo">
+                    <li>Deep Learning with Python OR Hands-On Machine Learning with Scikit-Learn & TensorFlow</li>
+                    <li>
+                        <span class="authors">Francois Chollet OR Aurelien Geron</span>
+                    </li>
+                </ul>
+            </section>
+            <section>
+                <ul class="todo">
+                    <li>Fundamentals of Cognitive Neuroscience: A Beginner's Guide</li>
+                    <li>
+                        <span class="authors">Bernard Baars, Nicole Gage</span>
+                    </li>
+                </ul>
+            </section>
+        </section>
+        <section class="year">
+            <h3>????</h3>
+            <section>
+                <ul class="todo">
+                    <li>Probability Theory: The Logic of Science</li>
+                    <li>
+                        <span class="authors">E.T. Jaynes</span>
+                    </li>
+                </ul>
+            </section>
+            <section>
+                <ul class="todo">
+                    <li>[Other math textbooks (abstract algebra, complex analysis, porbability theory) or brush up on my calculus]
+                    </li>
+                    <li>
+                        <span class="authors">Francois Chollet OR Aurelien Geron</span>
+                    </li>
+                </ul>
+            </section>
+            <section>
+                <ul class="todo">
+                    <li>Cognition</li>
+                    <li>
+                        <span class="authors">Margaret Matlin</span>
+                    </li>
+                </ul>
+            </section>
+            <section>
+                <ul class="todo">
+                    <li>Pattern Recognition and Machine Learning</li>
+                    <li>
+                        <span class="authors">Christopher Bishop</span>
+                    </li>
+                </ul>
+            </section>
+            <section>
+                <ul class="todo">
+                    <li>Fundamentals of Neural Science</li>
+                    <li>
+                        <span class="authors">Eric Kandel</span>
+                    </li>
+                </ul>
+            </section>
+            <section>
+                <ul class="todo">
+                    <li>Google Machine Learning Crash Course</li>
+                    <li>
+                        <span class="authors">Margaret Matlin</span>
+                    </li>
+                </ul>
+            </section>
+        </section>
+        <!--
             <section class="year">
                 <h3>2008</h3>
                 <section>
@@ -124,6 +170,5 @@ layout: page
                 </section>
             </section>
             -->
-        </div>
     </div>
 </div>

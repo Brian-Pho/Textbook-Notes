@@ -7,5 +7,6 @@ CR4-DL Link: https://brianpho.com/CR4-DL
 TODO
 - [x] Compress textbook covers
 - [ ] Change favicon
-- [ ] Make timeline colorful with current state
+- [x] Make timeline colorful with current state
 - [ ] Complete change of site visuals 
+- [x] Fix bullet point indentation

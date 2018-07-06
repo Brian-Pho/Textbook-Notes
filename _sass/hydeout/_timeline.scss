@@ -5,40 +5,10 @@
     border-radius: $radius;
 }
 
-* {
-    border: 0;
-    margin: 0;
-    padding: 0;
-}
-
-body {
-    height: inherit;
-    display: flex;
-    flex-direction: column;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
-    color: #79838c;
-}
-
-a {
-    color: #50585f;
-    text-decoration: none;
-    &:hover {
-        color: #383e44;
-    }
-}
-
-div.container {
-    display: flex;
-    flex: auto;
-    flex-direction: column;
-    max-height: 100%;
-}
-
-div.header {
+div.timeline_header {
     height: auto;
     text-align: center;
-    background: slategrey;
+    background: grey;
     color: ghostwhite;
     padding: 2.3rem 1rem 2.3rem 1rem;
     position: relative;
@@ -87,13 +57,7 @@ div.header {
     }
 }
 
-div.item {
-    display: flex;
-    flex: auto;
-    padding: 0rem 1rem 0rem 1rem;
-}
-
-#timeline {
+div#timeline {
     position: relative;
     display: table; //*For Firefox
     height: 100%;
@@ -178,6 +142,7 @@ div.item {
                 }
                 li {
                     margin-left: .5rem;
+                    font-weight: bold;
                     &:before {
                         content: '·';
                         margin-left: -.5rem;
@@ -187,10 +152,25 @@ div.item {
                         margin-top: .5rem;
                     }
                     span.authors {
-                        color: mediumturquoise;
-                        font-weight: 500;
-                        font-style: italic;
+                        color: grey;
+                        font-weight: normal;
+                        font-size: medium;
                     }
+                }
+            }
+            ul.done {
+                &:first-of-type:after {
+                    background: lightgreen;
+                }
+            }
+            ul.doing {
+                &:first-of-type:after {
+                    background: wheat;
+                }
+            }
+            ul.todo {
+                &:first-of-type:after {
+                    background: lightcoral;
                 }
             }
         }
