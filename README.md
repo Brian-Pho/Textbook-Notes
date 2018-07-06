@@ -4,7 +4,7 @@ Homepage Link:  www.brianpho.com
 
 CR4-DL Link: https://brianpho.com/CR4-DL
 
-TODO
+### TODO
 - [x] Compress textbook covers
 - [x] Change favicon
 - [x] Make timeline colorful with current state
@@ -13,7 +13,7 @@ TODO
 - [ ] Modify the hard coded timeline
 - [ ] Run Google Chrome Audit for futher improvements
 
-Favicon Generator
+### Favicon Generator
  * https://favicon.io/
  * Background Color: #202020
  * Background: Square
