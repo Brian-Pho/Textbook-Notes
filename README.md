@@ -12,7 +12,7 @@ CR4-DL Link: https://brianpho.com/CR4-DL
 - [x] Fix bullet point indentation
 - [ ] Modify the hard coded timeline
 - [ ] Run Google Chrome Audit for futher improvements
-- [ ] Fix favicon not showing properly
+- [x] Fix favicon not showing properly
 - [ ] Make timeline header more readable
 
 ### Favicon Generator
@@ -33,3 +33,4 @@ CR4-DL Link: https://brianpho.com/CR4-DL
  * https://codepen.io/mathiesjanssen/pen/ggeBKm
  * https://jekyllrb.com/docs/
  * https://shopify.github.io/liquid/
+ * https://realfavicongenerator.net/favicon_checker
