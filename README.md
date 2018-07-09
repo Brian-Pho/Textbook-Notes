@@ -34,3 +34,5 @@ CR4-DL Link: https://brianpho.com/CR4-DL
  * https://jekyllrb.com/docs/
  * https://shopify.github.io/liquid/
  * https://realfavicongenerator.net/favicon_checker
+ * https://freefrontend.com/css-timelines/
+ * https://codepen.io/mathiesjanssen/pen/ggeBKm
