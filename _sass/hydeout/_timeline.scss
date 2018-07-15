@@ -41,6 +41,7 @@ div.timeline_header {
             weight: 200;
             size: 1.6em;
         }
+        color: #ffffff;
         letter-spacing: 0.1rem;
         text-transform: uppercase;
         @media (min-width: 62em) {
@@ -165,21 +166,26 @@ div.timeline {
                     /* hsl(hue, saturation, lightness) */
                     background: hsl(120, 80%, 70%);
                 }
+                a {
+                    color: hsl(120, 80%, 70%);
+                }
             }
             ul.doing {
                 &:first-of-type:after {
                     background: hsl(40, 80%, 70%);
+                }
+                a {
+                    color: hsl(40, 80%, 70%);
                 }
             }
             ul.todo {
                 &:first-of-type:after {
                     background: hsl(0, 80%, 70%);
                 }
+                a {
+                    color: hsl(0, 80%, 70%);
+                }
             }
         }
     }
-}
-
-#authors {
-    display: inline;
 }

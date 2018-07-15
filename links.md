@@ -31,3 +31,5 @@ sidebar_link: true
 ## Others
 ---
   * [Life Without A Destiny](https://www.susanjfowler.com/blog/2017/5/21/life-without-a-destiny)
+  * [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject)
+  * [Philosophy Reading List](https://www.reddit.com/r/philosophy/wiki/readinglist)

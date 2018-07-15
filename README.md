@@ -9,11 +9,13 @@ CR4-DL Link: https://brianpho.com/CR4-DL
 - [x] Change favicon
 - [x] Make timeline colorful with current state
 - [ ] Complete change of site visuals 
+- [ ] Complete change of site content
 - [x] Fix bullet point indentation
 - [ ] Modify the hard coded timeline
 - [ ] Run Google Chrome Audit for futher improvements
 - [x] Fix favicon not showing properly
-- [ ] Make timeline header more readable
+- [x] Make timeline header more readable
+- [x] Make timeline link to textbook pages
 
 ### Favicon Generator
  * https://favicon.io/
