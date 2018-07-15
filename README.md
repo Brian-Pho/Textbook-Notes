@@ -26,6 +26,7 @@ CR4-DL Link: https://brianpho.com/CR4-DL
 
 ### Image Compression
  * https://compressor.io/
+ * https://tinypng.com/
  
 ### Other Resources
  * https://docs.mathjax.org/en/latest/index.html
