@@ -5,8 +5,12 @@ categories:
   - Textbooks
 book: "neuroscience-exploring-the-brain"
 book_authors: "Mark F. Bear, Barry W. Connors, Michael A. Paradiso"
-excerpt: "The first neuroscience textbook that I'm using to self-teach myself neuroscience."
+excerpt: "The first neuroscience textbook that I'm using to self-teach myself neuroscience. A fun read and a pleasure to learn from."
 ---
+
+<p class="message">
+If our brains were simple enough for us to understand them, we'd be so simple that we couldn't. - Ian Stewart
+</p>
 
 <details>
 <summary>Table of Contents</summary>
@@ -87,7 +91,7 @@ excerpt: "The first neuroscience textbook that I'm using to self-teach myself ne
   - Very long (Could be greater than 1 meter)
   - Acts as wires
 - Dendrites (input)
-  - Short (Less than 2mm)
+  - Short (Less than 2 mm)
   - Taper to a fine point
   - Acts as antennae
 - Neurons communicate by contact, not continuous (Why not? Why do synapses exist?)
@@ -122,6 +126,10 @@ excerpt: "The first neuroscience textbook that I'm using to self-teach myself ne
   - Presynaptic: The side of the synapse that sends the action potential.
   - Postsynaptic: The side of the synapse that receives the action potential.
   - Information/neurotransmitters go from the presynaptic synapse to the postsynaptic synapse.
+  - [Reasons for existence](https://www.quora.com/What-are-synapses-and-why-are-they-important):
+    - Computation: Used to individually weigh the impact of all the different input channels. (Integration, summation, filtering)
+    - Signals: They make sure that the flow of impulses is only in one direction.
+    - Filtering: They place an upper limit on the frequency of depolarization.
 - Neuron/Neurites classes
   - Anaxoinc: star shaped
   - Unipolar: Both the axon and dendrite are the same line
@@ -173,15 +181,113 @@ excerpt: "The first neuroscience textbook that I'm using to self-teach myself ne
 
 ### Chapter Five: Synaptic Transmission
 
+- Moving from intra-neuron (within a neuron) to inter-neuron (between neurons)
+- Voltage gated ion channels are where the threshold voltage comes from
+- Synaptic transmission: the process of information transfer at a synapse
+- Synapse: specialized junction where one part of a neuron contacts and communicates with another neuron. Generally in one direction.
+- Chemical synapse: transfer of information using chemical neurotransmitters
+- Electrical synapse: allows direct transfer of ionic current (at gap junctions)
+- Connexin → Connexon → Gap Junction
+- Electrical synapses are bi-directional
+- Useful for synchronization
+- Chemical synapses are separated by the synaptic cleft filled by fibrous protein to "glue" pre/post synapses.
+- Synaptic vesicles: stores neurotransmitters
+- Active zone → synaptic cleft →Postsynaptic density
+- Post synaptic density: contains neurotransmitter receptors to convert intercellular signal into intracellular signal.
+- Chemical neurotransmitter classes
+  1. Amino acid
+  2. Amines
+  3. Peptides
+- Excitatory: bring voltage closer to threshold
+- Inhibitory: brings voltage away from threshold
+- The same neurotransmitter can have different postsynaptic actions depending on what receptors bind to it.
+- The transformation of many synaptic input to a single neuronal output constitutes a neural computation.
+- Synaptic integration: the process by which multiple synaptic potentials combine within one postsynaptic neuron.
+- Excitatory postsynaptic potential (EPSP): **[TODO]**
+- Inhibitory postsynaptic potential (IPSP): **[TODO]**
+- Postsynaptic EPSP are quantized (discrete)
+- EPSP summation:
+  - Spatial summation: add together EPSPs generated simultaneously at many different synapses on a dendrite.
+  - Temporal summation: add together EPSPs generated at the same synapse if they occur in rapid succession.
+- The effectiveness of an excitatory synapse depends on how far the synapse is from the spike-initiation zone (distance matters)
+- Shunting inhibition: removes depolarizing current before it reaches soma (location of the synapse on the dendrite matters)
+- Modulation: doesn't invoke EPSP/IPSP but instead modifies the effectiveness of EPSP
+
 ### Chapter Six: Neurotransmitter Systems
 
+- Mostly on in-depth neurotransmitters so skipping (I will regret this later)
+- Divergence: the ability of one transmitter to activate more than one subtype of receptor
+- Divergence is the rule among neurotransmitters
+- Convergence: multiple neurotransmitters can converge to influence the same effector system
+- Neurons integrate divergent and convergent signalling systems
+- The signaling network within a single neuron resembles the neural networks of the brain themselves
+- The information is recombined in more than simple summation.
+
 ### Chapter Seven: The Structure of the Nervous System
+
+- Anatomical references
+  - Anterior (front)
+  - Posterior (back)
+  - Dorsal (up)
+  - Ventral (down)
+  - Left
+  - Right
+- The nervous system is divided into two parts, the CNS and PNS.
+  - Central Nervous System (CNS): the brain and spinal cord
+  - Peripheral Nervous System (PNS): nerves in the body that aren't part of the CNS
+- The PNS can be subdivided into two parts
+  - Somatic (voluntary control)
+  - Visceral (involuntary control)
+- Afferent (carry to)
+- Efferent (carry from)
+- Cerebral cortex: thin sheet of neurons just under the surface of the cerebrum. Seat for human reasoning and cognition.
+- Cortex: any collection of neurons that forms a thin sheet
+- Cerebral cortex features
+  - Layers (6)
+  - Neocortex found only in mammals
 
 ## Part Two: Sensory and Motor Systems
 
 ---
 
 ### Chapter Eight: The Chemical Senses
+
+- Chemical sensation is the oldest and most pervasive across species
+- The neural information from both taste and smell are porcessed in parallel and are merged at rather high levels in the cerebral cortex
+- Transduction: environmental stimuli causes an electrical response in a sensory receptor cell
+- Labeled line hypothesis: that sensory neurons in the body have a "straight line" right up to the cortex. That there are "sweet" neurons in the brain.
+- Population coding: the responses of a large number of broadly tuned neurons, rather than a small number of precisely tuned neurons, are used to specify the properties of a particular stimulus (how the brain combines signals from various sources) (Hinton's capsules routing by agreement)
+- Two problems
+  - How to encode information
+  - How to combine information
+- Unlike taste receptor cells, smell receptors are genuine neurons
+- The olfactory response may terminate by removing the odorant particles, broken down the mucus, etc.
+- Even in the continuing presence of the receptor cell, the strength of the smell may fade due to adaptation.
+- How does the cell convert from the top potentials to the bottom potentials? Derivatives? (In reference to the picture above [TODO])
+- How does a neuron convert a constant signal into a series of potential spikes?
+- Another demonstration that biology is conservative and evolution recycles its good ideas. Smelling and seeing use some similar molecular mechanisms
+- Smelling also uses population code to combine signals
+- Olfactory receptor neurons map to specific glomeruli [TODO]
+- Olfaction is unique since all other sensory systems first pass information through the thalamus before projecting it to the cerebral cortex
+- In smell, there is an apparent paradox similar to the one in taste. Individual receptors are broadly tuned to their simuli; that is, each cell is sensitive to a wide variety of chemicals. (why? adaptable?) However, when we smell those same chemicals, we can easily tell them apart. How is the whole brain doing what single olfactory cells cannot? We discuss three important ideas (maybe more?)
+  1. Olfactory Population Coding: each odor is represented by the activity of a large population of neurons.
+      - By looking at the combination of responses from all of the cells, the brain could distinguish the smell.
+      - How does it combine? Population coding (Arrow's theorem? Winner takes all? Is this the basis for bias? How does smell bias for 80% bad smells?)
+  2. Olfactory Maps: the neurons responsive to particular odors may be organized into spatial maps.
+      - An orderly arrangement of neurons that correlates with certain features of the environment. Experiments reveal tht while a particular oder activates many bulb neurons, the neuron's positions form complex but reproducible spatial patterns.
+      - Olfactory bulb does quite a bit of information processing and synaptic integration. Perhaps the consciousness from the neocortex just interprets these basic results from smaller processing units. (why is the neocortex so thin but so vital?)
+      - Every sensory system uses spatial maps
+        - Visual system: map of visual space
+        - Auditory system: map of sound frequency
+        - Sensory system: map of sound frequency
+        - The maps of the chemical senses are unusual in that the stimuli themselves have no meaningful spatial properties.
+      - Seeing = what and where, smell is only what, not where. The most critical feature of each odorant is its chemical structure, not its position in space. Because the olfactory system doesn't have to map the spatial pattern of an odor in the same way that the visual system has to map the spatial patterns of light, neural odor maps may have other functions, such as discrimination among a huge number of different chemicals.
+      - How do these maps form? Are they consistent between people? Aka is my "pizza" smell the same as your "pizza" smell? Is my read the same as your red?
+      - Unknown and unsure of mapping actually encodes odors or not (further research is needed)
+  3. Temporal Coding in the Olfactory System: the timing of APs may be an essential code for particular odors.
+      - Temporal coding
+      - Temporal patterns are evident in the spatial odor maps as they sometimes change shape during the presentation of a single odor.
+      - Odor information is encoded by the detailed timing of spikes within cells as well as by the number, temporal pattern, rhythmicity, and cell-to-cell synchrony of spikes.
 
 ### Chapter Nine: The Eye
 

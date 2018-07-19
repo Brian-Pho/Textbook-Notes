@@ -6,6 +6,8 @@ Homepage Link:  www.brianpho.com
 
 CR4-DL Link: https://brianpho.com/CR4-DL
 
+Theme Link: https://github.com/fongandrew/hydeout
+
 ### TODO
 
 - [x] Compress textbook covers
@@ -46,3 +48,4 @@ CR4-DL Link: https://brianpho.com/CR4-DL
 - https://realfavicongenerator.net/favicon_checker
 - https://freefrontend.com/css-timelines/
 - https://codepen.io/mathiesjanssen/pen/ggeBKm
+- https://github.com/DavidAnson/markdownlint/blob/v0.10.0/doc/Rules.md
