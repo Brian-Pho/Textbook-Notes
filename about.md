@@ -42,23 +42,32 @@ This site is currently being hosted on Github Pages and the Jekyll theme used is
 TODO: Link the subject posts and add the motivation into them
 
 ### Favourite Quotes
-> The field was founded on the claim that human intelligence "can be so precisely 
+> The field was founded on the claim that human intelligence "can be so precisely
 > described that a machine can be made to simulate it".
 
 [Darthmouth Workshop - 1956](https://en.wikipedia.org/wiki/Dartmouth_workshop)
 
 ---
 
-> We humans are alone in this world for a reason. 
+> We humans are alone in this world for a reason.
 > We murdered and butchered anything that challenged our primacy.
 
 [Dr. Robert Ford - Westworld](https://quotecatalog.com/quotes/tv/westworld/)
 
 ---
 
-> Then you don't remember a world without robots. 
-> There was a time when humanity faced the universe alone and without a friend. 
-> Now he has creatures to help him; stronger creatures than himself, more faithful, more useful, and absolutely devoted to him. 
+> Then you don't remember a world without robots.
+> There was a time when humanity faced the universe alone and without a friend.
+> Now he has creatures to help him; stronger creatures than himself, more faithful, more useful, and absolutely devoted to him.
 > Mankind is no longer alone. Have you ever thought of it that way?
 
 [Isaac Asimov - I, Robot](https://www.goodreads.com/book/show/41804.I_Robot)
+
+---
+
+> To see a World in a Grain of Sand,  
+> And a Heaven in a Wild Flower,  
+> Hold Infinity in the palm of your hand,  
+> And Eternity in an hour.
+
+[William Blake - Auguries of Innocence](https://www.poetryfoundation.org/poems/43650/auguries-of-innocence)
