@@ -49,3 +49,4 @@ Theme Link: https://github.com/fongandrew/hydeout
 - https://freefrontend.com/css-timelines/
 - https://codepen.io/mathiesjanssen/pen/ggeBKm
 - https://github.com/DavidAnson/markdownlint/blob/v0.10.0/doc/Rules.md
+- jekyll serve --livereload
