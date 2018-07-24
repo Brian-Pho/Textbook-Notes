@@ -58,6 +58,10 @@ In general, my main goal is the creation of AI for which I've posted reasons abo
 
 My plan is to first read through the foundational textbooks to understand the basics of each subject and then to branch off into papers where the leading edge is at. Along the way I plan on studying non-related subjects like critical thinking, writing, and learning to help improve me as a learner and researcher.
 
+### How do I get in contact with you?
+
+You can talk to me via my main website. There's a contact page as well as links to my email and social media.
+
 ---
 
 ## Favorite Quotes
