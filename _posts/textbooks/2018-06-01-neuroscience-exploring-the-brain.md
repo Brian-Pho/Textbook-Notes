@@ -12,6 +12,8 @@ excerpt: "The first neuroscience textbook that I'm using to self-teach myself ne
 If our brains were simple enough for us to understand them, we'd be so simple that we couldn't. - Ian Stewart
 </p>
 
+<span style="color: red; font-size: large;">STILL IN PROGRESS</span>
+
 <details>
 <summary>Table of Contents</summary>
 <div markdown="1">
