@@ -12,4 +12,6 @@ My goal after that is to move onto the "software" of the brain, cognition.
 
 ## Resources
 
-<http://www.thebrainworm.com/textbooks-in-neuroscience/>
+- [Wikipedia](https://www.wikiwand.com/en/Neuroscience)
+- [Textbook List](http://www.thebrainworm.com/textbooks-in-neuroscience/)
+- [The Computational Theory of Mind](https://plato.stanford.edu/entries/computational-mind/)
