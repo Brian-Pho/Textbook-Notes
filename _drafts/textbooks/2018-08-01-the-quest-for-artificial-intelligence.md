@@ -643,9 +643,43 @@ techniques, as we shall see in a later chapter.
 
 ### Chapter Nineteen: Understanding Queries and Signals
 
+- Of course, in basic research, although one can describe generally the
+problems one is trying to solve, one can't describe (ahead of time) what the
+solutions are going to be. In fact, as exploratory research progresses, new
+problems become apparent, so one can't even describe all the problems ahead
+of time. One can't make the kind of detailed plan for basic research that one
+can make for applying already developed technology to specic applications.
+Unfortunately, the management of DARPA was shifting from people who
+understood how to initiate and manage basic research to people who knew
+how to manage technology applications.
+
 ### Chapter Twenty: Progress in Computer Vision
 
+- Most early visual processes extract information about the visible
+surfaces directly, without particular regard to whether they happen
+to be part of a horse, or a man, or a tree. . . . As for the question of
+what additional knowledge should be brought to bear, general
+knowledge must be enough { general knowledge embedded in the
+early visual processes as general constraints, together with the
+geometrical consequences of the fact that the surfaces co-exist in
+three-dimensional space.
+
 ### Chapter Twenty-One: Boomtimes
+
+- Even though the Manseld Amendment and the Lighthill report caused
+diculties for basic AI research during the 1970s, the promise of important
+applications sustained overall funding levels from both government and
+industry. Excitement, especially about expert systems, reached a peak during
+the mid-1980s.
+- The boom continued with Japan's \Fifth Generation Computer Systems"
+project. That project in turn helped DARPA justify its \Strategic Computing
+Initiative." It also helped to provoke the formation of similar research eorts in
+Europe (such as the ALVEY Project in the United Kingdom and the European
+ESPRIT programme) as well as the formation of American industrial consortia
+for furthering advances in computer hardware. Assessments of some of AI's
+diculties and achievements, compared to some of its promises, led to the end
+of the boom in the late 1980s { causing what some called an \AI winter." I'll
+be describing all of these topics in subsequent chapters.
 
 ## Part Five: "New-Generation" Projects
 
@@ -653,7 +687,58 @@ techniques, as we shall see in a later chapter.
 
 ### Chapter Twenty-Two: The Japanese Create a Stir
 
+- In 1982, Japan's Ministry of International Trade and Industry (MITI)
+launched a joint government and industry project to develop what they called
+\Fifth Generation Computer Systems" (FGCS). Its goal was to produce
+computers that could perform AI-style inferences from large data and
+knowledge bases and communicate with humans using natural language. As
+one of the reports about the project put it, \These systems are expected to
+have advanced capabilities of judgement based on inference and
+knowledge-base functions, and capabilities of 
+exible interaction through an intelligent interface function."
+- The phrase \Fifth Generation" was meant to emphasize dramatic
+progress beyond previous \generations" of computer technology. The rst
+generation, developed during and after World War II, used vacuum tubes.
+Around 1959, transistors replaced vacuum tubes { giving rise to the second
+generation { although the transistors, like the vacuum tubes before them, were
+still connected to each other and to other circuit components using copper
+wires. During the 1960s, transistors and other components were fabricated on
+single silicon wafer \chips," and the several chips comprising a computer were
+connected together by wires. Computers using this so-called small-scale
+integration (SSI) technology comprised the third generation. In the late 1970s,
+entire microprocessors could be put on a single chip using \very large-scale
+integration" (VLSI) technology { the fourth generation. The Japanese fth
+generation, besides its sophisticated software, was to involve many parallel
+processors using \ultra large-scale integration" (ULSI).
+- Many observers think that most of the results of the FGCS project are
+now of historical interest only. The software developed did not nd notable
+applications. Improvements in the speed and power of commercial
+workstations (and even of personal computers) made these superior to the
+PIMs.
+- According to Oakley, \If the Lighthill
+Report of the early 1970s was paradise lost for the AI community, the Alvey
+Report of the early 1980s was paradise regained."
+
 ### Chapter Twenty-Three: DARPA's Strategic Computing Program
+
+- DARPA should sponsor a major research and
+development program that would integrate eorts in all of these areas to
+create much more powerful computer systems. At the same time, there was
+concern that the Japanese FGCS program could threaten U.S. leadership in
+computer technology. With these factors as background, Kahn began planning
+what would come to be called the \Strategic Computing" (SC) program.
+- Robert Kahn and the architects of SC believed in 1983 [after the
+expert systems boom] that AI was ripe for exploitation. It was
+nally moving out of the laboratory and into the real world. . . AI
+would become an essential component of SC; expert systems would
+be the centerpiece. [They] would allow machines to \think."
+- Most commentators doubt that the SC program achieved its goal of
+pulling new AI technology into the SC applications. Developing the kinds of
+capabilities envisioned by the SC applications required AI inventions, and the
+atmosphere needed for invention is not conducive to tightly programmed
+milestone demonstrations. Instead, as Roland comments, the \applications
+extemporized ad-hoc, o-the-shelf solutions to meet demonstration
+deadlines."
 
 ## Part Six: Entr'acte
 
@@ -661,7 +746,146 @@ techniques, as we shall see in a later chapter.
 
 ### Chapter Twenty-Four: Speed Bumps
 
+- One of the best chapters in this textbook.
+- There have been naysayers from the earliest days of articial intelligence. Alan
+Turing anticipated (and dealt with) some of their objections in his 1950 paper.
+In this chapter, I'll recount some of the controversies surrounding AI {
+including some not foreseen by Turing. I'll also describe some formidable
+technical diculties confronting the eld. By the mid-1980s or so, these
+diculties had caused some to be rather dismissive about progress up to that
+time and pessimistic about the possibility of further progress. For example, in
+wondering about the need for a special issue of the journal Ddalus devoted to
+AI in 1988, the philosopher Hilary Putnam wrote1 \What's all the fuss about
+now? Why a whole issue of Ddalus? Why don't we wait until AI achieves
+something and then have an issue?"
+The attacks and expressions of disappointment from outside the eld
+helped precipitate what some have called an \AI winter."
+- No one supposes that computer simulations of a ve-alarm re will
+burn the neighborhood down or that a computer simulation of a
+rainstorm will leave us all drenched. Why on earth would anyone
+suppose that a computer simulation of understanding actually
+understood anything? . . . For simulation, all you need is the right
+input and output and a program in the middle that transforms the
+former into the latter. That is all the computer has for anything it
+does. To confuse simulation with duplication is the same mistake,
+whether it is pain, love, cognition, res, or rainstorms.
+- According to Quillian, the meaning of a term is represented by its
+place in the network and how it is connected to other terms. This
+same idea is used in dictionaries where the meaning of a word is
+given by mentioning the relationship of this word to other words.
+The meanings of those other words are, in turn, given by their
+relationships to yet other words. So we can think of a dictionary as
+being like a large semantic network of words linked to other words.
+- \We do not know the
+equations describing the physical processes in the brain, and even if we did,
+the solution of the equations describing the simplest reaction would take a
+prohibitive amount of time." The summary of his paper concluded with
+\Signicant developments in articial intelligence. . .must await an entirely
+dierent sort of computer. The only existing prototype for it is the
+little-understood human brain."
+- In addition to concerns about AI's \overstated claims," many computer
+scientists thought AI to be a kind of \fringe activity" that did not adhere to
+rigorous scientic standards and a eld that housed charlatans. I recall that
+when I rst interviewed for a position at SRI in 1961, I was warned by one
+researcher there against joining research on neural networks. Such research, he
+claimed, was \premature," and my involvement in it could damage my
+reputation.
+- Concern for \respectability" has had, I think, a stultifying eect on some
+AI researchers. I hear them saying things like, \AI used to be criticized for its
+flossiness. Now that we have made solid progress, let us not risk losing our
+respectability." One result of this conservatism has been increased
+concentration on \weak AI" { the variety devoted to providing aids to human
+thought { and away from \strong AI" { the variety that attempts to
+mechanize human-level intelligence. This is too bad, because, although I think
+the goals of weak AI are important and worthy, building an artifact that
+mimics the abilities of the human brain would be a tremendous scientic
+achievement { well worth the risk and not at all an \obscenity," \evil,"
+\hideous," nor \impossible in principle."
+- One of the reasons why expert systems are brittle is that they lack
+\common sense."45 In addition to the expert knowledge that humans might
+acquire through education and professional experience, they also have a lot of
+general knowledge. They know, for example, that only females can become
+pregnant, that umbrellas protect against sun and rain, that certain birds
+migrate, that food can be purchased in markets, and millions upon millions of
+other facts. Benjamin Kuipers, an AI researcher and professor at the
+University of Michigan (formerly at the University of Texas at Austin), dened
+common sense this way: \Commonsense knowledge is knowledge about the
+structure of the external world that is acquired and applied without
+concentrated eort by any normal human that allows him or her to meet the
+everyday demands of the physical, spatial, temporal and social environment
+with a reasonable degree of success."
+- It seems to me that the knowledge of any particular human should be
+thought of as an ever-growing tree whose base and lower branches comprise
+\common sense" and whose upper ramications comprise the \expertise" of
+specialized disciplines that the person might have learned. The tree metaphor
+is also useful in emphasizing the point that the knowledge in the upper
+branches uses concepts that occur in the trunk and lower branches.
+- During the early 1980s, many AI sponsors, in government and in industry, had
+greatly in
+ated expectations of what AI could do. Undoubtedly, some of the
+blame for their unjustied optimism could be placed on AI researchers
+themselves who were motivated to make exaggerated promises. The failure to
+deliver systems matching these unrealistic hopes, together with the
+accumulating critical commentary that I have already mentioned, combined in
+the mid- to late 1980s to bring on what came to be called an \AI winter."
+
 ### Chapter Twenty-Five: Controversies and Alternative Paradigms
+
+- Frustrated with AI's
+slowdown, people with dierent approaches to AI eagerly stepped forward to
+claim that what AI needed was more of this or that alternative to AI's
+reigning paradigm { the paradigm John Haugeland called \good-old-fashioned
+AI" or GOFAI. GOFAI, of course, had as its primary rationale Newell and
+Simon's belief that a \physical symbol system has the necessary and sucient
+means for intelligent action." But GOFAI seemed to be running out of steam
+during the 1980s, making it vulnerable to challenges by AI researchers
+themselves { challenges that had to be taken more seriously than those of
+Searle, Dreyfus, Penrose, and others outside of the eld.
+- Another objection to the use of logical representations was based on the fact
+that logical sentences must be either true or false whereas so much of human
+knowledge is uncertain.
+- Zadeh points out that his truth values and set membership values cannot
+be construed as probabilities. His reasons need not concern us here; in any
+case, the matter is controversial. (Most statisticians claim that probability
+theory is the only mathematically rigorous way to deal with uncertainty.)
+- The brain's functions simply aren't based on any small set of
+principles. Instead, they're based on hundreds or perhaps even
+thousands of them. In other words, I'm saying that each part of
+the brain is what engineers call a kludge - that is, a jury-rigged
+solution to a problem, accomplished by adding bits of machinery
+wherever needed, without any general, overall plan: the result is
+that the human mind - which is what the brain does - should be
+regarded as a collection of kludges. The evidence for this is
+perfectly clear: If you look at the index of any large textbook of
+neuroscience, you'll see that a human brain has many hundreds of
+parts - that is, subcomputers - that do dierent things. Why do
+our brains need so many parts? Surely, if our minds were based on
+only a few basic principles, we wouldn't need so much complexity.
+- Of course, just because the brain is a kludge does not mean that
+computer intelligences have to be. Nevertheless, some AI researchers favored
+systems consisting of collections of experimentally derived, ad hoc routines
+designed to solve specic problems. These people called themselves \scrues"
+to distinguish themselves from the \neats" who favored programs based on
+theoretically based principles.
+- Because apparently the brain does what it does by massive parallel
+computations implemented by networks of interconnected neurons, some
+people began anew to explore the possibilities of neural networks. During the
+late 1970s a group at the University of California at San Diego (UCSD)
+headed by cognitive psychologists David E. Rumelhart (1942{ ) and James L.
+McClelland (1948{ ) (Fig. 25.3) began a study of networks that they called
+\parallel distributed processing" (PDP) systems. The group came to be
+known as the PDP group.
+- As
+Rumelhart later pointed out, \The common theme to all these eorts has been
+an interest in looking at the brain as a model of a parallel computational
+device very dierent from that of a traditional serial computer."
+- Much of the neural network research during this period came to be called
+\connectionist" or \brain-style" computation, to contrast it with GOFAI.
+- As he puts it, \Virtually all problems
+in articial intelligence, machine learning, adaptive systems, and automated
+learning can be recast as a search for a computer program. Genetic
+programming provides a way to successfully conduct the search for a computer
+program in the space of computer programs."
 
 ## Part Seven: The Growing Armamentarium: From the 1980s Onward
 
@@ -669,15 +893,217 @@ techniques, as we shall see in a later chapter.
 
 ### Chapter Twenty-Six: Reasoning and Representation
 
+- Those AI researchers called logicists, who favor the use of logical languages for
+representing knowledge and the use of logical methods for reasoning,
+acknowledge one problem with ordinary logic; namely, it is monotonic. By
+that they mean that the set of logical conclusions that can be drawn from a
+set of logical statements does not decrease as more statements are added to
+the set. If one could prove a statement from a given knowledge base, one could
+still prove that same statement (with the very same proof!) when more
+knowledge is added.
+- Yet, much human reasoning does not seem to work that way { a fact well
+noticed (and celebrated) by AI's critics. Often, we jump to a conclusion using
+the facts we happen to have, together with reasonable assumptions, and then
+have to retract that conclusion when we learn some new fact that contradicts
+the assumptions. That style of reasoning is called nonmonotonic or defeasible
+(meaning \capable of being made or declared null and void") because new
+facts might require taking back something concluded before.
+- We humans are also able to predict, with useful accuracies, the future
+course of many of the physical processes we commonly experience. For
+example, when people play in ocean waves at the beach, they are usually able
+to predict when a wave crest will arrive so that they can jump up in time. Do
+our brains use anything like the equation just shown to make that prediction?
+Probably not. Instead, prediction routines for guiding skilled actions are
+learned by repeated experiences and are part of what psychologists call
+\procedural knowledge."
+- In addition to acting automatically and eectively using procedural
+knowledge embedded in our various motor skills, we can also make declarative
+statements predicting what will happen in certain situations. For example, a
+surfer looking out at incoming waves can tell a friend \Take the next wave; it's
+going to be a big one."7 Apparently we have some facility for representing and
+using \qualitative knowledge" about physical processes { knowledge that is
+neither part of our procedural \muscle memory" nor represented in our brains
+by complex mathematical formulas. I could give several examples. How do we
+know that when we knock over a glass of water on a table the water will
+eventually come to the edge of the table and spill o? How do we know that if
+we stack heavy boxes on top of light, fragile boxes, the fragile boxes might
+collapse? How do we know that if we drive to our destination a little bit
+faster, we'll get there a little bit sooner?
+- Earlier in AI's history there was controversy about whether knowledge should
+be represented by data structures such as semantic networks (encoded, say, as
+frames) or by sets of logical statements. Gradually the controversy moderated
+because researchers came to accept the idea that semantic networks could be
+thought of as a special way of representing certain kinds of logical statements,
+thereby permitting some deductions to be made directly from the network.
+- decided to undertake the immense task of providing computers
+with common-sense knowledge. (See Fig. 26.5.) The rst step, he thought,
+would be to \prime the pump with the millions of everyday terms, concepts,
+facts, and rules of thumb" that comprise common sense.
+
 ### Chapter Twenty-Seven: Other Approaches to Reasoning and Representation
+
+- No notes because it wasn't interesting.
 
 ### Chapter Twenty-Eight: Bayesian Networks
 
+- Much human reasoning is about propositions and quantities that are
+uncertain. Our beliefs about many things are provisional (that is, subject to
+change) and qualied (that is, having various levels of condence). AI systems,
+too, need to be able to deal with uncertain information.
+- But just as is the case with logical
+reasoning, probabilistic reasoning is subject to AI's old nemesis, the
+combinatorial explosion. Suppose, for example, that an agent's knowledge
+consists of a set of propositions. Because of possible interdependencies among
+the propositions, accurate probabilistic reasoning depends on knowing more
+than just the probability of each of those propositions individually. Instead,
+probability values for various combinations of the propositions taken together,
+called \joint probabilities," are usually required; this leads, in the general case,
+to impractically large representations and intractable computations.
+- One thing that all of these applications has taught us is the importance of
+massive amounts of data, which according to Peter Norvig, the co-author of
+the leading AI textbook and Director of Research at Google, has turned out to
+be the major theme of modern AI.
+- The fact that full explanations
+involve rather complex mathematics testies again to the great increase in AI's
+technical depth that began in the 1980s.
+
 ### Chapter Twenty-Nine: Machine Learning
+
+- Most machine learning methods construct hypotheses from data. So (to
+use a classic example), if a large set of data contains several instances of swans
+being white and no instances of swans being of other colors, then a machine
+learning algorithm might make the inference that \all swans are white." Such
+an inference is \inductive" rather than \deductive." Deductive inferences
+follow necessarily and logically from their premisses, whereas inductive ones
+are hypotheses, which are always subject to falsication by additional data.
+Still, inductive
+inferences, based on large amounts of data, are extremely useful. Indeed,
+science itself is based on inductive inferences.
+- The usual AI approach to dealing with large quantities of data is to reduce the
+amount of it in some way. For example, a neural network is able to represent
+what is important about a large amount of training data by the network's
+structure and weight values. Similarly, learning a Bayesian network from data
+condenses these data into the network's node structure and its conditional
+probability tables.
+- The basic idea
+behind backprop is simple, but the mathematics (which I'll skip) is rather
+complicated. In response to an error in the network's output, backprop makes
+small adjustments in all of the weights so as to reduce that error. It can be
+regarded as a hill-climbing (or rather hill-descending) method { searching for
+low values of error over the landscape of weights. But rather than actually
+trying out all possible small weight changes and deciding on that set of them
+that corresponds to the steepest descent downhill, backprop uses calculus to
+precompute the best set of weight changes.
+- The decision tree and neural network learning methods described so far in this
+chapter are examples of \supervised learning," a type of learning in which one
+attempts to learn to classify data from a large sample of training data whose
+classications are known. The \supervision" that directs learning in these
+systems involves informing the system about the classication of each datum
+in the training set. Yet, it is sometimes possible to construct useful
+classications of data based just on the data alone. Techniques for doing so
+fall under the heading of \unsupervised learning."
+- In its simplest setting, reinforcement learning is about learning how to
+traverse a collection of states, going from one state to another and so on, to
+reach a state in which a reward is obtained. The problem is much like one that
+a rat faces in learning how to run a maze (or one that a robot faces in learning
+how to carry out a task).
+- As in all reinforcement learning procedures, values are gradually propagated backward
+from the end of the game toward the starting position.
+- To make eective decisions while navigating uncertain
+environments, animals must develop the ability to accurately
+predict the consequences of their actions. Reinforcement learning
+has emerged as a key theoretical paradigm for understanding how
+animals accomplish this feat.
+- We want it to be
+such that the distances (called the \margin") from it to the closest points of
+opposite categories are as large as possible. Such a linear boundary is shown
+on the right-hand side of Fig. 29.17. The parallel dashed lines on either side
+go through these closest points, which are called \support vectors."
+Boundaries with margins as large as possible are desirable because they are
+better at classifying new points not in the training set. That is, they have
+better \generalizing" properties.
+- SVMs and kernel machines are superb examples of how work in several
+disciplines, using highly technical mathematical apparatus, has contributed to
+powerful new techniques in articial intelligence. Important venues for
+describing new work in machine learning are the Neural Information
+Processing Systems (NIPS) Conferences sponsored annually by the Neural
+Information Processing Systems Foundation.
 
 ### Chapter Thirty: Natural Languages and Natural Scenes
 
+- Systems that use grammars for
+analyzing natural language sentences must use parsing algorithms to search
+among candidate \parse trees" to nd one or more that ts an input sentence.
+For realistic grammars that \accept" those word strings we think of as legal
+sentences and reject those strings we take to be nonsentences, it is often the
+case that there are many possible parses, each conveying a dierent meaning.
+Choosing one \best" parse tree from among all of these then depends on
+semantic and pragmatic analyses, which take into account the context in
+which the sentence occurs and common-sense world knowledge.
+- This is because people are always
+stretching and bending the `rules' to meet their communicative needs."12 This
+fact was recognized quite early in the study of language. In his 1921 book, the
+linguist and anthropologist Edward Sapir wrote \Unfortunately, or luckily, no
+language is tyrannically consistent. All grammars leak."13 Sapir meant, of
+course, that any grammar, no matter how complex, will accept some sentences
+that people nd unacceptable and reject some that people nd acceptable.
+- Eugene Charniak, one of the rst AI researchers who recognized this
+diculty, proposed that syntactic analyses should be qualied by probabilities.
+Some sentences are \probably" ok, and some are probably not, and there are
+all gradations in between.14 An immediate advantage of such an approach is
+that the probability of a parse can be used to choose among alternative parses
+for ambiguous sentences.
+- I believe that one of the potentially most promising developments in computer
+vision (and maybe even for all of AI) involves hierarchical models. There are
+dierent versions of these models, and dierent ways to construct them, but if
+we stand far enough back from the details, they have similar structures and
+features.
+- Je Hawkins (1957{ ), the designer of the original Palm Pilot, has
+suggested that the neocortex is a hierarchical temporal memory whose layers
+(from bottom to top) store increasingly abstract representations of sensory
+input sequences and whose function (from top to bottom) is to make
+increasingly detailed predictions of future experience.43 He proposes that the
+visual cortex learns in unsupervised fashion by being subjected to sequences of
+images in time. Because we see images as they occur continuously in time,
+there are bound to be stretches in which each image is of the same object
+moving across our visual eld { albeit appearing at dierent translations,
+scales, and orientations. This sameness provides an implicit labeling that is
+exploited in learning representations at all levels of the hierarchy. Furthermore,
+Hawkins claims, the hierarchical memory and its learning procedures are used
+not only for visual input but for other sensory modalities as well. At the
+highest levels of the hierarchy these separate modalities combine to give an
+integrated model of our sensory world based on vision, touch, and hearing { a
+model we use to make predictions about what might be happening next.
+
 ### Chapter Thirty-One: Intelligent System Architectures
+
+- One can accomplish such
+\parallelism," either by actually having several hardware processors to which
+programs are farmed out for execution or by the simulation of parallel
+operation on the simpler von Neumann architecture in which the programs are
+actually being executed in sequence but the programmers, for all they know,
+think of them as running simultaneously.
+- James Albus (1935{ ; Fig. 31.4), at the National Institute of Standards
+and Technology (formerly the National Bureau of Standards), developed what
+he called a \reference model architecture." The architecture consists of
+multiple layers of \real-time control systems" (RCSs) developed earlier at
+NIST as components of a \theory of intelligence."7 (Albus claims that his RCS
+model was originally inspired by a model of the cerebellum that he and David
+Marr devised.8) Each RCS \partitions the control problem into four basic
+elements: behavior generation (or task decomposition), world modeling,
+sensory processing, and (in more recent versions) value judgment. It clusters
+these elements into computational nodes that have responsibility for specic
+subsystems, and arranges these nodes in hierarchical layers such that each
+layer has characteristic functionality and timing."
+- There are two types of memory modules in ACT-R. Declarative Memory
+consists of facts, such as \Washington, DC is the capital of the United States,
+France is a country in Europe, or 2 + 3 = 5." Declarative knowledge is
+represented in ACT-R by units called chunks. Procedural Memory consists of
+production rules representing \knowledge about how we do things: for
+instance, knowledge about how to type the letter `Q' on a keyboard, about
+how to drive, or about how to perform addition."49 Often we are unable to
+verbalize our knowledge about how we do certain things: We just do them;
+thus knowledge about them is considered procedural, not declarative.
 
 ## Part Eight: Modern AI: Today and Tomorrow
 
@@ -685,8 +1111,225 @@ techniques, as we shall see in a later chapter.
 
 ### Chapter Thirty-Two: Extraordinary Achievements
 
+- Does Deep Blue use articial intelligence? The short answer is
+\no." Earlier computer designs that tried to mimic human thinking
+weren't very good at it. No formula exists for intuition. . . . Deep
+Blue relies more on computational power and a simpler search and
+evaluation function.
+The long answer is [also] \no." \Articial Intelligence" is more
+successful in science ction than it is here on earth, and you don't
+have to be Isaac Asimov to know why it's hard to design a machine
+to mimic a process we don't understand very well to begin with.
+How we think is a question without an answer. Deep Blue could
+never be a HAL-9000 if it tried. Nor would it occur to Deep Blue
+to \try."
+- But I have a broader view of AI. Although Deep Blue relied mainly on
+brute-force methods rather than on rule-based reasoning (for example), it did
+use heuristic search, one of AI's foundational techniques. The dierences
+between Kasparov and Deep Blue simply indicate how much better chess
+programs would fare if they employed human-chess-playing knowledge and
+skills (once these become known well enough to program) and machine
+learning methods in addition to brute force.
+
 ### Chapter Thirty-Three: Ubiquitous Artificial Intelligence
+
+- First, it is the technology of how to apply knowledge to action to
+achieve goals. . . That is what algorithms and programs are all
+about { frozen action to be thawed when needed.
+The second ingredient is the miniaturization of the physical
+systems that have this ability for intelligent action.
+Thus, computer technology diers from all other technologies
+precisely in providing the capability for an enchanted world
+In short, computer technology oers the possibility of
+incorporating intelligent behavior in all the nooks and crannies of
+our world. With it, we could build an enchanted land.
 
 ### Chapter Thirty-Four: Smart Tools
 
+- The goal of the group is
+to produce what they call \human-competitive designs," that is, ones whose
+specications meet or exceed those of the best human designers. With
+expected increases in computer power, I believe that the use of GP and
+GP-like search methods will likely produce several interesting new inventions.
+- As I hope the past few chapters have demonstrated, some parts of the
+quest for articial intelligence have been quite successful. AI has become more
+and more a part of all of our lives as well as of those of specialists. But the
+main goal of the quest (for some of us at least) still remains, namely, endowing
+artifacts with full human (as well as superhuman) capabilities for language,
+perception, reasoning, and learning.
+
 ### Chapter Thirty-Five: The Quest Continues
+
+- Against this background of prediction successes and failures, I hesitate to
+make any that do not seem rather obvious. Except, I will predict that
+someday we'll have human-made artifacts with levels of intelligence (in all of
+its manifestations) equalling and exceeding that of humans. I make that
+prediction because I believe that we humans are machines (for what else could
+we be?) and that eventually we'll be able to build machines that can do
+whatever we can do because there will be economic as well as scientic reasons
+for doing so.
+- All AI researchers agree that both common-sense knowledge and specialized
+knowledge is the key to intelligence. Various approaches have been pursued to
+gather and organize that knowledge in a form exploitable by computer
+programs.
+- A third approach is to build programs that can read (and understand)
+natural language text. After all, as the proponents of that approach claim, the
+world is full of knowledge { in books, in news feeds, and on the Web. (Of
+course, it is full of a lot of nonsense also, but smart programs may ultimately
+be able to highlight the trustworthy parts.) As we have already seen,
+computer understanding of natural language text requires both general
+common-sense knowledge and background knowledge about the subject matter
+of the text. Thus, \Learning by Reading" (LbR), as this third approach is
+called, draws on the technologies of knowledge representation and reasoning as
+well as on natural language processing.
+- In a 1995 article titled \Eye on the Prize" I argued that AI researchers ought
+to be putting more eort into developing generally intelligent systems in
+addition to their work on the kinds of smart tools I mentioned in the previous
+chapter. I suggested that AI ought to focus on building what I called \habile"
+systems { ones that could learn to use smart tools, just as humans are able to
+learn to use them. More generally, it has always seemed to me that AI's grand
+goal { the \prize" we are questing for { should be to develop artifacts that can
+do most of the things that humans can do { specically those things that are
+thought to require \intelligence." These systems would have what some AI
+researchers have called \Human Level Articial Intelligence" (HLAI).
+- HLAI was the goal of the founders and of many other early AI
+researchers. John McCarthy claims that the \rst scientic discussion of
+human level machine intelligence was apparently by Alan Turing" in his
+lecture to the London Mathematical Society on Febuary 20, 1947.33 Turing
+made the mechanization of human-level intelligence an explicit goal in his 1950
+\Computing Machinery and Intelligence" paper. Later, in the proposal for the
+1956 Dartmouth Summer Study, John McCarthy wrote \The study is to
+proceed on the basis of the conjecture that every aspect of learning or any
+other feature of intelligence can in principle be so precisely described that a
+machine can be made to simulate it."
+- In a 2003 paper,
+Edward Feigenbaum concluded \Computational Intelligence is the manifest
+destiny of computer science, the goal, the destination, the nal frontier. More
+than any other eld of science, our computer science concepts and methods are
+central to the quest to unravel and understand one of the grandest mysteries
+of our existence, the nature of intelligence. Generations of computer scientists
+to come must be inspired by the challenges and grand challenges of this great
+quest."34
+- Let an ultraintelligent machine be dened as a machine that can
+far surpass all the intellectual activities of any man however clever.
+Since the design of machines is one of these intellectual activities,
+an ultraintelligent machine could design even better machines;
+there would then unquestionably be an \intelligence explosion,"
+and the intelligence of man would be left far behind. Thus the rst
+ultraintelligent machine is the last invention that man need ever
+make, provided that the machine is docile enough to tell us how to
+keep it under control.
+- If articial intelligences can be created at all, there is little reason
+to believe that initial successes could not lead swiftly to the
+construction of articial superintelligences able to explore
+signicant mathematical, scientic, or engineering alternatives at a
+rate far exceeding human ability, or to generate plans and take
+action on them with equally overwhelming speed. Since man's
+near-monopoly of all higher forms of intelligence has been one of
+the most basic facts of human existence throughout the past
+history of this planet, such developments would clearly create a
+new economics, a new sociology, and a new history.
+- Other tests have been proposed that could be taken as helping to dene
+HLAI. For example, in a 2005 paper, I suggested one, which I called the
+\employment test." In that paper, I wrote that to pass the test \programs
+must be able to perform the jobs ordinarily performed by humans. Progress
+toward human-level AI could then be measured by the fraction of these jobs
+that can be acceptably performed by machines." I had in mind all kinds of
+jobs that humans get paid to perform { from skilled and unskilled labor to
+managerial and oce work.43 For me, achieving HLAI implies (at least)
+knowing how to build artifacts that can do what we now pay humans to do.
+- Yes, even though we already have AI systems that can do some things
+better than humans can do them, there are still many, many human cognitive
+skills that we don't yet know how to automate. I believe there are two reasons
+why AI researchers will continue to strive to automate these skills. One is
+economic: The prospect of someday being able to employ AI systems rather
+than more expensive humans (no matter how many humans there might be)
+will sustain a strong and irresistible urge to build artifacts that can do what
+we now pay humans to do. The other reason is scientic: In their attempts to
+understand how the human brain works, people will continue to build
+computational models of its many functions. Thus, I think achieving some
+version of HLAI will continue to be AI's long-term goal.
+- John McCarthy mentions two approaches toward achieving HLAI. One is
+to attempt to simulate how the human intellect works, but, as he wrote,
+\Understanding the human brain well enough to imitate its
+function. . . requires theoretical and experimental success in psychology and
+neurophysiology." The other is to write programs that mimic human
+intelligent behavior, which is what AI researchers have largely been trying to
+do. McCarthy says that \It isn't a question of deciding between them, because
+each should eventually succeed; it is more a race."
+- I think Minsky was exactly right. We've been trying the alternatives of
+\advanced resources, given initially," and simulating \organic evolution."
+These approaches have produced smart tools and other useful programs but
+not HLAI yet. What about working on a \graded sequence of problems of
+growing diculty"? This strategy has been suggested and deserves serious
+consideration.
+- In his 1950 paper, Alan Turing suggested that \Instead of trying to
+produce a programme to simulate the adult mind, why not rather try to
+produce one which simulates the child's? If this were then subjected to an
+appropriate course of education one would obtain the adult brain. . . ." The
+\appropriate course of education" would then correspond to Minsky's \graded
+sequence of problems."
+- As regards the other approach, namely, \understanding the human brain
+well enough to imitate its function," there has been work on that problem too.
+Several computer scientists are attempting to use concepts familiar to AI
+people to explain the brain. I have already mentioned the hierarchical models
+of the cortex proposed by Mumford, Hinton, Hawkins, Dean, and their various
+colleagues. Building on features of primitive sensory inputs from an array of
+pixels, for example, and ascending through ever-more-abstract percepts, these
+models are able to learn to classify images independently of size, translation,
+and orientation. Yet, to my knowledge, no work has yet been done to use these
+models for more than perception. Can they learn to understand, to reason, to
+plan, and to select actions?
+- Dharmendra Modha (1969{ ), manager of cognitive computing at IBM's
+Almaden Research Center in San Jose, California,48 is among those pursuing a
+more \bottom-up" approach. In 2007, Modha's team carried out an historic
+experiment in which they constructed a computer simulation of a rat-scale
+model of the cortex (with 55 million spiking neurons and 448 billion synapses
+with spike-timing-dependent plasticity) that could function in near real-time
+using a BlueGene supercomputer with 32,768 processors and 8 TB of main
+memory. Modha is the principal investigator of a DARPA project to develop
+\Systems of Neuromorphic Adaptive Plastic Scalable Electronics"
+(SyNAPSE), or, in plain English, a project whose goal is to build a machine
+that mimics the actions of about 100 million neurons. That's twice the
+number of neurons in a rat brain but only about 0.25% of the number in a
+human brain. One can hope that the top-down and bottom-up approaches will
+meet in the middle somewhere.
+- Even setting this
+nightmare aside, one can fear a variety of more subtle deleterious
+impacts, for example, rapid collapse of human society into a
+self-destructive pure hedonism once all pressures, and perhaps even
+reasons or opportunities, for work and striving are undermined by
+the presence of unchallengeably omnicompetent mechanisms.
+Certainly man's remaining sense of his own uniqueness may be
+further impaired, and he may come to seem in his own eyes little
+more than a primitive animal, capable only of 
+eeting
+enjoyments.
+- Omohundro wants to make sure
+that we build \wisdom," and not just intelligence, into our technologies. By
+that he means building in \human values, such as caring about human rights
+and property rights and having compassion for other entities." He thinks it
+\absolutely critical that we build these in at the beginning, otherwise we'll get
+systems that are very powerful, but which do not support our values."52 I
+think Omohundro brings up valid concerns, but to put his version of wisdom
+into AI systems we'll rst have to agree on just what we mean by \human
+values." That will be tough given that our dierent opinions about values
+often lead to wars.
+- In any case, we should
+continue to pursue many dierent approaches, guided by our best judgments.
+It's like heuristic search for a goal that we'll recognize when we achieve it.
+- Several disciplines have contributed to AI's successes. As I wrote at the
+beginning of this book, the early AI pioneers used many clues about how to
+proceed { clues from mathematics and logic, from neuroscience, from
+linguistics, from statistics and probability theory, from control engineering,
+from psychology, and from computer science. Indeed, the substantial progress
+made in the quest for AI to date is due to the use of ideas from all of those
+disciplines. No overarching theory of AI has yet emerged, nor is one likely to
+in my opinion.
+- The quest will continue. What combinations of AI's methods, buttressed
+by AI's supporting disciplines, will be used in the intelligent systems of the
+future? No one really knows, so we'll have to keep all of them active on AI's
+\search frontier." Some of the ones developed early in the quest (and now
+perhaps forgotten) might with better technology be useful. Researchers who
+want to pursue the quest should be familiar with the full variety of AI's
+methods, its contributing disciplines, and (yes) its history.
