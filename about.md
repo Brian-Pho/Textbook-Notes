@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-Hello and welcome to the CR4-DL (Cradle). On this site you'll find my notes from:
+Hello and welcome to the CR4-DL (Cradle). On this site you'll find my notes from
 
 - the university courses that I've taken,
 - papers that I've found interesting, and
@@ -16,13 +16,13 @@ Hello and welcome to the CR4-DL (Cradle). On this site you'll find my notes from
 
 ### Who are you?
 
-You can visit my [personal website](https://brianpho.com/HTML/about.html) to learn more
+You can visit my [personal website](https://brianpho.com/) to learn more
 about me but here's a summary.
 
 I'm currently an undergraduate student studying
 software engineering at the University of Calgary. My dream (and goal) is to become an artificial intelligence researcher who pushes humanity towards the creation of artificial general intelligence.
 
-My current plan is to study computer science, neuroscience, cognitive science, psychology (pretty much all of the brain sciences) in depth to create the basis for me to generate new ideas about intelligence. I believe this is how we should approach imbuing machines with intelligence.
+My current plan is to study computer science, neuroscience, cognitive science, and psychology (pretty much all of the brain sciences) in depth to create the basis for me to generate new ideas about intelligence. I believe this is how we should approach imbuing machines with intelligence.
 
 ### Why are you doing this?
 
@@ -31,16 +31,16 @@ an archive that I can quickly refer back to. It also helps make my notes look ni
 
 ### Why research AI?
 
-I'm studying AI for multiple reasons:
+I'm studying AI for multiple reasons.
 
 - **In search of the truth.** What is intelligence? What is consciousness? What does it mean to be human?
 - **To help humanity.** An AI could theoretically solve all of our problems. World hunger, immortality, space travel, you name it.
-- **It's fun!** I don't think we should ever forget this childlike innocence about us.
-- **I can't see myself doing anything else.** Once AI is created, it will be the best at everything which means that whatever I do now could/would be done better by an AI.
+- **It's fun!** I don't think we should ever forget this child-like innocence about us.
+- **I can't see myself doing anything else.** Once AI is created, it will be the best at everything which means that whatever I do now would be done better by an AI.
 
 ### What's with the name "CR4-DL"?
 
-"CR4-DL" or "Cradle" is my homage to the HBO show [Westworld](https://en.wikipedia.org/wiki/Westworld_(TV_series)), a (great) show that touches upon AI, philosophy, and psychology. CR4-DL reflects the same themes of artificial intelligence, psychology, consciousness, and reality. I think it's a witty name and am very proud of it. [More info on the CR4-DL in Westworld.](http://westworld.wikia.com/wiki/Cradle)
+"CR4-DL" or "Cradle" is my homage to the HBO show [Westworld](https://en.wikipedia.org/wiki/Westworld_(TV_series)), a great show that touches on AI, philosophy, and psychology. CR4-DL reflects the same themes of artificial intelligence, psychology, consciousness, and reality. I think it's a witty name and am very proud of it. [More info on the CR4-DL in Westworld.](http://westworld.wikia.com/wiki/Cradle)
 
 ### How was this site built?
 
@@ -55,13 +55,13 @@ The reasons can be found on each subject page.
 - [Neuroscience]({{ site.baseurl }}{% post_url 2018-07-02-neuroscience %})
 - [Cognitive Science]({{ site.baseurl }}{% post_url 2018-07-02-cognitive-science %})
 
-In general, my main goal is the creation of AI for which I've posted my reasons above. I'm studying neuroscience because I think of it the "hardware" of the brain while cognitive science as the "software" of the mind. And in order to understand the brain, mind, and intelligence, I believe this entire systems approach is necessary. However, the tradeoff is the massive amount of time and effort needed to become PhD/expert level in each field which is why I'm starting early (I'm currently 20 years old as of writing this in 2018).
+In general, my main goal is the creation of AI. I'm studying neuroscience because I think of it the "hardware" of the brain while cognitive science as the "software" of the mind. And in order to understand the brain, mind, and intelligence, I believe this entire systems approach is necessary. However, the tradeoff is the massive amount of time and effort needed to become PhD/expert level in each field which is why I'm starting early (I'm currently 20 years old as of writing this in 2018).
 
 My plan is to first read through the foundational textbooks in each field to understand the basics of each subject, and then to branch off into papers where the frontier of knowledge is at. Along the way, I plan on studying non-related subjects like critical thinking, writing, and learning to help improve me as a learner, researcher, and person.
 
 ### How do I get in contact with you?
 
-You can talk to me via my main website. There's a contact page as well as links to my email and social media.
+You can contact me via my main website which also has links to my email and social media.
 
 ---
 

@@ -53,3 +53,14 @@ sidebar_link: true
 - [Life Without A Destiny](https://www.susanjfowler.com/blog/2017/5/21/life-without-a-destiny)
 - [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject)
 - [Philosophy Reading List](https://www.reddit.com/r/philosophy/wiki/readinglist)
+
+### On becoming an master researcher
+
+- [The 5 Stages of an Electronic Music Producer (and How to Progress Effectively Through Them)](https://www.edmprod.com/5-stages-electronic-music-producer/)
+- [How to Make Electronic Music](https://www.edmprod.com/how-to-make-electronic-music/)
+- [The Cook and the Chef: Musk’s Secret Sauce](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html)
+- [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)
+- [80,000 Hours](https://80000hours.org/)
+- [Warren Buffett’s 5-Step Process for Prioritizing True Success (and Why Most People Never Do It)](https://liveyourlegend.net/warren-buffetts-5-step-process-for-prioritizing-true-success-and-why-most-people-never-do-it/)
+- Mastery by Robert Greene
+- Outliers by Malcolm Gladwell
