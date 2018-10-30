@@ -62,5 +62,5 @@ sidebar_link: true
 - [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)
 - [80,000 Hours](https://80000hours.org/)
 - [Warren Buffett’s 5-Step Process for Prioritizing True Success (and Why Most People Never Do It)](https://liveyourlegend.net/warren-buffetts-5-step-process-for-prioritizing-true-success-and-why-most-people-never-do-it/)
-- Mastery by Robert Greene
-- Outliers by Malcolm Gladwell
+- [Mastery by Robert Greene]({{ site.baseurl }}{% post_url 2018-10-07-mastery %})
+- [Outliers by Malcolm Gladwell]({{ site.baseurl }}{% post_url 2018-09-17-outliers %})

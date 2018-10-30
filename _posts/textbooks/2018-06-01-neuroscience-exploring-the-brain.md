@@ -50,9 +50,9 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 </div>
 </details>
 
-## Part One: Foundations
-
 ---
+
+## Part One: Foundations
 
 ### Chapter One: Neuroscience: Past, Present, Future
 
@@ -246,9 +246,9 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - Layers (6)
   - Neocortex found only in mammals
 
-## Part Two: Sensory and Motor Systems
-
 ---
+
+## Part Two: Sensory and Motor Systems
 
 ### Chapter Eight: The Chemical Senses
 
@@ -391,9 +391,9 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - Neural plasticity: different neurons take over the job of other neurons
 - Cerebellum: what what is intended is compared with what has happened
 
-## Part Three: The Brain and Behavior
-
 ---
+
+## Part Three: The Brain and Behavior
 
 ### Chapter Fifteen: Chemical Control of the Brain and Behavior
 
@@ -471,9 +471,9 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 
 - Skipping notes due to being on mental illness
 
-## Part Four: The Changing Brain
-
 ---
+
+## Part Four: The Changing Brain
 
 ### Chapter Twenty-Three: Wiring the Brain
 
@@ -577,8 +577,8 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - Synaptic tagging and capture: the persistence of LTP depends on whether synaptic stimulation is strong enough to trigger protein synthesis in the postsynaptic neuron
 - The modulation of gene expression by CREB provides a molecular mechanism that can control the strength of memory
 
-## Opinions, Thoughts, Moving Forward
-
 ---
+
+## Opinions, Thoughts, Moving Forward
 
 - More into the book, more unknown

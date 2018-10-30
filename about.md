@@ -6,9 +6,10 @@ sidebar_link: true
 
 Hello and welcome to the CR4-DL (Cradle). On this site you'll find my notes from
 
-- the university courses that I've taken,
-- papers that I've found interesting, and
-- textbooks that I've read.
+- books I've enjoyed,
+- university courses I've taken,
+- papers I've found interesting, and
+- textbooks I've read.
 
 ---
 
@@ -16,11 +17,9 @@ Hello and welcome to the CR4-DL (Cradle). On this site you'll find my notes from
 
 ### Who are you?
 
-You can visit my [personal website](https://brianpho.com/) to learn more
-about me but here's a summary.
+You can visit my [personal website](https://brianpho.com/) to learn more about me but here's a summary.
 
-I'm currently an undergraduate student studying
-software engineering at the University of Calgary. My dream (and goal) is to become an artificial intelligence researcher who pushes humanity towards the creation of artificial general intelligence.
+I'm currently an undergraduate student studying software engineering at the University of Calgary. My dream (and goal) is to become an artificial intelligence researcher who pushes humanity towards the creation of artificial general intelligence.
 
 My current plan is to study computer science, neuroscience, cognitive science, and psychology (pretty much all of the brain sciences) in depth to create the basis for me to generate new ideas about intelligence. I believe this is how we should approach imbuing machines with intelligence.
 
@@ -44,8 +43,7 @@ I'm studying AI for multiple reasons.
 
 ### How was this site built?
 
-This site was built by me and is currently hosted on Github Pages. The Jekyll theme used is
-[Hydeout](https://github.com/fongandrew/hydeout) (modified by me).
+This site was built by me and is currently hosted on Github Pages. The Jekyll theme used is [Hydeout](https://github.com/fongandrew/hydeout) (modified by me).
 
 ### Why study the subjects you've chosen? What's your study plan?
 
