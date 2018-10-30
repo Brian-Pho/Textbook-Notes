@@ -5,14 +5,12 @@ categories:
   - Textbooks
 book: "neuroscience-exploring-the-brain"
 book_authors: "Mark F. Bear, Barry W. Connors, Michael A. Paradiso"
-excerpt: "The first neuroscience textbook that I'm using to self-teach myself neuroscience. A fun read and a pleasure to learn from."
+excerpt: "The first neuroscience textbook that I'm using to self-teach myself neuroscience. A good and fun introduction to the field but lacks detail."
 ---
 
 <p class="message">
 If our brains were simple enough for us to understand them, we'd be so simple that we couldn't. - Ian Stewart
 </p>
-
-<span style="color: red; font-size: large;">STILL IN PROGRESS</span>
 
 <details>
 <summary>Table of Contents</summary>
