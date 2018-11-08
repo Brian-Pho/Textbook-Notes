@@ -35,7 +35,7 @@ excerpt: "How to memorize more."
 - People say "I know the face, but I can't remember the name" but never "The face is on the tip of my tongue".
 
 1. Create a vision.
-2. Make a decision.You will not allow for any other possibility.
+2. Make a decision. You will not allow for any other possibility.
 3. Stop listening to your feelings.
 4. Daily action.
 
