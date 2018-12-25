@@ -37,6 +37,7 @@ sidebar_link: true
 
 - [Comparison of Neuroscience Textbooks](http://www.thebrainworm.com/textbooks-in-neuroscience/)
 - [Coursera: Computational Neuroscience Course](https://www.coursera.org/learn/computational-neuroscience/home/welcome)
+- [Brain Inspired](https://braininspired.co/)
 
 ---
 
@@ -53,6 +54,7 @@ sidebar_link: true
 - [Life Without A Destiny](https://www.susanjfowler.com/blog/2017/5/21/life-without-a-destiny)
 - [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject)
 - [Philosophy Reading List](https://www.reddit.com/r/philosophy/wiki/readinglist)
+- [Paul's Online Notes](http://tutorial.math.lamar.edu/)
 
 ### On becoming an master researcher
 
@@ -64,3 +66,4 @@ sidebar_link: true
 - [Warren Buffett’s 5-Step Process for Prioritizing True Success (and Why Most People Never Do It)](https://liveyourlegend.net/warren-buffetts-5-step-process-for-prioritizing-true-success-and-why-most-people-never-do-it/)
 - [Mastery by Robert Greene]({{ site.baseurl }}{% post_url /books/2018-10-07-mastery %})
 - [Outliers by Malcolm Gladwell]({{ site.baseurl }}{% post_url /books/2018-09-17-outliers %})
+- [Peak by Anders Ericsson and Robert Pool]({{ site.baseurl }}{% post_url /books/2018-12-21-peak %})
