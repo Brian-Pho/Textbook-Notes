@@ -106,4 +106,4 @@ I started this journey thinking that I'd go through my timeline of "tick-tock"in
 
 With "Peak" completed, I think I'm done with this learning to learn and mastery/expertise path and am ready to tackle the actual AI research. There are a few other side skills that I want to learn (cooking, writing) but the meta game is done. I'll always be reminded of Wade from "Death's End" in that we must keep advancing, stopping at nothing. The end goal is general artificial intelligence and nothing less.
 
-The current plan is to devise a path to AI. I've brainstormed a few. One is to follow the evolution path and hope that creates AI but it's low chance to succeed with high time investment. Another is to follow the human path of starting at a child and working the ways up. It's higher chance to succeed but difficult.Developmental Neuroscience
+The current plan is to devise a path to AI. I've brainstormed a few. One is to follow the evolution path and hope that creates AI but it's low chance to succeed with high time investment. Another is to follow the human path of starting at a child and working the ways up. It's higher chance to succeed but difficult.
