@@ -6,8 +6,6 @@ categories:
 excerpt: "Living a meaningful life."
 ---
 
-# The Power of Meaning
-
 ## Introduction
 
 - What is the meaning of existence?
@@ -28,7 +26,7 @@ excerpt: "Living a meaningful life."
 - On the Meaning of Life by Durant
 - Wealthier nations had significantly higher suicide rates than poorer countries.
 - Happier and unhappiness did not predict suicide.
-- So what? Why? 
+- So what? Why?
 - With meaning no longer imposed on us from an outside source, we have the freedom to create it for ourselves.
 - When we devote ourselves to difficult but worthwhile tasks, our lives feel more significant.
 - There are four pillars to meaning: belonging, purpose, storytelling, and transcendence.

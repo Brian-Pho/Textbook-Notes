@@ -95,3 +95,15 @@ You can contact me via my main website which also has links to my email and soci
 > And Eternity in an hour.
 
 [William Blake in Auguries of Innocence](https://www.poetryfoundation.org/poems/43650/auguries-of-innocence)
+
+### Updates on my journey to become an AI researcher
+
+**Thoughts as of Dec 25, 2018**
+
+I thought I'd might keep a "semi-journal" about my progress on this journal of becoming an AI researcher and (hopefully) creating AI.
+
+I started this journey thinking that I'd go through my timeline of "tick-tock"ing computer science and neuroscience textbooks and posting notes from them up here. After getting through the first two textbooks I came across the "Mastery" book that my sister left. After reading it, I was convinced that I wanted to become a master AI research on the likes of Einstein and Turing but for AI. It was also around this time that I knew I wasn't retaining and learning as much as I would've wanted from the textbooks and searched for ways to learn to learn. I came across "Make It Stick" and I was thoroughly sold on it's conclusion of learning by retrieval and distributed. After I read some excellent science fiction books (The three body problem series) and returned back to my destiny, this time picking up "Peak".
+
+With "Peak" completed, I think I'm done with this learning to learn and mastery/expertise path and am ready to tackle the actual AI research. There are a few other side skills that I want to learn (cooking, writing) but the meta game is done. I'll always be reminded of Wade from "Death's End" in that we must keep advancing, stopping at nothing. The end goal is general artificial intelligence and nothing less.
+
+The current plan is to devise a path to AI. I've brainstormed a few. One is to follow the evolution path and hope that creates AI but it's low chance to succeed with high time investment. Another is to follow the human path of starting at a child and working the ways up. It's higher chance to succeed but difficult.Developmental Neuroscience
