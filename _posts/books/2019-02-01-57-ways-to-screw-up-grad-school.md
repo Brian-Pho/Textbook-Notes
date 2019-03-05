@@ -6,6 +6,23 @@ categories:
 excerpt: "How to do well in graduate school."
 ---
 
+<details>
+<summary>Table of Contents</summary>
+<div markdown="1">
+
+- [Starting Out](#starting-out)
+- [Supervisors](#supervisors)
+- [Managing Your Program](#managing-your-program)
+- [Your Work and Social Life](#your-work-and-social-life)
+- [Writing](#writing)
+- [Your Attitude and Actions](#your-attitude-and-actions)
+- [Delicate Matters](#delicate-matters)
+- [Am I Done Yet?: On Finishing](#am-i-done-yet-on-finishing)
+- [Final Thoughts](#final-thoughts)
+
+</div>
+</details>
+
 ## Starting Out
 
 - Why you want to go to grad school
@@ -63,7 +80,7 @@ excerpt: "How to do well in graduate school."
 - Don't postpone publishing
 - Don't submit articles to different outlets at the same time
 - Be cautious that you don't try to accomplish too much with your thesis
-- Be short and succient, have focus and be mindful of time and scope
+- Be short and succinct, have focus and be mindful of time and scope
 - You need to identify what not to cover in your research and to remove tangents peripheral to your analysis or argument
 - A thesis, like any written work, is always stronger when you omit unnecessary sections
 - You will need to compromise idealized goals in light of the pragmatic need to do the best you can with the resources and time frame available
@@ -98,7 +115,7 @@ excerpt: "How to do well in graduate school."
 - Keep things professional
 - Be humble
 - Don't cheat, plagiarize, or copy
-- Don't write someone else's work
+- Don't write someone elses work
 
 ## Am I Done Yet?: On Finishing
 

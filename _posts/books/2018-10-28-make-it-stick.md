@@ -6,6 +6,26 @@ categories:
 excerpt: "Learning to learn."
 ---
 
+<details>
+<summary>Table of Contents</summary>
+<div markdown="1">
+
+- [Chapter 1: Learning is Misunderstood](#chapter-1-learning-is-misunderstood)
+  - [Principle claims](#principle-claims)
+  - [Learning strategies](#learning-strategies)
+- [Chapter 2: To Learn, Retrieve](#chapter-2-to-learn-retrieve)
+- [Chapter 3: Mix Up Your Practice](#chapter-3-mix-up-your-practice)
+- [Chapter 4: Embrace Difficulties](#chapter-4-embrace-difficulties)
+- [Chapter 5: Avoid Illusions of Knowing](#chapter-5-avoid-illusions-of-knowing)
+- [Chapter 6: Get Beyond Learning Styles](#chapter-6-get-beyond-learning-styles)
+- [Chapter 7: Increase Your Abilities](#chapter-7-increase-your-abilities)
+- [Chapter 8: Make It Stick](#chapter-8-make-it-stick)
+  - [Learning Tips for Students](#learning-tips-for-students)
+  - [Tips for Teachers](#tips-for-teachers)
+
+</div>
+</details>
+
 ## Chapter 1: Learning is Misunderstood
 
 - Learning: acquiring knowledge and skills and having them readily available from memory so you can make sense of future problems and opportunities.
@@ -116,7 +136,7 @@ excerpt: "Learning to learn."
 - We must cultivate the ability to discern when our mental models aren't working: when a situation that seems familiar is actually different and requires that we reach for a different solution and do something new.
 - Incompetent people lack the skills to improve because they are unable to distinguish between incompetence and competence.
 - For success everything must go right, but by contrast, failure can be attributed to any number of external causes.
-- The answer to illusion and misjudgemeant is to replace subjective experience as the basis for decisions with a set of objective gauges outside ourselves, so that our judgement squares with the real world around us.
+- The answer to illusion and misjudgment is to replace subjective experience as the basis for decisions with a set of objective gauges outside ourselves, so that our judgement squares with the real world around us.
 - Don't put stock into momentary gains that result from massed practice. Space your testing, vary your practice, keep the long term view.
 - Use an external judge. Think of the kids lining up to join the softball team - would you be picked?
 - Peer review serves as an external gauge that provides feedback.

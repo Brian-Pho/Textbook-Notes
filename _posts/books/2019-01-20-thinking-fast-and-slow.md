@@ -3,8 +3,21 @@ layout: post
 title: "Thinking, Fast and Slow"
 categories:
   - Books
-excerpt: "On the intuitive and the rational."
+excerpt: "On the intuitive and the rational sides of the mind."
 ---
+
+<details>
+<summary>Table of Contents</summary>
+<div markdown="1">
+
+- [Part 1: Two Systems](#part-1-two-systems)
+- [Part 2: Heuristics and Biases](#part-2-heuristics-and-biases)
+- [Part 3: Overconfidence](#part-3-overconfidence)
+- [Part 4: Choices](#part-4-choices)
+- [Part 5: Two Selves](#part-5-two-selves)
+
+</div>
+</details>
 
 ## Part 1: Two Systems
 
@@ -28,7 +41,7 @@ excerpt: "On the intuitive and the rational."
 - Self-control and deliberate thought apparently draw on the same limited budget of effort.
 - Flow: expending considerable effort for long periods of time without having to exert willpower.
 - Two forms of effort: concentration on the task and the deliberate control of attention.
-- After exerting self-control in one task, you do not feel like making an effort in another unless nessecary.
+- After exerting self-control in one task, you do not feel like making an effort in another unless necessary.
 - Glucose levels appear to affect the amount of willpower we can exert.Fits the theory that brains require a lot of energy.
 - System 1 automatically does association activation.
 - Embodied cognition: you think with your body, not only with your brain.
@@ -95,7 +108,7 @@ excerpt: "On the intuitive and the rational."
 - High subjective confidence is not to be trusted as an indicator of accuracy.
 - Expertise in a domain is not a single skill but rather a large collection of skills.
 - Two basic conditions for acquiring a skill:
-  - An environment that is sufficiently regular to be predictable 
+  - An environment that is sufficiently regular to be predictable
   - An opportunity to learn these regularities through prolonged practice
 - When both of these conditions are satisfied, intuitions are likely to be skilled.
 - Intuition cannot be trusted in the absence of stable regularities in the environment.Is this how children develop "intuitive physics"?

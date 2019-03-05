@@ -3,8 +3,17 @@ layout: post
 title: "Unlimited Memory"
 categories:
   - Books
-excerpt: "How to memorize more."
+excerpt: "Memorizing memory techniques."
 ---
+
+<details>
+<summary>Table of Contents</summary>
+<div markdown="1">
+
+- [General Notes](#general-notes)
+
+</div>
+</details>
 
 ## General Notes
 

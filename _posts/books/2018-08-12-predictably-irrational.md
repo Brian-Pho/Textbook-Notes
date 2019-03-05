@@ -3,48 +3,71 @@ layout: post
 title: "Predictably Irrational"
 categories:
   - Books
-excerpt: "Why we make money decisions the way we do."
+excerpt: "A rational approach to irrational decisions."
 ---
 
-## The Truth about Relativity
+<details>
+<summary>Table of Contents</summary>
+<div markdown="1">
+
+- [Chapter 1: The Truth about Relativity](#chapter-1-the-truth-about-relativity)
+- [Chapter 2: The Fallacy of Supply and Demand](#chapter-2-the-fallacy-of-supply-and-demand)
+- [Chapter 3: The Cost of Zero Cost](#chapter-3-the-cost-of-zero-cost)
+- [Chapter 4: The Cost of Social Norms](#chapter-4-the-cost-of-social-norms)
+- [Chapter 5: The Power of a Free Cookie](#chapter-5-the-power-of-a-free-cookie)
+- [Chapter 6: The Influence of Arousal](#chapter-6-the-influence-of-arousal)
+- [Chapter 7: The Problem of Procrastination and Self-Control](#chapter-7-the-problem-of-procrastination-and-self-control)
+- [Chapter 8: The High Price of Ownership](#chapter-8-the-high-price-of-ownership)
+- [Chapter 9: Keeping Doors Open](#chapter-9-keeping-doors-open)
+- [Chapter 10: The Effect of Expectation](#chapter-10-the-effect-of-expectation)
+- [Chapter 11: The Power of Price](#chapter-11-the-power-of-price)
+- [Chapter 12: The Cycle of Distrust](#chapter-12-the-cycle-of-distrust)
+- [Chapter 13: The Context of Our Character, Part I](#chapter-13-the-context-of-our-character-part-i)
+- [Chapter 14: The Context of Our Character, Part II](#chapter-14-the-context-of-our-character-part-ii)
+- [Chapter 15: Beer and Free Lunches](#chapter-15-beer-and-free-lunches)
+
+</div>
+</details>
+
+## Chapter 1: The Truth about Relativity
 
 *Why Everything Is Relative - Even When It Shouldn’t Be*
 
-- We don’t have an internal value meter, rather we focus on relative advantage.
+- We don’t have an internal value meter but rather we focus on relative advantage.
 - Most people don’t know what they want unless they see it in context.
 - We are always looking at the things around us in relation to others to compare.
-- The more we have the more we want. The solution is to break this cycle of relativity. To not care about others.
+- The more we have, the more we want. The solution is to break this cycle of relativity. To not care about others.
 - The make judgments about absolute value over relative value.
 
-## The Fallacy of Supply and Demand
+## Chapter 2: The Fallacy of Supply and Demand
 
 *Why the Price of Pearls - and Everything Else - Is Up in the Air*
 
-- In order to sell something at a high price, it is only necessary to make it difficult to obtain.
+- In order to sell something at a high price, it's only necessary to make it difficult to obtain.
 - Arbitrary coherence: initial prices are largely arbitrary but once those prices are established, they shape not only how much we are willing to pay but also how much we are willing to pay for related products.
 - First impressions matter.
 - Self-herding: when we believe something is good/bad on the basis of our own previous behaviour.
-- The first decision is crucial, and we should give it an appropriate amount of attention.
+- The first decision is crucial and we should give it an appropriate amount of attention.
 
-## The Cost of Zero Cost
+## Chapter 3: The Cost of Zero Cost
 
 *Why We Often Pay Too Much When We Pay Nothing*
 
-- There are many times when getting Free! items makes perfect sense. The critical issue arises when Free! becomes a struggle between a free item and another item.
-- Choose between a free $10 gift card or pay $7 for a $20 gift card. The $20 is the optimal choice.
+- There are many times when getting "Free!" items makes perfect sense. The critical issue arises when "Free!" becomes a struggle between a free item and another item.
+- Choosing between a free $10 gift card or pay $7 for a $20 gift card. The $20 gift card is the optimal choice because you end up with more.
 - When choosing between two products, we often overreact to the free one.
 - The concept of zero also applies to time. Time spent on one activity is time taken away from another.
-- The difference between two cents and one cent is small. But the difference between one cent and zero cents is huge.
+- The difference between two cents and one cent is small, but the difference between one cent and zero cents is big.
 
-## The Cost of Social Norms
+## Chapter 4: The Cost of Social Norms
 
 *Why We Are Happy to Do Things, but Not When We Are Paid to Do Them*
 
-- We live in two simultaneous but different worlds - one where social norms prevail and one where market norms make the rules.
+- We live in two simultaneous (but different) worlds - one where social norms prevail and one where market norms prevail.
 - When social and market norms collide, trouble sets in.
 - Once market norms enter our considerations, the social norms depart.
-- If he charged them, they would not be able to afford him.
-- No one is offended by a small gift, because even gifts keep us in the social exchange world and away from market norms.
+- If he charged them for the lessons, they wouldn't be able to afford him.
+- No one is offended by a small gift because even gifts keep us in the social exchange world and away from market norms.
 - Explicit prices on gifts switches it back to market norms.
 - Just thinking about money makes us behave as most economists believe we behave - selfish and independent.
 - When you’re in a restaurant with a date, don’t mention the price of selections.
@@ -52,15 +75,15 @@ excerpt: "Why we make money decisions the way we do."
 - If someone is paid to do something, don’t ask them to do it for free.
 - Cash will take you only so far - social norms are the forces that can make a difference in the long run.
 
-## The Power of a Free Cookie
+## Chapter 5: The Power of a Free Cookie
 
 *How Free Can Make Us Less Selfish*
 
 - When we offer people a financial payment in a situation that is governed by social norms, the added payment could actually reduce their motivation to engage and help out.
-- Once money is introduced into the exchange, you stop thinking about what’s socially right and wrong, and you simply want to maximize your gain.
-- Not mentioning prices ushers in social norms, and with those social norms, we start caring more about others.
+- Once money is introduced into the exchange, you stop thinking about what’s socially right and wrong and you simply want to maximize your gain.
+- Not mentioning prices ushers in social norms and with those social norms, we start caring more about others.
 
-## The Influence of Arousal
+## Chapter 6: The Influence of Arousal
 
 *Why Hot Is Much Hotter Than We Realize*
 
@@ -68,49 +91,49 @@ excerpt: "Why we make money decisions the way we do."
 - Emotions can take control over our behaviour.
 - Avoiding temptation altogether is easier than overcoming it.
 
-## The Problem of Procrastination and Self-Control
+## Chapter 7: The Problem of Procrastination and Self-Control
 
 *Why We Can’t Make Ourselves Do What We Want*
 
 - Giving up on our long term goals for immediate gratification is procrastination.
 - Tightly restricting their freedom is the best cure for procrastination. The second best is having people pre-commit to self set deadlines.
-- Without pre-commitments we keep falling for temptations.
-- Variable schedule for rewards is more motivating than fixed schedule for rewards
+- Without pre-commitments, we keep falling for temptations.
+- Variable schedule for rewards is more motivating than fixed schedule for rewards.
 
-## The High Price of Ownership
+## Chapter 8: The High Price of Ownership
 
 *Why We Overvalue What We Have*
 
 - The first reason is that we fall in love with what we already have.
-- The second reason is that we focus on what we may lose rather than what we may gain.
+- The second reason is that we focus on what we might lose rather than what we might gain.
 - The third reason is that we assume other people will see the transaction from the same perspective as we do.
 - The more work you put into something, the more ownership you begin to feel.
 - We can begin to feel ownership even before we own something.
 - Ownership is not limited to material things. It can also apply to points of view and ideas.
 
-## Keeping Doors Open
+## Chapter 9: Keeping Doors Open
 
 *Why Options Distract Us from Our Main Objective*
 
 - We work to keep our options open but then we forget to spend the time on what we really care about.
 - What is it about options that is so difficult for us? Why do we feel compelled to keep as many doors open as possible? Why can’t we simply commit ourselves?
-- We have doors - little and big ones - which we ought to shut.
+- We have doors, small and big doors, which we ought to shut.
 - What we fail to do is to take into account the consequences of not deciding.
-- We also fail to take into account the relatively minor differences that would come with either of their decisions.
-- To make the choice we make the right choice.
+- We also fail to take into account the relatively minor differences that would come with either of the decisions.
+- To make the choice we've chosen the right choice.
 
-## The Effect of Expectation
+## Chapter 10: The Effect of Expectation
 
 *Why the Mind Gets What It Expects*
 
 - When we believe beforehand that something will be good, it generally will be good.
 - The way we expect something changes the way we perceive it.
-- The brain cannot start from scratch at every new situation. It must build on what it has seen before.
+- The brain cannot start from scratch at every new situation. It must build on what it's seen before.
 - Does expectation triumph over the experience?
 - If a tree falls in the forest and no one is around to hear it, does it make a sound?
 - Expectations change the way we perceive and appreciate experiences.
 
-## The Power of Price
+## Chapter 11: The Power of Price
 
 *Why a 50-Cent Aspirin Can Do What a Penny Aspirin Can’t*
 
@@ -118,7 +141,7 @@ excerpt: "Why we make money decisions the way we do."
 - Two mechanisms shape the expectation that make placebos work. One is belief, the other is conditioning.
 - Should doctors prescribe placebos?
 
-## The Cycle of Distrust
+## Chapter 12: The Cycle of Distrust
 
 *Why We Don’t Believe What Marketers Tell Us*
 
@@ -127,7 +150,7 @@ excerpt: "Why we make money decisions the way we do."
 - We can repair trust by being transparent.
 - Trust, once eroded, is very hard to restore.
 
-## The Context of Our Character, Part I
+## Chapter 13: The Context of Our Character, Part I
 
 *Why We Are Dishonest, and What We Can Do about It*
 
@@ -137,13 +160,14 @@ excerpt: "Why we make money decisions the way we do."
 - People cheat when they have a chance to do so, but they don't cheat as much as they could.
 - Once they begin thinking about honesty they stop cheating completely.
 
-## The Context of Our Character, Part II
+## Chapter 14: The Context of Our Character, Part II
 
 *Why Dealing with Cash Makes Us More Honest*
 
 - Dishonesty is easier when it involves something non-monetary.
+- Money makes us more honest.
 
-## Beer and Free Lunches
+## Chapter 15: Beer and Free Lunches
 
 *What Is Behavioural Economics, and Where Are the Free Lunches?*
 
