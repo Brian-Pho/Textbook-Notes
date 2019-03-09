@@ -25,19 +25,19 @@ excerpt: "How to do well in graduate school."
 
 ## Starting Out
 
-- Questions:
-  - Why you want to go to grad school?
-  - What you would like to get out of the experience?
-  - What kinds of jobs you can get with your graduate degree?
-- Think in both the immediate and the long term
-- Contact the graduate chairs of the programs that you're interested in
-- It's preferable to not do all of your degrees at the same university
+- Questions to ask yourself
+  - Why do you want to go to graduate school?
+  - What would you like to get out of the experience?
+  - What kinds of jobs can you get with your graduate degree?
+- Think in both the immediate term and the long term
+- Contact the graduate chairs of the programs you're interested in
+- It's preferable to not have all of your degrees at the same university
 - You need to show that you're a good fit for the program
 - Identify potential supervisors beforehand
 - If you have multiple offers, tell each university's graduate chair about it
 - The PhD must be funded
 - Don't major in interdisciplinary studies as that's too general
-- Go to UofC writing center for help on Statement of Purpose (SOP)
+- Go to your university's writing center for help on writing your Statement of Purpose (SOP)
 - Use the university's resources for writing, job searching, resume writing, and career advice
 - Keep applying for grants and scholarships in graduate school
 
@@ -54,7 +54,7 @@ excerpt: "How to do well in graduate school."
 ## Managing Your Program
 
 - There's more to the degree than the formal requirements
-- The keys with comprehensive exams is to get them done and out of the way
+- The key with comprehensive exams is to get them done and out of the way
 - Select a topic that you're passionate about
 - Get some teaching experience but not too much
 - Get teacher training and keep a record of it
@@ -63,13 +63,13 @@ excerpt: "How to do well in graduate school."
 - Backup your data and work to prevent data loss
 - Conferences help provide motivation to write
 - Committing to a conference paper on a specific date is a time-honored way of bringing closure to a specific piece of writing
-- You go to conferences to learn about the cutting edge developments
+- Go to conferences to learn about the cutting edge developments made by others
 
 ## Your Work and Social Life
 
 - Don't neglect the non-academic things in life like hobbies and exercise
 - Don't expect family and friends to understand or appreciate the graduate school lifestyle
-- Don't socialize with only one group
+- Don't socialize with only one group of people
 - Get out of your comfort zone
 - Don't take a full time job while doing your degree
 
@@ -91,7 +91,7 @@ excerpt: "How to do well in graduate school."
 - Manage the situation by setting your own deadlines and by having a daily writing schedule and sticking with it
 - Write in the active voice to add life to your sentences
 - While the academy often stresses the need to publish, the ultimate aim is to have your work read so that you can help shape the scholarly discussions in your field
-- Hold your reader's hand and carefully show them what you are doing
+- Hold your reader's hand and carefully show them what you're doing
 - Eliminate jargon, strive for clear and concise assertions, compose in the active voice, and be kind to your readers.
 - Above all, continually strive to improve your writing
 
