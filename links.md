@@ -12,11 +12,12 @@ sidebar_link: true
 
 - [The Great A.I. Awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html)
 - [The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
+- [Artificial Intelligence - The Revolution Hasn’t Happened Yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)
+- [Superintelligence - The Idea That Eats Smart People](https://idlewords.com/talks/superintelligence.htm)
 
 ### Websites
 
 - [Distill](https://distill.pub/)
-- [Kaggle](https://www.kaggle.com/)
 - [Towards Data Science](https://towardsdatascience.com/)
 - [McKinsey&Company Featured Insights - AI](https://www.mckinsey.com/featured-insights/artificial-intelligence)
 
@@ -30,21 +31,31 @@ sidebar_link: true
 - [Youtube: David Silver's Reinforcement Learning](https://www.youtube.com/playlist?list=PL7-jPKtc4r78-wCZcQn5IqyuWhBZ8fOxT)
 - [Coursera: Geoffrey Hinton's Neural Network Course](https://www.coursera.org/learn/neural-networks/home/welcome)
 - [Coursera: Andrew Ng's Machine Learning Course](https://www.coursera.org/learn/machine-learning/home/welcome)
+- [Suggested Education for Future AGI Researchers](https://sites.google.com/site/narswang/home/agi-introduction/agi-education)
+- [AGI Curriculum](http://goertzel.org/agi-curriculum/)
 
 ---
 
 ## Neuroscience
 
 - [Comparison of Neuroscience Textbooks](http://www.thebrainworm.com/textbooks-in-neuroscience/)
+- [Foundation Neuroscience Questions](https://charlesfrye.github.io/FoundationalNeuroscience/)
 - [Coursera: Computational Neuroscience Course](https://www.coursera.org/learn/computational-neuroscience/home/welcome)
-- [Brain Inspired](https://braininspired.co/)
+- [Brain Inspired Podcast](https://braininspired.co/)
+- [Society for Neuroscience](http://www.sfn.org/)
+- [Human Brain Project](https://www.humanbrainproject.eu/en/)
+- [Human Connectome Project](http://www.humanconnectomeproject.org/)
+- [Blue Brain Project](https://bluebrain.epfl.ch/)
 
 ---
 
 ## Cognitive Science
 
 - [Reading List](https://www.reddit.com/r/cogsci/wiki/readinglist)
-- [Another Reading List](http://www.cogsci.ucsd.edu/graduates/phd-program/reading-list.html)
+- [Another Reading List (Invalid Link)](http://www.cogsci.ucsd.edu/graduates/phd-program/reading-list.html)
+- [Cognitive Science Society](https://cognitivesciencesociety.org/)
+- [CogX](https://cogx.co/)
+- [Center for Brains, Minds, and Machines](https://cbmm.mit.edu/)
 
 ---
 
@@ -54,7 +65,9 @@ sidebar_link: true
 - [Life Without A Destiny](https://www.susanjfowler.com/blog/2017/5/21/life-without-a-destiny)
 - [The Best Textbooks on Every Subject](https://www.lesswrong.com/posts/xg3hXCYQPJkwHyik2/the-best-textbooks-on-every-subject)
 - [Philosophy Reading List](https://www.reddit.com/r/philosophy/wiki/readinglist)
-- [Paul's Online Notes](http://tutorial.math.lamar.edu/)
+- [Paul's Online Calculus Notes](http://tutorial.math.lamar.edu/)
+- [Quanta Magazine](https://www.quantamagazine.org/)
+- [Nick Bostrom's Homepage](https://nickbostrom.com/)
 
 ### On becoming an master researcher
 
@@ -67,3 +80,6 @@ sidebar_link: true
 - [Mastery by Robert Greene]({{ site.baseurl }}{% post_url /books/2018-10-07-mastery %})
 - [Outliers by Malcolm Gladwell]({{ site.baseurl }}{% post_url /books/2018-09-17-outliers %})
 - [Peak by Anders Ericsson and Robert Pool]({{ site.baseurl }}{% post_url /books/2018-12-21-peak %})
+- [Atomic Habits by James Clear](https://jamesclear.com/atomic-habits)
+- [Make It Stick by Peter Brown, Henry Roedinger, Mark McDaniel](https://makeitstick.net/)
+- [The Making of an Expert](https://hbr.org/2007/07/the-making-of-an-expert)
