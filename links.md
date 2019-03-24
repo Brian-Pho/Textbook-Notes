@@ -14,6 +14,8 @@ sidebar_link: true
 - [The AI Revolution: The Road to Superintelligence](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html)
 - [Artificial Intelligence - The Revolution Hasn’t Happened Yet](https://medium.com/@mijordan3/artificial-intelligence-the-revolution-hasnt-happened-yet-5e1d5812e1e7)
 - [Superintelligence - The Idea That Eats Smart People](https://idlewords.com/talks/superintelligence.htm)
+- [Wikipedia](https://www.wikiwand.com/en/Artificial_intelligence)
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/artificial-intelligence/)
 
 ### Websites
 
@@ -46,16 +48,21 @@ sidebar_link: true
 - [Human Brain Project](https://www.humanbrainproject.eu/en/)
 - [Human Connectome Project](http://www.humanconnectomeproject.org/)
 - [Blue Brain Project](https://bluebrain.epfl.ch/)
+- [Wikipedia](https://www.wikiwand.com/en/Neuroscience)
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/computational-mind/)
 
 ---
 
 ## Cognitive Science
 
-- [Reading List](https://www.reddit.com/r/cogsci/wiki/readinglist)
+- [Reddit Reading List](https://www.reddit.com/r/cogsci/wiki/readinglist)
 - [Another Reading List (Invalid Link)](http://www.cogsci.ucsd.edu/graduates/phd-program/reading-list.html)
+- [Paper Reading List](http://www.cognitivesciencesociety.org/journal_csj_classics-html/)
 - [Cognitive Science Society](https://cognitivesciencesociety.org/)
 - [CogX](https://cogx.co/)
 - [Center for Brains, Minds, and Machines](https://cbmm.mit.edu/)
+- [Wikipedia](https://www.wikiwand.com/en/Cognitive_science)
+- [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/cognitive-science/)
 
 ---
 

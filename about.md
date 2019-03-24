@@ -47,13 +47,7 @@ This site was built by me and is currently hosted on Github Pages. The Jekyll th
 
 ### Why study the subjects you've chosen? What's your study plan?
 
-The reasons can be found on each subject page.
-
-- [Artificial Intelligence]({{ site.baseurl }}{% post_url 2018-07-02-artificial-intelligence %})
-- [Neuroscience]({{ site.baseurl }}{% post_url 2018-07-02-neuroscience %})
-- [Cognitive Science]({{ site.baseurl }}{% post_url 2018-07-02-cognitive-science %})
-
-In general, my main goal is the creation of AI. I'm studying neuroscience because I think of it the "hardware" of the brain while cognitive science as the "software" of the mind. And in order to understand the brain, mind, and intelligence, I believe this entire systems approach is necessary. However, the tradeoff is the massive amount of time and effort needed to become PhD/expert level in each field which is why I'm starting early (I'm currently 20 years old as of writing this in 2018).
+My main goal is the creation of AI (or AGI if you're being technical about it). I'm studying neuroscience because I think of it the "hardware" of the brain while cognitive science as the "software" of the mind. And in order to understand the brain, mind, and intelligence, I believe this entire systems approach is necessary. However, the tradeoff is the massive amount of time and effort needed to become PhD/expert level in each field which is why I'm starting early (I'm currently 20 years old as of writing this in 2018).
 
 My plan is to first read through the foundational textbooks in each field to understand the basics of each subject, and then to branch off into papers where the frontier of knowledge is at. Along the way, I plan on studying non-related subjects like critical thinking, writing, and learning to help improve me as a learner, researcher, and person.
 
@@ -100,10 +94,16 @@ You can contact me via my main website which also has links to my email and soci
 
 **Thoughts as of Dec 25, 2018**
 
-I thought I'd might keep a "semi-journal" about my progress on this journal of becoming an AI researcher and (hopefully) creating AI.
+I'm keeping a "semi-journal" of my journey of becoming an AI researcher and (hopefully) creating AI.
 
-I started this journey thinking that I'd go through my timeline of "tick-tock"ing computer science and neuroscience textbooks and posting notes from them up here. After getting through the first two textbooks I came across the "Mastery" book that my sister left. After reading it, I was convinced that I wanted to become a master AI research on the likes of Einstein and Turing but for AI. It was also around this time that I knew I wasn't retaining and learning as much as I would've wanted from the textbooks and searched for ways to learn to learn. I came across "Make It Stick" and I was thoroughly sold on it's conclusion of learning by retrieval and distributed. After I read some excellent science fiction books (The three body problem series) and returned back to my destiny, this time picking up "Peak".
+I started this journey thinking that I'd go through my timeline of "tick-tock"ing computer science and neuroscience textbooks and posting notes from them here. After going through the first two textbooks, I came across the "Mastery" book that my sister left. After reading it, I was convinced that I wanted to become a master AI research on the likes of Einstein and Turing but for AI. It was also around this time that I knew I wasn't retaining and learning as much as I wanted from the textbooks and I searched for ways of learning to learn. I came across "Make It Stick" and I was sold on its conclusion of learning by distributed retrieval. After I read some excellent science fiction books (The three body problem series), I've returned back to my destiny, this time picking up "Peak".
 
-With "Peak" completed, I think I'm done with this learning to learn and mastery/expertise path and am ready to tackle the actual AI research. There are a few other side skills that I want to learn (cooking, writing) but the meta game is done. I'll always be reminded of Wade from "Death's End" in that we must keep advancing, stopping at nothing. The end goal is general artificial intelligence and nothing less.
+With "Peak" completed, I think I'm done with this learning to learn and mastery/expertise path and I'm ready to tackle the actual AI research. There are a few other side skills that I want to learn (cooking, writing) but the meta-mastery is done. I'll always be reminded of Wade from "Death's End" in that we must keep advancing, stopping at nothing. The end goal is general artificial intelligence and nothing less.
 
 The current plan is to devise a path to AI. I've brainstormed a few. One is to follow the evolution path and hope that creates AI but it's low chance to succeed with high time investment. Another is to follow the human path of starting at a child and working the ways up. It's higher chance to succeed but difficult.
+
+**Thoughts as of March 23, 2019**
+
+I've edited my last journal entry for clarity. Man was it bad. Anyways, I just completed the cognitive science textbook a week ago and I'm working on editing the notes to be more presentable. A few health problems have come up and I hope that if I die, someone else will take up this mantle of building AI with the neuroscience and cog sci approach. This is because I've realized something about problems in general; that they have weak points. And I believe that the weak point of AI is our brain because it's the only known object to exhibit intelligent behavior.
+
+I'm still working out the details of how to create AI but one item I've made progress on is that we'll need some measure to see how close we are to AGI. "If you can't measure it, you can't improve it." Whether that be the complexity of the game it can play, how many jobs it can replace, or how close it is to passing the Turing test, we need some measure. I don't know what measure is relevant or best, but since we're aiming for AI, a measure of intelligence is needed (IQ isn't very good).
