@@ -5,7 +5,7 @@ categories:
 - Textbooks
 book: "the-quest-for-artificial-intelligence"
 book_authors: "Nils J. Nilsson"
-excerpt: "A thorough account of the history of AI. It was an ok book."
+excerpt: "A thorough account of the history of AI. An ok book that was too detailed at times."
 ---
 
 <p class="message">
