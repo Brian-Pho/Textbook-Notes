@@ -98,7 +98,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - Natural language is the ultimate chunking tool as it chunks letters into words, words into sentences, and sentences into ideas.
 - *Cocktail party phenomenon*: how we’re able to focus on one person when everyone else is talking. Also known as selective attention.
 - The sensory input is first filtered before reaching the limited capacity channel. The filter is “programmed” by another system.
-![Figure 1.6]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure1-6.png" | absolute_url }})
+![Figure 1.6]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure1-6.png" | absolute_url }}" | absolute_url }})
 
 **1.5 Connections and points of contact**
 
@@ -135,10 +135,10 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - One way to test our understanding of a cognitive ability is to try to build it.
 - Artificial intelligence can be thought of as a way to experiment with models in cognitive science.
 - *Mental rotation of three-dimensional objects experiment*: given pairs of 3D figures, determine, as quickly as possible, which pairs are the same but rotated.
-![Figure 2.7](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure2-7.png)
+![Figure 2.7]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure2-7.png" | absolute_url }})
 - There is a direct, linear relationship between the length of time that subjects take to solve the problem and the degree of rotation between the two figures.
 - The larger the angle of rotation, the more time it takes to determine if the figures are the same.
-![Figure 2.8](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure2-8.png)
+![Figure 2.8]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure2-8.png" | absolute_url }})
 - Questions from the experiment
   - What is the “mind’s eye”? And how did we obtain this skill?
   - What cognitive machinery makes this possible?
@@ -191,7 +191,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 
 **3.2 The anatomy of the brain and the primary visual pathway**
 
-![Figure 3.3](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure3-3.png)
+![Figure 3.3]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure3-3.png" | absolute_url }})
 
 - *Frontal lobe*: reasoning, planning, parts of speech, movement, emotions, and problem solving.
 - *Parietal lobe*: movement, orientation, recognition, perception of stimuli.
@@ -199,7 +199,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - *Temporal lobe*: associated with perception and recognition of auditory stimuli, memory, and speech.
 - Vision from the right side of both eyes is processed by the left brain and vice versa.
 - Theory that visual data follows along two paths depending upon the type of information it is. Think parallel processing.
-![Figure 3.5](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure3-5.png)
+![Figure 3.5]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure3-5.png" | absolute_url }})
 - *Ventral stream*: information relevant to recognizing and identifying objects follows a bottom route towards the temporal lobe. The “what” system.
 - *Dorsal stream*: information relevant to locating objects in space follows a top route towards the parietal lobe. The “where” system.
 - The brain localizes specific functions to specific areas of the brain.
@@ -239,7 +239,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - Parallel
   - Speaking, reading, and understanding a word is separate and independent.
 - Experiments using PET suggest the neurological model is inaccurate due to each function requiring a different area of activation.
-![Figure 3.9](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure3-9.png)
+![Figure 3.9]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure3-9.png" | absolute_url }})
 
 **Summary**
 
@@ -258,7 +258,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - Two important themes of cognitive science
   - Interdisciplinary. This reflects the different levels of organization at which the mind and brain can be studied.
   - Information processing. This reflects our understanding of how we can model the mind as a digital computer.
-![Figure 4.1](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure4-1.png)
+![Figure 4.1]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure4-1.png" | absolute_url }})
 - This hexagon isn’t a good model cognitive science because it doesn’t give any sense of a unified intellectual enterprise. The whole isn’t greater than the sum of its parts.
 - It also doesn’t take into account other relevant fields such as math (dynamical systems theory), ecology (cognition in other animals), political science (game theory)
 
@@ -270,7 +270,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - However, neuroscience is different in that it uses data from different levels. Those levels reflect the different levels of organization in the brain and central nervous system.
 - Neuroscience believes that the basic information processing units in the brain are populations of neurons rather than individual neurons.
 - Different branches of neuroscience uses different tools that vary in spatial resolution and temporal resolution.
-![Figure 4.3](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure4-3.png)
+![Figure 4.3]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure4-3.png" | absolute_url }})
 
 **4.3 The integration challenge**
 
@@ -280,7 +280,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - Varies according to the level of organization at which that aspect is being studied.
   - Varies according to the degree of resolution of the techniques and tools that are being used.
 - We can map these three variables onto a three dimensional space.
-![Figure 4.5](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure4-5.png)
+![Figure 4.5]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure4-5.png" | absolute_url }})
 - One way of thinking about the ultimate goal for cognitive science is that it sets out to provided a unified account of cognition; a unified Theory of Cognition. Similar to the unified Theory of Everything in Physics.
 - However, some are skeptical of whether these unified theories are possible.
 - There are two strategies for approaching the integration challenge
@@ -353,7 +353,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - Lack of a formal description that could be used to translate
 - *Functional decomposition*: the process of explaining a cognitive capacity by breaking it down into sub-capacities that can be separately and tractably treated. We can keep breaking down until we reach a level of “axioms”.
 - E.g. Memory can be broken down (by function) into three functions of registering, storing, and retrieving. Storing can then be broken down into short-term memory and long-term memory.
-![Figure 5.3](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure5-3.png)
+![Figure 5.3]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure5-3.png" | absolute_url }})
 - *Anterograde amnesia*: affecting memory of events after the onset of brain injury.
 - *Retrograde amnesia*: affecting memory of events before the onset of brain injury.
 
@@ -474,7 +474,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - Transitions between sentences in the language of thought can be viewed either syntactically or semantically, either in terms of formal relations holding between physical symbol structures or in terms of semantic relations holding between states that represent the world.
 - E.g. of a syntactic transition, the word “cat” refers to a fluffy cute animal, but now I change it so that the word “cat” also refers to that fluffy cute animal.
 - E.g. of semantic transition, the word “cat” refers to a fluffy cute animal, but now I change it so that the word “cat” also refers to that yellow, curved fruit.
-![Figure 6.3](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure6-3.png)
+![Figure 6.3]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure6-3.png" | absolute_url }})
 
 **6.3 The Chinese room argument**
 
@@ -530,7 +530,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - The ID3 exploits the feature that each attribute divides the set of examples into two or more classes. It identifies, for each node in the decision tree, which attribute would be most informative at that point. In other words, which attribute has the greatest weighing on the outcome.
 - This is determined by measuring how important the attribute is in determining the outcome by measuring the attribute’s information entropy.
 - Information entropy is like a measure of uncertainty.
-![Figure 7.2](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure7-2.png)
+![Figure 7.2]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure7-2.png" | absolute_url }})
 - This makes it seem like the ANNs right now are just overlapped decision trees with non-binary weighing.
 - For each attribute of an example, the ID3 algorithm works out how well the attribute organizes the remaining examples.
 - This is done by calculating how much entropy is reduced if the set were classified according to that attribute. If that attribute reduces entropy by a some amount, then we determine that that attribute plays some role in the outcome of the decision.
@@ -550,9 +550,9 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - The physical symbol structures in the physical symbol system hypothesis doesn’t have to be language-like. They could be diagrams or images.
 - There’s a dispute about which physical symbol structures are involved in particular types of information processing.
 - This dispute is within the hypothesis, not whether the hypothesis is true or not.
-![Figure 7.6](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure7-6.png)
+![Figure 7.6]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure7-6.png" | absolute_url }})
 - *WHISPER*: a program to assess the stability of structures in the block world and then work out how unstable structures will collapse.
-![Figure 7.7](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure7-7.png)
+![Figure 7.7]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure7-7.png" | absolute_url }})
 - WHISPER fits the heuristic search hypothesis because it starts with the problem and then transforms it into a solution.
 - It has hard coded rules such as “an unstable object will rotate around the support point closest to its center of gravity.”
 - Our main reason for looking at WHISPER isn’t that it succeeds in solving problems, it’s that it gives a clear illustration of just how wide-ranging the physical symbol system hypothesis can be.
@@ -566,7 +566,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - The robot is programmed in first-order predicate calculus.
 - Recall that behavior can be organized hierarchically, with the most complex behavior at the top and the simplest behaviors at the bottom (that don’t require any planning).
 - SHAKEY’s software packages are built around this basic idea that complex behaviors are hierarchically organized.
-![Table 7.1](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/table7-1.png)
+![Table 7.1]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/table7-1.png" | absolute_url }})
 - As we move up the levels, the more we turn from hardware to software.
 - The levels are just like inheritance/abstraction in programming. Call the level below yours to perform a function and that levels does the same and so on.
 - We can also call functions in the same level.
@@ -600,13 +600,13 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - However, we can bypass this limitation by modeling that approximates populations of neurons.
 - *Computational neuroscience*: modeling biological neurons and populations of neurons using mathematics.
 - Neural network models are distinctive in how they store information, how they retrieve it, and how they process it compared to the physical symbol system hypothesis.
-![Figure 8.1](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure8-1.png)
+![Figure 8.1]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure8-1.png" | absolute_url }})
 - The basic unit of a neural network is the neuron.
 - Neurons might receive inputs from 10,000 to 50,000 neurons.
 - The basic activity of a neuron is to fire an electrical impulse along its axon and to receive electrical impulses from its dendrites.
 - The single most important fact about the firing of neurons is that it depends upon activity at the synapses.
 - Some of the signals reaching the neuron’s dendrites promote firing and others inhibit it. These are called excitatory and inhibitory synapses respectively.
-![Figure 8.2](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure8-2.png)
+![Figure 8.2]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure8-2.png" | absolute_url }})
 - If the total input exceeds the threshold (T) then the neuron “fires” and transmits an output signal.
 
 **8.2 Single-layer networks and Boolean functions**
@@ -629,7 +629,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - *Learning rate*: how large the changes are on each trial.
 - *Linearly separable*: if the output space can be separated by a line.
 - XOR cannot be represented by a single-layer neural network since its output space isn’t linearly separable.
-![Figure 8.8](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure8-8.png)
+![Figure 8.8]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure8-8.png" | absolute_url }})
 - The class of Boolean functions that can be computed by a single-layer network is only the class of linearly separable functions.
 - *Hidden layer*: a layer in the neural network that isn’t the input nor the output. It is hidden from the outside world.
 - Multilayered networks can compute any computable function – not just the linearly separable ones. The problem is how to train a multilayered network.
@@ -638,7 +638,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 **8.3 Multilayer networks**
 
 - *Feed forward networks*: the processing is forwards through the network.
-![Figure 8.10](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure8-10.png)
+![Figure 8.10]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure8-10.png" | absolute_url }})
 - *Backpropagation algorithm*: the error is propagated backwards through the network from the output units to the hidden units.
 - The backprop algorithm finds a way of calculating the error for a given hidden unit by using the following ideas
   - Each hidden unit connected to an output unit bears a certain degree of responsibility for the error of that output unit.
@@ -729,16 +729,16 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - Third stage
   - Cease to make over-regularization errors
   - Still improve their command of regular verbs
-![Table 9.1](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/table9-1.png)
+![Table 9.1]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/table9-1.png" | absolute_url }})
 - The theory (using physical symbol hypothesis) is that the second stage learning of regular verbs overrides the previously learnt rules on the irregular verbs.
-![Figure 9.1](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-1.png)
+![Figure 9.1]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-1.png" | absolute_url }})
 - A neural network that learns tenses
-![Figure 9.2](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-2.png)
+![Figure 9.2]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-2.png" | absolute_url }})
 - *Wickelfeature representation*: a representation that codes phonetic information about individual phonemes within a word and their context.
 - The first network is fixed. It doesn’t change or learn.
 - The second network is a simple pattern associator that learns using the perceptron convergence rule.
 - The third network is also fixed and is essentially a reverse of the first network.
-![Figure 9.3](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-3.png)
+![Figure 9.3]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-3.png" | absolute_url }})
 - A significant feature of the network is that it reproduced the over-regularization phenomenon seen in children.
 - ANN models of language acquisition are deeply controversial.
 - The aim of neural network modeling isn’t to provide a model that faithfully reflects every aspect of neural functioning, but rather to explore alternatives to dominant conceptions of how the mind works.
@@ -748,20 +748,20 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - We assume that infants look longer at events that they find surprising.
 - So by measuring the amount of time that infants look at events, experimenters can work out which events infants find surprising (which also provides us info on what infants expect).
 - *Dishabituation paradigm*: the way of identifying when a “violation of expectation” occurs.
-![Figure 9.6](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-6.png)
+![Figure 9.6]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-6.png" | absolute_url }})
 - *Object permanence*: understanding that objects exists even if they aren’t seen
 - When do children learn object permanence?
 - This experiment and others seems to suggest that very young infants have an understanding of the basic principles governing how physical objects behave and interact.
 - The four basic principles of physical reasoning
   - *Principle of cohesion*: surfaces that are touching are one object
-![Figure 9.7](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-7.png)
+![Figure 9.7]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-7.png" | absolute_url }})
   - Infants show more surprise when the object comes apart, even if the object looks uniform.
   - *Principle of contact*: only surfaces that are in contact can move together
-![Figure 9.8](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-8.png)
+![Figure 9.8]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-8.png" | absolute_url }})
   - Infants show more surprise when both objects are moving but aren’t in contact with the each other
   - *Principle of solidity*: two or more objects cannot occupy the same space and time
   - *Principle of continuity*: objects don’t disappear
-![Figure 9.9](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-9.png)
+![Figure 9.9]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-9.png" | absolute_url }})
 - These experiments show that infants have these principles on how objects behave and use these principles to make predictions. They show surprise when the prediction isn’t what happens.
 - In a way, infants act like scientists in that they make inferences about things that they cannot see on the basis of the effects that they can see.
 - What sort of information processing underlies this infant physics?
@@ -790,12 +790,12 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - The pattern of activation in the hidden units at a previous temporal stage.
 - The second factor is crucial for learning object permanence.
 - Learning is done using the backprop algorithm. The error is calculated by determining the difference between the actual input and the predicted input.
-![Figure 9.11](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-11.png)
+![Figure 9.11]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-11.png" | absolute_url }})
 - In theory, the recurrent weights will tell the network that an object exists even when it isn’t seen as the weights will have “memory” of the object.
 - In practice, improved sensitivity to object permanence is directly correlated with the hidden units representing the object the same when it is visible and when it’s hidden.
 - In other words, memory is strong enough to explain object permanence.
 - Another test of physical reasoning is the balance beam problem
-![Figure 9.12](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-12.png)
+![Figure 9.12]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-12.png" | absolute_url }})
 - This problem is similar to what WHISPER was designed to solve (section 7.3).
 - What needs to be worked out is how different forces will interact.
 - When children are shown this problem, they tackle it in four stages (similar to learning past tense of verbs.
@@ -815,7 +815,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - It’s plausible to model the child’s learning using the physical symbol hypothesis, but also the ANN model.
 - Even though children progress through a series of stages and their performance can be characterized in terms of progression of rules, it doesn’t follow that the cognition systems behind the processing takes the form of a rule-based architecture.
 - E.g. ANN to solve this problem
-![Figure 9.13](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-13.png)
+![Figure 9.13]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-13.png" | absolute_url }})
 - It is important to realize that the information the network gets is actually quite impoverished.
 - The ANN has to figure out that the two groups of units are carrying information about the same side of the balance beam.
 - The ANN predicts that the balance beam will come down on the left hand side when the activation on the left output unit exceeds the activation on the right output unit.
@@ -864,14 +864,14 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - Learning agent
 - What distinguishes different types of agents is the complexity between its sensory systems and its effector systems.
 - *Simple reflex agent*: there are direct links between the sensory and effector systems.
-![Figure 10.1](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure10-1.png)
+![Figure 10.1]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure10-1.png" | absolute_url }})
 - The direct links are achieved by condition-action/production rules (IF-THEN).
 - Reflex agents aren’t cognitive agents because they don’t process information between sensory input and motor output.
 - *Goal-based agent*: has goals and works out the consequences of different possible actions to achieve those goals
-![Figure 10.2](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure10-2.png)
+![Figure 10.2]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure10-2.png" | absolute_url }})
 - However, these goal-based agents have no capacity to learn from experience.
 - *Learning agent*: an agent that learns from experience
-![Figure 10.3](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure10-3.png)
+![Figure 10.3]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure10-3.png" | absolute_url }})
 - Questions regarding modules
   - How can we identify and distinguish modules?
   - Do all of the modules process information in the same way? Do they all have the same representations?
@@ -903,7 +903,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - *Isotropic*: not informationally encapsulated.
 - E.g. Problem solving, understanding jokes, creativity.
 - *Fodor’s First Law of the Nonexistence of Cognitive Science*: the more global a cognitive process is, the less anybody understands it.
-![Table 10.1](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/table10-1.png)
+![Table 10.1]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/table10-1.png" | absolute_url }})
 - Arguments against Fodor’s claim
   - The best model isn’t the language of thought model. We have ANN models that do just as well
   - Reject that there are domain-general forms of information processing
@@ -936,7 +936,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - *Distributed paradigm*: artificial neural networks
 - The distinction between physical symbol systems and ANNs isn’t all or nothing.
 - *ACT-R/PM*: Adaptive Control of Thought - Rational/Perceptual-Motor. A hybrid mental architecture that incorporates both symbolic and sub-symbolic information processing.
-![Figure 10.6](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure10-6.png)
+![Figure 10.6]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure10-6.png" | absolute_url }})
 - The cognition layer is built upon the distinction between declarative (knowledge-that) and procedural (knowledge-how) knowledge.
 - Both types of knowledge are represented symbolically, but in different ways.
 - Declarative knowledge is stored in chunks while procedural knowledge is stored in production rules.
@@ -948,7 +948,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - The cost of activating the rule
 - The calculation of utility is sub-symbolic because they don’t reflect the symbolic structure of the production rule.
 - Not all memories are created equal. Some memories are more easily retrievable.
-![Table 10.2](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/table10-2.png)
+![Table 10.2]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/table10-2.png" | absolute_url }})
 - Knowledge in ACT-R/PM is represented in physical symbol structures (chunks/rules), but the processes that choose when that knowledge is used is by ranking of utility.
 - Sub-symbolic processing contains more than only ANNs.
 - Lessons from ACT-R/PM
@@ -980,12 +980,12 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 
 - The distinction between anatomy and cognitive function in the brain.
 - Different regions in the cerebral cortex can be distinguished in terms of the types of cell that they contain and how densely those cells occur.
-![Figure 11.2](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure11-2.png)
+![Figure 11.2]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure11-2.png" | absolute_url }})
 - *Principle of segregation*: the cerebral cortex is divided into segregated areas with distinct neuronal populations.
 - Brodmann areas explores anatomical segregations while current neuroscience explores functional segregations.
 - Connections between different sections is called anatomical connectivity or the connectome.
 - *Tract tracing*: injecting a chemical that lights up the neuron’s axon.
-![Figure 11.4](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure11-4.png)
+![Figure 11.4]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure11-4.png" | absolute_url }})
 - We assume that information can only travel from one brain region to another if there’s a neural pathway connecting them.
 - Limitations of anatomical connectivity
   - Most data is from animal brains but we want to study human brains
@@ -1004,7 +1004,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - *Event-related potentials (ERPs)*: the electrical activity provoked by a specific stimulus.
 - EEGs are a reliable way of measuring ERPs.
 - PET and fMRI measure the brain’s blood flow and blood oxygen levels and have poor temporal resolution but good spatial resolution.
-![Table 11.1](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/table11-1.png)
+![Table 11.1]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/table11-1.png" | absolute_url }})
 
 **11.3 Combining resources I: The locus of selection problem**
 
@@ -1013,7 +1013,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - *Locus of selection problem*: the problem of determining whether attention is an early or late selection phenomenon. Does it take place before or after the processing associated with object recognition?
 - At the bottom, the selection problem is a problem about the temporal organization of information processing.
 - ERPs can help resolve the selection problem because the ERP wave displays an attention effect (the wave changes depending upon the subject’s attention to stimulus).
-![Figure 11.7](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure11-7.png)
+![Figure 11.7]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure11-7.png" | absolute_url }})
 - *Binding problem*: how the ventral and dorsal visual pathways are combined to form representations of objects.
 - Information processing in V1, V2, and V4 takes place before the visual system works with representations of objects.
 - V1 appears to not be modulated by attention while V4 appears to be.
@@ -1032,7 +1032,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - That attention exploits certain memory mechanisms since to attend to a specific location requires remembering that location.
   - That attention is linked to preparatory motor signals since to attend presumes the intention to move the eyes towards the area of focus.
 - Both hypotheses are supported by evidence.
-![Figure 11.10](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure11-10.png)
+![Figure 11.10]({{ "/a"ssets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure11-10.png" | absolute_url }})
 - Once again, the lesson here is that while we can’t directly measure attention, we can indirectly measure it by combining techniques and technologies. This is similar to how we can’t see exoplanets, but we can see their shadow and their gravitational influence.
 
 **11.5 From data to maps: Problems and pitfalls**
@@ -1088,7 +1088,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - It must be separate because if it weren’t, then it would not make sense due to the contradictions.
 - Pretend representations are related to mindreading in this regard, the regard that the representations are separate from our own.
 - *Metarepresentation*: when a representation is used to represent another representation rather than the world.
-![Figure 12.1](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure12-1.png)
+![Figure 12.1]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure12-1.png" | absolute_url }})
 - It’s argued that the same mechanisms that separate representations in pretend play are the same in mind reading.
 - Two components of primary representations
   1. There must be a way of marking a representation as a separate representation.
@@ -1105,7 +1105,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - Autistic children are known to have problems with pretend play.
 - *False belief test*: testing whether children understand that someone might have mistaken beliefs about the world.
 - The difference between belief and knowledge is that knowledge is always true while beliefs can be either true or false.
-![Figure 12.4](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure12-4.png)
+![Figure 12.4]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure12-4.png" | absolute_url }})
 - From the experiment, if Anne understands that false beliefs are possible, then she’ll answer the basket. If she doesn’t understand, then she’ll answer the box.
 - The Down syndrome group and control group are successful, the autistic group isn’t.
 - The reason why is due to the inability to represent mental states (using metarepresentation).
@@ -1116,7 +1116,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 **12.3 The mindreading system**
 
 - Why is there a large time gap between pretend play and the false belief task even though they use the same underlying mechanism?
-![Figure 12.6](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure12-6.png)
+![Figure 12.6]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure12-6.png" | absolute_url }})
 - What’s common between the three detectors is that they’re all primarily perceptual.
 - *Joint visual attention*: when an infant looks at an object because they see that another person is looking at that object.
 - *Shared attention mechanism*: the ability to embed representations (representing that someone else is representing something else)
@@ -1137,7 +1137,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - However, if TOMM isn’t capable of attributing false beliefs, then this contradicts with the assumption that metarepresentation is possible in children.
 - Thus, metarepresentations aren’t present in children at the time of the false belief task or else they would be able to pass the false belief task.
 - Also, if the default is to attribute true beliefs, then metarepresentations aren’t needed because they would just be normal representations. I could represent what is going on in someone’s head simply by representing the world.
-![Figure 12.7, 12.8](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure12-7,12-8.png)
+![Figure 12.7, 12.8]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure12-7,12-8.png" | absolute_url }})
 - The solution is that children don’t develop a representational mind until they’re able to pass the false belief test.
 - Primary representations can be decoupled from reality but that doesn’t mean that metarepresentation is happening. This is often called counterfactual thinking.
 - *Counterfactual thinking*: thinking about how things might be instead of how they are.
@@ -1192,7 +1192,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - Instead of cognitive modules, computation, and representations, use dynamical systems theory to understand how agents behave.
 - *Dynamical system*: any system that evolves over time in a law-governed way.
 - E.g. The solar system, life, computation.
-![Figure 13.2](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure13-2.png)
+![Figure 13.2]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure13-2.png" | absolute_url }})
 - Dynamical models typically only track a small number of changing quantities using calculus.
 - *Difference equation*: used to model changes in discrete steps
 - *Differential equation*: used to model changes in continuous steps
@@ -1220,7 +1220,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - E.g. Leg fat, muscle strength, gravity, and inertia.
 - The second example is how children understand objects.
 - One way of testing children’s understanding of object permanence is to observe how they search for hidden objects.
-![Figure 13.5](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure13-5.png)
+![Figure 13.5]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure13-5.png" | absolute_url }})
 - Cognitive interpretations of the A-not-B task fail when the task is slightly modified.
 - E.g. Any of the follow modifications allow for successful completion of the task
   - Allow for search after hiding the ball
@@ -1244,7 +1244,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - The problem with current AI is that it fails to abstract away the details on its own to problem solve.
 - The idea of situation cognition is to build agents that can handle complex data and modify it on their own without external intervention.
 - The key is to start at simplicity without simplification.We need to look at humans as scaled-up insects, not as scaled-down supercomputers.
-![Figure 13.8](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure13-8.png)
+![Figure 13.8]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure13-8.png" | absolute_url }})
 - One basic principle is that there are direct links between perception and action.
 - There are cases where a behavior results from the the input being directly linked to the output via clever engineering and makes complicated information processing unnecessary.
 - E.g. To explain how female crickets locate male crickets, their ears are built in a way that forces them to move in the direction of the ear with the highest vibration.
@@ -1316,11 +1316,11 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - Priming suggests that non-conscious information processing occurs.
 - Semantic priming suggests that high-level information processing, such as meaning, take place below the threshold of consciousness.
 - *Unilateral spatial neglect*: the lack of awareness of sensory events on the opposite side of the brain damage. Damage is usually to the right hemisphere of the parietal and frontal lobes.
-![Figure 14.2](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure14-2.png)
+![Figure 14.2]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure14-2.png" | absolute_url }})
 - *Blindsight*: the same as unilateral spatial neglect but the cause is different. Damage is usually to the primary visual cortex.
 - Both unilateral spatial neglect and blindsight patients reports being unaware of what happens in part of their visual field.
 - However, even though the patient isn’t aware, they can still respond to stimuli in the neglected region. This is considered as a residual ability.
-![Figure 14.4](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure14-4.png)
+![Figure 14.4]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure14-4.png" | absolute_url }})
 - Neglect patients are capable of relatively high-level processing in their blind field.
 
 **14.4 So what is consciousness for?**
@@ -1333,7 +1333,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - One role of consciousness is to permit voluntary and deliberate action.
 - Conscious awareness is restricted to the ventral pathway while the visual control of non-conscious movement is restricted to the dorsal pathway.
 - There’s a dissociation between (non-conscious) vision for action and (conscious) vision for perception. What one see and what one does is different.
-![Figure 14.6](/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure14-6.png)
+![Figure 14.6]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure14-6.png" | absolute_url }})
 - The retention of information is very impaired in the absence of consciousness.
 - E.g. In a masked priming experiment, if you increase the delay between the prime and the final image, then the congruent effect only occurred at the shortest delays. Anything above 100 ms didn’t have any effect.
 - Consciousness allows information to be explicitly retained and maintained.
