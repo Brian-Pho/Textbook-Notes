@@ -1032,7 +1032,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - That attention exploits certain memory mechanisms since to attend to a specific location requires remembering that location.
   - That attention is linked to preparatory motor signals since to attend presumes the intention to move the eyes towards the area of focus.
 - Both hypotheses are supported by evidence.
-![Figure 11.10]({{ "/a"ssets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure11-10.png" | absolute_url }})
+![Figure 11.10]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure11-10.png" | absolute_url }})
 - Once again, the lesson here is that while we can’t directly measure attention, we can indirectly measure it by combining techniques and technologies. This is similar to how we can’t see exoplanets, but we can see their shadow and their gravitational influence.
 
 **11.5 From data to maps: Problems and pitfalls**
