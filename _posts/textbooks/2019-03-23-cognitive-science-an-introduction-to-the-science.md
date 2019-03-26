@@ -98,7 +98,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - Natural language is the ultimate chunking tool as it chunks letters into words, words into sentences, and sentences into ideas.
 - *Cocktail party phenomenon*: how we’re able to focus on one person when everyone else is talking. Also known as selective attention.
 - The sensory input is first filtered before reaching the limited capacity channel. The filter is “programmed” by another system.
-![Figure 1.6]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure1-6.png" | absolute_url }}" | absolute_url }})
+![Figure 1.6]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure1-6.png" | absolute_url }})
 
 **1.5 Connections and points of contact**
 
