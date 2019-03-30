@@ -40,6 +40,8 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 </div>
 </details>
 
+---
+
 # Part I: Historical Landmarks
 
 ## Chapter 1: The prehistory of cognitive science
@@ -247,6 +249,8 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - Artificial neural networks are a model of the brain and learns by adjusting its weights.
 - The processing of one word is supported by a parallel model of processing where reading, hearing, speaking, and understanding are independent.
 
+---
+
 # Part II: The Integration Challenge
 
 ## Chapter 4: Cognitive science and the integration challenge
@@ -316,7 +320,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - We are trying to integrate information about blood flow with information about the behavior of populations of neurons. And then we are trying to understand how individual neurons contribute to the behavior of neural populations.
 - It’s hypothesized that the neural activity correlated with the BOLD contrast is a function of the firing rates of populations of neurons.
 - Specifically, the function is a linear relationship where each increase in the BOLD contrast is an index of higher neural firing activity.
-- However, neurons so more than just firing as firing only occurs when the internal voltage passes a threshold. Neurons are selective.
+- However, neurons do more than just fire as firing only occurs when the internal voltage passes a threshold. Neurons are selective.
 - This means that there can be plenty of activity in a neuron even when the neuron doesn’t fire.
 - What role do signals that don’t surpass the threshold potential play in cognition?
 - Does BOLD measure the input or output of neurons?
@@ -339,7 +343,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 
 **5.1 Intertheoretic reduction and the integration challenge**
 
-- *Intertheoretic reduction*: solves the integration challenge by reducing the various theories of cognitive science to a fundamental theory (similar to how we could unify the physical sciences by reducing them all to physics). It relates between laws at different levels of explanation. It is a translation in a sense.
+- *Intertheoretic reduction*: solves the integration challenge by reducing the various theories of cognitive science to a fundamental theory (similar to how we could unify the physical sciences by reducing them all to physics). It relates between laws at different levels of explanation. It's a translation in a sense.
 - The integration challenge isn’t unique to cognitive science, other sciences also face a similar problem.
 - *Fundamental science*: scientific disciplines that deal with the most basic levels of organization in the natural world.
 - How do the non-fundamental scientific disciplines relate to the most fundamental one?
@@ -401,6 +405,8 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 
 - The integration challenge can be tackled in a global manner.
 - Global responses to the integration challenge seek to define relations either between different levels of explanation (intertheoretic reduction) or between different levels of organization (Marr’s tri-level hypothesis).
+
+---
 
 # Part III: Information-Processing Models of the Mind
 
@@ -492,8 +498,8 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - The Chinese room argument is related to the Turing test; it rejects the Turing test as a measure of intelligent behavior.
 - *Symbol-ground problem*: how do symbols become meaningful?
 - The symbol-grounding problem is a problem about how words and thoughts become meaningful to speakers and thinkers. The problem of intentionality is a problem about how words and thoughts connect up with the world.
-- E.g. of the difference, the theory that the word “cat” refers to the fluffy cute animal is because that’s how people speaking the language refer to that animal. This solves the problem of intentionality but not the symbol-grounding problem. It provides an account that the intention of “cat” refers to the animal, but it doesn’t say how that intention is formed.
-- For this reason, then, the symbol-grounding problem is more fundamental than the problem of intentionality.
+- E.g. of the difference, the word “cat” refers to the fluffy cute animal  because that’s how people speaking the language refer to that animal. This solves the problem of intentionality but not the symbol-grounding problem. It provides an account that the intention of “cat” refers to the animal, but it doesn’t say how that intention is formed.
+- For this reason, the symbol-grounding problem is more fundamental than the problem of intentionality.
 - One answer is that words in a language are meaningful for us because we attach meanings to them when we learn how to use them. But this just pushes the problem back.
 - How do we learn that something is meaningful?
 - The basic principle of cognitive science is that the mind works by processing information. If this information processing is symbolic, then the symbol-grounding problem immediately raises its head.
@@ -590,9 +596,9 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 
 **8.1 Neurally inspired models of information processing**
 
-- Whereas the physical symbol system hypothesis is derived from the workings of digital computers, this new model of information processing draws on an idealized model of how neurons work.
+- Whereas the physical symbol system hypothesis is derived from the workings of digital computers, this new model of information processing is derived from the working of brains.
 - The problems when studying the brain as an information processor is the resolution and scale. Neuroimaging techniques are too coarse while single neuron techniques are too fine.
-- We need to know not just what particular regions of the brain do, but also how they do it.
+- We need to know not just what particular regions of the brain do but also how they do it.
 - We will not understand the brain until we understand what happens in each level of organization, from large scale brain areas to individual neurons.
 - The fundamental feature of the brain is its connectivity.
 - How do populations of neurons give rise to high levels of cognition such as perception and memory?
@@ -622,7 +628,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - However, the key to getting neurons to represent Boolean functions lies in setting the weights and threshold. But how do we go about doing this?
 - What makes neural networks such a powerful tool in cognitive science is that they are capable of learning. This learning can be supervised (when the network is “told” what errors it is making) or unsupervised (when the network does not receive feedback).
 - The most important event in the development of neural networks was the discovery of a learning algorithm that could overcome the limitations of single-unit networks.
-- *Hebbian learning*: learning is, at the bottom, an associative process. It is also a form of unsupervised learning.
+- *Hebbian learning*: learning is, at the bottom, an associative process. It's also a form of unsupervised learning.
 - Hebbian learning happens at the synaptic level where synapses are modified based on whether the postsynaptic neuron fires. Neurons that fire together, wire together.
 - The process of learning (for a neural network) is the process of changing the weights in response to error.
 - *Perceptron convergence rule*: a supervised learning that that learns by reducing error.
@@ -631,7 +637,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - XOR cannot be represented by a single-layer neural network since its output space isn’t linearly separable.
 ![Figure 8.8]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure8-8.png" | absolute_url }})
 - The class of Boolean functions that can be computed by a single-layer network is only the class of linearly separable functions.
-- *Hidden layer*: a layer in the neural network that isn’t the input nor the output. It is hidden from the outside world.
+- *Hidden layer*: a layer in the neural network that isn’t the input nor the output. It's hidden from the outside world.
 - Multilayered networks can compute any computable function – not just the linearly separable ones. The problem is how to train a multilayered network.
 - The perceptron convergence rule cannot be applied to multilayer networks because there isn’t an error value for the hidden layers. With no way of calculating the error, we don’t know how to update the weights.
 
@@ -645,7 +651,8 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - E.g. If the output is too low, then this was caused by a connected hidden unit whose output was too low.
   - This gives us a way of assigning error to each hidden unit.
   - Once we assign the degree of responsibility to a hidden unit, then we can modify the weights between that unit and the output unit to decrease the error.
-- The error is propagated back through the network until the input layer is reached. It is very important to remember that activation and error travel through the network in opposite directions. Activation spreads forwards through the network (at least in feed forward networks), while error is propagated backwards.
+- The error is propagated back through the network until the input layer is reached. 
+- It's very important to remember that activation and error travel through the network in opposite directions. Activation spreads forwards through the network (at least in feed forward networks), while error is propagated backwards.
 - How biologically plausible are neural networks? Here are some differences
   - ANN units are all the same while the brain has many different types of neurons.
   - Brains aren’t as parallel as ANNs.
@@ -655,8 +662,8 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - A unit’s weight changes directly as a function of the inputs and outputs of the unit.
   - In terms of biological neurons, the information for changing the weight of a synaptic connection is directly available to the presynaptic axon and postsynaptic dendrite.
   - E.g. Hebbian learning rule
-- *Competitive networks*: neural networks that don’t require any feedback. Unsupervised learning.
-- The key to competitive networks is that the output layer has inhibitory connections within its own layer. This allows the output units to compete with each other with the winner being rewarded (by having its weights increased).
+- *Competitive networks*: neural networks that don’t require any feedback. Aka unsupervised learning.
+- The key to competitive networks is that the output layer has inhibitory connections within its own layer. This allows the output units to compete with each other with the winner being rewarded by having its weights increased.
 - This contrasts with feedforward networks because there aren’t connections within a layer (between units in the same layer).
 - Competitive networks are good at classification which requires detecting similarities between different input patterns.
 - E.g. recognizing the same object from many different angles and perspectives. This is known as *position-invariant object recognition*.
@@ -697,7 +704,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - There are two different dimension of linguistic comprehension
   - Understanding what words mean
   - Understanding the rules by which words are combined into sentences
-- The basic unit of communication is not the word, but rather the sentence.
+- The basic unit of communication isn't the word, but rather the sentence.
 - The default hypothesis is that understanding a language is  fundamentally a matter of mastering rules.
 - E.g. Mastery of the rule that governs a word’s application such as only using “cat” to refer to a four-legged animal that’s fluffy.
 - To understand language, users would need to be able to distinguish applications of the word that fit the rule from applications that do not.
@@ -766,7 +773,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - In a way, infants act like scientists in that they make inferences about things that they cannot see on the basis of the effects that they can see.
 - What sort of information processing underlies this infant physics?
 - In the physical symbol hypothesis, the principles are represented as rules.
-- One important difference between infant physics and adult physics is the emphasis on spatiotemporal continuity verses featural continuity.
+- One important difference between infant physics and adult physics is the emphasis on spatiotemporal continuity versus featural continuity.
 - *Spatiotemporal continuity*: the movement of an object is consistent in space and time
 - E.g. A bee will always follow a path and never teleport or jump in time
 - *Featural continuity*: the features and properties of an object is consistent
@@ -777,7 +784,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 **9.4 Neural network models of children’s physical reasoning**
 
 - Likewise to learning past tense, a neural network can simulate the behavior of infants in experiments on the dishabituation paradigm (without explicit rules being coded).
-- It is unfounded to conclude that infants actually access and reason using the object principles even though we believe it results in their behavior. It’s unfounded to attach a cause to an effect without ruling out the alternatives.
+- It's unfounded to conclude that infants actually access and reason using the object principles even though we believe it results in their behavior. It’s unfounded to attach a cause to an effect without ruling out the alternatives.
 - One alternative is constructing an ANN that behaves as if it has the principle of continuity even though it wasn’t encoded with it.
 - According to the neural network approach, dishabituation paradigms are essentially associative mechanisms of pattern recognition that are learnt over repeated exposure.
 - E.g. For object permanence, there are two groups of neurons, one group fires before an object is hidden and the other fires when the object reemerges. This is strengthened over repeated exposure.
@@ -816,7 +823,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - Even though children progress through a series of stages and their performance can be characterized in terms of progression of rules, it doesn’t follow that the cognition systems behind the processing takes the form of a rule-based architecture.
 - E.g. ANN to solve this problem
 ![Figure 9.13]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-13.png" | absolute_url }})
-- It is important to realize that the information the network gets is actually quite impoverished.
+- It's important to realize that the information the network gets is actually quite impoverished.
 - The ANN has to figure out that the two groups of units are carrying information about the same side of the balance beam.
 - The ANN predicts that the balance beam will come down on the left hand side when the activation on the left output unit exceeds the activation on the right output unit.
 - Learning is done using the backprop algorithm. The error is calculated by determining the difference between the actual output and the correct output.
@@ -847,6 +854,8 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - One of the great strengths of neural networks is that they are capable of learning.
 - The development of cognitive abilities (such as learning past tense and object interactions) can be studied as a series of steps.
 - These steps can be modeled using the physical symbol system hypothesis or using an artificial neural network model.
+
+---
 
 # Part IV: The Organization of the Mind
 
@@ -905,7 +914,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - *Fodor’s First Law of the Nonexistence of Cognitive Science*: the more global a cognitive process is, the less anybody understands it.
 ![Table 10.1]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/table10-1.png" | absolute_url }})
 - Arguments against Fodor’s claim
-  - The best model isn’t the language of thought model. We have ANN models that do just as well
+  - Reject that the language of thought model is the best model for understanding information processing. We have ANN models that do just as well
   - Reject that there are domain-general forms of information processing
   - Reject that central processing exists and replace it with the massive modularity hypothesis
 - I think that both modularity and central processing exist. Modules exist because we have different parts of the brain devoted to different functions. Central processing exists because different sense can use the same knowledge gained from a different sense.
@@ -935,7 +944,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - *Symbolic paradigm*: physical symbol system hypothesis
 - *Distributed paradigm*: artificial neural networks
 - The distinction between physical symbol systems and ANNs isn’t all or nothing.
-- *ACT-R/PM*: Adaptive Control of Thought - Rational/Perceptual-Motor. A hybrid mental architecture that incorporates both symbolic and sub-symbolic information processing.
+- *ACT-R/PM* (Adaptive Control of Thought - Rational/Perceptual Motor): a hybrid mental architecture that incorporates both symbolic and sub-symbolic information processing.
 ![Figure 10.6]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure10-6.png" | absolute_url }})
 - The cognition layer is built upon the distinction between declarative (knowledge-that) and procedural (knowledge-how) knowledge.
 - Both types of knowledge are represented symbolically, but in different ways.
@@ -1033,7 +1042,8 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - That attention is linked to preparatory motor signals since to attend presumes the intention to move the eyes towards the area of focus.
 - Both hypotheses are supported by evidence.
 ![Figure 11.10]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure11-10.png" | absolute_url }})
-- Once again, the lesson here is that while we can’t directly measure attention, we can indirectly measure it by combining techniques and technologies. This is similar to how we can’t see exoplanets, but we can see their shadow and their gravitational influence.
+- Once again, the lesson here is that while we can’t directly measure attention, we can indirectly measure it by combining techniques and technologies.
+- This is similar to how we can’t see exoplanets, but we can see their shadow and their gravitational influence.
 
 **11.5 From data to maps: Problems and pitfalls**
 
@@ -1183,6 +1193,8 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - Both pretend play and mindreading exploit metarepresentation.
 - There’s evidence for co-opted mechanisms in that the inability to experience/feel an emotion also leads to the inability to recognize/identify those same emotions in others.
 
+---
+
 # Part V: New Horizons
 
 ## Chapter 13: New horizons: Dynamical systems and situated cognition
@@ -1190,7 +1202,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 **13.1 Cognitive science and dynamical systems**
 
 - Instead of cognitive modules, computation, and representations, use dynamical systems theory to understand how agents behave.
-- *Dynamical system*: any system that evolves over time in a law-governed way.
+- *Dynamical system*: any system that changes over time (in a law-governed way).
 - E.g. The solar system, life, computation.
 ![Figure 13.2]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure13-2.png" | absolute_url }})
 - Dynamical models typically only track a small number of changing quantities using calculus.
@@ -1298,9 +1310,9 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 
 **14.2 Consciousness and information processing: The Knowledge Argument**
 
-- *Jackson’s Knowledge Argument*: The Mary’s Room thought experiment.
+- *Jackson’s Knowledge Argument*: [Mary’s Room thought experiment](https://plato.stanford.edu/entries/qualia-knowledge/#2).
 - *Physicalism*: all facts are physical facts.
-- The knowledge argument challenges physicalism because even though Mary knew all the physical facts, she still leaves with the “fact” on what it’s like to see red.
+- The knowledge argument challenges physicalism because even though Mary knows all the physical facts, she still leaves with the “fact” on what it’s like to see red.
 - The knowledge argument argues that information processing models of the mind are inadequate since experiences can’t be understood in terms of information processing.
 
 **14.3 Information processing without conscious awareness: Some basic data**
@@ -1308,10 +1320,10 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - Understanding comes from learning what a thing does and what it can be used for.
 - E.g. Learning a definition and its corresponding example.
 - Tackle consciousness by thinking about it in terms of a function.
-- Compare the information processing that happens when conscious verses unconscious to learn the differences.
+- Compare the information processing that happens when conscious versus unconscious to learn the differences.
 - Two sources of data
   - *Priming experiments*: expose subjects to a stimulus that’s too quick to be consciously registered and see what happens
-  - *Double dissociation*: if the impairment of one cognitive function doesn’t lead to the impairment of another and vise versa, then we can conclude that the two functions are independent.
+  - *Double dissociation*: if the impairment of one cognitive function doesn’t lead to the impairment of another and vice versa, then we can conclude that the two functions are independent.
 - In one priming experiment, if the subject is unconsciously flashed a related image, they’re able to identify the proceeding image faster.
 - Priming suggests that non-conscious information processing occurs.
 - Semantic priming suggests that high-level information processing, such as meaning, take place below the threshold of consciousness.
@@ -1348,7 +1360,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - It’s a hard problem because by its very nature, science cannot explore it as it’s a non-objective property. It isn’t quantifiable and varies between people.
 - The hard problem is the same as P-consciousness.
 - I disagree with the hard problem because the experiments in the previous section do test experience, the experience of sight.
-- However, how can we be sure that P-consciousness is not ultimately a matter of A-consciousness?
+- However, how can we be sure that P-consciousness isn't ultimately a matter of A-consciousness?
 - One argument is that there’s a double dissociation between A-consciousness and P-consciousness. You can have one without the other.
 - The easy aspect of consciousness is the information processing part. The hard aspect of consciousness is the experiential part.
 
@@ -1369,7 +1381,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 **14.7 Conclusion**
 
 - There have been two approaches to the study of consciousness
-  - Mysterians who don’t believe that the hard problem of consciousness can be studied.
+  - Mysterians who don’t believe that the hard problem of consciousness can be studied
   - Scientists who believe that consciousness can be fully explained
 - The problem consciousness faces now is similar to the problem of vitalism in biology.
 
@@ -1426,3 +1438,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - New approaches
   - Dynamical systems theory
   - Embodied/situated cognition
+
+---
+
+[Anki Flashcards (Download)]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/Cognitive Science.apkg" | absolute_url }})
