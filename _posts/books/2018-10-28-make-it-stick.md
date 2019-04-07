@@ -35,7 +35,7 @@ excerpt: "Learning to learn."
   - *Retrieval practice*: recalling facts or concepts or events from memory.
   - E.g. Tests, quizzes, flash cards.
   - *Spaced practice*: spreading out your practice sessions.
-  - E.g. Studying for an hour and then taking a break verses cramming.
+  - E.g. Studying for an hour and then taking a break versus cramming.
   - *Interleaved practice*: mixing different, but related, subjects while studying.
   - E.g. Studying computer science and computational neuroscience at the same time.
   - *Attempt practice*: attempting a problem before being taught the solution.

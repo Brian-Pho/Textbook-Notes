@@ -343,7 +343,7 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - Phase-locking only used up to 5 kHz due to sound waves cycling too fast
 - The whole is greater than the sum of its parts.
 - Sound Localization
-  - Use different techniques for locating horizontal plane (L/R) verses vertical plane (U/D)
+  - Use different techniques for locating horizontal plane (L/R) versus vertical plane (U/D)
   - Example: close one ear, up/down is easy, left/right is harder
   - Interaural time delay: time difference between ears
   - Precision of 2 degrees (11 microseconds) aka the ear's resolution
