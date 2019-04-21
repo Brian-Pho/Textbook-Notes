@@ -70,7 +70,7 @@ mathjax: true
 - Progress isn't linear but exponential.
 - Success is more closely tied to systems rather than goals.
 - Goals are the results you want to achieve. Systems are about the processes that lead to those results.
-- If you completely ignored your goals and only focused on your systems, would you still succeed.
+- If you completely ignored your goals and only focused on your systems, would you still succeed?
 - Goals are good for setting direction, systems are good for making progress.
 - Problems with goals
   - Winners and loses have the same goal. Goals suffer from survivorship bias.
