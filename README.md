@@ -10,19 +10,12 @@ Theme Link: <https://github.com/fongandrew/hydeout>
 
 ## TODO
 
-- [x] Compress textbook covers
-- [x] Change favicon
-- [x] Make timeline colorful with current state
-- [x] Complete change of site visuals
-- [ ] Complete change of site content
-- [x] Fix bullet point indentation
 - [ ] Modify the hard coded timeline
 - [ ] Run Google Chrome Audit for further improvements
-- [x] Fix favicon not showing properly
-- [x] Make timeline header more readable
-- [x] Make timeline link to textbook pages
 - [ ] Add pictures to textbook notes
 - [ ] Update textbook covers for mobile (iPad)
+- [ ] Compress textbook note images
+- [ ] Clean up grammar and spelling
 
 ## Favicon Generator
 
