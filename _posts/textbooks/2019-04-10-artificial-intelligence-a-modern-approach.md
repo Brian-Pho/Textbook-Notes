@@ -78,15 +78,15 @@ One of the defining attributes of intelligence is that it attributes the success
 - *Machine learning*: to update its memory to adapt to new circumstances.
 - *Computer vision*: to perceive objects.
 - *Robotics*: to manipulate objects.
-- The quest for “artificial flight” succeeded when the Wright brothers stopped imitating birds and started using aerodynamics.
-- Aeronautical engineering texts don’t define the goal of their field as making “machines that fly so exactly like pigeons that they can fool even other pigeons.”
+- The quest for "artificial flight" succeeded when the Wright brothers stopped imitating birds and started using aerodynamics.
+- Aeronautical engineering texts don’t define the goal of their field as making "machines that fly so exactly like pigeons that they can fool even other pigeons."
 - *Dualism*: that there’s a part of the human mind that is outside of nature and is exempt from physical laws.
 - *Materialism*: that the brain’s operation according to the laws of physics constitutes the mind.
 - *Induction*: that general rules are acquired by exposure to repeated associations.
 - The connection between knowledge and action is important because intelligence requires action as well as reasoning. Is it?
 - Work in economics and operations research has contributed much to our notion of rational agents, yet for many years AI research developed along entirely separate paths.
 - One reason was the apparent complexity of making rational decisions.
-- *Satisficing*: making decisions that are “good enough” to reduce computations.
+- *Satisficing*: making decisions that are "good enough" to reduce computations.
 - A collection of simple cells can lead to thought, action, and consciousness. Brains cause minds.
 - Behaviorism was a response to the lack of objective evidence in psychology. Introspection wasn’t taken as reliable evidence.
 - Three key steps of a knowledge-based agent
@@ -97,7 +97,7 @@ One of the defining attributes of intelligence is that it attributes the success
 - The development of computer hardware has slowed down due to power dissipation problems. So manufacturers started to increase the number of cores rather than clock speed.
 - It’s expected that future increases in computing power will come from massive parallelism, a curious convergence with the properties of the brain.
 - AI also owes a debt to the software side of computer science, which has supplied the operating systems, programming languages, and tools needed to write modern programs (and papers about them).
-- “The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it.”
+- "The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it."
 - AI needed to become a separate field because
   - It embraces the idea of duplicating human faculties
   - It is a branch of computer science
@@ -211,7 +211,7 @@ One of the defining attributes of intelligence is that it attributes the success
   - Time complexity can be worse than BFS
   - Space complexity is better than BFS
 - *Bidirectional search*: search from the initial state and from the goal in hopes that they will connect.
-- I am dropping this textbook at section 3.5.1. Reason being it doesn’t align with how I believe AI should be built. Being aware of the sunk cost fallacy, I am dropping it now even though I’ve already put in some work.
+- I am dropping this textbook at section 3.5.1 because it doesn’t align with how I believe AI should be built. Being aware of the sunk cost fallacy, I am dropping it now even though I’ve already put in some work.
 
 ## Chapter 4: Beyond Classical Search
 

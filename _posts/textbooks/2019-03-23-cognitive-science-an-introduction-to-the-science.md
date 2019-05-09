@@ -69,7 +69,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 
 **1.2 The theory of computation and the idea of an algorithm**
 
-- *Algorithm*: makes the notion of a “mechanical procedure” more precise (via math and logic).
+- *Algorithm*: makes the notion of a "mechanical procedure" more precise (via math and logic).
 - *Universal Turing Machine*: a Turing machine that can simulate any specialized Turing machine by taking that machine (plus its input) as its input.
 - *Church-Turing Thesis*: anything that can be done in mathematics by an algorithm can be done by a Turing machine. Turing machines can compute anything that can be algorithmically computed.
 
@@ -99,7 +99,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - Recall the experiment in Peak where the guy chunks sequences of numbers as track times.
 - Natural language is the ultimate chunking tool as it chunks letters into words, words into sentences, and sentences into ideas.
 - *Cocktail party phenomenon*: how we’re able to focus on one person when everyone else is talking. Also known as selective attention.
-- The sensory input is first filtered before reaching the limited capacity channel. The filter is “programmed” by another system.
+- The sensory input is first filtered before reaching the limited capacity channel. The filter is "programmed" by another system.
 ![Figure 1.6]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure1-6.png" | absolute_url }})
 
 **1.5 Connections and points of contact**
@@ -142,7 +142,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - The larger the angle of rotation, the more time it takes to determine if the figures are the same.
 ![Figure 2.8]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure2-8.png" | absolute_url }})
 - Questions from the experiment
-  - What is the “mind’s eye”? And how did we obtain this skill?
+  - What is the "mind’s eye"? And how did we obtain this skill?
   - What cognitive machinery makes this possible?
   - Why is the relationship linear?
     - A linear relationship suggests that the rotation in our head is linear (aka at a constant rate).
@@ -152,7 +152,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - How is information represented and how is it transformed?
 - One feature of digitally encoded information is that the time it takes to process information is typically a function only of the quantity of information (number of bits). The quality of the information shouldn’t matter, only the quantity. Think Big-O.
 - However, the mental rotation experiment shows that it takes varying amounts of time to solve a problem even though the quantity of information remains the same. Is this true?
-- Personal hypothesis: People do a brute force “search” to see if the figures match. We do this by first having a base state, aka the left image, and then mentally rotating it by a few degrees and seeing if it matches. If it doesn’t, then rotate some more. Eventually, we either find a match or we exhaust all possible rotation degrees and we say that they don’t match.
+- Personal hypothesis: People do a brute force "search" to see if the figures match. We do this by first having a base state, aka the left image, and then mentally rotating it by a few degrees and seeing if it matches. If it doesn’t, then rotate some more. Eventually, we either find a match or we exhaust all possible rotation degrees and we say that they don’t match.
 - *Digital representation*: the connection between what we might think of as the unit of representation and what that unit represents is completely arbitrary. Think how we bind meaning to words.
 - *Imagistic representation*: Opposite to a digital representation where the representation matches the meaning assigned to it.
 - E.g. a map. What it represents is similar to reality as the representation is secured though resemblance.
@@ -202,8 +202,8 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - Vision from the right side of both eyes is processed by the left brain and vice versa.
 - Theory that visual data follows along two paths depending upon the type of information it is. Think parallel processing.
 ![Figure 3.5]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure3-5.png" | absolute_url }})
-- *Ventral stream*: information relevant to recognizing and identifying objects follows a bottom route towards the temporal lobe. The “what” system.
-- *Dorsal stream*: information relevant to locating objects in space follows a top route towards the parietal lobe. The “where” system.
+- *Ventral stream*: information relevant to recognizing and identifying objects follows a bottom route towards the temporal lobe. The "what" system.
+- *Dorsal stream*: information relevant to locating objects in space follows a top route towards the parietal lobe. The "where" system.
 - The brain localizes specific functions to specific areas of the brain.
 - The brain is able to compensate for the loss of function in one hemisphere by using it in the other hemisphere via the corpus callosum.
 - This contrasts with Marr’s approach as this is bottom up.
@@ -245,7 +245,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 
 **Summary**
 
-- We’ve identified two information processing pathways for visual information, the “what” pathway and the “where” pathway.
+- We’ve identified two information processing pathways for visual information, the "what" pathway and the "where" pathway.
 - Artificial neural networks are a model of the brain and learns by adjusting its weights.
 - The processing of one word is supported by a parallel model of processing where reading, hearing, speaking, and understanding are independent.
 
@@ -307,7 +307,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - In any following encounter, do what your opponent did in the previous round.
 - This strategy is powerful for the following reasons
   - It’s simple.
-  - It follows the rule “you should do unto others as they do unto you”.
+  - It follows the rule "you should do unto others as they do unto you".
 - The idea of a module to detect cheating is an example of local integration between cognitive psychology and evolutionary psychology.
 - We evolved this module in response to our environment and its effects are seen in the Watson card selection experiment.
 
@@ -355,7 +355,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - Problems with applying intertheoretic reduction to cognitive science
   - Few laws in cognitive science
   - Lack of a formal description that could be used to translate
-- *Functional decomposition*: the process of explaining a cognitive capacity by breaking it down into sub-capacities that can be separately and tractably treated. We can keep breaking down until we reach a level of “axioms”.
+- *Functional decomposition*: the process of explaining a cognitive capacity by breaking it down into sub-capacities that can be separately and tractably treated. We can keep breaking down until we reach a level of "axioms".
 - E.g. Memory can be broken down (by function) into three functions of registering, storing, and retrieving. Storing can then be broken down into short-term memory and long-term memory.
 ![Figure 5.3]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure5-3.png" | absolute_url }})
 - *Anterograde amnesia*: affecting memory of events after the onset of brain injury.
@@ -387,13 +387,13 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - *Mental architecture*: solves the integration challenge by looking for a general model of the organization of the mind and the mechanics of cognition that incorporates some of the basic assumptions common to all disciples and fields composing cognitive science.
 - We start off with a basic assumption common to all of the cognitive sciences. Then we show how different interpretations of that assumption generate different models of the mind.
 - The basic assumption is that cognition is information processing. Information is the currency of cognitive science.
-- The “information” in cognitive science has little to do with Shannon’s mathematical theory of information; the formal specification for information.
+- The "information" in cognitive science has little to do with Shannon’s mathematical theory of information; the formal specification for information.
 - Important questions regarding the basic assumption (only applicable to individual cognitive systems)
   - In what format does a particular cognitive system carry information?
   - How does that cognitive system transform information?
   - How is the mind organized so that it can function as an information processor?
 - A mental architecture is a set of answers to these three questions.
-- We don’t want to assume that all cognitive systems carry and transform information in the same way, hence why we say “individual cognitive system”.
+- We don’t want to assume that all cognitive systems carry and transform information in the same way, hence why we say "individual cognitive system".
 - E.g. pictures and text. Even though they are both represented by zeros and ones, the information doesn’t represent the same thing.
 - It’s difficult to define what a cognitive system is without the notion of information processing. Whenever we have a cognitive system, we have some information processing function.
 - This distinguishes cognitive systems from, say, anatomical systems. It’s why we can’t read off the organization of the mind from a brain atlas because there’s some hidden function.
@@ -456,9 +456,9 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - E.g. Reading a book can cause me to change my behavior, but how does the information that I read change my behavior? As a Turing machine, reading a symbol can change my state, but how and why does the specific symbol that I read change my state? Why is meaning significant?
 - Fodor’s hypothesis solves the problem of causation by content.
 - *Formal properties*: the physical properties that can be manipulated within brains.
-- E.g. The letters of a language, the word “cat”, zeros and ones.
+- E.g. The letters of a language, the word "cat", zeros and ones.
 - *Semantic properties*: the properties by virtue of which representations represent.
-- E.g. The word “cat” represents a furry and cute animal, certain combinations of zeros and ones represent text while others represent images.
+- E.g. The word "cat" represents a furry and cute animal, certain combinations of zeros and ones represent text while others represent images.
 - This gives us another way of putting our problem.
   - How can the brain be an information processing machine if it is blind to the semantic properties of representations?
   - How can the brain be an information processing machine if all it can process are the formal properties of representations?
@@ -478,8 +478,8 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - *Logical deducibility*: when a deduction follows all of the rules
 - *Logical consequence*: when a claim preserves truth (a true premise never leads to a false conclusion)
 - Transitions between sentences in the language of thought can be viewed either syntactically or semantically, either in terms of formal relations holding between physical symbol structures or in terms of semantic relations holding between states that represent the world.
-- E.g. of a syntactic transition, the word “cat” refers to a fluffy cute animal, but now I change it so that the word “cat” also refers to that fluffy cute animal.
-- E.g. of semantic transition, the word “cat” refers to a fluffy cute animal, but now I change it so that the word “cat” also refers to that yellow, curved fruit.
+- E.g. of a syntactic transition, the word "cat" refers to a fluffy cute animal, but now I change it so that the word "cat" also refers to that fluffy cute animal.
+- E.g. of semantic transition, the word "cat" refers to a fluffy cute animal, but now I change it so that the word "cat" also refers to that yellow, curved fruit.
 ![Figure 6.3]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure6-3.png" | absolute_url }})
 
 **6.3 The Chinese room argument**
@@ -498,7 +498,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - The Chinese room argument is related to the Turing test; it rejects the Turing test as a measure of intelligent behavior.
 - *Symbol-ground problem*: how do symbols become meaningful?
 - The symbol-grounding problem is a problem about how words and thoughts become meaningful to speakers and thinkers. The problem of intentionality is a problem about how words and thoughts connect up with the world.
-- E.g. of the difference, the word “cat” refers to the fluffy cute animal  because that’s how people speaking the language refer to that animal. This solves the problem of intentionality but not the symbol-grounding problem. It provides an account that the intention of “cat” refers to the animal, but it doesn’t say how that intention is formed.
+- E.g. of the difference, the word "cat" refers to the fluffy cute animal  because that’s how people speaking the language refer to that animal. This solves the problem of intentionality but not the symbol-grounding problem. It provides an account that the intention of "cat" refers to the animal, but it doesn’t say how that intention is formed.
 - For this reason, the symbol-grounding problem is more fundamental than the problem of intentionality.
 - One answer is that words in a language are meaningful for us because we attach meanings to them when we learn how to use them. But this just pushes the problem back.
 - How do we learn that something is meaningful?
@@ -560,7 +560,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - *WHISPER*: a program to assess the stability of structures in the block world and then work out how unstable structures will collapse.
 ![Figure 7.7]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure7-7.png" | absolute_url }})
 - WHISPER fits the heuristic search hypothesis because it starts with the problem and then transforms it into a solution.
-- It has hard coded rules such as “an unstable object will rotate around the support point closest to its center of gravity.”
+- It has hard coded rules such as "an unstable object will rotate around the support point closest to its center of gravity."
 - Our main reason for looking at WHISPER isn’t that it succeeds in solving problems, it’s that it gives a clear illustration of just how wide-ranging the physical symbol system hypothesis can be.
 - WHISPER shows that there are other ways of thinking about the physical symbol system hypothesis.
 - Both ID3 and WHISPER solve problems by generating and modifying physical symbol structures until a solution structure is reached.
@@ -613,7 +613,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - The single most important fact about the firing of neurons is that it depends upon activity at the synapses.
 - Some of the signals reaching the neuron’s dendrites promote firing and others inhibit it. These are called excitatory and inhibitory synapses respectively.
 ![Figure 8.2]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure8-2.png" | absolute_url }})
-- If the total input exceeds the threshold (T) then the neuron “fires” and transmits an output signal.
+- If the total input exceeds the threshold (T) then the neuron "fires" and transmits an output signal.
 
 **8.2 Single-layer networks and Boolean functions**
 
@@ -626,7 +626,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - By chaining together individual neurons into a network, artificial neural networks can do anything that can be done by a digital computer.
 - A neural network can simulate a digital computer by simulating its logic gates.
 - However, the key to getting neurons to represent Boolean functions lies in setting the weights and threshold. But how do we go about doing this?
-- What makes neural networks such a powerful tool in cognitive science is that they are capable of learning. This learning can be supervised (when the network is “told” what errors it is making) or unsupervised (when the network does not receive feedback).
+- What makes neural networks such a powerful tool in cognitive science is that they are capable of learning. This learning can be supervised (when the network is "told" what errors it is making) or unsupervised (when the network does not receive feedback).
 - The most important event in the development of neural networks was the discovery of a learning algorithm that could overcome the limitations of single-unit networks.
 - *Hebbian learning*: learning is, at the bottom, an associative process. It's also a form of unsupervised learning.
 - Hebbian learning happens at the synaptic level where synapses are modified based on whether the postsynaptic neuron fires. Neurons that fire together, wire together.
@@ -657,7 +657,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - ANN units are all the same while the brain has many different types of neurons.
   - Brains aren’t as parallel as ANNs.
   - The scale of ANNs doesn’t compare with the brain. A single cortical column can contain 200,000 neurons whereas ANNs don’t have more than 5,000 neurons.
-  - There is no evidence that anything like the backpropagation of error takes place in the brain. Backprop is powerful because it can transmit the error information using “action at a distance” which doesn’t seem to happen in the brain.
+  - There is no evidence that anything like the backpropagation of error takes place in the brain. Backprop is powerful because it can transmit the error information using "action at a distance" which doesn’t seem to happen in the brain.
 - *Local learning algorithms*: biologically plausible learning algorithms.
   - A unit’s weight changes directly as a function of the inputs and outputs of the unit.
   - In terms of biological neurons, the information for changing the weight of a synaptic connection is directly available to the presynaptic axon and postsynaptic dendrite.
@@ -706,13 +706,13 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - Understanding the rules by which words are combined into sentences
 - The basic unit of communication isn't the word, but rather the sentence.
 - The default hypothesis is that understanding a language is  fundamentally a matter of mastering rules.
-- E.g. Mastery of the rule that governs a word’s application such as only using “cat” to refer to a four-legged animal that’s fluffy.
+- E.g. Mastery of the rule that governs a word’s application such as only using "cat" to refer to a four-legged animal that’s fluffy.
 - To understand language, users would need to be able to distinguish applications of the word that fit the rule from applications that do not.
 - An alternative view is that to understand language, users use words in accordance with the rule because they somehow manage to compare possible sentences with their internalized representations of the rules.
 - The more important you believe in explicit representations of rules, the more likely you’ll believe that language processing is done by the physical symbol hypothesis (because it depends upon rules being explicitly represented).
 - The question of how languages are learnt is closely related to the question how what it is to understand a language.
 - *Truth rules*: rules that state how words contribute to determining if a sentence is true.
-- E.g. “Felicia is tall” is true just if X is G where X is a thing and G is a property.
+- E.g. "Felicia is tall" is true just if X is G where X is a thing and G is a property.
 - Fodor argues that learning a language has to involve learning truth rules. But which language are truth rules formulated in?
 - You cannot use the language that you are learning to learn that language. Much like how a compiler cannot be written in the language it’s meant to compile. But bootstrapping.
 - Language understanding isn’t purely theoretical so what does the evidence say?
@@ -722,7 +722,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - ANNs can model complex linguistic skills without having any explicit linguistic rules encoded into them.
 - When children learn languages, they display a very typical trajectory.
 - E.g. Children make very similar types of errors at similar stages in learning grammar.
-- *Regular verbs*: verbs that you add “-ed” to make it past tense.
+- *Regular verbs*: verbs that you add "-ed" to make it past tense.
 - *Irregular verbs*: verbs that aren’t regular. E.g. take/took, bring/brought.
 - When children learn these verbs, they go through three principle stages.
 - First stage
@@ -732,7 +732,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - They can’t do much, but what they do, they do well.
 - Second stage
   - Greater number of verbs (most of which are regular)
-  - Surprising that children take a step backwards. They commit *over-regularization* error such as “gived” instead of “gave.
+  - Surprising that children take a step backwards. They commit *over-regularization* error such as "gived" instead of "gave".
 - Third stage
   - Cease to make over-regularization errors
   - Still improve their command of regular verbs
@@ -754,7 +754,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 
 - We assume that infants look longer at events that they find surprising.
 - So by measuring the amount of time that infants look at events, experimenters can work out which events infants find surprising (which also provides us info on what infants expect).
-- *Dishabituation paradigm*: the way of identifying when a “violation of expectation” occurs.
+- *Dishabituation paradigm*: the way of identifying when a "violation of expectation" occurs.
 ![Figure 9.6]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-6.png" | absolute_url }})
 - *Object permanence*: understanding that objects exists even if they aren’t seen
 - When do children learn object permanence?
@@ -798,7 +798,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - The second factor is crucial for learning object permanence.
 - Learning is done using the backprop algorithm. The error is calculated by determining the difference between the actual input and the predicted input.
 ![Figure 9.11]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure9-11.png" | absolute_url }})
-- In theory, the recurrent weights will tell the network that an object exists even when it isn’t seen as the weights will have “memory” of the object.
+- In theory, the recurrent weights will tell the network that an object exists even when it isn’t seen as the weights will have "memory" of the object.
 - In practice, improved sensitivity to object permanence is directly correlated with the hidden units representing the object the same when it is visible and when it’s hidden.
 - In other words, memory is strong enough to explain object permanence.
 - Another test of physical reasoning is the balance beam problem
@@ -884,7 +884,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - Questions regarding modules
   - How can we identify and distinguish modules?
   - Do all of the modules process information in the same way? Do they all have the same representations?
-  - How “autonomous” and “insulated” are the different modules?
+  - How "autonomous" and "insulated" are the different modules?
 
 **10.2 Fodor on the modularity of mind**
 
@@ -924,7 +924,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 
 - The belief that all information processing is modular.
 - People are better at deontic conditions (permissions, requests, entitlements, etc.) than non-deontic conditionals.
-- The explanation for this is because we have a specialized “cheater” detection module that developed over the course of evolution.
+- The explanation for this is because we have a specialized "cheater" detection module that developed over the course of evolution.
 - *Darwinian modules*: specialized modules that evolved to solve a specific set of problems that our ancestors confronted.
 - E.g. Cheater detection, kin detection, mate selection.
 - *Prosopagnosia*: face blindness, can’t recognize faces.
@@ -1102,7 +1102,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - It’s argued that the same mechanisms that separate representations in pretend play are the same in mind reading.
 - Two components of primary representations
   1. There must be a way of marking a representation as a separate representation.
-  - E.g. Use of quotations such as Sarah said “The world is flat.”
+  - E.g. Use of quotations such as Sarah said "The world is flat."
   1. There must be a way of interpreting those markings that exist in the primary representation.
   - E.g. Some device must know that quotes are used for separate representations.
 - Understanding that other people are pretending is itself a form of mindreading.
@@ -1158,7 +1158,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 **12.5 Mindreading as simulation**
 
 - The basic idea behind simulation theory is that we can explain and predict the behavior of other agents by projecting ourselves into the situation of the person and then using our mind as a model of theirs.
-- This is done “offline” so that it doesn’t generate an action but still generates a description of the action.
+- This is done "offline" so that it doesn’t generate an action but still generates a description of the action.
 - Two ways of developing this idea.
 - *Standard simulationism*: starts with the explicit attribution of beliefs and desires of the person being simulated. This is then inputted into a decision making system that outputs the simulated responses.
 - We get the input through two principles
@@ -1304,7 +1304,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - However, we can approach the study of cognition from the first person; through experiences and consciousness.
 - *Leibeniz’s Mill Argument*: Suppose that the brain is like a mill, then we can enter the mill and study its workings. But we’ll only see parts that are working and not consciousness.
 - *Analogy*: Suppose the brain is like a computer, if we analyze the computer’s hardware we’ll see electricity moving but we’ll never see the programs and software that it runs.
-- Nothing that we can observe “from the outside” can explain consciousness.
+- Nothing that we can observe "from the outside" can explain consciousness.
 - E.g. If we look at a sunset, we can trace the flow of data from the retina to the brain. But this is all from the third person perspective, we don’t observe the person’s experience.
 - I disagree. I believe that at some point in the path it becomes a part of conscious awareness. It’s similar to the mind-body problem.
 
@@ -1312,7 +1312,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 
 - *Jackson’s Knowledge Argument*: [Mary’s Room thought experiment](https://plato.stanford.edu/entries/qualia-knowledge/#2).
 - *Physicalism*: all facts are physical facts.
-- The knowledge argument challenges physicalism because even though Mary knows all the physical facts, she still leaves with the “fact” on what it’s like to see red.
+- The knowledge argument challenges physicalism because even though Mary knows all the physical facts, she still leaves with the "fact" on what it’s like to see red.
 - The knowledge argument argues that information processing models of the mind are inadequate since experiences can’t be understood in terms of information processing.
 
 **14.3 Information processing without conscious awareness: Some basic data**
