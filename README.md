@@ -15,6 +15,10 @@ Theme Link: <https://github.com/fongandrew/hydeout>
 - [ ] Add pictures to textbook notes
 - [ ] Update textbook covers for mobile (iPad)
 - [ ] Compress textbook note images
+  - [ ] neuroscience-exploring-the-brain
+  - [x] cognitive-science-an-introduction-to-the-science-of-the-mind
+  - [x] artificial-intelligence-a-modern-approach
+  - [x] after-digital-computation-as-done-by-brains-and-machines
 - [ ] Clean up grammar and spelling
 
 ## Favicon Generator
