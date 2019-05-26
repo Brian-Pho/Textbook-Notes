@@ -230,6 +230,7 @@ We don't live in a world of reality but in a world of perceptions. - Unknown
 **Selective representations**
 
 - Only one unit's active for one concept.
+- Also known as one-hot encoding.
 ![Figure SR]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figureSR.png" | absolute_url }})
 - Are neurons extremely selective and only activate for one concept?
 - E.g. Grandmother cell that only responds to grandmother.
