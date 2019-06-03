@@ -43,7 +43,7 @@ Computer science is no more about computers than astronomy is about telescopes. 
   - [Google Colaboratory/Jupyter Notebook]({{ "/assets/textbooks/deep-learning-with-python/google-colaboratory.ipynb" | absolute_url }})
   - [Raw Python]({{ "/assets/textbooks/deep-learning-with-python/raw-python.py" | absolute_url }})
 - Deep learning → Machine learning → Artificial intelligence
-![Figure 1.2](/assets/textbooks/deep-learning-with-python/figure1-2.png)
+![Figure 1.2]({{ "/assets/textbooks/deep-learning-with-python/figure1-2.png" | absolute_url }})
 - *Representations*: different ways to look at data; to represent or encode the data.
 - *Learning*: in machine learning, describes the automatic search for better representations.
 - *Hypothesis space*: the set of possible operations that tests whether the operation on the input data generates the correct output.
@@ -58,7 +58,7 @@ Computer science is no more about computers than astronomy is about telescopes. 
 - The term “neural network” comes from biology but the relationship to the brain isn’t there.
 - Don’t link artificial neural networks with biological neural networks.
 - *Loss function*: the error between the actual output of network and the expected output.
-![Figure 1.9](/assets/textbooks/deep-learning-with-python/figure1-9.png)
+![Figure 1.9]({{ "/assets/textbooks/deep-learning-with-python/figure1-9.png" | absolute_url }})
 - Other types of machine learning
   - Probabilistic modeling
   - Support vector machines
@@ -104,10 +104,10 @@ my_slice = train_images[:, 14:, 14:]
   - *Vector data*: 2D tensors of (samples, features)
     - E.g. Storing age, ZIP code, and income of each person. (num_people, num_features=3)
   - *Timeseries/sequence data*: 3D tensors of (samples, timesteps, features)
-![Figure 2.3](/assets/textbooks/deep-learning-with-python/figure2-3.png)
+![Figure 2.3]({{ "/assets/textbooks/deep-learning-with-python/figure2-3.png" | absolute_url }})
     - E.g. Stock prices. (num_days, num_mins_per_day, num_features)
   - *Images*: 4D tensors of (samples, height, width, channels)
-![Figure 2.4](/assets/textbooks/deep-learning-with-python/figure2-4.png)
+![Figure 2.4]({{ "/assets/textbooks/deep-learning-with-python/figure2-4.png" | absolute_url }})
     - E.g. Batch of 128 grayscale images of 256 x 256. (128, 256, 256, 1)
   - *Videos*: 5D tensors of (samples, frames, height, width, channels)
     - E.g. 4 Youtube videos that’s 60 seconds long, 5 frames per second, and has a resolution of 1920 x 1080. (num_videos=4, num_frames=300, 1920, 1080, 3)
@@ -133,7 +133,7 @@ output = relu(dot(w, input) + b)
   - Repeat the smaller tensor alongside the new axes to match the full shape of the larger tensor.
 - E.g. Let X have shape (32, 10) and Y have shape (10, ). To broadcast Y to X, first add another axis to Y to get (1, 10). Then repeat Y 32 times in that new axis to get (32, 10).
 - *Tensor dot*: the same as vector dot product. Multiply each corresponding component and then sum the results.
-![Figure 2.5](/assets/textbooks/deep-learning-with-python/figure2-5.png)
+![Figure 2.5]({{ "/assets/textbooks/deep-learning-with-python/figure2-5.png" | absolute_url }})
 - *Tensor reshaping*: change the shape of a tensor while maintaining its data.
 - E.g. Changing from (3, 2) to (6, 1).
 
@@ -188,7 +188,7 @@ while loss > 0.01:
 - *Epoch*: each iteration over all of the training data.
 
 **Summary**
-![Chapter 2](/assets/textbooks/deep-learning-with-python/chapter2.png)
+![Chapter 2]({{ "/assets/textbooks/deep-learning-with-python/chapter2.png" | absolute_url }})
 
 ## Chapter 3: Getting started with neural networks
 
@@ -212,7 +212,7 @@ while loss > 0.01:
   - Regression → Mean-squared error
   - Sequence-learning → Connectionist temporal classification
 - Keras is a model-level library that uses a backend engine for tensor calculations.
-![Figure 3.3](/assets/textbooks/deep-learning-with-python/figure3-3.png)
+![Figure 3.3]({{ "/assets/textbooks/deep-learning-with-python/figure3-3.png" | absolute_url }})
 - There are two ways to define a model
   - Sequential for linear stacks of layers.
   - Functional API for arbitrary architectures.
@@ -300,11 +300,11 @@ test_data /= std
 - *Mean absolute error (mae)*: the absolute value of the difference between the predictions and the targets.
 - A small dataset leads to challenges with picking the validation and testing set. The validation set might have high variance which makes evaluating the model difficult.
 - *K-fold cross-validation*: splitting the available data into K partitions, starting K identical models, and training each one on K - 1 partitions.
-![Figure 3.11](/assets/textbooks/deep-learning-with-python/figure3-11.png)
+![Figure 3.11]({{ "/assets/textbooks/deep-learning-with-python/figure3-11.png" | absolute_url }})
 - Once you’re finished tuning the parameters of the model, you can train the final production model on the combination of the training and validation dataset.
 
 **Summary**
-![Chapter 3](/assets/textbooks/deep-learning-with-python/chapter3.png)
+![Chapter 3]({{ "/assets/textbooks/deep-learning-with-python/chapter3.png" | absolute_url }})
 
 ## Chapter 4: Fundamentals of machine learning
 
@@ -324,9 +324,9 @@ test_data /= std
     - Temporally supervised learning
   - *Reinforcement learning*: an agent received information about its environment and learns to choose actions that will maximize some reward.
 - These four branches are sometimes blurry and aren’t well defined. It’s more of a continuum than distinct.
-![Classification and regression glossary 1](/assets/textbooks/deep-learning-with-python/class-and-regress-gloss-1.png)
-![Classification and regression glossary 2](/assets/textbooks/deep-learning-with-python/class-and-regress-gloss-2.png)
-![Classification and regression glossary 3](/assets/textbooks/deep-learning-with-python/class-and-regress-gloss-3.png)
+![Classification and regression glossary 1]({{ "/assets/textbooks/deep-learning-with-python/class-and-regress-gloss-1.png" | absolute_url }})
+![Classification and regression glossary 2]({{ "/assets/textbooks/deep-learning-with-python/class-and-regress-gloss-2.png" | absolute_url }})
+![Classification and regression glossary 3]({{ "/assets/textbooks/deep-learning-with-python/class-and-regress-gloss-3.png" | absolute_url }})
 - We split the input data into a
   - Training set
   - Validation set
@@ -343,7 +343,7 @@ test_data /= std
   - Set apart some fraction of the data as the test set.
   - However, if little data is available, then the validation and test sets may contain too few samples.
   - Recognize this problem if the model shows variance based on the train-test split.
-![Figure 4.1](/assets/textbooks/deep-learning-with-python/figure4-1.png)
+![Figure 4.1]({{ "/assets/textbooks/deep-learning-with-python/figure4-1.png" | absolute_url }})
 
 ```python
 num_validation_sample = 10000
@@ -373,7 +373,7 @@ test_score = model.evaluate(test_data)
   - Split the data into K partitions of equal size.
   - For each partition i, train the model on the remaining K - 1 partitions and evaluate on partition i.
   - Your final score is the averages of the K scores.
-![Figure 3.11](/assets/textbooks/deep-learning-with-python/figure3-11.png)
+![Figure 3.11]({{ "/assets/textbooks/deep-learning-with-python/figure3-11.png" | absolute_url }})
 
 ```python
 # The number of folds
@@ -420,7 +420,7 @@ test_score = model.evaluate(test_data)
   - *Missing values*: set missing data to zero so the model learns zero to mean missing data.
     - Done because neural networks can’t handle missing values.
 - *Feature engineering*: the process of using your own knowledge of the data to make the model work better.
-![Figure 4.3](/assets/textbooks/deep-learning-with-python/figure4-3.png)
+![Figure 4.3]({{ "/assets/textbooks/deep-learning-with-python/figure4-3.png" | absolute_url }})
 - E.g. Instead of inputting the raw clock face, convert the time into Cartesian coordinates or, even better, into polar coordinates.
 - Make the problem easier by expressing it in a simpler way. However, this requires understanding the problem in depth.
 - Benefits of feature engineering
@@ -472,7 +472,7 @@ model.add(layers.Dense(16,
 - Note that this penalty is only added at training and not during testing.
 - Another way to prevent overfitting is dropout.
 - *Dropout*: randomly dropping out (or setting to zero) a number of output features of the layer during training.
-![Dropout](/assets/textbooks/deep-learning-with-python/dropout.png)
+![Dropout]({{ "/assets/textbooks/deep-learning-with-python/dropout.png" | absolute_url }})
 - E.g. A normal layer returns `[0.2, 0.5, 1.3, 0.8, 1.1]` but a dropout layer would return `[0, 0.5, 1.3, 0, 1.1]`.
 - <https://stats.stackexchange.com/questions/241645/how-to-explain-dropout-regularization-in-simple-terms>
 - *Dropout rate*: the fraction of features that are zeroed out.
@@ -498,7 +498,7 @@ layer_output *= np.random.randint(0, high=2, size=layer_output.shape)
 layer_output *= p
 ```
 
-![Figure 4.8](/assets/textbooks/deep-learning-with-python/figure4-8.png)
+![Figure 4.8]({{ "/assets/textbooks/deep-learning-with-python/figure4-8.png" | absolute_url }})
 
 - https://stats.stackexchange.com/questions/241645/how-to-explain-dropout-regularization-in-simple-terms
 - Adding dropout to a neural network
@@ -534,7 +534,7 @@ model.add(layers.Dense(1, activation='sigmoid'))
   - The baseline is random guessing.
   - E.g. For guessing digits between 0-9, the baseline is 10% for random guessing.
   - The key choices are for the last-layer activation, loss function, and optimization configuration.
-![Table 4.1](/assets/textbooks/deep-learning-with-python/table4-1.png)
+![Table 4.1]({{ "/assets/textbooks/deep-learning-with-python/table4-1.png" | absolute_url }})
 6. Scale up the model so it overfits
   - Once the model is better than the baseline, optimize the model.
   - The universal tension in machine learning is between optimization and generalization.
@@ -552,7 +552,7 @@ model.add(layers.Dense(1, activation='sigmoid'))
   - Once the neural network looks good, train on both the training and validation set and test it on the testing set.
 
 **Summary**
-![Chapter 4](/assets/textbooks/deep-learning-with-python/chapter4.png)
+![Chapter 4]({{ "/assets/textbooks/deep-learning-with-python/chapter4.png" | absolute_url }})
 
 # Part 2: Deep Learning in Practice
 
@@ -564,7 +564,7 @@ model.add(layers.Dense(1, activation='sigmoid'))
 - The fundamental difference between dense and convolution layer
   - Dense layers learn global patterns in the data.
   - Convolution layer learn local patterns in the data.
-![Figure 5.1](/assets/textbooks/deep-learning-with-python/figure5-1.png)
+![Figure 5.1]({{ "/assets/textbooks/deep-learning-with-python/figure5-1.png" | absolute_url }})
 - Since conv layer learn local patterns, this gives them two interesting properties
   - The patterns they learn are translation invariant.
   - They can learn spatial hierarchies of patterns.
@@ -572,28 +572,28 @@ model.add(layers.Dense(1, activation='sigmoid'))
 - RGB has three channels: red, green, blue. Greyscale has one channel: levels of grey.
 - The convolution operation outputs a feature map with an arbitrary depth since the depth axis no longer stands for channels, but rather filters.
 - *Filters*: encodes specific aspects of the input data.
-![Figure 5.3](/assets/textbooks/deep-learning-with-python/figure5-3.png)
+![Figure 5.3]({{ "/assets/textbooks/deep-learning-with-python/figure5-3.png" | absolute_url }})
 - Convolutions are defined by two key parameters
   - Size of the patches extracted from the inputs
     - E.g. 3 x 3 or 5 x 5
   - Depth of the output feature map
     - The number of filters computed by the convolution.
     - E.g. 32, 64
-![Figure 5.4](/assets/textbooks/deep-learning-with-python/figure5-4.png)
+![Figure 5.4]({{ "/assets/textbooks/deep-learning-with-python/figure5-4.png" | absolute_url }})
 - The output width and height may differ from the input width and height due to
   - Border effects
   - Strides
 - Border effects and padding
   - If you use a sliding window on the raw input, the output will decrease in dimensions due to not being able to use the edge.
-![Figure 5.5](/assets/textbooks/deep-learning-with-python/figure5-5.png)
+![Figure 5.5]({{ "/assets/textbooks/deep-learning-with-python/figure5-5.png" | absolute_url }})
   - To get the output feature map to have the same spatial dimensions as the input, you can use padding.
   - *Padding*: adding an appropriate number of rows/columns to the input to fit center convolution windows around every input tile.
-![Figure 5.6](/assets/textbooks/deep-learning-with-python/figure5-6.png)
+![Figure 5.6]({{ "/assets/textbooks/deep-learning-with-python/figure5-6.png" | absolute_url }})
   - There are two padding arguments in Keras
     - *Valid*: no padding (only valid window locations are used).
     - *Same*: pad so that the output will have the same dimensions as the input.
 - *Stride*: the distance between two successive windows.
-![Figure 5.7](/assets/textbooks/deep-learning-with-python/figure5-7.png)
+![Figure 5.7]({{ "/assets/textbooks/deep-learning-with-python/figure5-7.png" | absolute_url }})
 - Stride can be used to downsample a feature map however, max-pooling is more commonly used.
 - The role of max pooling is to aggressively downsample feature maps.
 - *Max pooling*: extracting windows from the input feature maps and outputting the max value of each channel.
@@ -629,7 +629,7 @@ model.add(layers.Dense(1, activation='sigmoid'))
 - Convnets consist of two parts
   - the pooling and convolution layers (called the convolution base)
   - the dense layers
-![Figure 5.14](/assets/textbooks/deep-learning-with-python/figure5-14.png)
+![Figure 5.14]({{ "/assets/textbooks/deep-learning-with-python/figure5-14.png" | absolute_url }})
 - The reason to discard the classifier is because the representations learned by the convolution base are more general and thus more reusable.
 - The more general a model is, the more reusable it is.
 - After getting a pretrained network, there are two ways you can proceed
@@ -639,7 +639,7 @@ model.add(layers.Dense(1, activation='sigmoid'))
 - *Freezing*: preventing a layer’s weights from updating.
 - Always recompile the model after freezing layers.
 - *Fine-tuning*: unfreezing a few of the top layers of a frozen model and training the thawed layers along with the classifier.
-![Figure 5.19](/assets/textbooks/deep-learning-with-python/figure5-19.png)
+![Figure 5.19]({{ "/assets/textbooks/deep-learning-with-python/figure5-19.png" | absolute_url }})
 - Steps for fine-tuning a network
     1. Add your custom network on top of the pre-trained base network.
     2. Freeze the base network.
@@ -675,7 +675,7 @@ activations = activation_model.predict(img_tensor)
 - You’re weighting a spatial map of “how intensely the input image activates different channels” by “how important each channel is with regard to the class”, resulting in a spatial map of “how intensely the input image activates the class.”
 
 **Summary**
-![Chapter 5](/assets/textbooks/deep-learning-with-python/chapter5.png)
+![Chapter 5]({{ "/assets/textbooks/deep-learning-with-python/chapter5.png" | absolute_url }})
 
 ## Chapter 6: Deep learning for text and sequences
 
@@ -688,20 +688,20 @@ activations = activation_model.predict(img_tensor)
   - Segment text into characters and transform each character into a vector.
   - Extract n-grams of words/characters and transform each n-gram into a vector.
 - *N-grams*: overlapping groups of multiple consecutive words/characters.
-![Understanding n-grams and bag-of-words](/assets/textbooks/deep-learning-with-python/n-grams.png)
+![Understanding n-grams and bag-of-words]({{ "/assets/textbooks/deep-learning-with-python/n-grams.png" | absolute_url }})
 - *Tokens*: the different units you can break down text (characters, words, n-grams).
 - *Tokenization*: breaking text into tokens.
-![Figure 6.1](/assets/textbooks/deep-learning-with-python/figure6-1.png)
+![Figure 6.1]({{ "/assets/textbooks/deep-learning-with-python/figure6-1.png" | absolute_url }})
 - There are multiple ways of associating a vector with a token
   - *One-hot encoding*: associating a unique integer index to each unique word.
   - *Word embedding*: associating a vector to a word.
-![Figure 6.2](/assets/textbooks/deep-learning-with-python/figure6-2.png)
+![Figure 6.2]({{ "/assets/textbooks/deep-learning-with-python/figure6-2.png" | absolute_url }})
 - Two ways to obtain word embeddings
   - Learn word embeddings jointly with the main task.
   - Load into your model word embeddings that were precomputed on a different task.
 - The geometric relationship between word vectors should reflect the semantic relationship between those words.
 - Word embeddings are meant to map human language into a geometric space with words closer in meaning mapped closer together and specific directions to be meaningful.
-![Figure 6.3](/assets/textbooks/deep-learning-with-python/figure6-3.png)
+![Figure 6.3]({{ "/assets/textbooks/deep-learning-with-python/figure6-3.png" | absolute_url }})
 - The transformation “from pet to wild animal” goes from bottom to top.
 - The transformation “from canine to feline” goes from left to right.
 - Learn the embeddings using backprop.
@@ -721,11 +721,11 @@ embedding_layer = Embedding(1000, 64)
 - Use pretrained word embeddings when you don’t have a lot of data.
 - *Recurrent neural network (RNN)*: a class of neural network that maintains previously seen information; a network with memory.
 - RNNs feed their previous output alongside the current input.
-![Figure 6.9](/assets/textbooks/deep-learning-with-python/figure6-9.png)
+![Figure 6.9]({{ "/assets/textbooks/deep-learning-with-python/figure6-9.png" | absolute_url }})
 - The state of the RNN is reset between processing two different, independent sequences.
 - However, the processing of those sequences is no longer a single step as the network internally loops over it.
 - An RNN is a `for` loop that reuses quantities computed during the previous iteration of the loop.
-![Figure 6.10](/assets/textbooks/deep-learning-with-python/figure6-10.png)
+![Figure 6.10]({{ "/assets/textbooks/deep-learning-with-python/figure6-10.png" | absolute_url }})
 - Usually, you don’t need the full sequence of outputs from an RNN because the last step already has the information about the entire sequence.
 - The `SimpleRNN` in Keras takes inputs of shape `(batch_size, timesteps, input_features)`.
 - Use the `return_sequences` argument to specify whether you want the full sequences of successive outputs for each timestamp or if you only want the last output.
@@ -745,7 +745,7 @@ model.summary()
 - SimpleRNN doesn’t work as well due to the vanishing gradient problem.
 - *Vanishing gradient problem*: if the network as too many layers, it becomes untrainable.
 - *Long Short-Term Memory (LSTM)*: an extension of RNNs with a carry track to carry information forwards in time.
-![Figure 6.14](/assets/textbooks/deep-learning-with-python/figure6-14.png)
+![Figure 6.14]({{ "/assets/textbooks/deep-learning-with-python/figure6-14.png" | absolute_url }})
 - An LSTM saves information for later thus preventing older signals from gradually vanishing.
 - Psuedocode for an LSTM
 
@@ -775,20 +775,20 @@ c_t+1 = i_t * k_t + c_t * f_t
 - A bidirectional RNN processes input sequences chronologically and anti-chronologically. It trains in both forward and reverse time.
 - Interestingly, reverse-order processing on text works just as well as forward-order processing in some cases.
 - Although the word order does matter in understanding language, which order is used doesn’t matter.
-![Figure 6.25](/assets/textbooks/deep-learning-with-python/figure6-25.png)
+![Figure 6.25]({{ "/assets/textbooks/deep-learning-with-python/figure6-25.png" | absolute_url }})
 - When it comes to markets, past performance is not a good predictor of future returns; looking in the rear-view mirror is a bad way to drive.
 - *1D convolution*: a convolution in one dimension where the window is the slice of time.
-![Figure 6.26](/assets/textbooks/deep-learning-with-python/figure6-26.png)
+![Figure 6.26]({{ "/assets/textbooks/deep-learning-with-python/figure6-26.png" | absolute_url }})
 - Like 2D convnets, 1D convnets find local patterns in the sequence so one pattern learned at one time can later be recognized at a different time.
 - This makes 1D convnets translation invariant for temporal translations.
 - E.g. If it sees that after it’s cloudy it rains, then the next time it’s cloudy, it’ll predict that it’ll rain.
 - Just like max pooling, 1D sequences used 1D pooling.
 - 1D convnets can’t learn longer-term patterns as well as an RNN can due to only focusing on local patterns.
 - However, for very long sequences, you can use a 1D convnet to reduce the sequence’s length and feed that into an RNN.
-![Figure 6.30](/assets/textbooks/deep-learning-with-python/figure6-30.png)
+![Figure 6.30]({{ "/assets/textbooks/deep-learning-with-python/figure6-30.png" | absolute_url }})
 
 **Summary**
-![Chapter 6](/assets/textbooks/deep-learning-with-python/chapter6.png)
+![Chapter 6]({{ "/assets/textbooks/deep-learning-with-python/chapter6.png" | absolute_url }})
 
 ## Chapter 7: Advanced deep-learning best practices
 
@@ -797,10 +797,10 @@ c_t+1 = i_t * k_t + c_t * f_t
   - takes in multiple inputs
   - returns multiple outputs
   - has a graph-like structure
-![Figure 7.1](/assets/textbooks/deep-learning-with-python/figure7-1.png)
-![Figure 7.2](/assets/textbooks/deep-learning-with-python/figure7-2.png)
-![Figure 7.3](/assets/textbooks/deep-learning-with-python/figure7-3.png)
-![Figure 7.5](/assets/textbooks/deep-learning-with-python/figure7-5.png)
+![Figure 7.1]({{ "/assets/textbooks/deep-learning-with-python/figure7-1.png" | absolute_url }})
+![Figure 7.2]({{ "/assets/textbooks/deep-learning-with-python/figure7-2.png" | absolute_url }})
+![Figure 7.3]({{ "/assets/textbooks/deep-learning-with-python/figure7-3.png" | absolute_url }})
+![Figure 7.5]({{ "/assets/textbooks/deep-learning-with-python/figure7-5.png" | absolute_url }})
 
 - The Keras functional API lets you use layers as functions.
 - E.g. The `Sequential` model converted into the functional API.
@@ -829,7 +829,7 @@ model = Model(input_tensor, output_tensor)
 - Resnets are built using residual connections and tackle the following problems
   - vanishing gradients
   - representational bottlenecks
-![Vanishing gradients in deep learning](/assets/textbooks/deep-learning-with-python/vanishing-gradients.png)
+![Vanishing gradients in deep learning]({{ "/assets/textbooks/deep-learning-with-python/vanishing-gradients.png" | absolute_url }})
 - You can use models as you use layers. Think of models as a “bigger layer”.
 - E.g. You can use a model to evaluate a single input: `y = model(x)`.
 - When training a model, we currently let the model run until it starts overfitting. However, this is wasteful and inefficient.
@@ -839,7 +839,7 @@ model = Model(input_tensor, output_tensor)
   - Early stopping when validation loss doesn’t improve
   - Dynamically adjusting the value of certain parameters
   - Logging training/validation metrics
-![Figure 7.9](/assets/textbooks/deep-learning-with-python/figure7-9.png)
+![Figure 7.9]({{ "/assets/textbooks/deep-learning-with-python/figure7-9.png" | absolute_url }})
 - Use Tensorboard to visualize
   - Metrics during training
   - Model architecture
@@ -852,7 +852,7 @@ model = Model(input_tensor, output_tensor)
 - Normalization makes different samples seem more similar.
 - `BatchNormalization` is a type of layer that can continuously normalize data throughout the network.
 - *Depthwise seperable convolution*: separating the learning of spatial features and the learning of channel-wise features.
-![Figure 7.16](/assets/textbooks/deep-learning-with-python/figure7-16.png)
+![Figure 7.16]({{ "/assets/textbooks/deep-learning-with-python/figure7-16.png" | absolute_url }})
 - *Hyperparameters*: the architecture-level parameters.
 - E.g. How many layers/neurons to use, how many epochs, use dropout.
 - *Model ensembling*: pooling together predictions of a set of different models to produce better predictions.
@@ -862,27 +862,27 @@ model = Model(input_tensor, output_tensor)
 - You want ensemble models that are as good as possible but that are also as different as possible.
 
 **Summary**
-![Chapter 7](/assets/textbooks/deep-learning-with-python/chapter7.png)
+![Chapter 7]({{ "/assets/textbooks/deep-learning-with-python/chapter7.png" | absolute_url }})
 
 ## Chapter 8: Generative deep learning
 
 - *Generative recurrent networks*: using an RNN to predict the next token(s) in a sequence using the previous tokens as input.
 - E.g. Given “the sky is bl-” predict “ue”.
 - Once the model is trained, sample from it by feeding the generated output as input.
-![Figure 8.1](/assets/textbooks/deep-learning-with-python/figure8-1.png)
+![Figure 8.1]({{ "/assets/textbooks/deep-learning-with-python/figure8-1.png" | absolute_url }})
 - Example sampling strategies
   - *Greedy sampling*: always choosing the most likely token.
   - *Stochastic sampling*: randomly choosing the next token based on the token’s probability.
 - Stochastic sampling is better than greedy sampling as it provides more variety in the generated output.
 - However, we want to control the randomness or “creativity” of the network to tune how predictable or surprising the output is.
-![Figure 8.2](/assets/textbooks/deep-learning-with-python/figure8-2.png)
+![Figure 8.2]({{ "/assets/textbooks/deep-learning-with-python/figure8-2.png" | absolute_url }})
 - Skipping over the DeepDream content.
 - Skipping over the neural style transfer content.
 - The key idea for image generation is to develop a latent space that can be sampled from to generate images.
-![Figure 8.9](/assets/textbooks/deep-learning-with-python/figure8-9.png)
+![Figure 8.9]({{ "/assets/textbooks/deep-learning-with-python/figure8-9.png" | absolute_url }})
 - *Latent space*: the space that holds all possible abstractions obtained from the environment.
 - Latent space is the same idea as the embedded space for words where certain directions encode certain features.
-![Figure 8.10](/assets/textbooks/deep-learning-with-python/figure8-10.png)
+![Figure 8.10]({{ "/assets/textbooks/deep-learning-with-python/figure8-10.png" | absolute_url }})
 - *Variational autoencoders (VAE)*: a variant of autoencoders that turns the input image into a mean and a variance.
 - The three steps of VAE
   - Encode the image into two parameters in the latent space, a mean and a variance.
@@ -891,7 +891,7 @@ model = Model(input_tensor, output_tensor)
 - *Generative adversarial networks (GAN)*: consists of two parts
   - *Generator network*: takes a random vector as input and decodes it into a synthetic image.
   - *Discriminator network*: takes an image (real/synthetic) and predicts whether the image is real or synthetic.
-![Figure 8.15](/assets/textbooks/deep-learning-with-python/figure8-15.png)
+![Figure 8.15]({{ "/assets/textbooks/deep-learning-with-python/figure8-15.png" | absolute_url }})
 - GANs don’t seek to minimize like SGD, but instead they seek to reach equilibrium.
 - GANs are notoriously difficult to train.
 - It’s important to freeze the discriminator’s weights while training the GAN. This way the discriminator won’t always predict “real”.
@@ -904,14 +904,14 @@ model = Model(input_tensor, output_tensor)
   6. Train `gan` using these random points with targets that all say “real”. Freeze the discriminator’s weights and update the generator’s weights.
 
 **Summary**
-![Chapter 8](/assets/textbooks/deep-learning-with-python/chapter8.png)
+![Chapter 8]({{ "/assets/textbooks/deep-learning-with-python/chapter8.png" | absolute_url }})
 
 ## Chapter 9: Conclusions
 
 - A review on everything learnt in this textbook.
 - Anything requiring reasoning is beyond deep learning.
 - Neural networks doesn’t understand the task they perform.
-![Figure 9.4](/assets/textbooks/deep-learning-with-python/figure9-4.png)
+![Figure 9.4]({{ "/assets/textbooks/deep-learning-with-python/figure9-4.png" | absolute_url }})
 - The only real success of deep learning so far has been the ability to map space X to space Y using a continuous geometric transform, given large amounts of human-annotated data.
 - To make something more efficient, there’s one universal recipe: introduce modularity and hierarchy.
 - So please go on learning, questioning, and researching.
