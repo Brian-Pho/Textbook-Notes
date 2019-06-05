@@ -4,12 +4,12 @@ title: About
 sidebar_link: true
 ---
 
-Hello and welcome to the CR4-DL (Cradle). On this site you'll find my notes from
+Hello and welcome to the CR4-DL (Cradle). On this site, you'll find my notes from
 
-- books I've enjoyed,
-- courses I've taken,
-- papers I've found interesting, and
-- textbooks I've read.
+- books that I've enjoyed,
+- courses that I've taken,
+- papers that I've read, and
+- textbooks that I've studied.
 
 ---
 
@@ -19,42 +19,42 @@ Hello and welcome to the CR4-DL (Cradle). On this site you'll find my notes from
 
 You can visit my [personal website](https://brianpho.com/) to learn more about me but here's a summary.
 
-I'm currently an undergraduate student studying software engineering. My goal is to become an artificial intelligence researcher to achieve my dream: the creation of artificial general intelligence.
+I'm an undergraduate student studying software engineering and my goal is to become a scientist to achieve my dream of creating artificial general intelligence (AGI).
 
-My current plan is to study computer science, neuroscience, cognitive science, and psychology (pretty much all of the brain sciences) in depth to create the basis for me to generate new ideas about intelligence. I believe this is how we should approach imbuing machines with intelligence.
+My current plan is to study computer science, neuroscience, cognitive science, and psychology (pretty much all of the brain sciences) to create the basis for me to generate new ideas about intelligence. I believe this is how we should approach imbuing machines with intelligence; through a biology-inspired approach.
 
 ### Why are you doing this?
 
 I started this site with the intention of sharing my knowledge with others and as
-an archive that I can quickly refer back to. It also helps to make my notes look nicer and be more organized.
+an archive that I can quickly refer back to. It also makes my notes look nice and be more organized.
 
 ### Why research AI?
 
-I'm studying AI for multiple reasons.
+I'm pursing AI for multiple reasons.
 
 - The scientist in me does it **in search of the truth.** What is intelligence? Why are we conscious? What does it mean to be human?
 - The human in me does it **to help humanity.** An AI could theoretically solve all of our problems. World hunger, immortality, space travel, you name it.
 - The child in me does it because **it's fun!** There's so much to explore, learn, and play with. I don't think we should ever forget this child-like innocence about us.
-- The adult in me does it because **I can't see myself doing anything else.** Once AI is created, it will be the best at everything which means that whatever I do now would be done better by an AI.
+- The adult in me does it because **I can't see myself doing anything else.** Once AI is created, it will be the best at everything which means that whatever I do now will be done better by an AI in the future.
 
 ### What's with the name "CR4-DL"?
 
-"CR4-DL" or "Cradle" is my homage to the HBO show [Westworld](https://en.wikipedia.org/wiki/Westworld_(TV_series)), a great show that touches on AI, philosophy, and psychology. CR4-DL reflects the same themes of artificial intelligence, psychology, consciousness, and reality. I think it's a witty name and I am very proud of it. [More info on the CR4-DL in Westworld.](http://westworld.wikia.com/wiki/Cradle)
+CR4-DL (pronounced as "cradle") is my homage to the HBO show [Westworld](https://en.wikipedia.org/wiki/Westworld_(TV_series)); a great show that touches on AI, human nature, and reality. This site reflects similar themes and I really enjoyed the show. I think it's a witty name and I'm very proud of it. [More info on the CR4-DL in Westworld.](http://westworld.wikia.com/wiki/Cradle)
 
 ### How was this site built?
 
-This site was built by me and is currently hosted on Github Pages. The Jekyll theme used is [Hydeout](https://github.com/fongandrew/hydeout) (modified by me).
+This site was built by me and is hosted by Github Pages. The Jekyll theme is [Hydeout](https://github.com/fongandrew/hydeout) which was heavily modified by me.
 
 ### Why study the subjects you've chosen? What's your study plan?
 
-My main goal is the creation of AI (or AGI if you're being technical about it). I'm studying neuroscience because I think of it the "hardware" of the brain while cognitive science as the "software" of the mind. And in order to understand the brain, mind, and intelligence, I believe this entire systems approach is necessary. However, the tradeoff is the massive amount of time and effort needed to become PhD/expert level in each field which is why I'm starting early (I'm currently 20 years old as of writing this in 2018).
+My main goal is the creation of AI (or AGI if you're being technical about it). I'm studying neuroscience because I think of it the "hardware" of the brain with cognitive science as the "software" of the mind. In order to understand the brain, mind, and intelligence, I believe this entire systems approach is necessary. However, the tradeoff is the massive amount of time and effort needed to become PhD/expert level in each field which is why I'm starting early (I'm currently 20 years old as of writing this in 2018).
 
 My plan is to first read through the foundational textbooks in each field to understand the basics of each subject, and then to branch off into papers where the frontier of knowledge is at. Along the way, I plan on studying non-related subjects like critical thinking, writing, and learning to help improve me as a learner, researcher, and person.
 
 ### Where can I find updates on your journey?
 
-I've created another site that handles more of the blogging/narrative side of my journey. It's called "Cadence" and you can access it [here](https://brianpho.com/Cadence/).
-The ongoing updates are in the post titled [My quest for artificial intelligence](https://brianpho.com/Cadence/2019/05/09/my-quest-for-artificial-intelligence.html).
+I've created another site to handle more of the blogging and narrative side of my journey. It's called "Cadence" and you can access it [here](https://brianpho.com/Cadence/).
+The ongoing updates are in this post: [My quest for artificial intelligence](https://brianpho.com/Cadence/2019/05/09/my-quest-for-artificial-intelligence.html).
 
 ### How do I get in contact with you?
 
