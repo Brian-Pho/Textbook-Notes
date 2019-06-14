@@ -21,7 +21,7 @@ highlighter:      rouge
 
 # Outputting
 permalink:        date
-paginate:         5
+paginate:         10
 paginate_path:    /page:num
 timezone:         null
 
