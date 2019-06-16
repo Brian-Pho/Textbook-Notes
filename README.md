@@ -31,7 +31,6 @@ Theme Link: <https://github.com/fongandrew/hydeout>
 
 ## Image Compression
 
-- <https://compressor.io/>
 - <https://tinypng.com/>
 
 ## Other Resources
@@ -48,3 +47,14 @@ Theme Link: <https://github.com/fongandrew/hydeout>
 - <https://codepen.io/mathiesjanssen/pen/ggeBKm>
 - <https://github.com/DavidAnson/markdownlint/blob/v0.10.0/doc/Rules.md>
 - jekyll serve --livereload
+
+## Note Creation Process
+
+### Books
+
+1. Write notes in Dropbox Paper.
+2. Export notes in Markdown and copy them to site.
+3. Download images and fix to compile with linter.
+4. Replace image URLs with local ones.
+5. Compress images with TinyPNG.
+6. Test locally.
