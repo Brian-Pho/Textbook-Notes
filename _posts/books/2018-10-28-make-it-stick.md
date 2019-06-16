@@ -20,6 +20,7 @@ excerpt: "Learning to learn."
 - [Chapter 8: Make It Stick](#chapter-8-make-it-stick)
   - [Learning Tips for Students](#learning-tips-for-students)
   - [Tips for Teachers](#tips-for-teachers)
+- [Summary Notes from an Amazon Review](#summary-notes-from-an-amazon-review)
 
 </div>
 </details>
@@ -200,3 +201,113 @@ excerpt: "Learning to learn."
 - You learn better when you wrestle with new problems before being shown the solution, rather than the other way around.
 - To achieve excellence in any sphere, you must strive to surpass your current level of ability.
 - Striving, by its nature, often results in setbacks, and setbacks are often what provide the essential information needed to adjust strategies to achieve mastery.
+
+## Summary Notes from an Amazon Review
+
+Link: <https://www.amazon.com/gp/customer-reviews/R3FD590UQEMSKG/ref=cm_cr_arp_d_rvw_ttl?ie=UTF8&ASIN=B00JQ3FN7M>
+
+---
+
+Conventional Wisdom: Make learning easy
+
+Best practice: Design learning with desirable difficulties
+
+Discussion: “Learning is deeper and more durable when it is effortful.” “Difficulties that elicit more effort and that slow down learning… will more than compensate for their inconvenience by making the learning stronger, more precise, and more enduring. Short-term impediments that make for stronger learning have come to be called desirable difficulties.” “Don’t assume you are doing something wrong if the learning feels hard.” “Not all difficulties in learning are desirable ones. Anxiety while taking a test seems to represent an undesirable difficulty.” Slow down to find meaning. Always read prior to the lecture. “Training has to be engaging in order to hold employees’ attention.”
+
+---
+
+Conventional Wisdom: Concentrate on one topic at a time (aka. massed practice)
+
+Best practice: Interleave different but related topics
+
+Discussion: “Learning from interleaved practice feels slower than learning from massed practice.” While interleaving can impede performance during initial learning (tests taken immediately after exposure), interleaving has been show to boost “final test performance by a remarkable 215 percent.” In addition, “commonalities… learned through massed practice proved less useful than the differences … learned through interleaving.” “In interleaving, you don’t move from a complete practice set of one topic to go to another. You switch before each practice is complete… You need to shuffle your flashcards.”
+
+---
+
+Conventional Wisdom: Reread material multiple times and in close succession
+
+Best practice: Space repetition
+
+Discussion: “Repetition by itself does not lead to good long-term memory… It makes sense to reread a text once if there’s been a meaningful lapse [at least a day in between] since the first reading.” “The increased effort required to retrieve the learning after a little forgetting has the effect of retriggering consolidation, further strengthening memory.” “Design quizzing and exercises to reach back to concepts and learning covered earlier in the term, so that retrieval practices continues and the learning is cumulative.” Spiral upward at increasing levels of difficulty with each re-exposure.
+
+---
+
+Conventional Wisdom: Reread to lock-in knowledge
+
+Best practice: Focus on effortful recall of facts or concepts or events from memory (aka. Retrieval practice)
+
+Discussion: “Retrieving knowledge and skill from memory should become your primary study strategy in place of rereading.” There are many methods of retrieval practice. Elaboration, expressing new material in your own words and connecting it with what you already know to find new layers of meaning, for instance by writing daily summaries, is the most effective. Moreover, “cultivating the habit of reflecting on ones’ experiences, of making them into a story, strengthens learning.” Essays and short answer tests are the next most effective durable learning strategies because they involve “Generation… an attempt to answer a question… before being shown the answer”, followed by practice with flash cards, reflection, and, least effective though still useful, multiple choice or true/false questions. To foster this, convert main points into questions to answer during subsequent studying rather than (or in addition to) highlighting and underling,
+
+---
+
+Conventional Wisdom: Conduct pop-quizzes and high-stakes post-testing with a goal toward errorless results
+
+Best practice: Conduct frequent, predictable, low-stakes testing (including pre-testing)
+
+Discussion: “Trying to solve a problem before being taught the solution leads to better learning, even when errors are made in the attempt.” In fact, “making mistakes and correcting them builds the bridges to advanced learning.” In addition, frequent quizzing – especially when quizzes are announced in advance - actually reduces learner anxiety. With respect to anxiety, the peak-end rule applies; people judge experiences based on how they were at the peak and at the end. Appreciate that “errors are a natural part of learning.” “Make quizzing and practice exercises count toward the course grade, even if for very low stakes.” Set “clear learning objectives prior to each class.”
+
+---
+
+Conventional Wisdom: Match instructional style to each learner’s preference
+
+Best practice: Match instructional style to the nature of the content
+
+Discussion: While people do have preferred learning styles (ex: visual, auditory, kinesthetic, tactile), empirical research does not support the notion that learning in your preferred style leads to superior outcomes. “When instructional style matches the nature of the content, all learners learn better, regardless of their differing preferences for how the material is taught.”
+
+---
+
+Conventional Wisdom: Memorize
+
+Best practice: Extract underlying principles (aka “rule learning” and “structure building”)
+
+Discussion: “It is better to solve a problem than to memorize a solution.” “Mnemonic devise are sometimes discounted as tricks of memory, not tools that fundamentally add to learning, and in a sense this is correct. The value of mnemonics to raise intellectual abilities comes after mastery of new material.”
+
+---
+
+Conventional Wisdom: Learn abstract concepts
+
+Best practice: Learn using methods and examples that are concrete and personal
+
+Discussion: “The kind of retrieval practice that proves most effective is one that reflects what you’ll be doing with the knowledge later. It’s not just what you know, but how you practice what you know that determines how well the learning serves you later.” Simulations and role-playing are excellent techniques. “Difficulties that don’t strengthen the skills you will need, or the kinds of challenges you are likely to encounter in the real-world application of your learning, are not desirable.” “Practice like you play, because you will play like you practice.” “Sustained deliberate practice… [is] goal-directed, often solitary, and consists of repeated striving to reach beyond your current level of performance.”
+
+---
+
+Conventional Wisdom: Read without pausing
+
+Best practice: Spend 40% of time reading and 60% of time “looking up from the material and silently reciting” what it contains.
+
+---
+
+Conventional Wisdom: Provide immediate feedback
+
+Best practice: Delay feedback
+
+Discussion: “Delaying the feedback briefly produces better long-term learning than immediate feedback.” That said, receiving immediate corrective feedback is better than receiving no feedback at all.
+
+---
+
+Conventional Wisdom: Review all concepts equally
+
+Best practice: Disproportionately focus on the least familiar material (aka dynamic testing)
+
+Discussion: To increase frequency of practice on less familiar material without completely ignoring the most familiar material, use the Leitner box method. “Think of it as a series of four file-card boxes. In the first are the study materials… that must be practices frequently because you often make mistakes in them. In the second box are the cards you’re pretty good at, and that box gets practiced less often than the first, perhaps by half. The cards in the third box are practiced less often than those in the second box, and so on.”
+
+---
+
+Conventional Wisdom: Accept that IQ is fixed
+
+Best practice: Focus on mindset
+
+Discussion: “Average IQs have risen over the past century with changes in living conditions... IQ is a product of genes and environment” including increased stimulation, nurturing, nutrition “One difference that matters a lot is how you see yourself and your abilities. As the maxim goes, ‘Whether you think you can or you think you can’t, you’re right.’” Adopt a growth mindset rather than a fixed mindset; “consider your expertise to be in a continuing state of development.” “Success is less dependent on IQ than on grit, curiosity, and persistence.” Knowledge is a foundational element of creativity, critical thinking, and application. “The upper limits of your performance on any cognitive or manual skill may be set by factors beyond your control, such as you intelligence and the natural limits of your ability, but most of us can learn to perform nearer to our full potential in most areas by discovering our weaknesses and working to bring them up.” “Achieving expertise in any field if particular to that field… The central idea here is that expert performance is a product of the quantity of and the quality of practice, not of genetic predisposition, and that becoming expert is not beyond the reach of normally gifted people who have the motivation, time, and discipline to pursue it.”
+
+---
+
+Conventional Wisdom: Trust your own sense of mastery
+
+Best practice: Calibrate your judgment
+
+Discussion: “Calibration is the act of aligning your judgments of what you know and don’t know with objective feedback so as to avoid being carried off by the illusions of mastery that catch many learning by surprise at test time.”
+
+---
+
+Note: This book practices what it preaches with lots and lots of repetition. The authors are up-front about that but it does get well... repetitive.
