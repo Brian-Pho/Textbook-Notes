@@ -21,7 +21,7 @@ Computer science is no more about computers than astronomy is about telescopes. 
   - [Chapter 2: Before we begin: the mathematical building blocks of neural networks](#chapter-2-before-we-begin-the-mathematical-building-blocks-of-neural-networks)
   - [Chapter 3: Getting started with neural networks](#chapter-3-getting-started-with-neural-networks)
   - [Chapter 4: Fundamentals of machine learning](#chapter-4-fundamentals-of-machine-learning)
-- [Part 2: Deep Learning in Practice](#part-2-deep-learning-in-practice)
+- [Part II: Deep Learning in Practice](#part-ii-deep-learning-in-practice)
   - [Chapter 5: Deep learning for computer vision](#chapter-5-deep-learning-for-computer-vision)
   - [Chapter 6: Deep learning for text and sequences](#chapter-6-deep-learning-for-text-and-sequences)
   - [Chapter 7: Advanced deep-learning best practices](#chapter-7-advanced-deep-learning-best-practices)
@@ -554,7 +554,7 @@ model.add(layers.Dense(1, activation='sigmoid'))
 **Summary**
 ![Chapter 4]({{ "/assets/textbooks/deep-learning-with-python/chapter4.png" | absolute_url }})
 
-# Part 2: Deep Learning in Practice
+# Part II: Deep Learning in Practice
 
 ## Chapter 5: Deep learning for computer vision
 

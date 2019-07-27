@@ -16,63 +16,63 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 <summary>Table of Contents</summary>
 <div markdown="1">
 
-- [Part One: Beginnings](#part-one-beginnings)
-  - [Chapter One: Dreams and Dreamers](#chapter-one-dreams-and-dreamers)
-  - [Chapter Two: Clues](#chapter-two-clues)
-- [Part Two: Early Explorations: 1950s and 1960s](#part-two-early-explorations-1950s-and-1960s)
-  - [Chapter Three: Gatherings](#chapter-three-gatherings)
-  - [Chapter Four: Pattern Recognition](#chapter-four-pattern-recognition)
-  - [Chapter Five: Early Heuristics Programs](#chapter-five-early-heuristics-programs)
-  - [Chapter Six: Semantic Representations](#chapter-six-semantic-representations)
-  - [Chapter Seven: Natural Language Processing](#chapter-seven-natural-language-processing)
-  - [Chapter Eight: 1960s' Infrastructure](#chapter-eight-1960s-infrastructure)
-- [Part Three: Efflorescence: Mid-1960s to Mid-1970s](#part-three-efflorescence-mid-1960s-to-mid-1970s)
-  - [Chapter Nine: Computer Vision](#chapter-nine-computer-vision)
-  - [Chapter Ten: "Hand-Eye" Research](#chapter-ten-%22hand-eye%22-research)
-  - [Chapter Eleven: Knowledge Representation and Reasoning](#chapter-eleven-knowledge-representation-and-reasoning)
-  - [Chapter Twelve: Mobile Robots](#chapter-twelve-mobile-robots)
-  - [Chapter Thirteen: Progress in Natural Language Processing](#chapter-thirteen-progress-in-natural-language-processing)
-  - [Chapter Fourteen: Game Playing](#chapter-fourteen-game-playing)
-  - [Chapter Fifteen: The Dendral Project](#chapter-fifteen-the-dendral-project)
-  - [Chapter Sixteen: Conferences, Books, and Funding](#chapter-sixteen-conferences-books-and-funding)
-- [Part Four: Applications and Specializations: 1970s to Early 1980s](#part-four-applications-and-specializations-1970s-to-early-1980s)
-  - [Chapter Seventeen: Speech Recognition and Understanding Systems](#chapter-seventeen-speech-recognition-and-understanding-systems)
-  - [Chapter Eighteen: Consulting Systems](#chapter-eighteen-consulting-systems)
-  - [Chapter Nineteen: Understanding Queries and Signals](#chapter-nineteen-understanding-queries-and-signals)
-  - [Chapter Twenty: Progress in Computer Vision](#chapter-twenty-progress-in-computer-vision)
-  - [Chapter Twenty-One: Boomtimes](#chapter-twenty-one-boomtimes)
-- [Part Five: "New-Generation" Projects](#part-five-%22new-generation%22-projects)
-  - [Chapter Twenty-Two: The Japanese Create a Stir](#chapter-twenty-two-the-japanese-create-a-stir)
-  - [Chapter Twenty-Three: DARPA's Strategic Computing Program](#chapter-twenty-three-darpas-strategic-computing-program)
-- [Part Six: Entr'acte](#part-six-entracte)
-  - [Chapter Twenty-Four: Speed Bumps](#chapter-twenty-four-speed-bumps)
-  - [Chapter Twenty-Five: Controversies and Alternative Paradigms](#chapter-twenty-five-controversies-and-alternative-paradigms)
-- [Part Seven: The Growing Armamentarium: From the 1980s Onward](#part-seven-the-growing-armamentarium-from-the-1980s-onward)
-  - [Chapter Twenty-Six: Reasoning and Representation](#chapter-twenty-six-reasoning-and-representation)
-  - [Chapter Twenty-Seven: Other Approaches to Reasoning and Representation](#chapter-twenty-seven-other-approaches-to-reasoning-and-representation)
-  - [Chapter Twenty-Eight: Bayesian Networks](#chapter-twenty-eight-bayesian-networks)
-  - [Chapter Twenty-Nine: Machine Learning](#chapter-twenty-nine-machine-learning)
-  - [Chapter Thirty: Natural Languages and Natural Scenes](#chapter-thirty-natural-languages-and-natural-scenes)
-  - [Chapter Thirty-One: Intelligent System Architectures](#chapter-thirty-one-intelligent-system-architectures)
-- [Part Eight: Modern AI: Today and Tomorrow](#part-eight-modern-ai-today-and-tomorrow)
-  - [Chapter Thirty-Two: Extraordinary Achievements](#chapter-thirty-two-extraordinary-achievements)
-  - [Chapter Thirty-Three: Ubiquitous Artificial Intelligence](#chapter-thirty-three-ubiquitous-artificial-intelligence)
-  - [Chapter Thirty-Four: Smart Tools](#chapter-thirty-four-smart-tools)
-  - [Chapter Thirty-Five: The Quest Continues](#chapter-thirty-five-the-quest-continues)
+- [Part I: Beginnings](#part-i-beginnings)
+  - [Chapter 1: Dreams and Dreamers](#chapter-1-dreams-and-dreamers)
+  - [Chapter 2: Clues](#chapter-2-clues)
+- [Part II: Early Explorations: 1950s and 1960s](#part-ii-early-explorations-1950s-and-1960s)
+  - [Chapter 3: Gatherings](#chapter-3-gatherings)
+  - [Chapter 4: Pattern Recognition](#chapter-4-pattern-recognition)
+  - [Chapter 5: Early Heuristics Programs](#chapter-5-early-heuristics-programs)
+  - [Chapter 6: Semantic Representations](#chapter-6-semantic-representations)
+  - [Chapter 7: Natural Language Processing](#chapter-7-natural-language-processing)
+  - [Chapter 8: 1960s' Infrastructure](#chapter-8-1960s-infrastructure)
+- [Part III: Efflorescence: Mid-1960s to Mid-1970s](#part-iii-efflorescence-mid-1960s-to-mid-1970s)
+  - [Chapter 9: Computer Vision](#chapter-9-computer-vision)
+  - [Chapter 10: "Hand-Eye" Research](#chapter-10-%22hand-eye%22-research)
+  - [Chapter 11: Knowledge Representation and Reasoning](#chapter-11-knowledge-representation-and-reasoning)
+  - [Chapter 12: Mobile Robots](#chapter-12-mobile-robots)
+  - [Chapter 13: Progress in Natural Language Processing](#chapter-13-progress-in-natural-language-processing)
+  - [Chapter 14: Game Playing](#chapter-14-game-playing)
+  - [Chapter 15: The Dendral Project](#chapter-15-the-dendral-project)
+  - [Chapter 16: Conferences, Books, and Funding](#chapter-16-conferences-books-and-funding)
+- [Part IV: Applications and Specializations: 1970s to Early 1980s](#part-iv-applications-and-specializations-1970s-to-early-1980s)
+  - [Chapter 17: Speech Recognition and Understanding Systems](#chapter-17-speech-recognition-and-understanding-systems)
+  - [Chapter 18: Consulting Systems](#chapter-18-consulting-systems)
+  - [Chapter 19: Understanding Queries and Signals](#chapter-19-understanding-queries-and-signals)
+  - [Chapter 20: Progress in Computer Vision](#chapter-20-progress-in-computer-vision)
+  - [Chapter 21: Boomtimes](#chapter-21-boomtimes)
+- [Part V: "New-Generation" Projects](#part-v-%22new-generation%22-projects)
+  - [Chapter 22: The Japanese Create a Stir](#chapter-22-the-japanese-create-a-stir)
+  - [Chapter 23: DARPA's Strategic Computing Program](#chapter-23-darpas-strategic-computing-program)
+- [Part VI: Entr'acte](#part-vi-entracte)
+  - [Chapter 24: Speed Bumps](#chapter-24-speed-bumps)
+  - [Chapter 25: Controversies and Alternative Paradigms](#chapter-25-controversies-and-alternative-paradigms)
+- [Part VII: The Growing Armamentarium: From the 1980s Onward](#part-vii-the-growing-armamentarium-from-the-1980s-onward)
+  - [Chapter 26: Reasoning and Representation](#chapter-26-reasoning-and-representation)
+  - [Chapter 27: Other Approaches to Reasoning and Representation](#chapter-27-other-approaches-to-reasoning-and-representation)
+  - [Chapter 28: Bayesian Networks](#chapter-28-bayesian-networks)
+  - [Chapter 29: Machine Learning](#chapter-29-machine-learning)
+  - [Chapter 30: Natural Languages and Natural Scenes](#chapter-30-natural-languages-and-natural-scenes)
+  - [Chapter 31: Intelligent System Architectures](#chapter-31-intelligent-system-architectures)
+- [Part VIII: Modern AI: Today and Tomorrow](#part-viii-modern-ai-today-and-tomorrow)
+  - [Chapter 32: Extraordinary Achievements](#chapter-32-extraordinary-achievements)
+  - [Chapter 33: Ubiquitous Artificial Intelligence](#chapter-33-ubiquitous-artificial-intelligence)
+  - [Chapter 34: Smart Tools](#chapter-34-smart-tools)
+  - [Chapter 35: The Quest Continues](#chapter-35-the-quest-continues)
 
 </div>
 </details>
 
-## Part One: Beginnings
+## Part I: Beginnings
 
-### Chapter One: Dreams and Dreamers
+### Chapter 1: Dreams and Dreamers
 
 - "For seeing life is but a motion of limbs, the beginning whereof is in some principal part within, why may we not say that all automata have an artificial life? For what is the heart, but a spring; and the nerves, but so many strings; and the joints, but so many wheels, giving motion to the whole body."
   - Thomas Hobbes in *Leviathan*
 - The quest for artificial intelligence begins with dreams like these.
 - To turn these dreams into reality requires usable clues about how to proceed.
 
-### Chapter Two: Clues
+### Chapter 2: Clues
 
 - Clues about what might be needed to make machines intelligent are scattered throughout philosophy, logic, biology, psychology, statistics, and engineering.
 - Leibniz attempted to design a language in which all human knowledge could be formulated.
@@ -111,9 +111,9 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - It may be argued that one cannot expect to be able to mimic the behavior of the nervous system with a discrete-state system.
 - Alan Turing suggested "Instead of trying to produce a programme to simulate the adult mind, why not rather try to produce one which simulates the child's? If this were then subjected to an appropriate course of education one would obtain the adult brain."
 
-## Part Two: Early Explorations: 1950s and 1960s
+## Part II: Early Explorations: 1950s and 1960s
 
-### Chapter Three: Gatherings
+### Chapter 3: Gatherings
 
 - If machines are to become intelligent, they must be able to do the thinking-related things that humans can do.
 - The emergence of artificial intelligence as a full-fledged area of research coincided with three important meetings:
@@ -132,7 +132,7 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - Each of the next level of demons specializes in listening for a particular combination of shouts from the data demons.
 - E.g. one of the demons at this level might be tuned to listen for shouts from data demon 3, data demon 11, and data demon 22. If it finds that these particular demons are shouting loudly, it responds with a shout of its own to the demons one level up in the hierarchy, and so on.
 
-### Chapter Four: Pattern Recognition
+### Chapter 4: Pattern Recognition
 
 - Their work benefitted from introspection about how humans solve problems.
 - Many of our mental abilities are beyond our power of introspection.
@@ -145,7 +145,7 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - Approaches to AI problems involving neural networks and statistical techniques came to be called "nonsymbolic" to contrast them with the "symbol-processing" work being pursued by those interested in proving theorems, playing games, and problem solving.
 - These nonsymbolic approaches found application mainly in pattern recognition, speech processing, and computer vision.
 
-### Chapter Five: Early Heuristics Programs
+### Chapter 5: Early Heuristics Programs
 
 - To constrain what was later called "the combinatorial explosion", Newell and Simon suggested using "heuristics" to generate transformations guessed as likely to be on the path to a solution.
 - "It's often argued that a careful line must be drawn between the attempt to accomplish with machines the same tasks that humans perform, and the attempt to simulate the processes humans actually use to accomplish these tasks."
@@ -154,7 +154,7 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - Do people use subprograms and recursion in their own thinking?
 - Possibly, but their ability to recall how to resume what some higher level thought process was doing when that process starts up a chain of lower level processes is certainly limited.
 
-### Chapter Six: Semantic Representations
+### Chapter 6: Semantic Representations
 
 - Began to employ more complex symbol structures in programs for performing various intellectual tasks. Because of their rich, articulated content of information about their problem topic, these structures were called semantic representations.
 - The meaning of a term is represented by its place in the network and how it's connected to other terms.
@@ -164,7 +164,7 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - As Quillian puts it, "every word is the patriarch of its own separate hierarchy when some search process starts with it. Similarly, every word lies at various places down within the hierarchies of (i.e., is an ingredient in) a great many other word concepts, when processing starts with them."
 - Like artificial neural networks, information is stored in the links.
 
-### Chapter Seven: Natural Language Processing
+### Chapter 7: Natural Language Processing
 
 - Language can be analyzed at several different levels.
 - These levels can be arranged into a hierarchy, starting with the most basic components of language (sounds and word parts) and proceeding upward to levels dealing with sentences.
@@ -180,7 +180,7 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - E.g. through semantic analysis, an "idea" can't be both "colorless" and "green."
 - One of the factors leading Bar-Hillel to his negative conclusions was the apparent difficulty of giving computers the "world knowledge" they would need for high-quality translation.
 
-### Chapter Eight: 1960s' Infrastructure
+### Chapter 8: 1960s' Infrastructure
 
 - New computer languages made it much easier to build AI systems.
 - Researchers from mathematics, cognitive science, linguistics, and what soon would be called "computer science" came together in meetings and in newly formed laboratories to attack the problem of mechanizing intelligent behavior.
@@ -193,22 +193,22 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - Researchers now had new programming languages that made it easier to write symbol-processing programs.
 - Complementing all of this symbol-processing technology were neural networks and related statistical approaches to pattern recognition.
 
-## Part Three: Efflorescence: Mid-1960s to Mid-1970s
+## Part III: Efflorescence: Mid-1960s to Mid-1970s
 
-### Chapter Nine: Computer Vision
+### Chapter 9: Computer Vision
 
 - Most computer vision work is based on processing two-dimensional images gathered from a three-dimensional world.
 - Different three-dimensional scenes might produce the same two-dimensional image.
 - The problem of reconstructing the scene faithfully from an image is impossible in principle.
 - They seem to be able to interpret the two-dimensional images formed on their retinas in a way that gives them accurate information about their environments.
 
-### Chapter Ten: "Hand-Eye" Research
+### Chapter 10: "Hand-Eye" Research
 
 - McCarthy told me that he got interested in robots because of his interest in computer vision.
 - He wasn't excited about the work in pattern recognition "it was "discrimination" rather than "description."
 - Mostly about robots which I'm not interested in.
 
-### Chapter Eleven: Knowledge Representation and Reasoning
+### Chapter 11: Knowledge Representation and Reasoning
 
 - For a system to be intelligent, it must have knowledge about its world and the means to draw conclusions from, or at least act on, that knowledge.
 - Humans and machines alike therefore must have ways to represent this needed knowledge in internal structures, whether encoded in protein or silicon.
@@ -221,12 +221,12 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - Frame systems accommodated a style of reasoning in which details "not specifically warranted" could be assumed, thus "bypassing "logic," as Minsky would have it.
 - The last section of Minsky's paper about frames gives many reasons why one might doubt "the feasibility of representing ordinary knowledge effectively in the form of many small, independently 'true' propositions."
 
-### Chapter Twelve: Mobile Robots
+### Chapter 12: Mobile Robots
 
 - A* came out of trying to find the shortest path for mobile robots.
 - Skimmed due to it being on hardware/robots.
 
-### Chapter Thirteen: Progress in Natural Language Processing
+### Chapter 13: Progress in Natural Language Processing
 
 - John Hutchins has called the period 1967 to 1976, "the quiet decade."
 - Inactivity in the field during this period is due to the ALPAC report which was pessimistic about the prospects for machine translation.
@@ -237,14 +237,14 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - In addition to a grammar of the language, they need to have all sorts of knowledge about the subject they are discussing, and they have to use reasoning to combine facts in the right way to understand a sentence and to respond to it.
 - The success of SHRDLU fueled a debate among AI researchers about the pros and cons of procedural versus declarative knowledge.
 
-### Chapter Fourteen: Game Playing
+### Chapter 14: Game Playing
 
 - A person uses prodigious amounts of knowledge in the pattern-recognition process and a small amount of calculation to verify the fact that the proposed solution is good in the present instance.
 - However, the computer would make the same maneuver because it found at the end of a large search that it was the most advantageous way to proceed out of the hundreds of thousands of possibilities.
 - Berliner summed up the difference by saying that "The basis of human chess strength, by contrast [with computers], is accumulated knowledge".
 - Specific knowledge about the problem being solved, as opposed to the use of massive search in solving the problem, came to be a major theme of artificial intelligence research during this period.
 
-### Chapter Fifteen: The Dendral Project
+### Chapter 15: The Dendral Project
 
 - An important innovation made during the Dendral project was a simulation of how a chemical structure would break up in a mass spectrometer.
 - After HEURISTIC DENDRAL produced some candidate structures for a particular compound, these structures were subjected to analysis in the simulated mass spectrometer. The outputs were then compared with the actual mass spectrometer output.
@@ -255,7 +255,7 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - Embedding the knowledge of experts in AI programs led to the development of many "expert systems".
 - It also led to increased concentration on specific and highly constrained problems and away from focusing on the general mechanisms of intelligence.
 
-### Chapter Sixteen: Conferences, Books, and Funding
+### Chapter 16: Conferences, Books, and Funding
 
 - During the early years, organization of the conferences was rather informal, decisions about future conferences being made by a core group of some of the leaders of the field who happened to show up at organizing meetings.
 - As the field began to develop its techniques and methods, graduate courses in artificial intelligence were offered at some universities.
@@ -269,9 +269,9 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - He wrote that "In no part of the field have the discoveries made so far produced the major impact that was then promised." He concluded that AI's existing search techniques would not scale to real problems because they would be stymied by the combinatorial explosion.
 - Lighthill's report resulted in a substantial curtailment of AI research in the United Kingdom.
 
-## Part Four: Applications and Specializations: 1970s to Early 1980s
+## Part IV: Applications and Specializations: 1970s to Early 1980s
 
-### Chapter Seventeen: Speech Recognition and Understanding Systems
+### Chapter 17: Speech Recognition and Understanding Systems
 
 - The difference between recognizing an isolated spoken word versus processing a continuous stream of speech.
 - Most AI research has concentrated on the second and harder of these problems.
@@ -289,22 +289,22 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - E.g. high-quality speech recognition is commonly employed today in many automated telephone response systems.
 - However, understanding natural language remains a long-term research problem.
 
-### Chapter Eighteen: Consulting Systems
+### Chapter 18: Consulting Systems
 
 - It became common to divide the program into two parts, namely, the "inference engine" for applying rules and the "knowledge base" of rules.
 - In principle, new rules could be added without having to change the inference engine.
 - This separation suggests that one could construct expert systems for other applications simply by replacing the medical knowledge with some other knowledge base without having to change the inference engine.
 
-### Chapter Nineteen: Understanding Queries and Signals
+### Chapter 19: Understanding Queries and Signals
 
 - Although one can describe generally the problems one is trying to solve, one can't describe (ahead of time) what the solutions are going to be.
 - As exploratory research progresses, new problems become apparent, so one can't even describe all the problems ahead of time. One can't make the kind of detailed plan for basic research that one can make for applying already developed technology to specific applications.
 
-### Chapter Twenty: Progress in Computer Vision
+### Chapter 20: Progress in Computer Vision
 
 - Most early visual processes extract information about the visible surfaces directly, without particular regard to whether they happen to be part of a horse, or a man, or a tree.
 
-### Chapter Twenty-One: Boomtimes
+### Chapter 21: Boomtimes
 
 - Even though the Mansfield Amendment and the Lighthill report caused difficulties for AI research during the 1970s, the promise of important applications sustained overall funding levels from both government and industry.
 - The boom continued with Japan's "Fifth Generation Computer Systems" project.
@@ -312,9 +312,9 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - It also helped to provoke the formation of similar research efforts in Europe as well as the formation of American industrial consortia for furthering advances in computer hardware.
 - Assessments of some of AI's difficulties and achievements, compared to some of its promises, led to the end of the boom in the late 1980s causing what some called an "AI winter."
 
-## Part Five: "New-Generation" Projects
+## Part V: "New-Generation" Projects
 
-### Chapter Twenty-Two: The Japanese Create a Stir
+### Chapter 22: The Japanese Create a Stir
 
 - In 1982, Japan's Ministry of International Trade and Industry launched a joint government and industry project to develop what they called "Fifth Generation Computer Systems" (FGCS).
 - Its goal was to produce computers that could perform AI-style inferences from large data and knowledge bases and communicate with humans using natural language.
@@ -328,7 +328,7 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - Many observers think that most of the results of the FGCS project are now of historical interest only. The software developed did not find notable applications.
 - According to Oakley, "If the Lighthill Report of the early 1970s was paradise lost for the AI community, the Alvey Report of the early 1980s was paradise regained."
 
-### Chapter Twenty-Three: DARPA's Strategic Computing Program
+### Chapter 23: DARPA's Strategic Computing Program
 
 - DARPA should sponsor a major research and development program that would integrate efforts in all of these areas to create much more powerful computer systems.
 - At the same time, there was concern that the Japanese FGCS program could threaten U.S. leadership in computer technology.
@@ -337,9 +337,9 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - Most commentators doubt that the SC program achieved its goal of pulling new AI technology into the SC applications.
 - Developing the kinds of capabilities envisioned by the SC applications required AI inventions, and the atmosphere needed for invention is not conducive to tightly programmed milestone demonstrations.
 
-## Part Six: Entr'acte
+## Part VI: Entr'acte
 
-### Chapter Twenty-Four: Speed Bumps
+### Chapter 24: Speed Bumps
 
 - One of the best chapters in this textbook.
 - There have been naysayers from the earliest days of artificial intelligence. Alan Turing anticipated some of their objections in his 1950 paper.
@@ -366,7 +366,7 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - Undoubtedly, some of the blame for their unjustified optimism could be placed on AI researchers themselves who were motivated to make exaggerated promises.
 - The failure to deliver systems matching these unrealistic hopes, together with the accumulating critical commentary that I have already mentioned, combined in the mid to late 1980s to bring on what came to be called an "AI winter."
 
-### Chapter Twenty-Five: Controversies and Alternative Paradigms
+### Chapter 25: Controversies and Alternative Paradigms
 
 - Frustrated with AI's slowdown, people with different approaches to AI eagerly stepped forward to claim that what AI needed was more of this or that alternative to AI's reigning paradigm "good-old-fashioned AI" or GOFAI.
 - GOFAI had as its primary rationale the belief that a "physical symbol system has the necessary and sufficient means for intelligent action." But GOFAI seemed to be running out of steam during the 1980s, making it vulnerable to challenges by AI researchers themselves.
@@ -383,9 +383,9 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - Much of the neural network research during this period came to be called "connectionist" or "brain-style" computation, to contrast it with GOFAI.
 - "Virtually all problems in artificial intelligence, machine learning, adaptive systems, and automated learning can be recast as a search for a computer program. Genetic programming provides a way to successfully conduct the search for a computer program in the space of computer programs."
 
-## Part Seven: The Growing Armamentarium: From the 1980s Onward
+## Part VII: The Growing Armamentarium: From the 1980s Onward
 
-### Chapter Twenty-Six: Reasoning and Representation
+### Chapter 26: Reasoning and Representation
 
 - Those AI researchers called logicists, who favor the use of logical languages for representing knowledge and the use of logical methods for reasoning, acknowledge one problem with ordinary logic; namely, it's monotonic.
 - By that they mean that the set of logical conclusions that can be drawn from a set of logical statements does not decrease as more statements are added to the set. If one could prove a statement from a given knowledge base, one could still prove that same statement when more knowledge is added.
@@ -402,11 +402,11 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - Gradually the controversy moderated because researchers came to accept the idea that semantic networks could be thought of as a special way of representing certain kinds of logical statements, thereby permitting some deductions to be made directly from the network.
 - Decided to undertake the immense task of providing computers with common-sense knowledge. The first step, he thought, would be to "prime the pump with the millions of everyday terms, concepts, facts, and rules of thumb" that comprise common sense.
 
-### Chapter Twenty-Seven: Other Approaches to Reasoning and Representation
+### Chapter 27: Other Approaches to Reasoning and Representation
 
 - No notes because it wasn't interesting.
 
-### Chapter Twenty-Eight: Bayesian Networks
+### Chapter 28: Bayesian Networks
 
 - Much human reasoning is about propositions and quantities that are uncertain. Our beliefs about many things are provisional (that is, subject to change) and qualified (that is, having various levels of confidence).
 - AI systems, too, need to be able to deal with uncertain information.
@@ -415,7 +415,7 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - One thing that all of these applications has taught us is the importance of massive amounts of data, which has turned out to be the major theme of modern AI.
 - The fact that full explanations involve rather complex mathematics testifies again to the great increase in AI's technical depth that began in the 1980s.
 
-### Chapter Twenty-Nine: Machine Learning
+### Chapter 29: Machine Learning
 
 - Most machine learning methods construct hypotheses from data.
 - E.g. if a large set of data contains several instances of swans being white and no instances of swans being of other colors, then a machine learning algorithm might make the inference that "all swans are white."
@@ -437,7 +437,7 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - That is, they have better "generalizing" properties.
 - SVMs and kernel machines are superb examples of how work in several disciplines, using highly technical mathematical apparatus, has contributed to powerful new techniques in artificial intelligence.
 
-### Chapter Thirty: Natural Languages and Natural Scenes
+### Chapter 30: Natural Languages and Natural Scenes
 
 - Systems that use grammars for analyzing natural language sentences must use parsing algorithms to search among candidate "parse trees" to find one or more that fits an input sentence.
 - For realistic grammars that "accept" those word strings we think of as legal sentences and reject those strings we take to be non-sentences, it's often the case that there are many possible parses, each conveying a different meaning.
@@ -453,7 +453,7 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - Furthermore, Hawkins claims the hierarchical memory and its learning procedures are used not only for visual input but for other sensory modalities as well.
 - At the highest levels of the hierarchy these separate modalities combine to give an integrated model of our sensory world based on vision, touch, and hearing - a model we use to make predictions about what might be happening next.
 
-### Chapter Thirty-One: Intelligent System Architectures
+### Chapter 31: Intelligent System Architectures
 
 - Parallelism can be accomplished by either actually having several hardware processors to which programs are farmed out for execution or by the simulation of parallel operation in which the programs are actually being executed in sequence.
 - The "reference model architecture" consists of multiple layers of "real-time control systems" developed earlier as components of a "theory of intelligence."
@@ -469,9 +469,9 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - Procedural Memory consists of production rules representing "knowledge about how we do things: for instance, knowledge about how to type the letter 'Q' on a keyboard, about how to drive, or about how to perform addition."
 - Often we are unable to verbalize our knowledge about how we do certain things: We just do them; thus knowledge about them is considered procedural, not declarative.
 
-## Part Eight: Modern AI: Today and Tomorrow
+## Part VIII: Modern AI: Today and Tomorrow
 
-### Chapter Thirty-Two: Extraordinary Achievements
+### Chapter 32: Extraordinary Achievements
 
 - Does Deep Blue use artificial intelligence?
 - The short answer is "no."
@@ -480,7 +480,7 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - Although Deep Blue relied mainly on brute-force methods rather than on rule-based reasoning, it did use heuristic search, one of AI's foundational techniques.
 - The differences between Kasparov and Deep Blue simply indicate how much better chess programs would fare if they employed human-chess-playing knowledge and skills and machine learning methods in addition to brute force.
 
-### Chapter Thirty-Three: Ubiquitous Artificial Intelligence
+### Chapter 33: Ubiquitous Artificial Intelligence
 
 - First, it's the technology of how to apply knowledge to action to achieve goals.
 - The second ingredient is the miniaturization of the physical systems that have this ability for intelligent action.
@@ -488,13 +488,13 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - In short, computer technology offers the possibility of incorporating intelligent behavior in all the nooks and crannies of our world.
 - With it we could build an enchanted land.
 
-### Chapter Thirty-Four: Smart Tools
+### Chapter 34: Smart Tools
 
 - The goal of the group is to produce what they call "human-competitive designs," ones whose specifications meet or exceed those of the best human designers.
 - Some parts of the quest for artificial intelligence have been quite successful. AI has become more and more a part of all of our lives as well as of those of specialists.
 - But the main goal of the quest still remains, namely, endowing artifacts with full human capabilities for language, perception, reasoning, and learning.
 
-### Chapter Thirty-Five: The Quest Continues
+### Chapter 35: The Quest Continues
 
 - All AI researchers agree that both common-sense knowledge and specialized knowledge is the key to intelligence. Various approaches have been pursued to gather and organize that knowledge in a form exploitable by computer programs.
 - A third approach is to build programs that can read and understand natural language.

@@ -50,6 +50,19 @@ Theme Link: <https://github.com/fongandrew/hydeout>
 
 ## Note Creation Process
 
+### Style Guide
+
+- Definitions are in italics, don't italicize the colon, and end with a period.
+- E.g. *Algorithm*: a series of steps that completes a goal.
+
+- End bullet points with periods unless they have sub-bullet points.
+- E.g. Blah blah blah
+  - No period here
+  - Except when the inner points are full sentences or long.
+
+- No newline breaks except between sections within a chapter.
+- No colon “:” before nested list.
+
 ### Books
 
 1. Write notes in Dropbox Paper.
@@ -58,3 +71,8 @@ Theme Link: <https://github.com/fongandrew/hydeout>
 4. Replace image URLs with local ones.
 5. Compress images with TinyPNG.
 6. Test locally.
+
+### Textbooks
+
+- Parts are in roman numerals
+- Chapters are in digits
