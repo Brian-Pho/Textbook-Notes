@@ -87,9 +87,9 @@ mathjax: true
   2. We try to change our habits the wrong way.
 - This chapter focuses on the first reason.
 - Three levels of change
-  - Outcomes (outer): changing results
-  - Processes (middle): changing habits and systems
-  - Identity (inner): changing beliefs
+  - *Outcomes (outer)*: changing results
+  - *Processes (middle)*: changing habits and systems
+  - *Identity (inner)*: changing beliefs
 - Outcomes are what you get, processes are about what you do, and identity is about what you believe.
 - The problem with building habits is the direction of change.
 - Outcome-based habits: outcomes -> processes -> identity. The focus is on what you want to achieve.

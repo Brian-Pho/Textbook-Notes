@@ -4,6 +4,7 @@ title: "The Human Advantage"
 categories:
   - Books
 excerpt: "Questioning the basic assumptions of neuroscience and what makes us human."
+mathjax: true
 ---
 
 <details>
@@ -100,7 +101,7 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 ![Figure 4.3]({{ "/assets/books/the-human-advantage/figure4-3.png" | absolute_url }})
 - The brain mass in primates scales linearly with the number of neurons in the brain.
 - E.g. A ten times increase in the number of neurons in a primate brain leads to a ten times increase in its brain mass. $$10^{1} = 10$$.
-- However, rodents brain mass scales at one-point-six times the number of neurons.
+- However, rodents brain mass scales at 1.6 times the number of neurons.
 - E.g. A ten times increase in the number of neurons in a rodent leads to a forty times increase in its brain mass. $$10^{1.6} = 39.8$$.
 - Why does it scale like this? Why is it different for primates?
 - Its because not all brains are made equal.
