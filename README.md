@@ -12,13 +12,7 @@ Theme Link: <https://github.com/fongandrew/hydeout>
 
 - [ ] Modify the hard coded timeline
 - [ ] Run Google Chrome Audit for further improvements
-- [ ] Add pictures to textbook notes
 - [ ] Update textbook covers for mobile (iPad)
-- [ ] Compress textbook note images
-  - [ ] neuroscience-exploring-the-brain
-  - [x] cognitive-science-an-introduction-to-the-science-of-the-mind
-  - [x] artificial-intelligence-a-modern-approach
-  - [x] after-digital-computation-as-done-by-brains-and-machines
 - [ ] Clean up grammar and spelling
 
 ## Favicon Generator
@@ -76,3 +70,4 @@ Theme Link: <https://github.com/fongandrew/hydeout>
 
 - Parts are in roman numerals
 - Chapters are in digits
+- VS Code Replace "  - (.*[^*]):" with "  - *$1*:".

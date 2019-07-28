@@ -191,31 +191,41 @@ div.timeline {
             ul.done {
                 &:first-of-type:after {
                     /* hsl(hue, saturation, lightness) */
-                    background: hsl(120, 80%, 70%);
+                    background: hsl(120, 70%, 70%);
                 }
 
                 a {
-                    color: hsl(120, 80%, 70%);
+                    color: hsl(120, 70%, 70%);
                 }
             }
 
             ul.doing {
                 &:first-of-type:after {
-                    background: hsl(40, 80%, 70%);
+                    background: hsl(40, 70%, 70%);
                 }
 
                 a {
-                    color: hsl(40, 80%, 70%);
+                    color: hsl(40, 70%, 70%);
                 }
             }
 
             ul.todo {
                 &:first-of-type:after {
-                    background: hsl(0, 80%, 70%);
+                    background: hsl(0, 70%, 70%);
                 }
 
                 a {
-                    color: hsl(0, 80%, 70%);
+                    color: hsl(0, 70%, 70%);
+                }
+            }
+
+            ul.dropped {
+                &:first-of-type:after {
+                    background: hsl(0, 0%, 70%);
+                }
+
+                a {
+                    color: hsl(0, 0%, 70%);
                 }
             }
         }
