@@ -204,7 +204,7 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - Ion channels are also gated meaning they can be opened and closed.
   - Understanding ion channels in the neuronal membrane is key to understanding cellular neurophysiology.
   - *Ion pumps*: enzymes that use energy to transport certain ions across the membrane.
-- Ionic movements through channels are influenced by two factors: diffusion and electricity.
+- Ionic movements through channels are influenced by diffusion and electricity.
 - *Diffusion*: the movement of ions from regions of high concentration to regions of low concentration.
 - Flowing down a concentration gradient means to move towards equilibrium.
 - *Electrical current*: the movement of electrical charge.
@@ -309,6 +309,7 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 
 ## Chapter 5: Synaptic Transmission
 
+- Moving from intra-neuron (within a neuron) to inter-neuron (between neurons)
 - *Synaptic transmission*: the process of information transfer at a synapse.
 - *Electrical synapse*: a synapse that uses electricity to transmit information.
 - *Chemical synapse*: a synapse that uses chemicals to transmit information.
@@ -390,21 +391,21 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - Must be released by the presynaptic axon terminal upon stimulation.
   - Must produce a response in the postsynaptic cell that mimics the response produced by the release of neurotransmitter from the presynaptic neuron.
 - Two main techniques to determine where a neurotransmitter is synthesized
-  - *Immunocytochemistry*: use colorized antibodies to bind to neurotransmitters to see them.
-  - *In situ hybridization*: use a synthetic probe to bind to specific mRNA to see them.
+  - *Immunocytochemistry*: using colorized antibodies to bind to neurotransmitters to see them.
+  - *In situ hybridization*: using a synthetic probe to bind to specific mRNA to see them.
 - Most regions of the CNS use different neurotransmitters.
 - Usually, no two neurotransmitters bind to the same receptor however, one neurotransmitter can bind to many different receptors.
-- Receptor subtype: the different receptors a neurotransmitter binds to.
+- *Receptor subtype*: the different receptors a neurotransmitter binds to.
 - E.g. ACh binds to both receptors in skeletal muscles and in heart muscles.
-- Dale’s principle: a neuron only has one neurotransmitter.
+- *Dale’s principle*: a neuron only has one neurotransmitter.
 - Dale’s principle is usually violated by peptide neurotransmitters.
-- Co-transmitters: when two or more transmitters are released from one nerve terminal.
+- *Co-transmitters*: when two or more transmitters are released from one nerve terminal.
 - E.g. GABA and glycine.
 - However, most neurons seem to release only a single amino acid/amine transmitter.
 - Glutamate (Glu), glycine (Gly), and gamma-aminobutyric acid (GABA) are the main neurotransmitters at most CNS synapses.
 - Interestingly, ATP is also a neurotransmitter.
-- Retrograde signaling: when communication occurs from the postsynaptic neuron to the presynaptic neuron.
-- Endocannabinoids: a retrograde messenger that serves as a kind of feedback system.
+- *Retrograde signaling*: when communication occurs from the postsynaptic neuron to the presynaptic neuron.
+- *Endocannabinoids*: a retrograde messenger that serves as a kind of feedback system.
 - A receptor can be selective for both a neurotransmitter and membrane potential which has a significant impact on synaptic integration.
 - E.g. NMDA-gated channel.
 ![Figure 6.21]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure6-21.png" | absolute_url }})
@@ -450,7 +451,7 @@ If our brains were simple enough for us to understand them, we'd be so simple th
     - E.g. Internal organs, blood vessels, glands.
   - *Afferent*: carrying to.
   - *Efferent*: carrying from.
-- Cerebrospinal fluid (CSF): a salty fluid surrounding the brain and spine.
+- *Cerebrospinal fluid (CSF)*: a salty fluid surrounding the brain and spine.
 ![Figure 7.9]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure7-9.png" | absolute_url }})
 - Imaging the structure of the brain
   - *Computed tomography (CT)*: use xrays to image the brain.
@@ -460,12 +461,12 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - *Functional magnetic resonance imaging (fMRI)*: use the difference in magnetic resonance between oxygenated and deoxygenated blood.
 - Both methods detect changes in regional blood flow and metabolism within the brain.
 - The principle is that neurons demand more glucose and oxygen when they’re active so if we detect changes in blood flow, it suggest changes in neuron activity.
-- Grey matter: a collection of neuronal cell bodies.
-- White matter: a collection of CNS axons.
-- Cortex: any collection of neurons that forms a thin sheet.
-- Differentiation: the process when structures become more complex and functionally specialized.
-- Sulci: the grooves on the brain.
-- Gyri: the bumps on the brain.
+- *Grey matter*: a collection of neuronal cell bodies.
+- *White matter*: a collection of CNS axons.
+- *Cortex*: any collection of neurons that forms a thin sheet.
+- *Differentiation*: the process when structures become more complex and functionally specialized.
+- *Sulci*: the grooves on the brain.
+- *Gyri*: the bumps on the brain.
 - Sulci and gyri arise due to expansion of the surface area of the cerebral cortex during fetal development.
 ![Figure 7.24]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure7-24.png" | absolute_url }})
 
@@ -485,28 +486,28 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - Umami
 - Flavor comes from the combination of smell, taste, and feel.
 - E.g. A pepper activates pain receptors adding to it’s flavor.
-- Papillae: the small bumps on our tongue that contain our taste buds.
+- *Papillae*: the small bumps on our tongue that contain our taste buds.
 ![Figure 8.3]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure8-3.png" | absolute_url }})
-- Receptor potential: when a receptor cell’s membrane potential changes.
-- Transduction: when a environmental stimulus causes an electrical response in a sensory receptor cell.
+- *Receptor potential*: when a receptor cell’s membrane potential changes.
+- *Transduction*: when a environmental stimulus causes an electrical response in a sensory receptor cell.
 - Taste is processed in the primary gustatory cortex.
-- Ageusia: loss of taste perception.
-- Flavor aversion learning: when we avoid a certain food due to having associating it with something bad.
+- *Ageusia*: loss of taste perception.
+- *Flavor aversion learning*: when we avoid a certain food due to having associating it with something bad.
 - E.g. Rats that were fed a sweet liquid but then given a drug to feel ill then avoided sweet stimuli forever.
 - Flavor aversion is really robust as it can form with only one trial and can last for years.
 - This makes sense as it was useful when we were in the wild and couldn’t trust food to not kill us.
-- Labeled line hypothesis: that certain tastes map directly onto neurons in the brain.
-- E.g. That there’s a "sweet neuron" in our brain.
+- *Labeled line hypothesis*: that certain tastes map directly onto neurons in the brain.
+- E.g. That there’s a "sweet" neuron in our brain.
 - Broadly tuned receptors are less specific in their response to stimuli. Primary taste axons are even less specific than receptor cells as they combine taste information from multiple receptors.
-- Population coding: a scheme that includes features in which the responses of a large number of broadly tuned neurons, rather than a small number of precisely tuned neurons, are used to specify the properties of a particular stimulus.
-- In other words, the population encodes the stimuli, not the individual neurons.
+- *Population coding*: a scheme in which the responses of a large number of broadly tuned neurons, rather than a small number of precisely tuned neurons, are used to specify the properties of a particular stimulus.
+- In other words, the population encodes the stimuli not the individual neurons.
 - E.g. The human population is able to detect a wide range of light (telescopes, radios, ultrasound) but no one person does.
 - Population coding schemes seem to be used throughout the sensory and motor systems of the brain.
-- Pheromones: chemicals released by the body.
+- *Pheromones*: chemicals released by the body.
 - Unlike taste receptor cells, olfactory receptors are genuine neurons with axons of their own.
-- Anosmia: the inability to smell.
+- *Anosmia*: the inability to smell.
 ![Figure 8.11]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure8-11.png" | absolute_url }})
-- Adaptation: a decreased response of a sensory receptor despite continued presence of a stimulus.
+- *Adaptation*: a decreased response of a sensory receptor despite continued presence of a stimulus.
 - Adaptation is a common feature of all sensory receptors.
 ![Figure 8.13]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure8-13.png" | absolute_url }})
 - Like taste, smelling uses a population coding scheme.
@@ -515,7 +516,7 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - This means that the the map of odor information is very orderly and precise.
 ![Figure 8.16]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure8-16.png" | absolute_url }})
 - Information from the olfactory bulb goes to the olfactory cortex.
-- In smell and taste, there’s an apparent paradox in that individual receptors are broadly tuned to their stimuli yet we can distinguish them.
+- In smell and taste, there’s an apparent paradox in that individual receptors are broadly tuned to their stimuli yet we can distinguish between smells and tastes.
 - How does the brain do what individual receptors cannot? How does the brain distinguish between stimuli?
 - The answers are
   - Each odor is represented by the activity of a large population of neurons.
@@ -540,21 +541,21 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - *Temporal coding*: information that’s encoded in the timing of spikes.
   - Odor is encoded by the detailed timing of spikes within cells and between groups of cells, including the number of spikes, the temporal pattern, rhythmicity, and cell-to-cell synchrony of spikes.
 ![Figure 8.20]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure8-20.png" | absolute_url }})
-  - Evidence of disrupting the spiking rhythm in bee lead to a loss of discrimination between similar odors, but not general odors.
+  - Evidence of disrupting the spiking rhythm in bees lead to a loss of discrimination between similar odors but not general odors.
   - This implies that information is encoded by which neurons fire and when they fire.
 
 ## Chapter 9: The Eye
 
 - The significance of vision is best demonstrated by the fact that more than a third of the human cerebral cortex is involved with analyzing the visual world.
-- Retina: the back of the eye that has photoreceptors to detect light.
+- *Retina*: the back of the eye that has photoreceptors to detect light.
 - The eye has two types of photoreceptors, one for low light and one for color.
 - The retina doesn’t detect the intensity of light but rather the differences in intensity of light.
-- Image processing happens in the retina; well before it reaches the visual cortex.
+- Image processing happens in the retina well before it reaches the visual cortex.
 - Interestingly, the cornea, rather than the lens, is where most of the eye’s refractive power comes from.
 - Visual information exiting the eye follows the path from photoreceptors → bipolar cells → ganglion cells.
-- Horizontal cells: cells that receive input from photoreceptor cells and project neurites sideways to influence surrounding bipolar cells and photoreceptors.
+- *Horizontal cells*: cells that receive input from photoreceptor cells and project neurites sideways to influence surrounding bipolar cells and photoreceptors.
 ![Figure 9.11]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure9-11.png" | absolute_url }})
-- Three important points to remember about the celluar makeup of the retina
+- Three important points to remember about the cellular makeup of the retina
   - With one exception, the only light-sensitive cells in the retina are the rod and cone photoreceptors.
   - The ganglion cells are the only source of output from the retina.
   - Ganglion cells are the only retinal neurons that fire APs, and this is essential for transmitting information outside the eye.
@@ -562,16 +563,16 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - The layers are organized "inside-out" with the ganglion and bipolar cells on top of the photoreceptor cells. This lets the photoreceptor cells be more easily maintained by the layer below it.
 ![Figure 9.12]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure9-12.png" | absolute_url }})
 ![Figure 9.15]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure9-15.png" | absolute_url }})
-- Fovea: a pit in the retina where the ganglion and bipolar cells are displaced.
+- *Fovea*: a pit in the retina where the ganglion and bipolar cells are displaced.
 - Due to the high concentration of cones in the fovea, we have greater spatial sensitivity on our central retina.
 - We are unable to perceive color differences at night because the rods photoreceptors can’t detect color.
-- Phototransduction: the conversion of light into membrane potential.
+- *Phototransduction*: the conversion of light into membrane potential.
 - Rods hyperpolarize in response to light. Maybe this suggests that the frequency of APs encodes the intensity of light? Maybe this is why blinking lights cause seizures in some people?
 - In other words, light is abnormal to rods and in bright light, rods become hyperpolarized.
 ![Figure 9.21]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure9-25.png" | absolute_url }})
 - Don’t think of cones as detect specific wavelengths of light, but rather the ratio of activations determines the color.
 - Photoreceptors prefer dark over light as they hyperpolarize in light.
-- Receptive field: the area of the retina that affects a neuron’s firing rate.
+- *Receptive field*: the area of the retina that affects a neuron’s firing rate.
 - All sensory neurons have a receptive field where they’re sensitive.
 ![Figure 9.25]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure9-25.png" | absolute_url }})
 - Receptive fields can be classified into ON and OFF by whether they turn on or off in the presence of light.
@@ -607,10 +608,10 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 
 - How does the brain merge the images from both eyes? Is it similar to how our brains process information from both ears?
 - The retina doesn’t just take images but extracts information about differences in brightness and color.
-- Retinofugal projection: the neural pathway that leaves the eye.
-- Binocular visual field: the field that is seen by both eyes.
+- *Retinofugal projection*: the neural pathway that leaves the eye.
+- *Binocular visual field*: the field that is seen by both eyes.
 ![Figure 10.3]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure10-3.png" | absolute_url }})
-- Decussation: the side of the brain controls and receives input is opposite from the side of the body that creates the input.
+- *Decussation*: the side of the brain controls and receives input is opposite from the side of the body that creates the input.
 - E.g. The right side of the body is controlled by the left side of the brain.
 - Decussations are common in sensory and motor systems but we don’t know why they’re important.
 - The majority of nerves from the eye innervate the lateral geniculate nucleus (LGN).
@@ -622,24 +623,24 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - The anatomical organization of the LGN supports the idea that the retina gives rise to streams of information that are processed in parallel.
 - The layers of the LGN mirror the different types of ganglion cells as each ganglion type (P-type, M-type, nonM-nonP type) is processed by a different LGN layer.
 ![Figure 10.9]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure10-9.png" | absolute_url }})
-- Retinotopy: the two dimensional mapping of the surface of the retina to the subsequent structures.
+- *Retinotopy*: the two dimensional mapping of the surface of the retina to the subsequent structures.
 - E.g. Neighboring retina cells feed neighboring LGN cells.
 ![Figure 10.11]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure10-11.png" | absolute_url }})
 - Like the LGN, the cortex is also divided into layers.
 ![Figure 10.13]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure10-13.png" | absolute_url }})
-- Spiny stellate cells: small neurons with spine-covered dendrites that radiate out from the cell body.
-- Pyramidal cells: neurons that are covered with spines and have a single thick dendrite that goes towards the outside of the brain.
+- *Spiny stellate cells*: small neurons with spine-covered dendrites that radiate out from the cell body.
+- *Pyramidal cells*: neurons that are covered with spines and have a single thick dendrite that goes towards the outside of the brain.
 - Only pyramidal cells send axons out of the striate cortex.
 - Magnocellular LGN neurons project primarily to layer IVC$$\alpha$$ , and parvocellular LGN neurons project to layer IVC$$\beta$$ .
 ![Figure 10.14]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure10-14.png" | absolute_url }})
 - The left and right eye inputs into layer IV of the striate cortex are still separate as they show up as a series of alternating bands like the stripes on a zebra.
 ![Figure 10.17]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure10-17.png" | absolute_url }})
 - However, the layer IVC merges both eyes and has neurons that have binocular receptive fields.
-- Binocular receptive field: when a neuron has two receptive fields, one in both eyes.
+- *Binocular receptive field*: when a neuron has two receptive fields, one in both eyes.
 - Retinotopy is preserved in layer IVC because the binocular receptive fields are "looking" at the same point in the visual field. This suggests that the way both eyes are wired is extremely precise.
-- Orientation selectivity: when a neuron’s response is greatest to a bar of light with a specific orientation.
+- *Orientation selectivity*: when a neuron’s response is greatest to a bar of light with a specific orientation.
 ![Figure 10.20]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure10-20.png" | absolute_url }})
-- Direction selectivity: when a neuron’s response is greatest to a bar of light with a specific direction and orientation.
+- *Direction selectivity*: when a neuron’s response is greatest to a bar of light with a specific direction and orientation.
 ![Figure 10.22]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure10-22.png" | absolute_url }})
 - Direction-selective cells are a subset of orientation-selective cells in V1.
 - How structure relates to function in the visual system
@@ -647,25 +648,25 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - Laminations of striate cortex match with differences in receptive fields.
 - It’s theorized that the brain processes an object’s shape, motion, and color in parallel pathways.
 - The striate cortex is the same as V1.
-- Dorsal stream: analysis of visual motion and visual control of action.
-- Ventral stream: perception of the visual world and object recognition.
+- *Dorsal stream*: analysis of visual motion and visual control of action.
+- *Ventral stream*: perception of the visual world and object recognition.
 - If the visual system does a lot of parallel processing, when and where is the information integrated and combined?
 
 ## Chapter 11: The Auditory and Vestibular Systems
 
-- Audition: sense of hearing.
-- Vestibular system: sense of balance.
+- *Audition*: sense of hearing.
+- *Vestibular system*: sense of balance.
 - We can hear between 20 Hz and 20,000 Hz.
-- Pitch: the frequency or tone of a sound wave.
-- Intensity: the loudness of a sound wave.
-- Pinna: the outside part of the ear that helps us better collect sounds from ahead than from behind.
+- *Pitch*: the frequency or tone of a sound wave.
+- *Intensity*: the loudness of a sound wave.
+- *Pinna*: the outside part of the ear that helps us better collect sounds from ahead than from behind.
 - Sounds follows the path from
   - Pinna → Auditory canal → Eardrum → Ossicles → Oval window → Cochlea
 ![Figure 11.3]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure11-3.png" | absolute_url }})
 - Medial geniculate nucleus (MGN).
 - The oval window is used to transfer the vibrations of sound into vibrations in fluid. There’s also another window called the round window to bulge when the fluid is vibrated.
 - Why doesn’t the eardrum connect directly to the cochlea? It’s because sound waves aren’t powerful enough to move the fluid in the cochlea and it requires the ossicles to provide amplification.
-- Attenuation reflex: when a loud sound is heard, muscles contract to make the ossicles more rigid.
+- *Attenuation reflex*: when a loud sound is heard, muscles contract to make the ossicles more rigid.
 - Possible functions of the attenuation reflex
   - Adapt the ear to continuous sounds at high intensities.
   - Protect the ear from loud sounds.
@@ -674,14 +675,14 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 ![Figure 11.9]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure11-9.png" | absolute_url }})
 ![Figure 11.10]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure11-10.png" | absolute_url }})
 - The location on the basilar membrane codes the frequency of the sound.
-- Tonotopy: systematic organization of sound frequency.
+- *Tonotopy*: systematic organization of sound frequency.
 - Tonotopic maps exist in the
   - Basilar membrane
   - Auditory relay nuclei
   - MGN
   - Auditory cortex
 - Hair cells on the basilar membrane bend when the membrane bends and either depolarizes or hyperpolarizes depending on the direction of the bend.
-- Characteristic frequency: the frequency that a neuron is most responsive to.
+- *Characteristic frequency*: the frequency that a neuron is most responsive to.
 ![Figure 11.19]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure11-19.png" | absolute_url }})
 - Each of the following features of sound are represented differently in the brain
   - Intensity
@@ -724,7 +725,7 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - In the primary auditory cortex, there’s a tonotopic map of frequencies where frequencies are mapped to brain areas.
 - Interestingly, if one side of the auditory cortex is damaged, there’s an impairment to localizing the source of sound but minor impairment to frequency and intensity discrimination. This contrasts with damage to the visual cortex as that leads to blindness in one visual hemifield.
 - Skimming the section on the vestibular or balance system.
-- Vestibulo-ocular reflex (VOR): how the eyes stay pointed in a direction even though the head moves.
+- *Vestibulo-ocular reflex (VOR)*: how the eyes stay pointed in a direction even though the head moves.
 - VOR is possible because the vestibular system sends information about the head’s movement and rotation to the brain and adjusts the eye accordingly.
 
 ## Chapter 12: The Somatic Sensory System
@@ -738,7 +739,7 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - The somatic sensory system is different in two ways from the auditory/visual system
   - The receptors are distributed across the body
   - The receptors detect multiple modalities (pressure, temperature, position)
-- The resolution of skin at the finger tip is 0.006 mm high and 0.04 mm wide.
+- The resolution of skin at the finger tip is 0.006 mm deep and 0.04 mm wide.
 - Skipping over the details of mechanoreceptors.
 - The two-point discrimination test shows how some parts of the body are more sensitive to differences in distance than others. The fingers are particularly sensitive which is why they’re used to read Braille.
 - Information about touch and vibration are transmitted on a different path from information about pain and temperature.
@@ -750,14 +751,14 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - Contrast enhancement is a subset of alterations known as lateral inhibition where neighboring cells inhibit each other.
 ![Figure CE]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figureCE.png" | absolute_url }})
 - Like in the visual and auditory cortex, the concept of a cortical column shows up in the somatic sensory cortex too.
-- Somatotopy: the mapping of the body’s surface sensations onto the brain.
+- *Somatotopy*: the mapping of the body’s surface sensations onto the brain.
 ![Figure 12.19]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure12-19.png" | absolute_url }})
 - Features of the somatotopic map
 - The map is discrete as the body, face, and internal organs are separate.
 - The map isn’t scaled to the human body but instead emphasizes the mouth and hands.
 ![Figure 12.20]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure12-20.png" | absolute_url }})
 - The relative size of cortex devoted to each body part is correlated with the density of sensory input received from that part. More neurons in the body area requires more neurons in the corresponding brain area.
-- The importance of an input and the size of its representation in the cortex are relfections of how often it’s used.
+- The importance of an input and the size of its representation in the cortex are reflections of how often it’s used.
 - What happens to the somatotopic map when an input is removed?
 - E.g. A finger is cut off.
 - Possible answers
@@ -772,8 +773,8 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - Certain cortical areas seem to be sites where simple, segregated streams of sensory information converge to generate particularly complex neural representations.
 - Neurons in these areas have large receptive fields that are challenging to characterize because they’re so elaborate.
 - There’s a difference between pain and nociception.
-- Pain: the feeling or perception of irritating or unbearable sensations.
-- Nociception: the sensory process that provides signals that trigger pain.
+- *Pain*: the feeling or perception of irritating or unbearable sensations.
+- *Nociception*: the sensory process that provides signals that trigger pain.
 - We know there’s a difference because there’s evidence of a double dissociation between them. There can be pain without any signals and there can be signals but no pain felt.
 - Interestingly, if heat is restricted to a small region of skin innervated by a cold receptor, it’ll produce a paradoxical feeling of cold.
 - This shows how the CNS doesn’t know what kind of stimulus causes a receptor to fire, but it continues to interpret all activity from its cold receptor as cold.
@@ -791,7 +792,7 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - Varying the firing rate
   - Recruiting additional motor units
 - Neurons may switch phenotype as a result of synaptic activity or experience, and this might be the basis for learning and memory.
-- Central pattern generators: circuits that give rise to rhythmic motor activity.
+- *Central pattern generators*: circuits that give rise to rhythmic motor activity.
 
 ## Chapter 14: Brain Control of Movement
 
@@ -803,7 +804,7 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - The integration of vast amounts of sensory and motor information makes the brain almost a sensorimotor system.
 ![Figure 14.8]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure14-8.png" | absolute_url }})
 - Some neurons in cortical area 6 respond not only when movements are executed but also when the same movement is only imagined or mentally rehearsed.
-- Mirror neurons: neurons that fire when observing another animal making the same type of movement.
+- *Mirror neurons*: neurons that fire when observing another animal making the same type of movement.
 - Mirror neurons imply that the circuits we use to perform an action are also activated for understanding the actions and goals of others.
 - The primary motor cortex is called M1.
 - Neurons in M1 encode two aspects of movement
@@ -827,7 +828,7 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - However, Sanger 1994 challenges the theory that a population vector exists as it may be a result of confirmation bias.
 - Given that a population of neurons encodes a direction, then the larger a population of neurons is, the more directions or more precise movements it can encode.
 - Evidence for this comes from the discovery of malleable motor maps.
-- Malleable motor maps: the more an area is used, the larger it gets. The less an area is used, the smaller it gets.
+- *Malleable motor maps*: the more an area is used, the larger it gets. The less an area is used, the smaller it gets.
 ![Figure 14.19]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure14-19.png" | absolute_url }})
 - We’ve seen this again and again. In the London taxi driver study and in Einstein’s brain. The more a brain area is used, the bigger it gets. But why?
 - What exactly is getting bigger? The size of neurons? The number of neurons? The number of synapses?
@@ -852,8 +853,8 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - Homeostasis
   - Circadian rhythms
   - Pituitary gland
-- Homeostasis: the processes of the body that maintain an constant, narrow, internal environment such as temperature and heart rate.
-- Neurohormones: substances released into the blood by neurons.
+- *Homeostasis*: the processes of the body that maintain an constant, narrow, internal environment such as temperature and heart rate.
+- *Neurohormones*: substances released into the blood by neurons.
 - E.g. Oxytocin (love hormone) and vasopressin (blood volume and salt concentration).
 - The hypothalamus is the true master gland of the endocrine system as it controls all other glands in the body.
 - The ANS deals with our flight-or-fight response.
@@ -907,7 +908,7 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 ![Figure 17.11]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure17-11.png" | absolute_url }})
 - It’s hypothesized that the evolution of complex social behavior may be due to genetic mutations that change the distribution of particular hormone receptors.
 - Since all behaviors depend on the structure and function of the nervous system, we can make a strong prediction that the male and female brains are also different.
-- Sexual dimorphism: when two sexes of the same species exhibit different characteristics beyond differences in sexual organs.
+- *Sexual dimorphism*: when two sexes of the same species exhibit different characteristics beyond differences in sexual organs.
 - Ultimately, all behaviors are controlled by the brain.
 - It’s possible for a person to have the male sex chromosomes(XY) but to develop female sex anatomy due to the lack of androgen receptors. Likewise, it’s possible for females to have the female sex chromosomes (XX) but develop male sex anatomy.
 - No apparent anatomical difference separates male and female nervous systems. And any small differences aren’t known to serve any clear purpose.
@@ -916,10 +917,10 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 ## Chapter 18: Brain Mechanisms of Emotion
 
 - We should distinguish between emotional experience (feelings) and emotional expression (behavior).
-- James-Lange theory: proposes that emotions are defined by the physiological changes in the body. Emotional experience occurs when the brain senses physiological changes in the body.
+- *James-Lange theory*: proposes that emotions are defined by the physiological changes in the body. Emotional experience occurs when the brain senses physiological changes in the body.
 - E.g. Fear is defined by the heart racing, faster breathing, and increased sweating.
 - However, an emotion can still be felt even though there aren’t any physical signs.
-- Cannon-Bard theory: proposes that emotional experience is independent of emotional expression.
+- *Cannon-Bard theory*: proposes that emotional experience is independent of emotional expression.
 - Evidence for this comes from animals and people with transected spines. Even though the person can’t exhibit physiological changes in their body, their emotions are still present.
 - Another piece of evidence against the James-Lange theory is the lack of reliable correlation between the experience of an emotion and the physiological state of the body.
 - E.g. A racing heart could be due to fear, love, excitement, or sickness.
@@ -935,20 +936,20 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - Surprise
 - The dimensional theories of emotion assumes that emotions are constructed from smaller building blocks such as valence and arousal.
 ![Figure 18.7]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure18-7.png" | absolute_url }})
-- Klüver–Bucy syndrome: removal of the temporal lobes causes the follow symptoms in both monkeys and humans
+- *Klüver–Bucy syndrome*: removal of the temporal lobes causes the follow symptoms in both monkeys and humans
   - Visual recognition problems
   - Oral tendencies
   - Hypersexuality
   - Flattened emotions
   - Reduced fear and aggression
 - Evidence suggests that the amygdala plays a key role in detecting fearful and threatening stimuli.
-- Learned fear: fear due to vivid emotional events that aren’t there when we were born.
+- *Learned fear*: fear due to vivid emotional events that aren’t there when we were born.
 - E.g. Fear of rejection.
 - Interesting, learned fears disappear if there’s a lesion in the amygdala suggesting that learning a fear is due to synaptic and connective changes between the amygdala and the stimulus.
 ![Figure 18.10]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure18-10.png" | absolute_url }})
-- Predatory aggression: attacks due to obtaining food.
+- *Predatory aggression*: attacks due to obtaining food.
 - E.g. A lion hunting a zebra.
-- Affective aggression: attacks due to a desire to show off.
+- *Affective aggression*: attacks due to a desire to show off.
 - E.g. Loud sounds.
 - Experiments with hypothalamic stimulation in cats can provoke both types of aggression.
   - Stimulation of the medial hypothalamus produces affective aggression.
@@ -956,13 +957,13 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 
 ## Chapter 19: Brain Rhythms and Sleep
 
-- Circadian rhythm: the daily cycles of daylight and nighttime that almost all physiological functions follow.
-- Electroencephalogram (EEG): the measurement of electrical activity from our scalp.
+- *Circadian rhythm*: the daily cycles of daylight and nighttime that almost all physiological functions follow.
+- *Electroencephalogram (EEG)*: the measurement of electrical activity from our scalp.
 - EGG measures voltage fluctuations in the range of tens of microvolts ($$\mu$$V) of many pyramidal neurons in the cerebral cortex.
 - It takes many thousands of underlying neurons to generate an EEG signal big enough to be measured.
 - So the amplitude of the EEG signal is dependent on how synchronous the activity of the underlying neurons are because the activity will add together to form a bigger signal.
 ![Figure 19.4]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure19-4.png" | absolute_url }})
-- Magnetoencephalography (MEG): measuring the brain’s magnetic activity that results from electrical current flow.
+- *Magnetoencephalography (MEG)*: measuring the brain’s magnetic activity that results from electrical current flow.
 - MEG is better at localizing the sources of neural activity than EEG.
 ![Figure 19.5]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure19-5.png" | absolute_url }})
 - EEG rhythms
@@ -980,18 +981,18 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - The brain seems to employ both mechanisms as it uses a small group of neurons to start the synchronization and then that group acts as the leader.
 - It uses excitatory and inhibitory thalamic neurons to force each individual neuron to conform to the rhythm of the group.
 - We don’t know why the brain has rhythms and what it uses them for.
-- Seizure: the most extreme form of synchronous brain activity.
-- Epilepsy: repeated seizures.
+- *Seizure*: the most extreme form of synchronous brain activity.
+- *Epilepsy*: repeated seizures.
 - Research suggests that some seizures reflect an upset of the delicate balance of synaptic excitation and inhibition in the brain.
 - We can still describe what we cannot explain such as sleep.
-- Sleep: a readily reversible state of reduced responsiveness and interaction with the environment.
+- *Sleep*: a readily reversible state of reduced responsiveness and interaction with the environment.
 - Coma and general anesthesia are not readily reversible so they don’t quality as sleep.
-- REM sleep: when the EEG looks more awake, the body is immobilized, and when dreams occur.
-- Non-REM sleep: when the EEG shows large, slow rhythms.
+- *REM sleep*: when the EEG looks more awake, the body is immobilized, and when dreams occur.
+- *Non-REM sleep*: when the EEG shows large, slow rhythms.
 ![Table 19.1]({{ "/assets/textbooks/neuroscience-exploring-the-brain/table19-1.png" | absolute_url }})
 - William Dement’s description of sleep states
-- Non-REM: an idling brain in a moveable body.
-- REM: an active, hallucinating brain in a paralyzed body.
+- *Non-REM*: an idling brain in a moveable body.
+- *REM*: an active, hallucinating brain in a paralyzed body.
 - REM sleep is dreaming sleep.
 - About 75% of total sleep time is spent in non-REM and 25% is spent in REM.
 ![Figure 19.15]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure19-15.png" | absolute_url }})
@@ -1019,19 +1020,19 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 ## Chapter 20: Language
 
 - Numerous different aspects of language can be selectively disrupted, including speech, comprehension, and naming, suggesting that language is processed in multiple, anatomically distinct, stages.
-- Language: a system for representing and communicating information using words combined with grammatical rules.
+- *Language*: a system for representing and communicating information using words combined with grammatical rules.
 - Speech comes naturally to humans but reading and writing don’t.
 - Language, intelligence, and thought are distinct as humans raised without any language can still do many tasks that require abstract reasoning.
 - In speech, there aren’t silences between words so how to children pick up words?
 - The answer is that children rely on statistical learning where they learn that certain combinations of sounds are more likely than others.
 - E.g. In the phrase "hello baby", the probability that "lo" follows "hel" is greater than "ba" following "lo".
-- Aphasia: the impairment of language abilities following brain damage.
+- *Aphasia*: the impairment of language abilities following brain damage.
 - The left hemisphere appears to be dominant for speech and is where Broca’s area lives.
 - Broca’s area is significant because it was the first clear demonstration that brain functions are localized to specific areas.
 ![Figure 20.6]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure20-6.png" | absolute_url }})
 - Broca’s area isn’t as clear cut as it’s made to be as it varies from person to person and there are other factors such as the wiring of brain areas that also affect language skills.
-- Broca’s aphasia: problems speaking but not understanding.
-- Wenicke’s aphasia: problems understanding but not speaking.
+- *Broca’s aphasia*: problems speaking but not understanding.
+- *Wenicke’s aphasia*: problems understanding but not speaking.
 - Wernicke-Geschwind model of language processing
   - Repetition of spoken words information flow
     - Speech reaches the ear
@@ -1056,7 +1057,7 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 ![Figure 20.9]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure20-9.png" | absolute_url }})
 - In cortical processing, the sharp functional distinctions between regions as implied by the model don’t exist.
 - The value of any model involves not only its ability to account for previous observations but also its ability to predict.
-- Conduction aphasia: difficultly in repeating words but not producing speech or understanding language.
+- *Conduction aphasia*: difficultly in repeating words but not producing speech or understanding language.
 - Conduction aphasia occurs when there’s damage to the wiring between Broca’s and Wernicke’s areas.
 - Sometimes the corpus callosum is split in patients to treat epilepsy and surprisingly, the patients mostly exhibit normal behavior except that they aren’t aware of anything left of their visual fixation point.
 - Experiments with split-brain patients suggests that there are two independent brains controlling the two sides of the body.
@@ -1069,9 +1070,9 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 
 ## Chapter 21: The Resting Brain, Attention, and Consciousness
 
-- Attention: the ability to focus on one aspect of sensory input.
-- Consciousness: awareness of something.
-- Resting state activity: the activity of the brain when nothing is happening.
+- *Attention*: the ability to focus on one aspect of sensory input.
+- *Consciousness*: awareness of something.
+- *Resting state activity*: the activity of the brain when nothing is happening.
 - We expect that the resting activity varies randomly from person to person but this doesn’t seem to be the case.
 - Conclusions from resting brain activity
   - The areas that show decreased activity compared to the resting state are consistent when the nature of the task is changed.
@@ -1088,12 +1089,12 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - *Sentinel hypothesis*: the idea that the DMN is used to broadly monitor our environment.
   - *Internal mentation hypothesis*: the idea that the DMN is used to support thinking and remembering.
 - While both hypotheses are not conclusive, there is clear evidence that the brain transitions from the DMN to sensory processing in active tasks that involve a change in attention.
-- Bottom-up attention: when a stimulus attracts our attention without any cognitive input.
+- *Bottom-up attention*: when a stimulus attracts our attention without any cognitive input.
 - E.g. When you notice something out of the ordinary without looking for it.
-- Top-down attention: when attention is deliberately directed by the brain to some object/place.
+- *Top-down attention*: when attention is deliberately directed by the brain to some object/place.
 - E.g. Focusing on the page number and ignoring the text when looking for a page.
 - Searching is easier when attention is allocated to the search.
-- Covert attention: focusing on something in our peripheral vision without looking at it (our gaze doesn’t reveal what we’re attending to).
+- *Covert attention*: focusing on something in our peripheral vision without looking at it (our gaze doesn’t reveal what we’re attending to).
 - E.g. Checking out a crush.
 - Focusing attention enhances visual processing in two ways
   - *Visual sensitivity*: providing a cue for our attention to follow increases our visual sensitivity which makes things easier to detect.
@@ -1102,15 +1103,15 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - The spotlight of attention analogy for attention.
 ![Figure 21.7]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure21-7.png" | absolute_url }})
 - Attention can be moved independently of eye position.
-- Priority map: a map slowing locations where attention should be directed based on stimulus salience and cognitive input.
+- *Priority map*: a map slowing locations where attention should be directed based on stimulus salience and cognitive input.
 ![Figure 21.21]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure21-21.png" | absolute_url }})
 - If it is true that consciousness is based on standard physical principles, a logical inference is that it should one day be possible to construct a conscious machine.
 - Is awareness and consciousness different? Studies conflict on a result.
 
 ## Chapter 22: Mental Illness
 
-- Neurology: a branch of medicine that deals with nervous system disorders.
-- Psychiatry: a branch of medicine that deals with mind or psyche disorders.
+- *Neurology*: a branch of medicine that deals with nervous system disorders.
+- *Psychiatry*: a branch of medicine that deals with mind or psyche disorders.
 - There’s hope that neurons will solve the riddles of mental illness.
 - This chapter discusses the following psychiatric disorders
   - *Anxiety disorders*: an inappropriate expression of fear
@@ -1122,7 +1123,7 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - Most treatments are found by chance.
   - Most drugs seem to cause the nervous system to change in a way that adapts to the drug.
   - We don’t know why the drugs work.
-- Schizophrenia: a loss of contact with reality and a disruption of thought, perception, mood, and movement.
+- *Schizophrenia*: a loss of contact with reality and a disruption of thought, perception, mood, and movement.
 - The risk of developing schizophrenia increases with the number of shared genes suggesting a genetic basis for the disease.
 - The answer to why drugs work for treating mental illnesses lies in the adaptive changes that occur in the brain in response to the treatment.
 
@@ -1137,7 +1138,7 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - Cell proliferation
   - Cell migration
   - Cell differentiation
-- Radial glial cells: special cells that divide to give rise to all neurons and astrocytes of the cerebral cortex.
+- *Radial glial cells*: special cells that divide to give rise to all neurons and astrocytes of the cerebral cortex.
 ![Figure 23.2]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure23-2.png" | absolute_url }})
 - Radial glial cells can take one of two paths
   - *Symmetrical cell division*: the cell divides into two radial glial cells.
@@ -1150,12 +1151,12 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - One difference between the development of a rodent’s brain and of a primate brain is that there’s an elaboration of a second proliferative layer of cells called the subventricular zone.
 - Neurons derived from the subventricular zone are destined for the upper layers of the cortex (layers II and III) which are used to connect cytoarchitecturally distinct areas.
 - It’s possible that this increases the computation power of primate brains compared to other brains.
-- Neural precursor cells: immature neurons.
+- *Neural precursor cells*: immature neurons.
 ![Figure 23.5]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure23-5.png" | absolute_url }})
 - Each new wave of neural precursor cells migrates right pass the previous precursor cells so the cortex is said to be built from the inside out.
 ![Figure 23.6]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure23-6.png" | absolute_url }})
 - E.g. Layer VI, the bottom layer, is built first, then layer V is built on top of layer VI.
-- Cell differentiation: the process of a cell taking on the appearance and characteristics of a neuron.
+- *Cell differentiation*: the process of a cell taking on the appearance and characteristics of a neuron.
 - Neuronal differentiation occurs first followed by astrocyte differentiation.
 - When a neuron develops neurites, they initially all look the same but after some time, the axon and dendrites become recognizable.
 - Differentiation is programmed before the neural precursor cell arrives at its final resting place.
@@ -1164,7 +1165,7 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - Assuming that migrating neural precursor cells are guided precisely to the cortical plate by the network of radial glial fibers, then maybe the ventricular zone contains something like a film record of the future cortex that is projected onto the wall of the telencephalon as development progresses.
 - The analogy is that by projecting a film roll using light, the picture gets enlarged but still retains the same proportions and information just scaled up.
 - This has been proven to be the case for the majority of cortical neurons.
-- Radial unit hypothesis: the concept that an entire radial column of cortical neurons originates from the same birthplace in the ventricular zone.
+- *Radial unit hypothesis*: the concept that an entire radial column of cortical neurons originates from the same birthplace in the ventricular zone.
 - The surface area of the human neocortex is a thousand times greater than that of a mouse and ten times greater than that of a macaque monkey but differs in thickness by less than two times.
 - The difference in surface area is due to the size of the proliferative ventricular zone which is due to differences in the duration of the period of symmetrical cell division in early gestation.
 - A reasonable hypothesis is that a mutation of the genes might have increased the number of proliferative radial cells and thus enlarged the surface of the neocortex.
@@ -1178,26 +1179,26 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - Target selection
   - Address selection
 - Each selection becomes more specific just like a normal address.
-- E.g. Highway 1 (pathway), Marlborough neighborhood (target), 199 Marwood Square house (address).
-- E.g. Suppose you’re a retinal ganglion cell and you’re trying to connect to the LGN. You follow the path down optic nerve until you reach the optic chiasm. You have three choices: continue going down the same optic tract, go down the opposite optic tract, or go into the optic nerve from the other eye.
+- E.g. Highway 1 (pathway), Marlborough neighborhood (target), 199 Martree Square house (address).
+- *E.g. Suppose you’re a retinal ganglion cell and you’re trying to connect to the LGN. You follow the path down optic nerve until you reach the optic chiasm. You have three choices*: continue going down the same optic tract, go down the opposite optic tract, or go into the optic nerve from the other eye.
 ![Figure 23.10]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure23-10.png" | absolute_url }})
 - The three phases depends on the communication between cells such as
   - Direct cell-to-cell contact
   - Cell secretions
   - Diffusible chemicals
-- Fasciculation: axons that stick together grow together.
+- *Fasciculation*: axons that stick together grow together.
 ![Figure 23.12]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure23-12.png" | absolute_url }})
 - A common method of pathway formation is the initial start of connections by pioneer axons.
 - Pioneer axons seem to get to the destination first by "connecting the dots".
 - The growth of neurites is "pulled" and "pushed" by chemoattractants and chemorepellents.
-- Chemoaffinity hypothesis: the idea that chemical markers on growing axons are matched by complementary chemical markers on their targets to establish precise connections.
+- *Chemoaffinity hypothesis*: the idea that chemical markers on growing axons are matched by complementary chemical markers on their targets to establish precise connections.
 - Interestingly, there must also be a large-scale reduction in neurons and synapses that occurs during pathway formation.
 ![Figure 23.17]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure23-17.png" | absolute_url }})
-- Synaptic capacity: the maximum number of synapses a neuron can receive.
+- *Synaptic capacity*: the maximum number of synapses a neuron can receive.
 - Synaptic capacity peaks in early development and declines as neurons mature.
 - Synaptic capacity is stable from infancy to puberty but sharply declines by almost 50% during adolescence.
 ![Figure 23.18]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure23-18.png" | absolute_url }})
-- Synaptic rearrangement: the change of distribution of synapses of a neuron.
+- *Synaptic rearrangement*: the change of distribution of synapses of a neuron.
 ![Figure 23.19]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure23-19.png" | absolute_url }})
 - There’s abundant evidence that widespread synaptic rearrangement occurs in the immature.
 - Unlike most of the earlier steps of pathway formation, synaptic rearrangement occurs as a consequence of neural activity and synaptic transmission.
@@ -1211,12 +1212,12 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 ![Figure 23.21]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure23-21.png" | absolute_url }})
 - Eye-specific domains are dependent on asynchronous patterns of activity (the "waves") spontaneously generated in the two eyes.
 - The establishment of binocular receptive fields depends on the correlated patterns of activity that arise from the two eyes as a consequence of vision.
-- Critical period of development: a period of time when intercellular communication alters a cell’s fate.
-- Ocular dominance shift: the shift to monocular vision due to depriving one eye of stimuli.
+- *Critical period of development*: a period of time when intercellular communication alters a cell’s fate.
+- *Ocular dominance shift*: the shift to monocular vision due to depriving one eye of stimuli.
 ![Figure 23.22]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure23-22.png" | absolute_url }})
 - Ocular dominance plasticity diminishes with age and coincides with the time of greatest growth of the head and eyes suggesting that development of binocular connections depends on this plasticity.
 - Ocular dominance is a form of plasticity and doesn’t follow the rule of "Use it or lose it".
-- Binocular competition: when the input from both eyes actively compete for synaptic control of the post-synaptic neuron.
+- *Binocular competition*: when the input from both eyes actively compete for synaptic control of the post-synaptic neuron.
 - Is ocular dominance due to disuse of the eye?
 - No, it’s due to competition as both eyes compete for the same neurons and if one eye is deprived, then it always loses.
 - If the activity of the two eyes is correlated and equal in strength, then the two inputs will be retained on the same cortical cell creating a cell with binocular receptive fields.
@@ -1234,11 +1235,11 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - Glutamate is the transmitter at all of the modifiable synapses.
 - The magnitude of the $$Ca^{2+}$$ flux passing through the NMDA receptor channel specifically signals the level of pre and postsynaptic coactivation.
 ![Figure 23.28]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure23-28.png" | absolute_url }})
-- Long-term potentiation (LTP): the strengthening of synaptic transmission as a result of strong NMDA receptor activation.
+- *Long-term potentiation (LTP)*: the strengthening of synaptic transmission as a result of strong NMDA receptor activation.
 - The molecular basis for LTP is due to more AMPA receptors being added.
 ![Figure 23.29]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure23-29.png" | absolute_url }})
 - During monocular deprivation, the activity of the deprived retina fails to correlate with the activity of the other eye so the deprived-eye synapses are weakened.
-- Long-term depression (LTD): when an active synapse decreases in effectiveness due to lower levels of NMDA receptor activation.
+- *Long-term depression (LTD)*: when an active synapse decreases in effectiveness due to lower levels of NMDA receptor activation.
 - LTD is also accompanied by a loss of AMPA receptors and eventually loss of the synapse.
 - Rough explanation of what occurs during monocular deprivation
   - One eye is closed.
@@ -1256,7 +1257,7 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - Plasticity diminishes when synaptic transmission matures.
   - Plasticity diminishes when cortical activation is constrained.
 - Inhibitory circuits may also regulate the length of the critical period by preventing access to modifiable synapses.
-- Most neurons in the brain find their proper place before birth and the final refinement of synaptic connections occurs during infancy and is influeced by the sensory environment.
+- Most neurons in the brain find their proper place before birth and the final refinement of synaptic connections occurs during infancy and is influenced by the sensory environment.
 - The mechanisms of synaptic plasticity proposed for learning bear a close resemblance to those believed to be the mechanism for synaptic rearrangement during development.
 
 ## Chapter 24: Memory Systems
@@ -1265,11 +1266,11 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - Evidence of brain lesions differentially affects different types of remembered information, suggesting that there’s more than one memory system.
 - Experience-dependent brain development and learning are similar but probably use similar mechanisms at different times and in different cortical areas.
 - Learning and memory are lifelong adaptations of brain circuitry to the environment.
-- Learning: the acquisition of new knowledge and skills.
-- Memory: the retention of learned information.
+- *Learning*: the acquisition of new knowledge and skills.
+- *Memory*: the retention of learned information.
 - No single brain structure or cellular mechanism accounts for all learning.
 - The way information of a particular type is stored may also change over time.
-- Declarative memory: memory of events and facts.
+- *Declarative memory*: memory of events and facts.
 - Declarative memory is broken down into
   - *Episodic memory*: events.
   - *Semantic memory*: facts.
@@ -1285,11 +1286,11 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - *Nonassociative learning*: a change in behavior over time in response to a single type of stimulus. There are two types
     - *Habituation*: learning to ignore a stimulus that lacks meaning.
     - *Sensitization*: learning to intensify the response to a stimuli.
-- Long-term memory: memories that you can recall days, months, or years later.
-- Short-term memory: memories that you can recall hours later.
-- Memory consolidation: the conversion of short-term memories to long-term memories.
+- *Long-term memory*: memories that you can recall days, months, or years later.
+- *Short-term memory*: memories that you can recall hours later.
+- *Memory consolidation*: the conversion of short-term memories to long-term memories.
 ![Figure 24.4]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure24-4.png" | absolute_url }})
-- Working memory: memories that only last seconds.
+- *Working memory*: memories that only last seconds.
 - Keeping memory alive through repetition is a hallmark of working memory.
 - Working memory can be distinguished from short-term memory by these factors
   - Very limited capacity (7 digits).
@@ -1297,17 +1298,17 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - Very short duration.
 - There’s evidence that different sensory systems use different temporary storage areas.
 - E.g. Someone can remember a visual list of numbers but not as well as a spoken list.
-- Amnesia: a major loss of memory or ability to learn.
+- *Amnesia*: a major loss of memory or ability to learn.
 ![Figure 24.5]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure24-5.png" | absolute_url }})
-- Retrograde amnesia: memory loss for events prior to the trauma.
-- Anterograde amnesia: memory loss for events following the trauma.
+- *Retrograde amnesia*: memory loss for events prior to the trauma.
+- *Anterograde amnesia*: memory loss for events following the trauma.
 - Interestingly, for retrograde amnesia, newer memories are forgetting but older memories aren’t suggesting a link between an old memory and how hard it is to forget it.
 - One way to increase working memory is through chunking the information into meaningful groups.
 - Working memory is is capability of the neocortex found in multiple locations in the brain.
 - Experiments with legions in the prefrontal cortex suggest that the prefrontal cortex is involved in retaining information in working memory.
-- Engram/memory trace: where a memory is stored.
+- *Engram/memory trace*: where a memory is stored.
 - All of the cortex participates in memory storage and memories are distributed across the brain.
-- Cell assembly: the group of simultaneously active neurons in response to an external stimulus.
+- *Cell assembly*: the group of simultaneously active neurons in response to an external stimulus.
 - Hebb, the creator of the idea of a cell assembly, hypothesized that if the activation of a cell assembly persisted long enough, it would be remembered/consolidated by the idea that neurons that fire together wire together.
 - This cell assembly could then be recalled by activating the cell assembly.
 - Hebb’s important ideas
@@ -1324,29 +1325,29 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - Binds sensory information for the purpose of memory consolidation.
   - Supports spatial memory of the location of objects.
   - The storage of memories for some unknown length of time.
-- Place cells: neurons that have a receptive field for places.
+- *Place cells*: neurons that have a receptive field for places.
 - E.g. One neuron might only fire if the subject is in the corner.
 - Interestingly, the responses of place cells are related to where the animal thinks it is, not necessarily where it actually is which depends on sensory input.
-- Grid cells: neurons that fire at multiple locations that form a hexagonal grid.
+- *Grid cells*: neurons that fire at multiple locations that form a hexagonal grid.
 ![Figure 24.23]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure24-23.png" | absolute_url }})
 - Models suggest that place fields in the hippocampus may result from summation of inputs from grid cells.
 - A place field would be the location where multiple grid cells align.
 - Like place cells, grid cells continue to fire when there’s no light suggesting that these cells aren’t simple sensory receptive fields but rather where the animal thinks it is.
 - Interconnectedness is a key feature of declarative memory storage.
 - Like the case of the Russian with exception memory who had synesthesia, memory and connectivity are somehow related.
-- Current evidence suggests that the hippocampus is used to estabish memories for "what happened where."
+- Current evidence suggests that the hippocampus is used to establish memories for "what happened where."
 - The standard model of memory consolidation
   - Information comes through neocortex areas associated with sensory systems.
   - The information is then sent to the MTL for processing.
-- Synaptic consolidation: changes in synapses create a memory trace.
-- Systems consolidation: when engrams are moved over time into distributed areas of the neocortex.
+- *Synaptic consolidation*: changes in synapses create a memory trace.
+- *Systems consolidation*: when engrams are moved over time into distributed areas of the neocortex.
 - Before systems consolidation of a memory occurs, retrieval of that memory requires the hippocampus but it isn’t afterwards.
 - An alternative model to the standard model is the multiple trace model of consolidation
   - The hippocampus is always involved in memory storage.
   - Systems consolidation doesn’t ever relinquish engrams entirely to the neocortex.
   - It’s hypothesized that each time an episodic memory is retrieved, it occurs in a new context from the initial experience and the memory combines with the new sensory input to form a new memory trace using both the hippocampus and the neocortex.
 ![Figure 24.25]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure24-25.png" | absolute_url }})
-- Reconsolidation: the reactivation of a memory makes it sensitive to changes.
+- *Reconsolidation*: the reactivation of a memory makes it sensitive to changes.
 - When we recall a memory, it becomes susceptible to change and reconsolidation.
 - The striatum is part of a procedural memory system but not of the declarative memory system.
 
@@ -1361,35 +1362,35 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - E.g. What you ate for dinner last Tuesday probably won’t be remembered unless something eventful/significant occurred such as it being your first date.
 - Some mechanisms in the brain ensure that some experiences are retained while others are lost.
 ![Figure 25.1]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure25-1.png" | absolute_url }})
-- Prospagnosia: selective amnesia for faces.
+- *Prospagnosia*: selective amnesia for faces.
 - The IT (inferior temporal lobe) neurons demonstrate stimulus selectivity or the response to certain stimuli but not others.
 - Shifts in the selectivity of cortical neurons correlates well with the formation of memories.
-- Distributed memory: a memory is stored the pattern of neuron activation rather than the individual neurons.
+- *Distributed memory*: a memory is stored the pattern of neuron activation rather than the individual neurons.
 ![Figure 25.4]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure25-4.png" | absolute_url }})
 - One advantage of distributed memory is that it is is fault-tolerant.
 - E.g. The loss of one neurons doesn’t mean the memory is lost but rather weakened.
 - The more neurons in the network, the more unique memories that can be stored and the more resistant the memories are to errors.
-- Graceful degradation: when a memory is slowly lost in comparison to catastrophic loss.
+- *Graceful degradation*: when a memory is slowly lost in comparison to catastrophic loss.
 - The physical change that leads to memory can be the modification of synaptic weight.
 - In other words, synapses store memories.
 - LTP is input-specific.
 ![Figure 25.6]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure25-6.png" | absolute_url }})
-- Tetanus: a brief burst of high-frequency stimulation.
-- Input specificity: how only active inputs show synaptic plasticity.
+- *Tetanus*: a brief burst of high-frequency stimulation.
+- *Input specificity*: how only active inputs show synaptic plasticity.
 - LTP requires that synapses be active at the same time that the postsynaptic neuron is strongly depolarized.
 - To achieve the necessary depolarization with tetanus
   - The tetanus must be high enough in frequency to cause temporal summation of EPSPs.
   - There must be enough synapses activated simultaneously to cause spatial summation of EPSPs.
-- Cooperativity: when multiple neurons must cooperate to produce enough depolarization.
+- *Cooperativity*: when multiple neurons must cooperate to produce enough depolarization.
 - LTP seems to require a frequency threshold and a neuron count threshold.
-- LTP and Hebb’s rule are linked: inputs that fire together wire together.
-- The molecular basis of LTP in shown in Figure 23.28 but in words: LTP depends on the rise in postsynaptic calcium ions ($$Ca^{2+}$$) that are released by the NMDA receptor when the depolarization is sufficient.
-- Spike timing-dependent plasticity (STDP): when the pre-synaptic neuron fires at or before the post-synaptic neuron fires, then the synapse is strengthened. If it fires after, then the synapse is weakened.
+- *LTP and Hebb’s rule are linked*: inputs that fire together wire together.
+- *The molecular basis of LTP in shown in Figure 23.28 but in words*: LTP depends on the rise in postsynaptic calcium ions ($$Ca^{2+}$$) that are released by the NMDA receptor when the depolarization is sufficient.
+- *Spike timing-dependent plasticity (STDP)*: when the pre-synaptic neuron fires at or before the post-synaptic neuron fires, then the synapse is strengthened. If it fires after, then the synapse is weakened.
 - STDP can be thought of as strengthening the synapse only when the pre-synaptic neuron is the "cause" of the post-synaptic neuron firing.
 - STDP also "filters" its inputs to be correlated in time and does a "temporal pruning". The inputs that provide the earliest indication of correlation eventually become the final input to the neuron.
 ![Figure 25.10]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure25-10.png" | absolute_url }})
-- BCM theory: an extension of Hebb’s theory that accounts for the bidirectional changes in synaptic strength and the introduction of a "modifcation threshold" to account for the history of the postsynaptic cell activity.
-- Long-term depression (LTD): the weakening of a synapse due to tetanic stimulation at low frequencies.
+- *BCM theory*: an extension of Hebb’s theory that accounts for the bidirectional changes in synaptic strength and the introduction of a "modifcation threshold" to account for the history of the postsynaptic cell activity.
+- *Long-term depression (LTD)*: the weakening of a synapse due to tetanic stimulation at low frequencies.
 - Bidirectional plasticity rules
   - Synaptic transmission occurring at the same time as strongly depolarization of the postsynaptic neuron causes LTP of the active synapses.
   - Synaptic transmission occurring at the same time as weak/modest depolarization of the postsynaptic neuron causes LTD of the active synapses.
@@ -1402,14 +1403,14 @@ If our brains were simple enough for us to understand them, we'd be so simple th
 - LTP and LTD appear to reflect the bidirectional regulation of both the phosphorylation and the number of postsynaptic AMPA receptors.
 ![Figure 25.13]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure25-13.png" | absolute_url }})
 - Without limits to LTP and LTD, the synapses become unstable and tend towards extremes.
-- Metaplasticity: that the rules of synaptic plasticity change depending on the history of synaptic or cellular activity.
-- Denervation supersensitivity: when a neuron increases in excitability due to loss of synaptic input.
+- *Metaplasticity*: that the rules of synaptic plasticity change depending on the history of synaptic or cellular activity.
+- *Denervation supersensitivity*: when a neuron increases in excitability due to loss of synaptic input.
 - Maybe this supersensitivity is the reason why phantom limbs occur.
 - When cortical neurons are silenced, their electrical excitability increases.
 - However, the increase preserves the relative differences in the strengths of synapses on a neuron.
-- Synaptic scaling: the adjustment of absolute synaptic effectiveness that preserves the relative distribution of synaptic weights.
+- *Synaptic scaling*: the adjustment of absolute synaptic effectiveness that preserves the relative distribution of synaptic weights.
 - Metaplasticity and scaling are used to control and limit synaptic plasticity.
-- Phosphorylation: the adding of a phosphate group to a protein to change its synaptic effectiveness.
+- *Phosphorylation*: the adding of a phosphate group to a protein to change its synaptic effectiveness.
 - Phosphorylation can’t account for long-term memory because
   - Phosphorylated proteins aren’t permanent due to removal.
   - Proteins have a lifespan of less than 2 weeks.
