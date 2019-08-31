@@ -474,7 +474,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - Causal transitions between sentences in the language of thought respect the rational relations between the contents of those sentences in the language of thought.
 - The medium of cognition is the language of thought. The language of thought is closer to logical languages than natural languages.
 - The analogy between the language of thought and logical languages is at the heart of Fodor’s solution to the problem of causation by content.
-- To provide a semantics for a language is to give an interpretation to the symbols it contains – to turn it from a collection of meaningless symbols into a representational system.
+- To provide a semantics for a language is to give an interpretation to the symbols it contains - to turn it from a collection of meaningless symbols into a representational system.
 - *Logical deducibility*: when a deduction follows all of the rules
 - *Logical consequence*: when a claim preserves truth (a true premise never leads to a false conclusion)
 - Transitions between sentences in the language of thought can be viewed either syntactically or semantically, either in terms of formal relations holding between physical symbol structures or in terms of semantic relations holding between states that represent the world.
@@ -638,7 +638,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 ![Figure 8.8]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/figure8-8.png" | absolute_url }})
 - The class of Boolean functions that can be computed by a single-layer network is only the class of linearly separable functions.
 - *Hidden layer*: a layer in the neural network that isn’t the input nor the output. It's hidden from the outside world.
-- Multilayered networks can compute any computable function – not just the linearly separable ones. The problem is how to train a multilayered network.
+- Multilayered networks can compute any computable function - not just the linearly separable ones. The problem is how to train a multilayered network.
 - The perceptron convergence rule cannot be applied to multilayer networks because there isn’t an error value for the hidden layers. With no way of calculating the error, we don’t know how to update the weights.
 
 **8.3 Multilayer networks**
@@ -1276,7 +1276,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - Subsumption architectures are more similar to reactive systems rather than cognitive systems.
 - They don’t have any decision-making processes built into them.
 - Situated cognition theorists like to think of sophisticated cognitive systems as scaled-up insects, whereas GOFAI theorists think of them as scaled-down supercomputers.
-- The hybrid architecture approach looks for a middle way – it sets out to build scaled-up insects with scaled-down supercomputers grafted onto them.
+- The hybrid architecture approach looks for a middle way - it sets out to build scaled-up insects with scaled-down supercomputers grafted onto them.
 - *Behavior-based architectures*: designed to be capable of representing the environment and planning complex actions.
 - Unlike simple reactive systems (subsumption architectures), behavior-based architectures can exhibit complex behaviors due to the interaction of lower-level behaviors (emergence).
 - Additional features of behavior-based systems

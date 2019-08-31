@@ -244,7 +244,7 @@ Conventional Wisdom: Conduct pop-quizzes and high-stakes post-testing with a goa
 
 Best practice: Conduct frequent, predictable, low-stakes testing (including pre-testing)
 
-Discussion: “Trying to solve a problem before being taught the solution leads to better learning, even when errors are made in the attempt.” In fact, “making mistakes and correcting them builds the bridges to advanced learning.” In addition, frequent quizzing – especially when quizzes are announced in advance - actually reduces learner anxiety. With respect to anxiety, the peak-end rule applies; people judge experiences based on how they were at the peak and at the end. Appreciate that “errors are a natural part of learning.” “Make quizzing and practice exercises count toward the course grade, even if for very low stakes.” Set “clear learning objectives prior to each class.”
+Discussion: “Trying to solve a problem before being taught the solution leads to better learning, even when errors are made in the attempt.” In fact, “making mistakes and correcting them builds the bridges to advanced learning.” In addition, frequent quizzing - especially when quizzes are announced in advance - actually reduces learner anxiety. With respect to anxiety, the peak-end rule applies; people judge experiences based on how they were at the peak and at the end. Appreciate that “errors are a natural part of learning.” “Make quizzing and practice exercises count toward the course grade, even if for very low stakes.” Set “clear learning objectives prior to each class.”
 
 ---
 

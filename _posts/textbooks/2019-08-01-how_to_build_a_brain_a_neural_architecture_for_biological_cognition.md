@@ -22,9 +22,9 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 - [Part I: How to Build a Brain](#part-i-how-to-build-a-brain)
   - [Chapter 2: An Introduction to Brain Building](#chapter-2-an-introduction-to-brain-building)
   - [Chapter 3: Biological Cognition-Semantics](#chapter-3-biological-cognition-semantics)
-  - [Chapter 4: Biological Cognition–Syntax](#chapter-4-biological-cognition%e2%80%93syntax)
-  - [Chapter 5: Biological Cognition–Control](#chapter-5-biological-cognition%e2%80%93control)
-  - [Chapter 6: Biological Cognition–Memory and Learning](#chapter-6-biological-cognition%e2%80%93memory-and-learning)
+  - [Chapter 4: Biological Cognition-Syntax](#chapter-4-biological-cognition-syntax)
+  - [Chapter 5: Biological Cognition-Control](#chapter-5-biological-cognition-control)
+  - [Chapter 6: Biological Cognition-Memory and Learning](#chapter-6-biological-cognition-memory-and-learning)
   - [Chapter 7: The Semantic Pointer Architecture](#chapter-7-the-semantic-pointer-architecture)
 - [Part II: Is That How You Build a Brain?](#part-ii-is-that-how-you-build-a-brain)
   - [Chapter 8: Evaluating Cognitive Theories](#chapter-8-evaluating-cognitive-theories)
@@ -269,7 +269,7 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 - However, both hierarchies are independent as suggested by the different brain areas for both systems.
 - E.g. The motor cortex verses the visual cortex.
 
-## Chapter 4: Biological Cognition–Syntax
+## Chapter 4: Biological Cognition-Syntax
 
 - How can representations (such as semantic pointers) be bound to roles within a structure?
 - E.g. Conceptual relations, binding, and recursion.
@@ -354,7 +354,7 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
   - Number of dimensions. Smaller dimension spaces means that it’s more likely for vectors to collide or share some similarity that isn’t true.
   - Number of neurons. Larger dimension spaces means that more neurons are needed to represent the dimensions which leads to more energy and more computation.
 
-## Chapter 5: Biological Cognition–Control
+## Chapter 5: Biological Cognition-Control
 
 - It’s important that we understand how the flow of information in the brain is controlled because it allows for flexible, robust, and adaptive cognition.
 - Control allows the brain to
@@ -398,7 +398,7 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 - If we apply the SPA to the Tower of Hanoi problem, the model matches human behavioral and fMRI data quite well.
 ![Figure 5.21]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure5-21.png" | absolute_url }})
 
-## Chapter 6: Biological Cognition–Memory and Learning
+## Chapter 6: Biological Cognition-Memory and Learning
 
 - We can think of learning as the accumulation of memories.
 - Types of learning

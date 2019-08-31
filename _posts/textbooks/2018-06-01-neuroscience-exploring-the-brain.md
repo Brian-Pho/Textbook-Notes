@@ -936,7 +936,7 @@ If our brains were simple enough for us to understand them, we'd be so simple th
   - Surprise
 - The dimensional theories of emotion assumes that emotions are constructed from smaller building blocks such as valence and arousal.
 ![Figure 18.7]({{ "/assets/textbooks/neuroscience-exploring-the-brain/figure18-7.png" | absolute_url }})
-- *Klüver–Bucy syndrome*: removal of the temporal lobes causes the follow symptoms in both monkeys and humans
+- *Klüver-Bucy syndrome*: removal of the temporal lobes causes the follow symptoms in both monkeys and humans
   - Visual recognition problems
   - Oral tendencies
   - Hypersexuality

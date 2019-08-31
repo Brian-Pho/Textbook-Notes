@@ -49,7 +49,7 @@ excerpt: "A paper on how to write papers."
 
 - The introduction highlights the gap that exists in current knowledge or methods, and why it is important.
 - The structure of each Introduction paragraph (except the last) serves the goal of developing the gap.
-- This gap-focused structure makes it easy for experienced readers to evaluate the potential importance of a paper – they just need to assess the importance of the claimed gap.
+- This gap-focused structure makes it easy for experienced readers to evaluate the potential importance of a paper - they just need to assess the importance of the claimed gap.
 - The last paragraph of the introduction is special in that it compactly summarizes the results, which fills the gap you just established.
 - This differs from the abstract because no context is presented.
 
