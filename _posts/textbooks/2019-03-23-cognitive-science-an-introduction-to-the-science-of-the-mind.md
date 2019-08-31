@@ -496,7 +496,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
 - My main issue with the argument is who wrote the book that matches questions to answers? They must know and understand Chinese to have written it so thus the room acts as a proxy for them.
 - Searle uses the example of the Chinese room to argue that there is a huge and impassable gap between formal symbol manipulation, on the one hand, and genuine thought an understanding on the other.
 - The Chinese room argument is related to the Turing test; it rejects the Turing test as a measure of intelligent behavior.
-- *Symbol-ground problem*: how do symbols become meaningful?
+- *Symbol-grounding problem*: how do symbols become meaningful?
 - The symbol-grounding problem is a problem about how words and thoughts become meaningful to speakers and thinkers. The problem of intentionality is a problem about how words and thoughts connect up with the world.
 - E.g. of the difference, the word "cat" refers to the fluffy cute animal  because that’s how people speaking the language refer to that animal. This solves the problem of intentionality but not the symbol-grounding problem. It provides an account that the intention of "cat" refers to the animal, but it doesn’t say how that intention is formed.
 - For this reason, the symbol-grounding problem is more fundamental than the problem of intentionality.

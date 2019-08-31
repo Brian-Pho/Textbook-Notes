@@ -253,7 +253,7 @@ We don't live in a world of reality but in a world of perceptions. - Unknown
 
 - *Sparse representations*: a large, absolute number of neurons are activated for a complex event but is small compared to the total number of cells in the region.
 - As processing moves further away from the sensory receptors, the representation seems to become sparser and sparser and more and more selective, but no selective representations.
-- Analogy: The brain is like a piano player in that it has to play 2.5 million keys at the right time and hitting the right key, or else a disaster ensues.
+- *Analogy*: The brain is like a piano player in that it has to play 2.5 million keys at the right time and hitting the right key, or else a disaster ensues.
 
 **Limulus: How the horseshoe crab sees a mate**
 
@@ -334,9 +334,9 @@ We don't live in a world of reality but in a world of perceptions. - Unknown
 - E.g. Memory palace associates a place with a memory or the Russian reporter with synesthesia.
 - This parallels computers as simple memory is stored but only through software can complex associations of memory be created to do work.
 - Problems with simple association
-  - Literal: an input links to an output and that’s it.
-  - Control structures: instead of using all inputs, only select a few to launch the association.
-  - Logic: associative networks have no relationship to logic.
+  - *Literal*: an input links to an output and that’s it.
+  - *Control structures*: instead of using all inputs, only select a few to launch the association.
+  - *Logic*: associative networks have no relationship to logic.
 - What is the physical basis of memory?
 - Memory is stored in the synapses that couple nerve cells together via the synapse’s strength.
 - The connection between change in synapse strength and change in behavior has been conclusively shown.
