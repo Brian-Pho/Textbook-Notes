@@ -10,6 +10,7 @@ mathjax: true
 <details>
 <summary>Table of Contents</summary>
 <div markdown="1">
+
 - [Preface](#preface)
 - [Chapter 1: Humans Rule!](#chapter-1-humans-rule)
 - [Chapter 2: Brain Soup](#chapter-2-brain-soup)
@@ -23,6 +24,7 @@ mathjax: true
 - [Chapter 10: Brains or Brawn: You Can’t Have Both](#chapter-10-brains-or-brawn-you-cant-have-both)
 - [Chapter 11: Thank Cooking for Your Neurons](#chapter-11-thank-cooking-for-your-neurons)
 - [Chapter 12: … But Plenty of Neurons Aren’t Enough](#chapter-12--but-plenty-of-neurons-arent-enough)
+
 </div>
 </details>
 

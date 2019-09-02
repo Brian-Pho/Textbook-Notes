@@ -651,7 +651,7 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - E.g. If the output is too low, then this was caused by a connected hidden unit whose output was too low.
   - This gives us a way of assigning error to each hidden unit.
   - Once we assign the degree of responsibility to a hidden unit, then we can modify the weights between that unit and the output unit to decrease the error.
-- The error is propagated back through the network until the input layer is reached. 
+- The error is propagated back through the network until the input layer is reached.
 - It's very important to remember that activation and error travel through the network in opposite directions. Activation spreads forwards through the network (at least in feed forward networks), while error is propagated backwards.
 - How biologically plausible are neural networks? Here are some differences
   - ANN units are all the same while the brain has many different types of neurons.

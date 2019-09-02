@@ -9,6 +9,7 @@ excerpt: "How the connections in our brain make us who we are."
 <details>
 <summary>Table of Contents</summary>
 <div markdown="1">
+
 - [Part I: Does Size Matter?](#part-i-does-size-matter)
   - [Chapter 1: Genius and Madness](#chapter-1-genius-and-madness)
   - [Chapter 2: Border Disputes](#chapter-2-border-disputes)
@@ -30,6 +31,7 @@ excerpt: "How the connections in our brain make us who we are."
   - [Chapter 14: To Freeze or to Pickle?](#chapter-14-to-freeze-or-to-pickle)
   - [Chapter 15: Save As...](#chapter-15-save-as)
   - [Epilogue](#epilogue)
+
 </div>
 </details>
 
