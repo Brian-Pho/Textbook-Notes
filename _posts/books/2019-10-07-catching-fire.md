@@ -3,7 +3,7 @@ layout: post
 title: "Catching Fire"
 categories:
   - Books
-excerpt: "An exploration of how cooking has affect humanity."
+excerpt: "An exploration of how cooking has affected humanity."
 ---
 
 <details>
