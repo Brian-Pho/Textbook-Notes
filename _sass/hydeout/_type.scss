@@ -122,3 +122,8 @@ a svg, .icon svg {
 }
 a svg { fill: $link-color; }
 .icon { vertical-align: middle; }
+
+// Left align mathjax equations
+.MJXc-display {
+  text-align: left !important;
+}
