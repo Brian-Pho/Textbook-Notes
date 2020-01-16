@@ -3,7 +3,7 @@ layout: post
 title: "How to Build a Brain: A Neural Architecture for Biological Cognition"
 categories:
 - Textbooks
-book: "how_to_build_a_brain_a_neural_architecture_for_biological_cognition"
+book: "how-to-build-a-brain-a-neural-architecture-for-biological-cognition"
 book_authors: "Chris Eliasmith"
 excerpt: "An introduction to a biologically plausible model of the brain."
 mathjax: true
@@ -17,8 +17,6 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 <summary>Table of Contents</summary>
 <div markdown="1">
 
-- [How to Build a Brain: A Neural Architecture for Biological Cognition](#how-to-build-a-brain-a-neural-architecture-for-biological-cognition)
-  - [Chapter 1: The Science of Cognition](#chapter-1-the-science-of-cognition)
 - [Part I: How to Build a Brain](#part-i-how-to-build-a-brain)
   - [Chapter 2: An Introduction to Brain Building](#chapter-2-an-introduction-to-brain-building)
   - [Chapter 3: Biological Cognition-Semantics](#chapter-3-biological-cognition-semantics)
@@ -35,8 +33,6 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 </details>
 
 ---
-
-# How to Build a Brain: A Neural Architecture for Biological Cognition
 
 ## Chapter 1: The Science of Cognition
 
@@ -59,7 +55,7 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
   - Symbolic: Turing machine.
   - Connectionists: Mental representations.
   - Dynamicists: Watt Governor.
-![Figure 1.2]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure1-2.png" | absolute_url }})
+![Figure 1.2]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure1-2.png" | absolute_url }})
 - The author argues that we need to move beyond metaphors because they constrain our hypotheses.
 - E.g. Light as a wave and light as a particle constrained the idea that light is both a wave and particle under wave-particle duality.
 - We want an understanding that contains the strengths of the three approaches without drawing on their metaphors, but rather drawing on biological evidence.
@@ -72,7 +68,7 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
   - Connectionists use networks of nodes.
   - Dynamicists use differential equations.
 - What theoretical and functional aspects make a system a cognitive system?
-![Table 1.1]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/table1-1.png" | absolute_url }})
+![Table 1.1]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/table1-1.png" | absolute_url }})
 - Core Cognitive Criteria (CCC) for Theories of Cognition
   1. Representational structure
       1. Systematicity: the fact that some sets of representations are linked in a consistent way.
@@ -109,7 +105,7 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 - Semantic Pointer Architecture (SPA): the idea that the higher-level cognitive functions are made possible by semantic pointers.
 - Semantic Pointer Architecture Unified Network (SPAUN): a system that integrates many different functions to reproduce a subset of human behaviors.
 - SPA isn’t based in metaphors because it bottoms out at the level of neurons. SPA is based in neurons.
-![Table 1.2]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/table1-2.png" | absolute_url }})
+![Table 1.2]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/table1-2.png" | absolute_url }})
 - "Creating” a system amounts to creating “simulations” of the underlying mechanisms in detail.
 - Nengo (Neural ENGineering Objects): a graphical neural simulation environment that’s used in the book’s tutorials.
 
@@ -119,14 +115,14 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 
 - Neural Engineering Framework (NEF): methods for constructing large-scale, neurally realistic models of the brain.
 - Brains provide animals with behavioral flexibility and they control the four Fs of living (feeding, fleeing, fighting, and fucking).
-![Figure 2.1]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure2-1.png" | absolute_url }})
+![Figure 2.1]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure2-1.png" | absolute_url }})
 - Neurons are specialized for communication.
-![Figure 2.2]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure2-2.png" | absolute_url }})
+![Figure 2.2]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure2-2.png" | absolute_url }})
 - The brain is complex due to the variability found in neurons, synapses, and neurotransmitters.
 - Tuning curve: the frequency of spiking of a neuron in response to a given input stimulus.
 - Tuning curves and response functions are not the same. Tuning curves vary but response functions are more consistent.
 - Tuning curves help to identify what information a neuron carries.
-![Figure 2.5]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure2-5.png" | absolute_url }})
+![Figure 2.5]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure2-5.png" | absolute_url }})
 - For the rest of this book, a tuning curve includes the information about the cell’s receptive field although this isn’t exactly the case for real neurons.
 - Response functions depend on a cell’s intrinsic properties while tuning curves depend on a cell’s extrinsic properties.
 - Intrinsic heterogeneity can be captured by the variability of individual cells while extrinsic heterogeneity is a result of where a cell sits in the network.
@@ -142,17 +138,17 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
   - Variability in the amount of neurotransmitter in each vesicle
   - Jitter from axons
 - NEF analyzes the brain using populations of neurons rather than single neurons.
-![Figure 2.6]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure2-6.png" | absolute_url }})
+![Figure 2.6]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure2-6.png" | absolute_url }})
 - NEF suggests that we should use codes to understand representations in neural systems.
 - Codes: complimentary encoding and decoding procedures between two alphabets.
 - E.g. Morse codes maps the English alphabet to a set of dashes and dots.
 - The encoding procedure in neural systems is done using spikes.
 - Spike raster: a neuron’s firing pattern.
-![Figure 2.7]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure2-7.png" | absolute_url }})
+![Figure 2.7]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure2-7.png" | absolute_url }})
 - Two aspects of decoding a neural response
   - Population decoding: weighting each neuron by how useful it is for carrying information about the stimulus.
   - Temporal decoding: neurons respond in time to a changing stimulus.
-![Figure 2.8]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure2-8.png" | absolute_url }})
+![Figure 2.8]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure2-8.png" | absolute_url }})
 - Inputs typically change over time so decoding must also decode over time.
 - Adding more neurons improves both decoding mechanisms in two ways
   - Allows the nonlinearities of tuning curves to be linearized via population decoding.
@@ -161,7 +157,7 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 - Neural responses (encoded alphabet) code physical properties (decoded alphabet).
 - Neural responses come in the form of temporally patterned neural spikes over populations.
 - Physical properties come in the form of velocity, frequency, hot, edible, etc.
-![Figure 2.9]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure2-9.png" | absolute_url }})
+![Figure 2.9]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure2-9.png" | absolute_url }})
 - The first principle of the NEF provides a general characterization of the encoding and decoding relationship between mathematical objects with units and descriptions of patterns of spikes in populations of neurons.
 - Important properties of NEF representations
   1. Can be used to describe arbitrarily complex representations.
@@ -172,10 +168,10 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 - A transformational decoder, in contrast to a representational decoder, performs a biased decoding of a representation instead of a pure decoding.
 - E.g. A representational decoder performs an $$x \rightarrow x$$ decoding/mapping while a transformational decoder performs an $$x \rightarrow f(x)$$ mapping.
 - These two types of decoding are sufficient for describing cognitive behavior.
-![Figure 2.11]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure2-11.png" | absolute_url }})
+![Figure 2.11]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure2-11.png" | absolute_url }})
 - In practice, the encoding/decoding distinction isn’t explicitly seen in neurons but is implemented in the synaptic weights between neurons.
 - The state space representations of neural populations are the state variables of a dynamical system defined by control theory.
-![Figure 2.15]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure2-15.png" | absolute_url }})
+![Figure 2.15]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure2-15.png" | absolute_url }})
 - The following equation captures how a neuron’s connection weights are calculated
   - $$w_{ij}=d_{i}^{f}Ae_{j}$$
     - $$w$$ is the weight from neuron population $$i$$ to neuron population $$j$$.
@@ -190,7 +186,7 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 - There are two distinct types of “levels”
   - Levels of scale: where a property fits on a physical scale.
   - Levels of abstraction: where an idea fits on a “detail” scale.
-![Table 2.1]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/table2-1.png" | absolute_url }})
+![Table 2.1]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/table2-1.png" | absolute_url }})
 - A population of neurons acts together like a variable unlike traditional connectionist ANNs where the network represents a concept. Different activations of the population represent different concepts.
 
 ## Chapter 3: Biological Cognition-Semantics
@@ -199,13 +195,13 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 - E.g. Catastrophic forgetting in ANNs.
 - Semantic pointer: a neural representation that carries partial semantic content and is composable into representational structures used in cognition.
 - Semantic pointers are described by vectors in a high-dimensional space where each point in the space represents a concept.
-![Figure 3.1]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure3-1.png" | absolute_url }})
+![Figure 3.1]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure3-1.png" | absolute_url }})
 - Similar concepts are closer in the state space compared to concepts that aren’t similar.
 - E.g. The concept of “cat” is closer to “dog” than it is to say “water”.
 - So the location of a concept in the state space carries information about its relationship to other concepts.
 - With higher dimensions, the amount of surface area increases which leads to the ability to represent more concepts within that state space.
 - E.g. A 100D space can hold more concepts and relationships than a 3D space.
-![Figure 3.2]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure3-2.png" | absolute_url }})
+![Figure 3.2]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure3-2.png" | absolute_url }})
 - How does this state space relate to the time required to access content? Are concepts closer to the center faster to access?
 - A representation can’t carry all of the semantic content because it would be too much information for our brains to actively represent and manipulate.
 - This is why the notion of a pointer is important. A pointer doesn’t contain all of the semantic content but rather only information on how and where to find the content.
@@ -246,11 +242,11 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 - E.g. Using the Bell curve equation to characterize a model instead of the raw data points.
 - We can further constrain parameterized models by using what we know about the brain and its use of hierarchical models.
 - In a hierarchical statistical model, each higher level attempts to build a statistical model of the level below it.
-![Figure 3.4]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure3-4.png" | absolute_url }})
-![Figure 3.7]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure3-7.png" | absolute_url }})
+![Figure 3.4]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure3-4.png" | absolute_url }})
+![Figure 3.7]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure3-7.png" | absolute_url }})
 - Figure 3.7c reminds me of the numerosity mapping from the “After Digital” textbook.
 - Motor control is the opposite problem of perception because perception maps from high dimensional features to low dimensional concepts while motor controls goes from low dimensional goals to high dimensional control of muscles.
-![Figure 3.9]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure3-9.png" | absolute_url }})
+![Figure 3.9]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure3-9.png" | absolute_url }})
 - Dual problems are problems where a solution to one of the problems provides a solution to the other problem.
 - This is great for the perceptual and motor systems because they can be treated as dual problems so a solution for one is a solution to the other.
 - It’s a mistake to think that the flow of information in the brain is only up or down the hierarchy as there are recurrent connections and connections that skip levels.
@@ -259,7 +255,7 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 - Synergies: sets of movements that are often activated together.
 - E.g. The “move finger down while moving arm down” synergy used to press a button.
 - Perception and action have dual descriptions in which semantic pointers can play the same role in both systems. That of encoding perceptual information and of decoding motor goals.
-![Figure 3.11]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure3-11.png" | absolute_url }})
+![Figure 3.11]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure3-11.png" | absolute_url }})
 - This can also be used to explain how we “visualize” some motor actions by running from the top to bottom of the hierarchy to simulate the action.
 - Semantic pointers both
   - Capture higher-order relationships because they can be dereferenced into lower level actions.
@@ -291,7 +287,7 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 - This choice of binding operation is important in the later applications of semantic pointers so please remember this well.
 - The unbinding operation is specified using the following equation.
 - $$A \approx C \circledast B' = F^{-1}(FC \cdot FSB)$$ where $$S$$ is the inverse transformation and $$B'$$ is the approximate inverse of $$B$$.
-![Figure 4.3]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure4-3.png" | absolute_url }})
+![Figure 4.3]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure4-3.png" | absolute_url }})
 - Example of unbinding
   - Suppose we have a sentence encoded as the semantic pointer $$P$$ where $$P = verb \circledast chase + agent \circledast dog + theme \circledast boy$$ or in plain English “The dog chases the boy”.
   - We can decode the role of the word “chase” by multiplying $$P$$ with the inverse of “chase”.
@@ -304,7 +300,7 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 - Example of rebinding
   - Suppose we want to switch the roles and change the relation of $$P$$ using the semantic pointer $$T=agent' \circledast theme + chase' \circledast hug + theme' \circledast agent$$ or in plain English “The agent hugs the theme”.
   - By convolving $$T$$ and $$P$$ we get $$T \circledast P = verb \circledast hug + agent \circledast boy + theme \circledast dog + noise$$ or in plain English “The boy hugs the dog”.
-![Figure 4.5]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure4-5.png" | absolute_url }})
+![Figure 4.5]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure4-5.png" | absolute_url }})
 - I wonder how well this system does against Winograd sentences.
 - Two issues with using VSA for language
   - How to map language to VSA.
@@ -333,8 +329,8 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 - Binding and clean-up networks allow SPA to gracefully degrade in performance thus matching biological data.
 - Going back to the problem of induction.
 - Raven’s Progressive Matrices (RPM): a set of images that tests induction.
-![Figure 4.8]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure4-8.png" | absolute_url }})
-![Figure 4.9]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure4-9.png" | absolute_url }})
+![Figure 4.8]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure4-8.png" | absolute_url }})
+![Figure 4.9]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure4-9.png" | absolute_url }})
 - SPA using the induction rule is able to perform at human level in the RPM task.
 - Another important feature is that the same network can be used to perform deduction and abduction.
 - Syntactic generalization: content-insensitive generalization.
@@ -349,7 +345,7 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
   - E.g. Decoding the “dog” semantic pointer gives us $$dog = isA \circledast mammal + hasProperty \circledast friendly + likes \circledast bones$$.
 - We can further decode the “mammal” semantic pointer to give us $$mammal = isA \circledast animal + hasProperty \circledast hair + produced \circledast milk$$.
 - This method of chaining/nesting increases the effective number of role-filler pairs.
-![Figure 4.11]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure4-11.png" | absolute_url }})
+![Figure 4.11]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure4-11.png" | absolute_url }})
 - There are two constraints when using SPA
   - Number of dimensions. Smaller dimension spaces means that it’s more likely for vectors to collide or share some similarity that isn’t true.
   - Number of neurons. Larger dimension spaces means that more neurons are needed to represent the dimensions which leads to more energy and more computation.
@@ -366,10 +362,10 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
   - Determining an appropriate control signal.
   - Applying that control signal.
 - Basal ganglia (BG): an interconnected cluster of brain areas under the neocortex and close to the thalamus.
-![Figure 5.1]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure5-1.png" | absolute_url }})
+![Figure 5.1]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure5-1.png" | absolute_url }})
 - The BG is implicated in action selection or choosing between alternative courses of action.
 - The BG selects an action by inhibiting the corresponding output.
-![Figure 5.2]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure5-2.png" | absolute_url }})
+![Figure 5.2]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure5-2.png" | absolute_url }})
 - SPA assumptions of the control process
   - Cortex provides, stores, and manipulates representations.
   - Basal ganglia maps current brain states to courses of action.
@@ -386,7 +382,7 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 - One way of implementing a control signal for the flow of information is through the use of inhibitory neurons and hierarchy.
 - Neurons at the top of the hierarchy send a signal down that blocks neurons from sending information, acting as a gate.
 - The control neurons determine which lower-level neurons are allowed to project their information to the higher-level neurons.
-![Figure 5.9]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure5-9.png" | absolute_url }})
+![Figure 5.9]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure5-9.png" | absolute_url }})
 - The ARC matches biological evidence for attention effects and captures the physical constraints of neurons.
 - Not only can gating signals be used to route signals but they can also be used to process signals due to their ability to bind and unbind semantic pointers.
 - Example of a gating rule
@@ -394,9 +390,9 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
   - We can process this input by using an if-then statement
     - If the visual cortex contains $$statement+?$$, then copy visual cortex to working memory.
     - If visual cortex contains $$question+?$$, then apply visual cortex to the contents of working memory.
-![Figure 5.15]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure5-15.png" | absolute_url }})
+![Figure 5.15]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure5-15.png" | absolute_url }})
 - If we apply the SPA to the Tower of Hanoi problem, the model matches human behavioral and fMRI data quite well.
-![Figure 5.21]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure5-21.png" | absolute_url }})
+![Figure 5.21]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure5-21.png" | absolute_url }})
 
 ## Chapter 6: Biological Cognition-Memory and Learning
 
@@ -419,21 +415,21 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
   - Primacy: that items appearing earlier in the list have a greater chance of being accurately recalled.
   - Recency: that items recently presented have a greater chance of being accurately recalled.
 - Both primacy and recency together account for a U-shaped response probability curve seen in serial working memory tasks.
-![Figure 6.1]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure6-1.png" | absolute_url }})
+![Figure 6.1]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure6-1.png" | absolute_url }})
 - Interestingly, the same U-shape curve is seen in free recall tasks, tasks without ordering, so it seems likely that both tasks use the same underlying mechanism for memory.
 - So serial working memory is more fundamental when considering human cognition because it can account for both serial and non-serial data.
 - Ordinal serial encoding (OSE): a model of serial working memory in SPA.
-![Figure 6.2]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure6-2.png" | absolute_url }})
+![Figure 6.2]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure6-2.png" | absolute_url }})
 - The OSE memorizes semantic pointers by binding the item vector to a position vector and adding it to the overall representation store.
 - Overall, the OSE don’t use any new idea but rather combines the concepts of SPA to create the function of memory.
-![Figure 6.3]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure6-3.png" | absolute_url }})
+![Figure 6.3]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure6-3.png" | absolute_url }})
 - The OSE model does a good job of capturing multiple features of behavioral data such as primacy and recency.
-![Figure 6.6]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure6-6.png" | absolute_url }})
+![Figure 6.6]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure6-6.png" | absolute_url }})
 - Interestingly, this model only works if it’s implemented in neurons as direct implementations of the equations or vectors doesn’t match the human data.
 - The model is able to capture human data because individual neurons saturate themselves when participating in the representation of large vectors.
 - This saturation serves as a kind of “soft” normalization which isn’t the ideal math normalization nor is it a complete lack of normalization.
 - This observation is significant because it provides an unambiguous example of the importance of constructing a neural implementation for explaining high-level psychological behavior.
-![Figure 6.7]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure6-7.png" | absolute_url }})
+![Figure 6.7]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure6-7.png" | absolute_url }})
 - It’s difficult to specify what counts as a “biologically plausible” learning rule because there are many mechanisms of synaptic modifications in the brain.
 - Introduction of Hebb rule and STDP but both depend on information that’s directly available to the cell whose weight is changed.
 - Homeostatic, prescribed error sensitivity (hPES): a learning rule developed for SPA.
@@ -444,7 +440,7 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 - E.g. Abstract version with vowels verses underage drinking version.
 - Social contract theory (SCT): a theory proposed to explain the underage drinking version of Wason’s card selection task. The theory proposes that natural selection has produced special-purpose, domain-specific mental algorithms for solving important, recurring, adaptive problems.
 - Pragmatic reasoning schemas (PRS): an alternative theory to SCT that says the source of the rules is induced through experience while SCT says the source is genetic.
-![Figure 6.16]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure6-16.png" | absolute_url }})
+![Figure 6.16]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure6-16.png" | absolute_url }})
 - Ventromedial Prefrontal Cortex (VMPFC): the bottom area of the prefrontal cortex.
 - Interestingly, this model predicts that the VMPFC is where the difference between the abstract and content facilitated version is determined.
 - This contrasts with SCT because this doesn’t mean that there’s an evolutionary distinct reasoning mechanism, this means that the same reasoning mechanism is used but with different parameters/contexts.
@@ -452,23 +448,23 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 ## Chapter 7: The Semantic Pointer Architecture
 
 - This chapter tackles the unification of the previous parts of SPA and combines them into a single model.
-![Figure 7.1]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure7-1.png" | absolute_url }})
+![Figure 7.1]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure7-1.png" | absolute_url }})
 - SPA Unified Network (Spaun): a unified model of different SPA modules that is designed to solve eight different tasks in a limited domain.
 - The input domain consists of numbers zero to nine plus some additional task-control symbols.
 - The output domain consists of a two-jointed arm that Spaun can use to draw its response.
-![Figure 7.3]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure7-3.png" | absolute_url }})
+![Figure 7.3]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure7-3.png" | absolute_url }})
 - A specific task is chosen by first presenting an “A” followed by the task number, a number between zero and seven.
 - The following input is then used for the task.
 - Spaun can’t be changed during any of the tasks or between any task; it must work on all eight tasks from the beginning.
 - Not the most biologically realistic evaluation because even people have to learn as we aren’t born with these skills.
-![Table 7.1]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/table7-1.png" | absolute_url }})
+![Table 7.1]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/table7-1.png" | absolute_url }})
 - Spaun uses 50D semantic pointers at the top of the visual hierarchy, 54D at the top of the motor hierarchy, and 512D everywhere else.
 - Overall, the model uses 2.5 million spiking neurons and requires significant computation resources to simulate.
 - Since Spaun doesn’t implement specific task modules but general modules, the list of tasks can be expanded upon to include new tasks using the same architecture.
-![Figure 7.6]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure7-6.png" | absolute_url }})
+![Figure 7.6]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure7-6.png" | absolute_url }})
 - For the copy drawing task, the visual semantic pointer maps linearly to the motor semantic pointer because of the compression and decompression algorithms built into it.
 - We have to do this because it would be difficult to map directly from pixel-space to muscle-space so we perform an abstraction.
-![Figure 7.7]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure7-7.png" | absolute_url }})
+![Figure 7.7]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure7-7.png" | absolute_url }})
 - Rapid variable creation problem example
   - Input: Biffle biffle rose zarple. Output: rose zarple.
   - Input: Biffle biffle frog zarple. Output: frog zarple.
@@ -549,10 +545,10 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
     - Concerns with neural plausibility such as assuming all neurons are physiologically the same
 - Implementing structured representations requires implementing how to bind representations.
 - One suggestion from visual neuroscience is that synchronous spiking activity is used to bind representations.
-![Figure 9.1]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure9-1.png" | absolute_url }})
+![Figure 9.1]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure9-1.png" | absolute_url }})
 - However, we don’t have strong evidence that synchronous spiking activity is actually used for binding and that it isn’t an epiphenomenon.
 - E.g. If we see the color “red” and the shape “circle”, then we expect these to be synchronously represented in the brain and allowing subsequent areas to treat these features as bound.
-![Figure 9.2]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/figure9-2.png" | absolute_url }})
+![Figure 9.2]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/figure9-2.png" | absolute_url }})
 - The author believes that the failure to scale these cognitive architectures stems from a fundamental problem with attempting to neurally implement a classical representational scheme
   - If we require each unit within a structure to appear in the representation of the overall structure, then we will either have an exponential explosion in the number of neurons required.
   - Or a complex and brittle system for temporarily binding and rebinding terms that is incompatible with known neural constraints.
@@ -565,7 +561,7 @@ We have not yet learned what the brain has to teach us. - Chris Eliasmith
 - SPA uses “symbol-like” representations but not symbols. It approximates symbols.
 - Populations of neurons represent vector spaces so the concept of “dog” can be in many different networks at the same time.
 - The SPA begins with populations of neurons.
-![Table 9.2]({{ "/assets/textbooks/how_to_build_a_brain_a_neural_architecture_for_biological_cognition/table9-2.png" | absolute_url }})
+![Table 9.2]({{ "/assets/textbooks/how-to-build-a-brain-a-neural-architecture-for-biological-cognition/table9-2.png" | absolute_url }})
 
 ## Chapter 10: Consequences and Challenges
 
