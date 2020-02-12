@@ -49,7 +49,7 @@ Some people, when confronted with a problem, think 'I know, I'll use regular exp
 ## Chapter 0: Introduction
 
 - DISCLAIMER: These notes are from a senior software engineering student so basic concepts have been skipped and I’ve mostly noted the special syntax/features of JS. These notes are not for beginner programmers.
-- Textbook available at: <https://eloquentjavascript.net/>
+- Textbook website: <https://eloquentjavascript.net/>
 - A better review: <https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript>
 - ECMAScript = JavaScript (JS)
 - JavaScript is mostly run in a browser but Node.js lets JS run outside of it.
@@ -155,7 +155,7 @@ Some people, when confronted with a problem, think 'I know, I'll use regular exp
 
 ## Chapter 5: Higher-order Functions
 
-- E.g. Of a function that creates functions.
+- E.g. of a function that creates functions.
 
 ```javascript
     function greaterThan(n) {

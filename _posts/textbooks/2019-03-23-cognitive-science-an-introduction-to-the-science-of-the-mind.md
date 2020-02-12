@@ -54,13 +54,13 @@ Artificial intelligence is basically willy nilly, stabbing in the dark, trying t
   - All learning depends on conditioning.
   - All conditioning depends on the processes of association/reinforcement.
 - Association/Reinforcement → Conditioning → Learning
-- All learning is either associative learning (classical conditioning) or reinforcement learning
+- All learning is either associative learning (classical conditioning) or reinforcement learning.
 - A rat is rewarded when it performs the relevant behavior, so the reward reinforces the behavior.
 - This strengthens the association between the reward and the behavior which makes the behavior more likely. The rat becomes conditioned to perform the behavior.
-- *Latent learning*: learning without any reinforcement/reward/feedback
+- *Latent learning*: learning without any reinforcement/reward/feedback.
 - It’s easier for animals to code spatial information in terms of places rather than in terms of particular sequences of movements.
-- E.g. When a rat’s food is moved vs when the rat is moved, it’s faster for the rat that moved to find its food than when the food was moved.
-- *Representations*: stored information about the environment/object/person/thing
+- E.g. When a rat’s food is moved vs when the rat is moved, it’s faster for the rat that moved to find its food than when the food was moved. Suggesting maps are built to be invariant, not individual focused.
+- *Representations*: stored information about the environment/object/person/thing.
 - How are representations formed? used? transformed?
 - Behaviorism explains complex behaviors as a series of linked sequences of responses (like a chain).
 - However, another view is that complex behaviors arise from planning and are organized in a hierarchy (can break a behavior down into simpler behaviors).
