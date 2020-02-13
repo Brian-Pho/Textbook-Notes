@@ -12,7 +12,7 @@ title: Chirpy                          # the main title
 
 tagline: A text-focused Jekyll theme.  # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
+description: >-                        # used by seo meta
   A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.
 
 # Replace with your domain, e.g. 'https://username.github.io'
@@ -48,21 +48,6 @@ baseurl: ''
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Shanghai
-
-google_analytics:
-  # Fill with your Google Analytics ID
-  id: ''
-  # The Google Analytics pageviews switch.
-  # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
-  pv: false
-  # superProxy baseURL and URL, only valid when `google_analytics.pv` is set to 'true'
-  proxy_baseurl: ''
-  proxy_url: ''
-
-
-disqus:
-  comments: false  # boolean type, the global switch for posts comments.
-  shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # The year your website first ran.
 first_run: 2019
@@ -177,10 +162,8 @@ sitemap_exclude:  # Sitemap will exclude the following items.
     - /norobots/
     - /tabs/
     - /categories/
-    - /tags/
     - /posts/
     - 404.html
-    - feed.xml
     - sitemap.xml
     - robots.txt
     - redirects.json

@@ -24,17 +24,10 @@ layout: page
     <div class="post-meta text-muted pt-1">
       <!-- posted date -->
       <i class="far fa-clock fa-fw"></i>
-      <span class="timeago" data-toggle="tooltip" title="{{ post.date | date: TOOLTIP_DATE }}">
+      <span class="timeago"">
       {{ post.date | date: POST_DATE }}
       <i class="unloaded">{{ post.date | date_to_xmlschema }}</i>
       </span>
-      <!-- page views -->
-      {% if site.google_analytics.pv %}
-      <i class="far fa-eye fa-fw"></i>
-      <span id="pv_{{-post.title-}}" class="pageviews">
-        <i class="fas fa-spinner fa-spin fa-fw"></i>
-      </span>
-      {% endif %}
     </div>
   </div> <!-- .post-review -->
   {% endfor %}
@@ -48,10 +41,6 @@ layout: page
     <a class="page-link btn-box-shadow" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">
       <i class="fas fa-angle-left"></i>
     </a>
-  </li>
-  {% else %}
-  <li class="page-item disabled">
-    <a class="page-link btn-box-shadow" href="#"><i class="fas fa-angle-left"></i></a>
   </li>
   {% endif %}
   <!-- endof left arrow -->
@@ -112,10 +101,6 @@ layout: page
     <a class="page-link btn-box-shadow" href="{{ site.baseurl }}{{ paginator.next_page_path }}">
       <i class="fas fa-angle-right"></i>
     </a>
-  </li>
-  {% else %}
-  <li class="page-item disabled">
-    <a class="page-link btn-box-shadow" href="#"><i class="fas fa-angle-right"></i></a>
   </li>
   {% endif %}
 

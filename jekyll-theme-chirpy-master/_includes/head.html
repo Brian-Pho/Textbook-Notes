@@ -26,20 +26,6 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous">
   <link rel="dns-prefetch" href="https://fonts.gstatic.com">
 
-  <!-- ga -->
-  {% if jekyll.environment == 'production' %}
-    <link rel="preconnect" href="https://www.google-analytics.com" crossorigin="use-credentials">
-    <link rel="dns-prefetch" href="https://www.google-analytics.com">
-
-    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin="anonymous">
-    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
-
-    {% if site.google_analytics.proxy_baseurl and site.google_analytics.pv %}
-      <link rel="preconnect" href="{{ site.google_analytics.proxy_baseurl }}" crossorigin="use-credentials">
-      <link rel="dns-prefetch" href="{{ site.google_analytics.proxy_baseurl }}">
-    {% endif %}
-  {% endif %}
-
   <!-- jsdelivr CDN -->
   <link rel="preconnect" href="cdn.jsdelivr.net">
   <link rel="dns-prefetch" href="cdn.jsdelivr.net">
@@ -119,14 +105,6 @@
     integrity="sha256-5+02zu5UULQkO7w1GIr6vftCgMfFdZcAHeDtFnKZsBs=" crossorigin="anonymous" async></script>
 
   <script src="{{ site.baseurl }}/assets/js/dist/commons.js" async></script>
-
-  {% if page.layout == 'home' or page.layout == 'post' %}
-    <script src="{{ site.baseurl }}/assets/js/dist/timeago.min.js" async></script>
-    {% if site.google_analytics.pv %}
-      <script src="{{ site.baseurl }}/assets/lib/countUp.min.js" async></script>
-      <script src="{{ site.baseurl }}/assets/js/dist/pageviews.min.js" async></script>
-    {% endif %}
-  {% endif %}
 
   {% if page.layout == 'post' %}
     <link rel="preload" as="style" href="{{ site.baseurl }}/assets/css/post.css">
