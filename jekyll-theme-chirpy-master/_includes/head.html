@@ -18,14 +18,13 @@
   {%- endif -%}
   </title>
 
-  {% seo title=false %}
-
   {% include favicons.html %}
 
   <!-- google fonts -->
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="anonymous">
   <link rel="dns-prefetch" href="https://fonts.gstatic.com">
-
+  <link href="https://fonts.googleapis.com/css?family=Abril+Fatface|Lato|Oswald|Source+Sans+Pro&display=swap" rel="stylesheet">
+  
   <!-- jsdelivr CDN -->
   <link rel="preconnect" href="cdn.jsdelivr.net">
   <link rel="dns-prefetch" href="cdn.jsdelivr.net">
@@ -81,7 +80,6 @@
     <link rel="preload" href="{{ site.baseurl }}/assets/css/syntax.css" as="style">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/syntax.css">
   {% endif %}
-
 
   <link rel="preload" as="script"
     href="https://cdn.jsdelivr.net/npm/jquery@3.4.1/dist/jquery.min.js"

@@ -8,8 +8,6 @@
 * MIT Licensed
 */
 
-@import "_dark/dark-syntax";
-
 /* the fallback color from https://raw.githubusercontent.com/jwarby/pygments-css/master/github.css */
 .highlight pre { background-color: var(--highlight-pre-bg) }
 .highlight .hll { background-color: var(--highlight-hll-bg, #ffffcc) }

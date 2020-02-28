@@ -8,9 +8,6 @@
 * MIT Licensed
 */
 
-@import "_fonts";
-@import "_dark/dark-main";
-
 html, body {
   height: 100%;
   font-size: 16px;
@@ -43,9 +40,7 @@ body {
   z-index: 99;
   -webkit-transition: transform 0.4s ease;
   transition: transform 0.4s ease;
-  background: rgb(42, 30, 107);
-  background: var(--sidebar-bg,
-    radial-gradient(circle, rgba(42, 30, 107, 1) 0%, rgba(35, 37, 46, 1) 100%));
+  background: #202020;
 }
 
 #sidebar a {
@@ -139,70 +134,32 @@ body {
 
 #nav-wrapper {
   width: 100%;
-  flex-grow: 1;
 }
 
 #profile-wrapper {
   margin-top: 2rem;
 }
 
-#avatar>a {
-  display: block;
-  width: 6rem;
-  height: 6rem;
-  border-radius: 50%;
-  border: 2px solid #b6b6b6;
-  overflow: hidden;
-  transform: translateZ(0); /* fixed the zoom in Safari */
-  -webkit-transition: border-color 0.35s ease-in-out;
-  -moz-transition: border-color 0.35s ease-in-out;
-  transition: border-color 0.35s ease-in-out;
-}
-
-#avatar:hover>a {
-  border-color: #fff;
-}
-
-#avatar img {
-  width: 100%;
-  height: 100%;
-  background-size: cover;
-  background-repeat: no-repeat;
-  -webkit-transition: all .5s !important;
-  -moz-transition: all .5s !important;
-  transition: all .5s !important;
-}
-
-#avatar img:hover {
-  -ms-transform: scale(1.2);
-  -moz-transform: scale(1.2);
-  -webkit-transform: scale(1.2);
-  transform: scale(1.2);
-}
-
 #site-title {
-  text-align: center;
+  font-family: "Abril Fatface", serif;
+  text-align: left;
 }
 
 #site-title a {
-  color: #b6b6b6;
-  font-weight: 900;
-  font-size: 1.5rem;
-  letter-spacing: .5px;
+  color: #fff;
+  font-weight: normal;
+  font-size: 3.25rem;
 }
 
 #site-title a:hover {
-  color: #fff;
+  color: #b6b6b6;
   text-decoration: none;
 }
 
 #site-subtitle {
-  font-size: 95%;
-  text-align: center;
-  color: #828282;
-  line-height: 1.2rem;
-  word-spacing: 1px;
-  margin: .5rem 1.5rem 2rem 1.5rem;
+  font-size: 1.25rem;
+  text-align: left;
+  color: rgba(255,255,255,0.75);
 }
 
 .sidebar-expand {
@@ -673,7 +630,7 @@ p>a, span>a,
 #page-tag a,
 #archives a,
 #search-results a {
-  color: var(--link-color, #2a408e);
+  color: black;
 }
 
 .categories a,
@@ -1288,11 +1245,6 @@ div.tooltip-inner { /* Overrided BS4 Tooltip */
     /* .align-content-center */
     -ms-flex-line-pack: center!important;
     align-content: center!important;
-  }
-
-  #site-title a {
-    font-size: 1.7rem;
-    letter-spacing: 1px;
   }
 
   .profile-text>div {
