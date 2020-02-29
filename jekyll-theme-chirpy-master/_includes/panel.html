@@ -1,26 +1,4 @@
-<!--
-  The Pannel on right side (Desktop views)
-  v2.0
-  https://github.com/cotes2020/jekyll-theme-chirpy
-  © 2017-2019 Cotes Chung
-  MIT License
--->
-
 <div id="panel-wrapper" class="col-xl-3 pl-2 topbar-down">
-
-  <div class="access">
-  {% assign index = 0 %}
-
-  {% for post in site.posts %}
-    {% if post.seo.date_modified > post.date and post.seo.date_modified != nil %}
-      {% capture item %}
-        {{ post.seo.date_modified }}::{{ index }}
-      {% endcapture %}
-    {% endif %}
-    {% assign index = index | plus: 1 %}
-  {% endfor %}
-
-  </div> <!-- .access -->
 
   {% if page.layout == 'post' and site.toc and page.toc %}
   <div id="toc-wrapper" class="pl-0 pr-4 mb-5">

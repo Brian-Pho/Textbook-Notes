@@ -4,8 +4,6 @@
 # © 2017-2019 Cotes Chung
 # MIT licensed
 
-
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
 title: CR4-DL                          # the main title
@@ -15,37 +13,24 @@ tagline: The Cradle. A vault for notes on artificial intelligence and the brain.
 description: >-                        # used by seo meta
   The Cradle. A vault for notes on artificial intelligence and the brain.
 
-# Replace with your domain, e.g. 'https://username.github.io'
-url: 'protocol://domain'
+url: https://brianpho.com
+baseurl:
 
-author: Brian Pho                 # change to your full name
+author: Brian Pho
 
 github:
-  username: github_username             # change to your github username
-
-twitter:
-  username: twitter_username            # change to your twitter username
+  username: Brian-Pho
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Brian Pho                  # it will shows as the copyright owner in Footer
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
+    - https://brianpho.com
     - https://github.com/username       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/username
+    - https://www.linkedin.com/in/username
 
-google_site_verification: google_meta_tag_verification # change to your verification string
 
 #--------------------------
-
-# if your site type is Project Pages site, change below value to '/projectname'
-baseurl: ''
-
-# Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
 
 # The year your website first ran.
 first_run: 2019
@@ -56,7 +41,6 @@ toc: true
 paginate: 10
 
 markdown: kramdown
-
 highlighter: rouge
 
 kramdown:

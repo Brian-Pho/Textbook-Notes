@@ -1,0 +1,34 @@
+$white: #ffffff;
+$gray-1: #f9f9f9 !default;
+$gray-2: #e5e5e5 !default;
+$gray-3: #ccc !default;
+$gray-4: #767676 !default;
+$gray-5: #515151 !default;
+$gray-6: #313131 !default;
+
+
+$root-font-family: 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
+$root-font-size: 1rem !default;
+$scrollbar-width: calc(100vw - 100%);
+
+$body-bg-color: #fafafa;
+$body-text-color: #212529;
+
+$sidebar-width: 330px;
+$sidebar-bg-color: #202020 !default;
+$sidebar-title-color: $white !default;
+$sidebar-subtitle-color: #b6b6b6 !default;
+$sidebar-subtitle-font-family: 'Segoe UI';
+$sidebar-nav-hover: #f8f9facf;
+$sidebar-nav-active: $white;
+
+$topbar-height: 3rem;
+$topbar-width: calc(100vw - #{$sidebar-width} - #{$scrollbar-width});
+$topbar-bg-color: $white;
+$topbar-breadcrumb-color: gray;
+
+$footer-height: 3rem;
+$footer-width: calc(100vw - #{$sidebar-width} - #{$scrollbar-width});
+$footer-font-size: 0.8rem;
+$footer-text-color: #7a7b7d;
+$footer-bg-color: #f3f3f3;
