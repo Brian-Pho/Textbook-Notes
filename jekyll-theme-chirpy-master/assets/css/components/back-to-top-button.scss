@@ -1,0 +1,22 @@
+#back-to-top {
+  display: none;
+  z-index: 1;
+  cursor: pointer;
+  background-color: $white;
+  color: $site-color;
+  height: 2.6em;
+  width: 2.6em;
+  border-radius: 50%;
+  border: 1px solid $gray-2;
+  transition: 0.2s ease-out;
+  -webkit-transition: 0.2s ease-out;    
+  bottom: 2rem;
+  right: 2rem;
+}
+
+#back-to-top:hover {
+  background-color: $site-color;
+  color: $gray-2;
+  transform: translate3d(0, -5px, 0);
+  -webkit-transform: translate3d(0, -5px, 0);
+}

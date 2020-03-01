@@ -1,0 +1,22 @@
+footer {
+  width: $footer-width;
+  height: $footer-height;
+  font-size: $footer-font-size;
+  color: $footer-text-color;
+  background-color: $footer-bg-color;
+}
+
+footer a:link,
+footer a:hover {
+  text-decoration: none;
+}
+
+footer>.d-flex>div {
+  width: $sidebar-width;
+}
+
+footer .copyright a,
+footer .license a {
+  font-weight: 600;
+  color: inherit;
+}

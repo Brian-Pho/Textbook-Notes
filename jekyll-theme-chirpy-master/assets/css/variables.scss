@@ -1,24 +1,35 @@
 $white: #ffffff;
-$gray-1: #f9f9f9 !default;
-$gray-2: #e5e5e5 !default;
-$gray-3: #ccc !default;
-$gray-4: #767676 !default;
-$gray-5: #515151 !default;
-$gray-6: #313131 !default;
+$black: #000000;
+$site-color: #202020;
+$gray-1: #f9f9f9;
+$gray-2: #e5e5e5;
+$gray-3: #ccc;
+$gray-4: #767676;
+$gray-5: #515151;
+$gray-6: #313131;
 
 
 $root-font-family: 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
-$root-font-size: 1rem !default;
+$root-font-size: 1rem;
 $scrollbar-width: calc(100vw - 100%);
+$bootstrap-max-sm: 767.98px;
+$bootstrap-min-md: 768px;
+$bootstrap-max-md: 991.98px;
+$bootstrap-min-lg: 992px;
 
 $body-bg-color: #fafafa;
 $body-text-color: #212529;
 
 $sidebar-width: 330px;
-$sidebar-bg-color: #202020 !default;
-$sidebar-title-color: $white !default;
-$sidebar-subtitle-color: #b6b6b6 !default;
+$sidebar-width-two: 250px;
+$sidebar-bg-color: $site-color;
+$sidebar-title-color: $white;
+$sidebar-title-size: 3.7rem;
+$sidebar-title-font-family: "Abril Fatface", serif;
+$sidebar-subtitle-color: #b6b6b6;
+$sidebar-subtitle-size: 1.5rem;
 $sidebar-subtitle-font-family: 'Segoe UI';
+$sidebar-nav-default: rgba(255, 255, 255, 0.5);
 $sidebar-nav-hover: #f8f9facf;
 $sidebar-nav-active: $white;
 

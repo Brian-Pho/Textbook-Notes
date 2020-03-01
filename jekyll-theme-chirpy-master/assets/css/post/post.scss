@@ -1,19 +1,30 @@
----
----
-/*!
-  Individual styles for Post
-  v2.0
-  https://github.com/cotes2020/jekyll-theme-chirpy
-  © 2019 Cotes Chung
-  MIT License
-*/
+.post-meta {
+  font-size: 0.85rem;
+  word-spacing: 1px;
+}
+
+.post-meta a {
+  color: var(--link-color, #2a408e);
+  border-bottom: 1px dotted var(--link-underline-color, #c2c6cc);
+}
+
+.post-meta a:not(:last-child) {
+  margin-right: 2px;
+}
+
+.post-content {
+  line-height: 1.8;
+  font-size: 1rem;
+  margin-top: 2rem;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
 
 .post img {
   margin-top: .5rem;
   margin-bottom: 1.5rem;
   max-width: 100%;
   height: auto;
-  // filter: drop-shadow(2px 4px 6px rgba(0,0,0,0.08));
   position: relative;
   left: 50%;
   -webkit-transform: translateX(-50%);

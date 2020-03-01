@@ -1,0 +1,41 @@
+#topbar-wrapper {
+  height: $topbar-height;
+  width: $topbar-width;
+  position: fixed;
+  transition: top 0.2s ease-in-out;
+  z-index: 50;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.07);
+  box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.05);
+  background-color: $topbar-bg-color;
+}
+
+#breadcrumb {
+  font-size: 1rem;
+  color: $topbar-breadcrumb-color;
+  padding-left: .5rem;
+}
+
+#breadcrumb span:not(:last-child)::after {
+  content: "›";
+  padding: 0 .3rem;
+}
+
+#topbar-title {
+  display: none;
+  font-size: 1.1rem;
+  font-weight: 600;
+  font-family: sans-serif;
+  color: var(--text-color, rgb(78, 78, 78));
+  text-align: center;
+  width: 70%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: keep-all;
+  white-space: nowrap;
+}
+
+@media (max-width: $bootstrap-max-sm) {
+  #topbar-title {
+    display: block;
+  }
+}
