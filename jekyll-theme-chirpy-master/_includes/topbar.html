@@ -1,36 +1,32 @@
-<div id="topbar-wrapper" class="row justify-content-left topbar-down pl-4 ml-0 mr-0">
-  <div id="topbar" class="d-flex h-100 align-items-center">
+<div id="topbar-wrapper" class="row justify-content-left 
+topbar-down pl-3 pl-md-4 ml-0 mr-0">
+  <div id="topbar" class="d-flex align-items-center w-100 h-100">
     <span id="breadcrumb">
       {% for item in page.breadcrumb %}
-        {% if item.url %}
+      {% if item.url %}
         <span>
           <a href="{{ site.baseurl }}{{ item.url | remove: '.html'}}">
             {{ item.label }}
           </a>
         </span>
-        {% else %}
-          <span>{{ item.label }}</span>
-        {% endif %}
+      {% else %}
+        <span>{{ item.label }}</span>
+      {% endif %}
       {% endfor %}
 
       {% unless page.layout == "home" %}
         <span>{{ page.title }}</span>
       {% endunless %}
-
-    </span><!-- endof #breadcrumb -->
+    </span>
 
     <i id="sidebar-trigger" class="fas fa-bars fa-fw"></i>
 
-    <div id="topbar-title">
-    {% if page.location %}
-      {{- page.location -}}
-    {% elsif page.layout == "home" %}
-      {{- site.title -}}
-    {% else %}
+    <div id="topbar-title" class="ml-2">
+    {% if page.title %}
       {{- page.title -}}
+    {% else %}
+      {{- site.title -}}
     {% endif %}
     </div>
-
   </div>
-
 </div>

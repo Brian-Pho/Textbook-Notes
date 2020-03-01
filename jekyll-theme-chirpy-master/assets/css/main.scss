@@ -258,30 +258,15 @@ div.tooltip-inner { /* Overrided BS4 Tooltip */
   }
 }
 
-/* Compact icons in sidebar & TOC hidden */
-@media all and (min-width: 832px) and (max-width: 1199px) {
+@media (max-width: $bootstrap-max-sm) {}
 
-  #topbar-wrapper {
-    left: 210px;
-  }
-
-  .contact a {
-    padding: 0 0.6rem;
-  }
-
+@media (min-width: $bootstrap-min-md) and (max-width: $bootstrap-max-md) {
   #main-wrapper {
-    margin-left: 210px;
+    margin-left: $sidebar-width-two;
   }
-
-  #breadcrumb {
-    width: 65%;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    word-break: keep-all;
-    white-space: nowrap;
-  }
-
 }
+
+@media (min-width: $bootstrap-min-lg) {}
 
 /* Panel hidden */
 @media all and (max-width: 1199px) {

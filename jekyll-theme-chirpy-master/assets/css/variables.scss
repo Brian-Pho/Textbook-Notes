@@ -35,6 +35,7 @@ $sidebar-nav-active: $white;
 
 $topbar-height: 3rem;
 $topbar-width: calc(100vw - #{$sidebar-width} - #{$scrollbar-width});
+$topbar-width-two: calc(100vw - #{$sidebar-width-two} - #{$scrollbar-width});
 $topbar-bg-color: $white;
 $topbar-breadcrumb-color: gray;
 

@@ -51,7 +51,8 @@
 }
 
 .sidebar-expand {
-  box-shadow: 4px 0 8px 0 rgba(0, 0, 0, 0.2), 6px 0 20px 0 rgba(0, 0, 0, 0.19) !important;
+  box-shadow: 4px 0 8px 0 rgba(0, 0, 0, 0.2),
+  6px 0 20px 0 rgba(0, 0, 0, 0.19) !important;
 }
 
 #sidebar-trigger {
@@ -65,16 +66,19 @@
   border-radius: 50%;
   width: 2rem;
   height: 2rem;
-  padding: .5em 0 0 .1em;
-  display: inline-block!important;
+  padding: 0.5em 0 0 0.1em;
+  display: inline-block !important;
 }
 
-// Small devices (landscape phones, less than 768px)
+#sidebar .contact i {
+  padding-right: 0.1rem;
+}
+
 @media (max-width: $bootstrap-max-sm) {
   #sidebar {
     width: $sidebar-width-two;
-    transform: translateX(-$sidebar-width);
-    -webkit-transform: translateX(-$sidebar-width);
+    transform: translateX(-$sidebar-width-two);
+    -webkit-transform: translateX(-$sidebar-width-two);
   }
 
   #sidebar .cursor {
@@ -89,11 +93,12 @@
 
   .sidebar-expand {
     transform: translateX(0) !important;
+    -webkit-transform: translateX(0) !important;
   }
 
   .sidebar-expand~#main-wrapper {
-    transform: translateX($sidebar-width) !important;
-    -webkit-transform: translateX($sidebar-width);
+    transform: translateX($sidebar-width-two);
+    -webkit-transform: translateX($sidebar-width-two);
   }
 
   #site-title a {

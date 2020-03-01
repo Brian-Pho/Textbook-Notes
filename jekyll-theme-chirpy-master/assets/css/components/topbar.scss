@@ -27,7 +27,6 @@
   font-family: sans-serif;
   color: var(--text-color, rgb(78, 78, 78));
   text-align: center;
-  width: 70%;
   overflow: hidden;
   text-overflow: ellipsis;
   word-break: keep-all;
@@ -38,4 +37,20 @@
   #topbar-title {
     display: block;
   }
+
+  #topbar-wrapper {
+    width: 100vw;
+  }
+
+  #breadcrumb {
+    display: none;
+  }
 }
+
+@media (min-width: $bootstrap-min-md) and (max-width: $bootstrap-max-md) {
+  #topbar-wrapper {
+    width: $topbar-width-two;
+  }
+}
+
+@media (min-width: $bootstrap-min-lg) {}
