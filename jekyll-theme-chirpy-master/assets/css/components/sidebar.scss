@@ -76,6 +76,7 @@
 
 @media (max-width: $bootstrap-max-sm) {
   #sidebar {
+    top: 0;
     width: $sidebar-width-two;
     transform: translateX(-$sidebar-width-two);
     -webkit-transform: translateX(-$sidebar-width-two);

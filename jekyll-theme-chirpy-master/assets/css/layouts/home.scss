@@ -86,25 +86,27 @@
   margin-right: 0.6rem;
 }
 
-#post-list .post-meta i:not(:first-child) { // post-meta icons on HOME
+#post-list .post-meta i:not(:first-child) {
   margin-left: 1.5rem;
 }
 
-@media all and (max-width: 576px) {
+@media (max-width: $bootstrap-max-sm) {
   #post-list .post-meta>span i:not(:first-child) {
     margin-left: 1rem;
   }
 }
 
-/* Hide SideBar and TOC */
-@media all and (max-width: 830px) {
+@media (min-width: $bootstrap-min-md) and (max-width: $bootstrap-max-md) {
   .pagination {
     justify-content: center;
   }
+
+  #post-list {
+    padding-right: 0;
+  }
 }
 
-/* Sidebar is visible */
-@media all and (min-width: 831px) {
+@media (min-width: $bootstrap-min-lg) {
   .pagination {
     font-size: .85rem;
   }
@@ -112,12 +114,5 @@
   .page-item .page-link {
     width: 2.2rem;
     height: 2.2rem;
-  }
-}
-
-/* Panel hidden */
-@media all and (max-width: 1200px) {
-  #post-list {
-    padding-right: 0;
   }
 }

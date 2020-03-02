@@ -12,6 +12,7 @@ $gray-6: #313131;
 $root-font-family: 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
 $root-font-size: 1rem;
 $scrollbar-width: calc(100vw - 100%);
+$link-hover-color: #3ad2be;
 $bootstrap-max-sm: 767.98px;
 $bootstrap-min-md: 768px;
 $bootstrap-max-md: 991.98px;
@@ -30,7 +31,7 @@ $sidebar-subtitle-color: #b6b6b6;
 $sidebar-subtitle-size: 1.5rem;
 $sidebar-subtitle-font-family: 'Segoe UI';
 $sidebar-nav-default: rgba(255, 255, 255, 0.5);
-$sidebar-nav-hover: #f8f9facf;
+$sidebar-nav-hover: $gray-2;
 $sidebar-nav-active: $white;
 
 $topbar-height: 3rem;
@@ -44,3 +45,10 @@ $footer-width: calc(100vw - #{$sidebar-width} - #{$scrollbar-width});
 $footer-font-size: 0.8rem;
 $footer-text-color: #7a7b7d;
 $footer-bg-color: #f3f3f3;
+
+$post-nav-grey: #e9ecef;
+$disable-color: rgb(206, 196, 196);
+$input-focus-color: #e9ecef;
+
+$post-h1-mt: 3rem;
+$post-content-link-color: #2a408e;

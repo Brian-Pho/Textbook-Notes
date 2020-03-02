@@ -1,5 +1,5 @@
----
----
+--- 
+--- 
 @import "variables";
 @import "components/topbar";
 @import "components/sidebar";
@@ -13,7 +13,8 @@
 @import "post/table";
 
 
-html, body {
+html,
+body {
   height: 100%;
   font-size: $root-font-size;
 }
@@ -26,23 +27,17 @@ body {
   font-family: $root-font-family;
 }
 
-/*--- main wrapper ---*/
-
 #main-wrapper {
   background-color: $white;
   margin-left: $sidebar-width;
+  padding-bottom: $footer-height;
   transition: transform 0.4s ease;
   -webkit-transition: transform 0.4s ease;
 }
 
-#post-wrapper {
-  min-height: calc(100vh - $topbar-height - $footer-height - 470px) !important;
-}
-
 #main>div.row {
+  margin: 0;
   padding-top: $topbar-height;
-  margin-left: 0;
-  margin-right: 0;
 }
 
 #breadcrumb a:hover,
@@ -53,25 +48,26 @@ body {
 footer a:hover,
 #post-wrapper .post-content a:hover,
 #page .post-content a:hover {
-  color: #d2603a;
-  border-bottom: 1px solid #d2603a;
+  color: $link-hover-color;
+  border-bottom: 1px solid $link-hover-color;
   text-decoration: none;
 }
 
 #mask {
-    display: none;
-    position: fixed;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    height: 100%;
-    width: 100%;
-    background: grey;
-    opacity: 0.5;
-    z-index: 1;
-      @at-root .sidebar-expand~& {
-    display: block!important;
+  display: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: grey;
+  opacity: 0.5;
+  z-index: 1;
+
+  @at-root .sidebar-expand~& {
+    display: block !important;
   }
 }
 
@@ -103,8 +99,8 @@ footer a:hover,
 }
 
 .flex-grow-1 {
-  -ms-flex-positive: 1!important;
-  flex-grow: 1!important;
+  -ms-flex-positive: 1 !important;
+  flex-grow: 1 !important;
 }
 
 .btn-box-shadow {
@@ -112,48 +108,36 @@ footer a:hover,
 }
 
 .topbar-up {
-  top: -3rem !important; /* same as topbar height. */
+  top: -$topbar-height !important;
 }
 
 .no-text-decoration {
   text-decoration: none;
 }
 
-div.tooltip-inner { /* Overrided BS4 Tooltip */
-  font-size: .7rem;
-  max-width: 220px;
-}
-
 .disabled {
-  color: rgb(206, 196, 196);
+  color: $disable-color;
   pointer-events: auto;
   cursor: not-allowed;
 }
 
 .hide-border-bottom {
-  border-bottom: none!important;
+  border-bottom: none !important;
 }
 
 .input-focus {
   box-shadow: none;
-  border-color: var(--input-focus-border, #e9ecef) !important;
+  border-color: $input-focus-color !important;
   background: center !important;
 }
 
-/*--- Responsive Design ---*/
-
-@media all and (max-width: 576px) {
-
+@media (max-width: $bootstrap-max-sm) {
   #main-wrapper {
-    padding-bottom: 10rem; /* footer height */
+    margin-left: 0;
   }
 
-  #main>div.row:first-child>div:first-child {
-    min-height: calc(100vh - 3rem - 10rem); /* topbar is 3rem and footer is 10rem */
-  }
-
-  #post-wrapper {
-    min-height: calc(100vh - 3rem - 10rem - 470px) !important;
+  #panel-wrapper {
+    display: none;
   }
 
   #post-wrapper h1 {
@@ -166,82 +150,40 @@ div.tooltip-inner { /* Overrided BS4 Tooltip */
   }
 
   /* table text in small screens */
-  div>table, p~table {
+  div>table,
+  p~table {
     width: 100%;
     table-layout: fixed;
     word-wrap: break-word;
   }
 
-  /* footer and #main-wrapper expand vertical */
-  footer {
-    height: 10rem;
-  }
-
   footer>div.d-flex {
     flex-wrap: wrap;
-    justify-content: left!important;
-    -ms-flex-pack: distribute!important;
-    justify-content: space-around!important;
-  }
-
-}
-
-@media all and (min-width: 577px) and (max-width: 830px) {
-  footer .license {
-    padding-left: 1rem;
+    justify-content: left !important;
+    -ms-flex-pack: distribute !important;
+    justify-content: space-around !important;
   }
 }
 
-
-/* Sidebar is visible */
-@media all and (min-width: 831px) {
-  .topbar-up {
-    box-shadow: none !important;
-  }
-
-  #topbar-title {
-    text-align: left;
-  }
-
-}
-
-/* iPad 9.7" horizontal */
-@media all and (min-width: 992px) and (max-width: 1024px) {
-  #main-wrapper .col-lg-11 {
-    -webkit-box-flex: 0;
-    -ms-flex: 0 0 96%;
-    flex: 0 0 96%;
-    max-width: 96%;
-  }
-}
-
-
-/* Hide SideBar and TOC */
-@media all and (max-width: 830px) {
-
+@media (min-width: $bootstrap-min-md) and (max-width: $bootstrap-max-md) {
   #main-wrapper {
-    margin-left: 0;
+    margin-left: $sidebar-width-two;
+  }
+
+  #panel-wrapper {
+    display: none;
   }
 
   #page h1.dynamic-title {
     display: none;
   }
 
-  #page h1.dynamic-title ~ .post-content {
+  #page h1.dynamic-title~.post-content {
     margin-top: 3rem;
-  }
-
-  #breadcrumb {
-    display: none;
   }
 
   .topbar-up {
     top: 0 !important;
-  }
-
-  #main>div.row:first-child>div:nth-child(1),
-  #main>div.row:first-child>div:nth-child(2) {
-    margin-top: 0;
   }
 
   sup {
@@ -258,76 +200,12 @@ div.tooltip-inner { /* Overrided BS4 Tooltip */
   }
 }
 
-@media (max-width: $bootstrap-max-sm) {}
-
-@media (min-width: $bootstrap-min-md) and (max-width: $bootstrap-max-md) {
-  #main-wrapper {
-    margin-left: $sidebar-width-two;
-  }
-}
-
-@media (min-width: $bootstrap-min-lg) {}
-
-/* Panel hidden */
-@media all and (max-width: 1199px) {
-  #panel-wrapper {
-    display: none;
-  }
-
-  #topbar {
-    padding: 0;
-  }
-
+@media (min-width: $bootstrap-min-lg) {
   #main>div.row {
-    -webkit-box-pack: center!important;
-    -ms-flex-pack: center!important;
-    justify-content: center!important;
-  }
-}
-
-@media all and (min-width: 1400px) {
-  #breadcrumb {
-    padding-left: 0;
-  }
-
-  #main>div.row>div.col-xl-8 {
-    padding-left: 0;
-  }
-
-  #main>div.row>div.col-xl-8>div:first-child {
-    padding-left: .55rem !important;
-    padding-right: 1.9rem !important;
-  }
-
-  .header-text>div {
-    text-align: left !important;
-    width: 100%;
-  }
-
-  footer>div.d-flex {
-    max-width: 1130px;
-  }
-}
-
-@media all and (min-width: 1700px) {
-
-  #topbar-wrapper {
-    padding-right: calc(100% - $sidebar-width - 1570px)
-  }
-
-  #main>div.row {
-    padding-left: calc((100% - 1150px - 2%) / 2);
+    padding-left: calc(100vw * 0.09);
   }
 
   #panel-wrapper {
-    margin-left: 3%;
-  }
-
-  footer {
-    padding-right: calc(100% - $sidebar-width - 1180px);
-  }
-
-  footer>div.d-flex {
-    max-width: 1150px;
+    margin-left: 41px;
   }
 }
