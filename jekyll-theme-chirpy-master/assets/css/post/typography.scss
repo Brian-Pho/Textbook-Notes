@@ -26,13 +26,13 @@ h2, h3, h4 {
 }
 
 blockquote {
-  border-left: 5px solid var(--blockquote-border, #eee);
+  border-left: 5px solid $blockquote-border-color;
   padding-left: 1rem;
-  color: var(--blockquote-text, #9a9a9a);
+  color: $blockquote-color;
 }
 
 .post-content blockquote a {
-  color: var(--link-color, #2a408e);
+  color: $post-content-link-color;
 }
 
 kbd {
@@ -91,7 +91,7 @@ a.reversefootnote {
 
 .post-content a {
   color: $post-content-link-color;
-  border-bottom: 1px dotted var(--link-underline-color, #c2c6cc);
+  border-bottom: 1px dotted $post-content-link-border;
 }
 
 p>a, span>a,
@@ -115,6 +115,6 @@ p>a, span>a,
   margin-top: $post-h1-mt;
 }
 
-.post em { /* MarkDown italic */
+.post em {
   padding-right: .2rem;
 }

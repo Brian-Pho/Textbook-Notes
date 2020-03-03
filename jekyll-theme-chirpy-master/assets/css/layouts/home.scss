@@ -30,7 +30,7 @@
 .post-preview .post-content {
   margin-top: .6rem;
   margin-bottom: .6rem;
-  color: var(--text-color, dimgray);
+  color: $post-content-color;
 }
 
 /* Make preview shorter in Home page*/
@@ -44,7 +44,7 @@
 }
 
 .page-item .page-link {
-  color: var(--text-color, #555555);
+  color: $page-item-color;
   width: 2.5rem;
   height: 2.5rem;
   padding: 0;
@@ -56,9 +56,9 @@
   -webkit-box-align: center;
   align-items: center;
   border-radius: 50%;
-  border: 1px solid var(--main-border, #f1f1f1);
-  font-family: 'Lato', sans-serif;
-  background-color: var(--button-bg);
+  border: 1px solid $page-item-border-color;
+  font-family: $page-item-font;
+  background-color: $page-item-background-color;
 }
 
 .page-item.active .page-link {
@@ -69,8 +69,8 @@
 
 .page-item.disabled .page-link {
   color: rgba(108, 117, 125, 0.57);
-  border-color: var(--main-border, #f1f1f1);
-  background-color: var(--button-bg);
+  border-color: $page-item-border-color;
+  background-color: $page-item-background-color;
 }
 
 .page-item.disabled {

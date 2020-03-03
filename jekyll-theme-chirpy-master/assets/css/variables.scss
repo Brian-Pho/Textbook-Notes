@@ -38,6 +38,9 @@ $topbar-height: 3rem;
 $topbar-width: calc(100vw - #{$sidebar-width} - #{$scrollbar-width});
 $topbar-width-two: calc(100vw - #{$sidebar-width-two} - #{$scrollbar-width});
 $topbar-bg-color: $white;
+$topbar-title-font-size: 1.1rem;
+$topbar-title-color: rgb(78, 78, 78);
+$topbar-breadcrumb-font-size: 1rem;
 $topbar-breadcrumb-color: gray;
 
 $footer-height: 3rem;
@@ -52,3 +55,12 @@ $input-focus-color: #e9ecef;
 
 $post-h1-mt: 3rem;
 $post-content-link-color: #2a408e;
+$post-content-color: dimgray;
+$page-item-color: #555555;
+$page-item-font: 'Lato', sans-serif;
+$page-item-background-color: gray;
+$page-item-border-color: #f1f1f1;
+
+$blockquote-border-color: #eee;
+$blockquote-color: #9a9a9a;
+$post-content-link-border: #c2c6cc;

@@ -10,7 +10,7 @@
 }
 
 #breadcrumb {
-  font-size: 1rem;
+  font-size: $topbar-breadcrumb-font-size;
   color: $topbar-breadcrumb-color;
   padding-left: .5rem;
 }
@@ -22,10 +22,10 @@
 
 #topbar-title {
   display: none;
-  font-size: 1.1rem;
+  font-size: $topbar-title-size;
   font-weight: 600;
   font-family: sans-serif;
-  color: var(--text-color, rgb(78, 78, 78));
+  color: $topbar-title-color;
   overflow: hidden;
   text-overflow: ellipsis;
   word-break: keep-all;
