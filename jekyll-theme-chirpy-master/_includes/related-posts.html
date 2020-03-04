@@ -33,32 +33,32 @@
 {% if score_list.size > 0 %}
   {% assign score_list = score_list | sort | reverse %}
   {% assign count = 0 %}
-  <div id="related-posts" class="mt-4 mb-2 mb-sm-4 pb-2">
-    <h3 class="pt-2 mt-1 mb-4" data-toc-skip>{{ site.data.label.post.relate_posts }}</h3>
-    <div class="card-deck mb-4">
-    {% for score_item in score_list %}
-      {% assign data = score_item | split: ":" %}
-      {% assign index = data[1] | plus: 0 %}
-      {% assign post = site.posts[index] %}
-      <div class="card">
-        <a href="{{ post.url | relative_url }}">
-          <div class="card-body">
-            <span class="timeago small">
-                {{ post.date | date: POST_DATE }}
-                <i class="unloaded">{{ post.date | date_to_xmlschema }}</i>
-            </span>
-            <h3 class="pt-0 mt-1 mb-3" data-toc-skip>{{ post.title }}</h3>
-            <div class="text-muted small">
-              <p>{{ post.content | markdownify | strip_html | truncate: 200 | replace: '&', '&amp;' }}</p>
-            </div>
+    <div id="related-posts" class="mt-4 mb-2 mb-sm-4 pb-2">
+      <h3 class="pt-2 mt-1 mb-4" data-toc-skip>{{ site.data.label.post.relate_posts }}</h3>
+      <div class="card-deck mb-4">
+        {% for score_item in score_list %}
+          {% assign data = score_item | split: ":" %}
+          {% assign index = data[1] | plus: 0 %}
+          {% assign post = site.posts[index] %}
+          <div class="card">
+            <a href="{{ post.url | relative_url }}">
+              <div class="card-body">
+                <span class="timeago small">
+                  {{ post.date | date: POST_DATE }}
+                  <i class="unloaded">{{ post.date | date_to_xmlschema }}</i>
+                </span>
+                <h3 class="pt-0 mt-1 mb-3" data-toc-skip>{{ post.title }}</h3>
+                <div class="text-muted small">
+                  <p>{{ post.content | markdownify | strip_html | truncate: 200 | replace: '&', '&amp;' }}</p>
+                </div>
+              </div>
+            </a>
           </div>
-        </a>
+          {% assign count = count | plus: 1 %}
+          {% if count >= MAX_SIZE %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
       </div>
-      {% assign count = count | plus: 1 %}
-      {% if count >= MAX_SIZE %}
-        {% break %}
-      {% endif %}
-    {% endfor %}
-    </div> <!-- .card-deck -->
-  </div>
+    </div>
 {% endif %}
