@@ -7,14 +7,13 @@ layout: default
 # MIT Licensed
 ---
 
-<div class="row">
+<div class="row w-100 pb-0">
   {% include date-format.html %}
 
   <div id="post-wrapper" class="col-12 col-lg-11 col-xl-8">
     <div class="post pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4">
-      <h1 data-toc-skip>{{ page.title }}</h1>
+      <h1 class="post" data-toc-skip>{{ page.title }}</h1>
       <div class="post-meta text-muted d-flex flex-column">
-        <!-- Published Date and Categories -->
         <div>
           <span class="timeago">
             {{ page.date | date: POST_DATE }}
@@ -26,7 +25,7 @@ layout: default
             {%- unless forloop.last -%}, {%- endunless -%}
           {% endfor %}
         </div>
-      </div> <!-- .post-meta -->
+      </div>
 
       <div class="post-content">
         {% if page.image %}
@@ -44,14 +43,11 @@ layout: default
 
     </div> <!-- .post -->
   </div> <!-- #post-wrapper -->
-
   {% include panel.html %}
+</div>
 
-</div> <!-- .row -->
-
-<div class="row">
+<div class="row w-100 pt-0">
   <div id="post-extend-wrapper" class="col-12 col-lg-11 col-xl-8">
-
     <div class="pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4">
       {% include related-posts.html %}
 
@@ -73,12 +69,9 @@ layout: default
           <p>-</p>
       {% endif %}
         </a>
-      </div> <!-- div.post-navigation -->
-
-    </div> <!-- .pl-1 pr-1 -->
-
-  </div> <!-- #post-extend-wrapper -->
-
-</div> <!-- .row -->
+      </div>
+    </div>
+  </div>
+</div>
 
 {% include lozad.html %}

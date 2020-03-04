@@ -15,29 +15,34 @@
 
 html,
 body {
-  height: 100%;
   font-size: $root-font-size;
 }
 
 body {
   line-height: 1.75rem;
-  background: $body-bg-color;
   color: $body-text-color;
   -webkit-font-smoothing: antialiased;
   font-family: $root-font-family;
 }
 
+.row {
+  margin: 0;
+}
+
 #main-wrapper {
   background-color: $white;
   margin-left: $sidebar-width;
-  padding-bottom: $footer-height;
   transition: transform 0.4s ease;
   -webkit-transition: transform 0.4s ease;
 }
 
+#main {
+  min-height: 100vh;
+}
+
 #main>div.row {
-  margin: 0;
   padding-top: $topbar-height;
+  padding-bottom: $footer-height;
 }
 
 #breadcrumb a:hover,
@@ -123,12 +128,6 @@ footer a:hover,
 
 .hide-border-bottom {
   border-bottom: none !important;
-}
-
-.input-focus {
-  box-shadow: none;
-  border-color: $input-focus-color !important;
-  background: center !important;
 }
 
 @media (max-width: $bootstrap-max-sm) {

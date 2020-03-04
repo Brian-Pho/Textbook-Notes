@@ -111,10 +111,16 @@ p>a, span>a,
   border-bottom: none;
 }
 
-.post h1 {
+.post>h1 {
   margin-top: $post-h1-mt;
 }
 
-.post em {
+.post>em {
   padding-right: .2rem;
 }
+
+@media (max-width: $bootstrap-max-sm) {}
+
+@media (min-width: $bootstrap-min-md) and (max-width: $bootstrap-max-md) {}
+
+@media (min-width: $bootstrap-min-lg) {}
