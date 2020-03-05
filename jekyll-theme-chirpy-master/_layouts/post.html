@@ -36,12 +36,13 @@ layout: default
         {% endif %}
       </div>
 
-    </div> <!-- .post -->
-  </div> <!-- #post-wrapper -->
+    </div>
+  </div>
   {% include panel.html %}
 </div>
 
 <div class="row w-100 pt-0">
+  {% if page.title != 'About' %}
   <div id="post-extend-wrapper" class="col-12 col-lg-11 col-xl-8">
     <div class="pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4">
       {% include related-posts.html %}
@@ -67,6 +68,7 @@ layout: default
       </div>
     </div>
   </div>
+  {% endif %}
 </div>
 
 {% include lozad.html %}
