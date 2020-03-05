@@ -2,7 +2,7 @@
 title: Timeline
 ---
 
-<div id="archives" class="pl-xl-2">
+<div id="timeline" class="pl-xl-2">
 {% for post in site.posts %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% capture pre_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}

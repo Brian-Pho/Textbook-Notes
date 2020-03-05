@@ -1,7 +1,7 @@
 # Setup
 title:            CR4-DL
-tagline:          'The Cradle.'
-description:      'The Cradle. A vault for notes on artificial intelligence and the brain.'
+tagline:          The Cradle. A vault for notes on artificial intelligence and the brain.
+description:      The Cradle. A vault for notes on artificial intelligence and the brain.
 url:              https://brianpho.com
 baseurl:          # does not include hostname
 author:           Brian Pho
@@ -105,10 +105,6 @@ defaults:
         -
           label: Home
           url: /
-  -
-    scope:
-      path: assets/data
-    values:
 
 
 sass:

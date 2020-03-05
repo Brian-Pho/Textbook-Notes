@@ -100,12 +100,12 @@ p>a, span>a,
 #tags a,
 #page-category a,
 #page-tag a,
-#archives a {
+#timeline a {
   color: $black;
 }
 
 .categories a,
-#archives a,
+#timeline a,
 #page-tag a,
 #page-category a {
   border-bottom: none;
@@ -229,6 +229,11 @@ div {
       padding: .8rem 1rem;
     }
   }
+}
+
+// Left align mathjax equations
+.MJXc-display {
+  text-align: left !important;
 }
 
 @media (max-width: $bootstrap-max-sm) {}
