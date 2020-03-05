@@ -1,17 +1,45 @@
-<div id="sidebar">
-  <header>
-    <{% if page.layout=="index" %}h1{% else %}div{% endif %} class="site-title">
-      <a href="{{ site.baseurl }}/">
-        {% unless page.url == "/" %}
-        <span class="back-arrow icon">{% include svg/back-arrow.svg %}</span>
-        {% endunless %} {{ site.title }}
-      </a>
-    </{% if page.layout=="index" %}h1{% else %}div{% endif %}>
-    <p class="lead">{{ site.description }}</p>
-  </header>
-  {% include sidebar-nav-links.html %} 
-  {% if site.version %}
-  <span class="site-version">Currently v{{ site.version }}</span>
-  {% endif %} 
-  {% include sidebar-icon-links.html %} {% include copyright.html %}
+<div id="sidebar" class="d-flex flex-column justify-content-end 
+position-fixed h-100 p-4 p-lg-5">
+  <div id="nav-wrapper" class="w-100">
+
+    <div id="header" class="d-flex flex-column">
+      <div class="header-text text-left font-weight-normal">
+        <div id="site-title" class="mb-3">
+          <a href="{{ site.baseurl }}/">{{- site.title -}}</a>
+        </div>
+        <div id="site-subtitle" class="mb-3">{{- site.tagline -}}</div>
+      </div>
+    </div>
+
+    <ul class="nav flex-column">
+    {% assign page_urls = page.url | split: "/" %}
+    {% for item in site.data.label.tabs %}
+      {% assign ref = site.baseurl | append: "/" %}
+
+      {% if item.path %}
+        {% assign ref = ref | append: item.path | append: "/" %}
+        {% if item.url %}
+          {% assign ref = ref | append: item.url | append: "/" %}
+        {% endif %}
+      {% endif %}
+
+      <li class="nav-item d-flex mt-2 mb-2 mt-lg-3 mb-lg-3
+        {% if item.url == page_urls.last or
+          item.name == "Home" and page.layout == "home" %}active{% endif %}">
+        <a href="{{ ref }}" class="nav-link d-flex w-100 p-0">
+          <i class="fa-fw {{ item.icon }} mr-3 unloaded"></i>
+          <span class="text-uppercase">{{ item.name }}</span>
+        </a>
+      </li>
+    {% endfor %}
+    </ul>
+
+  </div>
+
+  <div class="contact d-flex justify-content-center mt-5">
+    <a href="https://github.com/{{ site.github.username }}" target="_blank">
+      <i class="fab fa-github unloaded"></i>
+    </a>
+  </div>
+
 </div>

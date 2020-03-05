@@ -6,35 +6,6 @@ categories:
 excerpt: "How the connections in our brain make us who we are."
 ---
 
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [Part I: Does Size Matter?](#part-i-does-size-matter)
-  - [Chapter 1: Genius and Madness](#chapter-1-genius-and-madness)
-  - [Chapter 2: Border Disputes](#chapter-2-border-disputes)
-- [Part II: Connectionism](#part-ii-connectionism)
-  - [Chapter 3: No Neuron Is an Island](#chapter-3-no-neuron-is-an-island)
-  - [Chapter 4: Neurons All the Way Down](#chapter-4-neurons-all-the-way-down)
-  - [Chapter 5: The Assembly of Memories](#chapter-5-the-assembly-of-memories)
-- [Part III: Nature and Nurture](#part-iii-nature-and-nurture)
-  - [Chapter 6: The Forestry of the Genes](#chapter-6-the-forestry-of-the-genes)
-  - [Chapter 7: Renewing Our Potential](#chapter-7-renewing-our-potential)
-- [Part IV: Connectomics](#part-iv-connectomics)
-  - [Chapter 8: Seeing Is Believing](#chapter-8-seeing-is-believing)
-  - [Chapter 9: Following the Trail](#chapter-9-following-the-trail)
-  - [Chapter 10: Carving](#chapter-10-carving)
-  - [Chapter 11: Codebreaking](#chapter-11-codebreaking)
-  - [Chapter 12: Comparing](#chapter-12-comparing)
-  - [Chapter 13: Changing](#chapter-13-changing)
-- [Part V: Beyond Humanity](#part-v-beyond-humanity)
-  - [Chapter 14: To Freeze or to Pickle?](#chapter-14-to-freeze-or-to-pickle)
-  - [Chapter 15: Save As...](#chapter-15-save-as)
-  - [Epilogue](#epilogue)
-
-</div>
-</details>
-
 ## Introduction
 
 - The analogy of the brain as a forest where the neurons are the trees. Demonstrates how messy but organized the brain is.

@@ -1,16 +1,23 @@
 <!DOCTYPE html>
-<html lang="en-us">
-
+<html lang="en">
   {% include head.html %}
-
-  <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
-
+  <body data-spy="scroll" data-target="#toc">
     {% include sidebar.html %}
+    <div id="main-wrapper" class="position-relative h-100">
+      {% include topbar.html %}
+      <div id="main">
+        {% capture _content %}
+          {{ content }}
+        {% endcapture %}
 
-    <main class="container">
-      {{ content }}
-    </main>
+        {{ _content }}
 
-    {% include custom-foot.html %}
+      </div>
+      {% include footer.html %}
+    </div>
+    <div id="mask"></div>
+    <a id="back-to-top" href="#" class="btn btn-lg btn-box-shadow position-fixed" role="button">
+      <i class="fas fa-angle-up"></i>
+    </a>
   </body>
 </html>

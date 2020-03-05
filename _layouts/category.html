@@ -1,39 +1,23 @@
---- 
-layout: page 
---- 
+---
+layout: page
+---
 
-{% unless page.content == '' %} 
-	{{ content }} 
-{% endunless %}
+{% include date-format.html %}
 
-<ul class="posts-list">
-	{% assign category = page.category | default: page.title %} 
-	{% for post in site.categories[category] %}
-	<li>
-		{% if post.book %}
-			<article class="book">
-				<figure class="book-cover">
-					<a href="{{ site.baseurl }}{{ post.url }}">
-						<img src="{{ site.baseurl }}/assets/textbooks/covers/{{ post.book }}.jpg" alt="{{ post.title }}">
-					</a>
-				</figure>
-				<div class="book-info">
-					<h3>
-						<a href="{{ site.baseurl }}{{ post.url }}">
-							{{ post.title }}
-						</a>
-					</h3>
-					<small>{{ post.book_authors }}</small>
-				</div>
-			</article>
-		{% else %}
-			<h3>
-				<a href="{{ site.baseurl }}{{ post.url }}">
-					{{ post.title }}
-					<small>{{ post.date | date_to_string }}</small>
-				</a>
-			</h3>
-		{% endif %}
-	</li>
-	{% endfor %}
-</ul>
+<div id="page-category">
+  <h1 class="pl-lg-2">
+    <i class="far fa-folder-open fa-fw text-muted"></i>
+    {{ page.title }}
+    <span class="lead text-muted pl-2">{{ site.categories[page.category] | size }}</span>
+  </h1>
+
+  <ul class="post-content pl-0">
+    {% for post in site.categories[page.category] %}
+    <li class="d-flex justify-content-between pl-md-3 pr-md-3">
+      <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+      <span class="dash flex-grow-1"></span>
+      <span class="text-muted small">{{ post.date | date: POST_DATE }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+</div>

@@ -6,29 +6,6 @@ categories:
 excerpt: "An amazing and scientific account of consciousness."
 ---
 
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [Part I: Introduction](#part-i-introduction)
-  - [Chapter 1: Stepping into the Light](#chapter-1-stepping-into-the-light)
-- [Part II: Feeling and Knowing](#part-ii-feeling-and-knowing)
-  - [Chapter 2: Emotion and Feeling](#chapter-2-emotion-and-feeling)
-  - [Chapter 3: Core Consciousness](#chapter-3-core-consciousness)
-  - [Chapter 4: The Hint Half Hinted](#chapter-4-the-hint-half-hinted)
-- [Part III: A Biology for Knowing](#part-iii-a-biology-for-knowing)
-  - [Chapter 5: The Organism and the Object](#chapter-5-the-organism-and-the-object)
-  - [Chapter 6: The Making of Core Consciousness](#chapter-6-the-making-of-core-consciousness)
-  - [Chapter 7: Extended Consciousness](#chapter-7-extended-consciousness)
-  - [Chapter 8: The Neurology of Consciousness](#chapter-8-the-neurology-of-consciousness)
-- [Part IV: Bound to Know](#part-iv-bound-to-know)
-  - [Chapter 9: Feeling Feelings](#chapter-9-feeling-feelings)
-  - [Chapter 10: Using Consciousness](#chapter-10-using-consciousness)
-  - [Chapter 11: Under the Light](#chapter-11-under-the-light)
-
-</div>
-</details>
-
 # Part I: Introduction
 
 ## Chapter 1: Stepping into the Light

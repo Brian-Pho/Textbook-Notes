@@ -10,54 +10,10 @@ excerpt: "The artificial intelligence textbook. I've dropped it due to not belie
 
 # NOTE: This is an incomplete set of notes.
 
-<p class="message">
-One of the defining attributes of intelligence is that it attributes the success of the human race to itself. - Brian Pho
-</p>
-
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [NOTE: This is an incomplete set of notes.](#note-this-is-an-incomplete-set-of-notes)
-- [Part I: Artificial Intelligence](#part-i-artificial-intelligence)
-  - [Chapter 1: Introduction](#chapter-1-introduction)
-  - [Chapter 2: Intelligent Agents](#chapter-2-intelligent-agents)
-- [Part II: Problem-solving](#part-ii-problem-solving)
-  - [Chapter 3: Solving Problems by Searching](#chapter-3-solving-problems-by-searching)
-  - [Chapter 4: Beyond Classical Search](#chapter-4-beyond-classical-search)
-  - [Chapter 5: Adversarial Search](#chapter-5-adversarial-search)
-  - [Chapter 6: Constraint Satisfaction Problems](#chapter-6-constraint-satisfaction-problems)
-- [Part III: Knowledge, reasoning, and planning](#part-iii-knowledge-reasoning-and-planning)
-  - [Chapter 7: Logical Agents](#chapter-7-logical-agents)
-  - [Chapter 8: First-Order Logic](#chapter-8-first-order-logic)
-  - [Chapter 9: Inference in First-Order Logic](#chapter-9-inference-in-first-order-logic)
-  - [Chapter 10: Classical Planning](#chapter-10-classical-planning)
-  - [Chapter 11: Planning and Acting in the Real World](#chapter-11-planning-and-acting-in-the-real-world)
-  - [Chapter 12: Knowledge Representation](#chapter-12-knowledge-representation)
-- [Part IV: Uncertain knowledge and reasoning](#part-iv-uncertain-knowledge-and-reasoning)
-  - [Chapter 13: Quantifying Uncertainty](#chapter-13-quantifying-uncertainty)
-  - [Chapter 14: Probabilistic Reasoning](#chapter-14-probabilistic-reasoning)
-  - [Chapter 15: Probabilistic Reasoning over Time](#chapter-15-probabilistic-reasoning-over-time)
-  - [Chapter 16: Making Simple Decisions](#chapter-16-making-simple-decisions)
-  - [Chapter 17: Making Complex Decisions](#chapter-17-making-complex-decisions)
-- [Part V: Learning](#part-v-learning)
-  - [Chapter 18: Learning from Examples](#chapter-18-learning-from-examples)
-  - [Chapter 19: Knowledge in Learning](#chapter-19-knowledge-in-learning)
-  - [Chapter 20: Learning Probabilistic Models](#chapter-20-learning-probabilistic-models)
-  - [Chapter 21: Reinforcement Learning](#chapter-21-reinforcement-learning)
-- [Part VI: Communicating, perceiving, and acting](#part-vi-communicating-perceiving-and-acting)
-  - [Chapter 22: Natural Language Processing](#chapter-22-natural-language-processing)
-  - [Chapter 23: Natural Language for Communication](#chapter-23-natural-language-for-communication)
-  - [Chapter 24: Perception](#chapter-24-perception)
-  - [Chapter 25: Robotics](#chapter-25-robotics)
-- [Part VII: Conclusions](#part-vii-conclusions)
-  - [Chapter 26: Philosophical Foundations](#chapter-26-philosophical-foundations)
-  - [Chapter 27: AI: The Present and Future](#chapter-27-ai-the-present-and-future)
-
-</div>
-</details>
-
----
+<blockquote class="blockquote">
+  <p>One of the defining attributes of intelligence is that it attributes the success of the human race to itself.</p>
+  <p class="blockquote-footer">Brian Pho</p>
+</blockquote>
 
 # Part I: Artificial Intelligence
 

@@ -6,19 +6,6 @@ categories:
 excerpt: "On the intuitive and the rational sides of the mind."
 ---
 
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [Part 1: Two Systems](#part-1-two-systems)
-- [Part 2: Heuristics and Biases](#part-2-heuristics-and-biases)
-- [Part 3: Overconfidence](#part-3-overconfidence)
-- [Part 4: Choices](#part-4-choices)
-- [Part 5: Two Selves](#part-5-two-selves)
-
-</div>
-</details>
-
 ## Part 1: Two Systems
 
 - Similar enough to understand each other, different enough to surprise each other.

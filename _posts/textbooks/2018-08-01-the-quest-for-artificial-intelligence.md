@@ -8,60 +8,10 @@ book_authors: "Nils J. Nilsson"
 excerpt: "A thorough account of the history of AI. An ok book that was too detailed at times."
 ---
 
-<p class="message">
-Nobody phrases it this way, but I think that artificial intelligence is almost a humanities discipline. It's really an attempt to understand human intelligence and human cognition. - Sebastian Thrun
-</p>
-
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [Part I: Beginnings](#part-i-beginnings)
-  - [Chapter 1: Dreams and Dreamers](#chapter-1-dreams-and-dreamers)
-  - [Chapter 2: Clues](#chapter-2-clues)
-- [Part II: Early Explorations: 1950s and 1960s](#part-ii-early-explorations-1950s-and-1960s)
-  - [Chapter 3: Gatherings](#chapter-3-gatherings)
-  - [Chapter 4: Pattern Recognition](#chapter-4-pattern-recognition)
-  - [Chapter 5: Early Heuristics Programs](#chapter-5-early-heuristics-programs)
-  - [Chapter 6: Semantic Representations](#chapter-6-semantic-representations)
-  - [Chapter 7: Natural Language Processing](#chapter-7-natural-language-processing)
-  - [Chapter 8: 1960s' Infrastructure](#chapter-8-1960s-infrastructure)
-- [Part III: Efflorescence: Mid-1960s to Mid-1970s](#part-iii-efflorescence-mid-1960s-to-mid-1970s)
-  - [Chapter 9: Computer Vision](#chapter-9-computer-vision)
-  - [Chapter 10: "Hand-Eye" Research](#chapter-10-%22hand-eye%22-research)
-  - [Chapter 11: Knowledge Representation and Reasoning](#chapter-11-knowledge-representation-and-reasoning)
-  - [Chapter 12: Mobile Robots](#chapter-12-mobile-robots)
-  - [Chapter 13: Progress in Natural Language Processing](#chapter-13-progress-in-natural-language-processing)
-  - [Chapter 14: Game Playing](#chapter-14-game-playing)
-  - [Chapter 15: The Dendral Project](#chapter-15-the-dendral-project)
-  - [Chapter 16: Conferences, Books, and Funding](#chapter-16-conferences-books-and-funding)
-- [Part IV: Applications and Specializations: 1970s to Early 1980s](#part-iv-applications-and-specializations-1970s-to-early-1980s)
-  - [Chapter 17: Speech Recognition and Understanding Systems](#chapter-17-speech-recognition-and-understanding-systems)
-  - [Chapter 18: Consulting Systems](#chapter-18-consulting-systems)
-  - [Chapter 19: Understanding Queries and Signals](#chapter-19-understanding-queries-and-signals)
-  - [Chapter 20: Progress in Computer Vision](#chapter-20-progress-in-computer-vision)
-  - [Chapter 21: Boomtimes](#chapter-21-boomtimes)
-- [Part V: "New-Generation" Projects](#part-v-%22new-generation%22-projects)
-  - [Chapter 22: The Japanese Create a Stir](#chapter-22-the-japanese-create-a-stir)
-  - [Chapter 23: DARPA's Strategic Computing Program](#chapter-23-darpas-strategic-computing-program)
-- [Part VI: Entr'acte](#part-vi-entracte)
-  - [Chapter 24: Speed Bumps](#chapter-24-speed-bumps)
-  - [Chapter 25: Controversies and Alternative Paradigms](#chapter-25-controversies-and-alternative-paradigms)
-- [Part VII: The Growing Armamentarium: From the 1980s Onward](#part-vii-the-growing-armamentarium-from-the-1980s-onward)
-  - [Chapter 26: Reasoning and Representation](#chapter-26-reasoning-and-representation)
-  - [Chapter 27: Other Approaches to Reasoning and Representation](#chapter-27-other-approaches-to-reasoning-and-representation)
-  - [Chapter 28: Bayesian Networks](#chapter-28-bayesian-networks)
-  - [Chapter 29: Machine Learning](#chapter-29-machine-learning)
-  - [Chapter 30: Natural Languages and Natural Scenes](#chapter-30-natural-languages-and-natural-scenes)
-  - [Chapter 31: Intelligent System Architectures](#chapter-31-intelligent-system-architectures)
-- [Part VIII: Modern AI: Today and Tomorrow](#part-viii-modern-ai-today-and-tomorrow)
-  - [Chapter 32: Extraordinary Achievements](#chapter-32-extraordinary-achievements)
-  - [Chapter 33: Ubiquitous Artificial Intelligence](#chapter-33-ubiquitous-artificial-intelligence)
-  - [Chapter 34: Smart Tools](#chapter-34-smart-tools)
-  - [Chapter 35: The Quest Continues](#chapter-35-the-quest-continues)
-
-</div>
-</details>
+<blockquote class="blockquote">
+  <p>Nobody phrases it this way, but I think that artificial intelligence is almost a humanities discipline. It's really an attempt to understand human intelligence and human cognition.</p>
+  <p class="blockquote-footer">Sebastian Thrun</p>
+</blockquote>
 
 ## Part I: Beginnings
 
@@ -130,11 +80,11 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - These are computational processes that "look at" the input data, say an image of a printed letter or number. Each demon looks for something specific in the image, perhaps a horizontal bar; another might look for a vertical bar; another for an arc of a circle; and so on.
 - Each demon "shouts" its findings to a set of demons higher in the organization. (Think of these higher level demons as middle-level managers.) The loudness of a demon's shout depends on how certain it's that it's seeing what it's looking for.
 - Each of the next level of demons specializes in listening for a particular combination of shouts from the data demons.
-- E.g. one of the demons at this level might be tuned to listen for shouts from data demon 3, data demon 11, and data demon 22. If it finds that these particular demons are shouting loudly, it responds with a shout of its own to the demons one level up in the hierarchy, and so on.
+- E.g. one of the demons at this level might be tuned to listen for shouts from data demon 3, data demon 11, and data demon 22. If it finds that these particular demons are shouting loudly, it responds with a shout of its own to the demons one level up in the hierarchy, and so on.
 
 ### Chapter 4: Pattern Recognition
 
-- Their work benefitted from introspection about how humans solve problems.
+- Their work benefitted from introspection about how humans solve problems.
 - Many of our mental abilities are beyond our power of introspection.
 - We don't know how we recognize speech sounds, read cursive script, distinguish a cup from a plate, or identify faces. We just do these things automatically without thinking about them.
 - Lacking clues from introspection, early researchers interested in automating some of our perceptual abilities based their work instead on intuitive ideas about how to proceed, on networks of simple models of neurons, and on statistical techniques.
@@ -242,7 +192,7 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - A person uses prodigious amounts of knowledge in the pattern-recognition process and a small amount of calculation to verify the fact that the proposed solution is good in the present instance.
 - However, the computer would make the same maneuver because it found at the end of a large search that it was the most advantageous way to proceed out of the hundreds of thousands of possibilities.
 - Berliner summed up the difference by saying that "The basis of human chess strength, by contrast [with computers], is accumulated knowledge".
-- Specific knowledge about the problem being solved, as opposed to the use of massive search in solving the problem, came to be a major theme of artificial intelligence research during this period.
+- Specific knowledge about the problem being solved, as opposed to the use of massive search in solving the problem, came to be a major theme of artificial intelligence research during this period.
 
 ### Chapter 15: The Dendral Project
 
@@ -324,8 +274,8 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - During the 1960s, transistors and other components were fabricated on single silicon wafer "chips," and the several chips comprising a computer were connected together by wires.
 - Computers using this so-called small-scale integration (SSI) technology comprised the third generation.
 - In the late 1970s, entire microprocessors could be put on a single chip using "large-scale integration" technology the fourth generation.
-- The Japanese fifth generation was to involve many parallel processors using "ultra large-scale integration".
-- Many observers think that most of the results of the FGCS project are now of historical interest only. The software developed did not find notable applications.
+- The Japanese fifth generation was to involve many parallel processors using "ultra large-scale integration".
+- Many observers think that most of the results of the FGCS project are now of historical interest only. The software developed did not find notable applications.
 - According to Oakley, "If the Lighthill Report of the early 1970s was paradise lost for the AI community, the Alvey Report of the early 1980s was paradise regained."
 
 ### Chapter 23: DARPA's Strategic Computing Program
@@ -333,7 +283,7 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - DARPA should sponsor a major research and development program that would integrate efforts in all of these areas to create much more powerful computer systems.
 - At the same time, there was concern that the Japanese FGCS program could threaten U.S. leadership in computer technology.
 - With these factors as background, Kahn began planning what would come to be called the "Strategic Computing" (SC) program.
-- The architects of SC believed in 1983 that AI was ripe for exploitation. It was finally moving out of the laboratory and into the real world. AI would become an essential component of SC; expert systems would be the centerpiece.
+- The architects of SC believed in 1983 that AI was ripe for exploitation. It was finally moving out of the laboratory and into the real world. AI would become an essential component of SC; expert systems would be the centerpiece.
 - Most commentators doubt that the SC program achieved its goal of pulling new AI technology into the SC applications.
 - Developing the kinds of capabilities envisioned by the SC applications required AI inventions, and the atmosphere needed for invention is not conducive to tightly programmed milestone demonstrations.
 
@@ -344,7 +294,7 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - One of the best chapters in this textbook.
 - There have been naysayers from the earliest days of artificial intelligence. Alan Turing anticipated some of their objections in his 1950 paper.
 - In this chapter, I'll recount some of the controversies surrounding AI.
-- No one supposes that computer simulations of a fire will burn the neighborhood down or that a computer simulation of a rainstorm will leave us all drenched.
+- No one supposes that computer simulations of a fire will burn the neighborhood down or that a computer simulation of a rainstorm will leave us all drenched.
 - Why suppose that a computer simulation of understanding actually understood anything?
 - For simulation, all you need is the right input and output and a program in the middle that transforms the former into the latter.
 - To confuse simulation with duplication is the same mistake.
@@ -439,12 +389,12 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 
 ### Chapter 30: Natural Languages and Natural Scenes
 
-- Systems that use grammars for analyzing natural language sentences must use parsing algorithms to search among candidate "parse trees" to find one or more that fits an input sentence.
+- Systems that use grammars for analyzing natural language sentences must use parsing algorithms to search among candidate "parse trees" to find one or more that fits an input sentence.
 - For realistic grammars that "accept" those word strings we think of as legal sentences and reject those strings we take to be non-sentences, it's often the case that there are many possible parses, each conveying a different meaning.
 - Choosing one "best" parse tree from among all of these then depends on semantic and pragmatic analyses, which take into account the context in which the sentence occurs and common-sense world knowledge.
 - This is because people are always stretching and bending the 'rules' to meet their communicative needs."
 - This fact was recognized quite early in the study of language. The linguist and anthropologist Edward Sapir wrote "Unfortunately, or luckily, no language is tyrannically consistent. All grammars leak.
-- Sapir meant, of course, that any grammar, no matter how complex, will accept some sentences that people nd unacceptable and reject some that people nd acceptable.
+- Sapir meant, of course, that any grammar, no matter how complex, will accept some sentences that people find unacceptable and reject some that people find acceptable.
 - Eugene Charniak proposed that syntactic analyses should be qualified by probabilities. Some sentences are "probably" ok, and some are probably not, and there are all gradations in between. An immediate advantage of such an approach is that the probability of a parse can be used to choose among alternative parses for ambiguous sentences.
 - I believe that one of the potentially most promising developments in computer vision involves hierarchical models. There are different versions of these models, and different ways to construct them, but if we stand far enough back from the details, they have similar structures and features.
 - Jeff Hawkins, the designer of the original Palm Pilot, has suggested that the neocortex is a hierarchical temporal memory whose layers (from bottom to top) store increasingly abstract representations of sensory input sequences and whose function (from top to bottom) is to make increasingly detailed predictions of future experience.
@@ -508,8 +458,8 @@ Nobody phrases it this way, but I think that artificial intelligence is almost a
 - HLAI was the goal of the founders and of many other early AI researchers. John McCarthy claims that the "first scientific discussion of human level machine intelligence was apparently by Alan Turing".
 - Turing made the mechanization of human-level intelligence an explicit goal in his 1950 "Computing Machinery and Intelligence" paper.
 - Later, in the proposal for the 1956 Dartmouth Summer Study, John McCarthy wrote "The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it."
-- In a 2003 paper, Edward Feigenbaum concluded "Computational Intelligence is the manifest destiny of computer science, the goal, the destination, the final frontier. More than any other field of science, our computer science concepts and methods are central to the quest to unravel and understand one of the grandest mysteries of our existence, the nature of intelligence. Generations of computer scientists to come must be inspired by the challenges and grand challenges of this great quest."
-- Let an ultraintelligent machine be dened as a machine that can far surpass all the intellectual activities of any man however clever. Since the design of machines is one of these intellectual activities, an ultraintelligent machine could design even better machines; there would then unquestionably be an "intelligence explosion," and the intelligence of man would be left far behind.
+- In a 2003 paper, Edward Feigenbaum concluded "Computational Intelligence is the manifest destiny of computer science, the goal, the destination, the final frontier. More than any other field of science, our computer science concepts and methods are central to the quest to unravel and understand one of the grandest mysteries of our existence, the nature of intelligence. Generations of computer scientists to come must be inspired by the challenges and grand challenges of this great quest."
+- Let an ultraintelligent machine be dened as a machine that can far surpass all the intellectual activities of any man however clever. Since the design of machines is one of these intellectual activities, an ultraintelligent machine could design even better machines; there would then unquestionably be an "intelligence explosion," and the intelligence of man would be left far behind.
 - Thus the first ultraintelligent machine is the last invention that man need ever make, provided that the machine is docile enough to tell us how to keep it under control.
 - If artificial intelligences can be created at all, there is little reason to believe that initial successes could not lead swiftly to the construction of artificial superintelligences able to explore significant mathematical, scientific, or engineering alternatives at a rate far exceeding human ability, or to generate plans and take action on them with equally overwhelming speed.
 - Since man's near-monopoly of all higher forms of intelligence has been one of the most basic facts of human existence throughout the past history of this planet, such developments would clearly create a new economics, a new sociology, and a new history.

@@ -1,6 +1,219 @@
+--- 
 ---
-# Use a comment to ensure Jekyll reads the file to be transformed into CSS later
-# only main files contain this front matter, not partials.
----
+@import "variables";
+@import "post/post";
+@import "post/syntax";
+@import "post/typography";
+@import "post/table";
+@import "components/topbar";
+@import "components/sidebar";
+@import "components/footer";
+@import "components/back-to-top-button";
+@import "layouts/home";
+@import "layouts/categories";
+@import "layouts/archives";
 
-@import "hydeout";
+
+html,
+body {
+  font-size: $root-font-size;
+}
+
+body {
+  line-height: 1.75rem;
+  color: $body-text-color;
+  -webkit-font-smoothing: antialiased;
+  font-family: $root-font-family;
+}
+
+::selection {
+  background: $link-hover-color;
+}
+
+::-moz-selection {
+  background: $link-hover-color;
+}
+
+.row {
+  margin: 0;
+}
+
+#main-wrapper {
+  background-color: $white;
+  margin-left: $sidebar-width;
+  transition: transform 0.4s ease;
+  -webkit-transition: transform 0.4s ease;
+}
+
+#main {
+  min-height: 100vh;
+}
+
+#main>div.row {
+  padding-top: $topbar-height;
+  padding-bottom: $footer-height;
+}
+
+#breadcrumb a:hover,
+.post-preview a:hover,
+.post-meta a:hover,
+.post-content a:hover,
+.post a:hover code,
+footer a:hover,
+#post-wrapper .post-content a:hover,
+#page .post-content a:hover {
+  color: $link-hover-color !important;
+  border-bottom: 1px solid $link-hover-color;
+  text-decoration: none;
+}
+
+#mask {
+  display: none;
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: grey;
+  opacity: 0.5;
+  z-index: 1;
+
+  @at-root .sidebar-expand~& {
+    display: block !important;
+  }
+}
+
+/* --- Effects classes --- */
+
+.loaded {
+  display: block !important;
+}
+
+.d-flex.loaded {
+  display: flex !important;
+}
+
+.unloaded {
+  display: none !important;
+}
+
+.visable {
+  visibility: visible !important;
+}
+
+.hidden {
+  visibility: hidden !important;
+}
+
+.no-scroll {
+  position: fixed;
+  width: 100%;
+}
+
+.flex-grow-1 {
+  -ms-flex-positive: 1 !important;
+  flex-grow: 1 !important;
+}
+
+.btn-box-shadow {
+  box-shadow: 0 0 8px 0 var(--main-wrapper-bg, #eaeaea) !important;
+}
+
+.topbar-up {
+  top: -$topbar-height !important;
+}
+
+.no-text-decoration {
+  text-decoration: none;
+}
+
+.disabled {
+  color: $disable-color;
+  pointer-events: auto;
+  cursor: not-allowed;
+}
+
+.hide-border-bottom {
+  border-bottom: none !important;
+}
+
+@media (max-width: $bootstrap-max-sm) {
+  #main-wrapper {
+    margin-left: 0;
+  }
+
+  #panel-wrapper {
+    display: none;
+  }
+
+  #post-wrapper h1 {
+    margin-top: 2.2rem;
+    font-size: 1.55rem;
+  }
+
+  .post-content {
+    font-size: 1.08rem;
+  }
+
+  /* table text in small screens */
+  div>table,
+  p~table {
+    width: 100%;
+    table-layout: fixed;
+    word-wrap: break-word;
+  }
+
+  footer>div.d-flex {
+    flex-wrap: wrap;
+    justify-content: left !important;
+    -ms-flex-pack: distribute !important;
+    justify-content: space-around !important;
+  }
+}
+
+@media (min-width: $bootstrap-min-md) and (max-width: $bootstrap-max-md) {
+  #main-wrapper {
+    margin-left: $sidebar-width-two;
+  }
+
+  #panel-wrapper {
+    display: none;
+  }
+
+  #page h1.dynamic-title {
+    display: none;
+  }
+
+  #page h1.dynamic-title~.post-content {
+    margin-top: 3rem;
+  }
+
+  .topbar-up {
+    top: 0 !important;
+  }
+
+  sup {
+    padding-top: 3.4rem;
+  }
+
+  .footnotes ol>li {
+    padding-top: 3.5rem;
+    margin-top: -4.3rem;
+  }
+
+  .footnotes ol>li:first-child {
+    margin-top: -3.5rem;
+  }
+}
+
+@media (min-width: $bootstrap-min-lg) {
+  #main>div.row {
+    padding-left: calc(100vw * 0.09);
+  }
+
+  #panel-wrapper {
+    margin-left: 41px;
+  }
+}

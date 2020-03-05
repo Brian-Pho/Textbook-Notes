@@ -8,39 +8,10 @@ book_authors: "Jose L. Bermudez"
 excerpt: "An introduction to the field of cognitive science. A good book that showed the two main approaches to cognitive science."
 ---
 
-<p class="message">
-Artificial intelligence is basically willy nilly, stabbing in the dark, trying to model "natural intelligence". - Marcus Endicott
-</p>
-
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [Part I: Historical Landmarks](#part-i-historical-landmarks)
-  - [Chapter 1: The prehistory of cognitive science](#chapter-1-the-prehistory-of-cognitive-science)
-  - [Chapter 2: The discipline matures: Three milestones](#chapter-2-the-discipline-matures-three-milestones)
-  - [Chapter 3: The turn to the brain](#chapter-3-the-turn-to-the-brain)
-- [Part II: The Integration Challenge](#part-ii-the-integration-challenge)
-  - [Chapter 4: Cognitive science and the integration challenge](#chapter-4-cognitive-science-and-the-integration-challenge)
-  - [Chapter 5: Tackling the integration challenge](#chapter-5-tackling-the-integration-challenge)
-- [Part III: Information-Processing Models of the Mind](#part-iii-information-processing-models-of-the-mind)
-  - [Chapter 6: Physical symbol systems and the language of thought](#chapter-6-physical-symbol-systems-and-the-language-of-thought)
-  - [Chapter 7: Applying the symbolic paradigm](#chapter-7-applying-the-symbolic-paradigm)
-  - [Chapter 8: Neural networks and distributed information processing](#chapter-8-neural-networks-and-distributed-information-processing)
-  - [Chapter 9: Neural network models of cognitive processes](#chapter-9-neural-network-models-of-cognitive-processes)
-- [Part IV: The Organization of the Mind](#part-iv-the-organization-of-the-mind)
-  - [Chapter 10: How are cognitive systems organized?](#chapter-10-how-are-cognitive-systems-organized)
-  - [Chapter 11: Strategies for brain mapping](#chapter-11-strategies-for-brain-mapping)
-  - [Chapter 12: A case study: Exploring mindreading](#chapter-12-a-case-study-exploring-mindreading)
-- [Part V: New Horizons](#part-v-new-horizons)
-  - [Chapter 13: New horizons: Dynamical systems and situated cognition](#chapter-13-new-horizons-dynamical-systems-and-situated-cognition)
-  - [Chapter 14: The cognitive science of consciousness](#chapter-14-the-cognitive-science-of-consciousness)
-  - [Chapter 15: Looking ahead: Challenges and applications](#chapter-15-looking-ahead-challenges-and-applications)
-
-</div>
-</details>
-
----
+<blockquote class="blockquote">
+  <p>Artificial intelligence is basically willy nilly, stabbing in the dark, trying to model "natural intelligence".</p>
+  <p class="blockquote-footer">Marcus Endicott</p>
+</blockquote>
 
 # Part I: Historical Landmarks
 
