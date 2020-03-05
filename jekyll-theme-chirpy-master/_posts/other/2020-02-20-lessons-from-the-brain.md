@@ -1,3 +1,11 @@
+---
+layout: post
+title: "Lessons from the Brain"
+categories:
+  - Other
+excerpt: "General lessons from the brain applies to AGI."
+---
+
 This page is a collection of neuroscience findings that I suspect will help us build AGI. Every time I run across a neuroscience idea that triggers my sense of importance and intuition, I will add it here.
 
 | Neuroscience | Source | Artificial Intelligence Suggestion |
