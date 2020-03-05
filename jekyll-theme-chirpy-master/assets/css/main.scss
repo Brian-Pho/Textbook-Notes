@@ -1,6 +1,9 @@
 --- 
 ---
 @import "variables";
+@import "post/post";
+@import "post/typography";
+@import "post/table";
 @import "components/topbar";
 @import "components/sidebar";
 @import "components/footer";
@@ -8,9 +11,6 @@
 @import "layouts/home";
 @import "layouts/categories";
 @import "layouts/archives";
-@import "post/post";
-@import "post/typography";
-@import "post/table";
 
 
 html,
@@ -23,6 +23,14 @@ body {
   color: $body-text-color;
   -webkit-font-smoothing: antialiased;
   font-family: $root-font-family;
+}
+
+::selection {
+  background: $link-hover-color;
+}
+
+::-moz-selection {
+  background: $link-hover-color;
 }
 
 .row {
