@@ -1,47 +1,42 @@
-# The Site Settings
-# v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
-# MIT licensed
+# Setup
+title:            CR4-DL
+tagline:          'The Cradle.'
+description:      'The Cradle. A vault for notes on artificial intelligence and the brain.'
+url:              https://brianpho.com
+baseurl:          # does not include hostname
+author:           Brian Pho
 
-#--------------------------
+# Filtering Content
+show_drafts:      null
+limit_posts:      0
+future:           false
+unpublished:      false
 
-title: CR4-DL                          # the main title
-
-tagline: The Cradle. A vault for notes on artificial intelligence and the brain.  # it will display as the sub-title
-
-description: >-                        # used by seo meta
-  The Cradle. A vault for notes on artificial intelligence and the brain.
-
-url: https://brianpho.com
-baseurl:
-
-author: Brian Pho
-
+# Social Media
 github:
-  username: Brian-Pho
+  username:       Brian-Pho
 
 social:
-  name: Brian Pho                  # it will shows as the copyright owner in Footer
+  name:           Brian Pho
   links:
     - https://brianpho.com
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/username
     - https://www.facebook.com/username
     - https://www.linkedin.com/in/username
 
+# Outputting
+first_run:        2018
+toc:              true
+paginate:         10
+timezone:         null
 
-#--------------------------
+quiet:            false
+verbose:          false
+defaults:         []
 
-# The year your website first ran.
-first_run: 2019
-
-# boolean type, global switch for ToC in posts.
-toc: true
-
-paginate: 10
-
-markdown: kramdown
-highlighter: rouge
+# Conversion
+markdown:         kramdown
+highlighter:      rouge
 
 kramdown:
   input: GFM
@@ -114,7 +109,6 @@ defaults:
     scope:
       path: assets/data
     values:
-      layout: compress
 
 
 sass:
