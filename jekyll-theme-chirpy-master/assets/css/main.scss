@@ -53,7 +53,7 @@ body {
 footer a:hover,
 #post-wrapper .post-content a:hover,
 #page .post-content a:hover {
-  color: $link-hover-color;
+  color: $link-hover-color !important;
   border-bottom: 1px solid $link-hover-color;
   text-decoration: none;
 }

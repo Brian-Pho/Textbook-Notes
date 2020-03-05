@@ -21,7 +21,6 @@ title: Categories
     {% assign sub_categories_size = sub_categories | size %}
 
   <div class="card categories">
-    <!-- top-category -->
     <div class="card-header d-flex justify-content-between hide-border-bottom" id="h_{{ category_name }}">
       <span>
       {% if sub_categories_size > 0 %}
@@ -30,7 +29,6 @@ title: Categories
         <i class="far fa-folder fa-fw"></i>
       {% endif %}
         <a href="{{ site.baseurl }}/categories/{{ category_name | replace: ' ', '-' | downcase | url_encode }}/">{{ category_name }}</a>
-        <!-- content count -->
         {% assign top_posts_size = site.categories[category_name] | size %}
         <span class="text-muted small font-weight-light pl-2">
         {% if sub_categories_size > 0 %}
@@ -42,16 +40,15 @@ title: Categories
         </span>
       </span>
 
-      <!-- arrow -->
       <a href="#l_{{ category_name }}" data-toggle="collapse" aria-expanded="true" class="category-trigger hide-border-bottom">
-        {% if sub_categories_size > 0%}
+        {% if sub_categories_size > 0 %}
         <i class="fas fa-fw fa-angle-down"></i>
         {% else %}
         <i class="fas fa-fw fa-angle-right disabled"></i>
         {% endif %}
       </a>
 
-    </div> <!-- .card-header -->
+    </div>
 
     <!-- Sub-categories -->
     {% if sub_categories_size > 0 %}
@@ -70,7 +67,7 @@ title: Categories
     </div>
     {% endif %}
 
-  </div> <!-- .card -->
+  </div>
 
   {% endif %}
 {% endfor %}
