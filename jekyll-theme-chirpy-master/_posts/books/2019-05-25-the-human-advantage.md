@@ -7,27 +7,6 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 mathjax: true
 ---
 
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [Preface](#preface)
-- [Chapter 1: Humans Rule!](#chapter-1-humans-rule)
-- [Chapter 2: Brain Soup](#chapter-2-brain-soup)
-- [Chapter 3: Got Brains?](#chapter-3-got-brains)
-- [Chapter 4: Not All Brains Are Made the Same](#chapter-4-not-all-brains-are-made-the-same)
-- [Chapter 5: Remarkable, but Not Extraordinary](#chapter-5-remarkable-but-not-extraordinary)
-- [Chapter 6: The Elephant in the Room](#chapter-6-the-elephant-in-the-room)
-- [Chapter 7: What Cortical Expansion?](#chapter-7-what-cortical-expansion)
-- [Chapter 8: A Body Matter?](#chapter-8-a-body-matter)
-- [Chapter 9: So How Much Does It Cost?](#chapter-9-so-how-much-does-it-cost)
-- [Chapter 10: Brains or Brawn: You Can’t Have Both](#chapter-10-brains-or-brawn-you-cant-have-both)
-- [Chapter 11: Thank Cooking for Your Neurons](#chapter-11-thank-cooking-for-your-neurons)
-- [Chapter 12: … But Plenty of Neurons Aren’t Enough](#chapter-12--but-plenty-of-neurons-arent-enough)
-
-</div>
-</details>
-
 ## Preface
 
 - The brain isn't an exception to the rules of evolution and biology.

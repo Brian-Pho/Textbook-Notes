@@ -7,41 +7,6 @@ excerpt: "How to build good habits and to break bad habits."
 mathjax: true
 ---
 
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [The Fundamentals](#the-fundamentals)
-  - [Chapter 1: The Surprising Power of Atomic Habits](#chapter-1-the-surprising-power-of-atomic-habits)
-  - [Chapter 2: How Your Habits Shape Your Identity (and Vice Versa)](#chapter-2-how-your-habits-shape-your-identity-and-vice-versa)
-  - [Chapter 3: How to Build Better Habits in 4 Simple Steps](#chapter-3-how-to-build-better-habits-in-4-simple-steps)
-- [The 1st Law](#the-1st-law)
-  - [Chapter 4: The Man Who Didn’t Look Right](#chapter-4-the-man-who-didnt-look-right)
-  - [Chapter 5: The Best Way to Start a New Habit](#chapter-5-the-best-way-to-start-a-new-habit)
-  - [Chapter 6: Motivation Is Overrated; Environment Often Matters More](#chapter-6-motivation-is-overrated-environment-often-matters-more)
-  - [Chapter 7: The Secret to Self-Control](#chapter-7-the-secret-to-self-control)
-- [The 2nd Law](#the-2nd-law)
-  - [Chapter 8: How to Make a Habit Irresistible](#chapter-8-how-to-make-a-habit-irresistible)
-  - [Chapter 9: The Role of Family and Friends in Shaping Your Habits](#chapter-9-the-role-of-family-and-friends-in-shaping-your-habits)
-  - [Chapter 10: How to Find and Fix the Causes of Your Bad Habits](#chapter-10-how-to-find-and-fix-the-causes-of-your-bad-habits)
-- [The 3rd Law](#the-3rd-law)
-  - [Chapter 11: Walk Slowly, but Never Backward](#chapter-11-walk-slowly-but-never-backward)
-  - [Chapter 12: The Law of Least Effort](#chapter-12-the-law-of-least-effort)
-  - [Chapter 13: How to Stop Procrastinating by Using the Two-Minute Rule](#chapter-13-how-to-stop-procrastinating-by-using-the-two-minute-rule)
-  - [Chapter 14: How to Make Good Habits Inevitable and Bad Habits Impossible](#chapter-14-how-to-make-good-habits-inevitable-and-bad-habits-impossible)
-- [The 4th Law](#the-4th-law)
-  - [Chapter 15: The Cardinal Rule of Behavior Change](#chapter-15-the-cardinal-rule-of-behavior-change)
-  - [Chapter 16: How to Stick with Good Habits Every Day](#chapter-16-how-to-stick-with-good-habits-every-day)
-  - [Chapter 17: How an Accountability Partner Can Change Everything](#chapter-17-how-an-accountability-partner-can-change-everything)
-- [Advanced Tactics](#advanced-tactics)
-  - [Chapter 18: The Truth About Talent (When Genes Matter and When They Don’t)](#chapter-18-the-truth-about-talent-when-genes-matter-and-when-they-dont)
-  - [Chapter 19: The Goldilocks Rule: How to Stay Motivated in Life and Work](#chapter-19-the-goldilocks-rule-how-to-stay-motivated-in-life-and-work)
-  - [Chapter 20: The Downside of Creating Good Habits](#chapter-20-the-downside-of-creating-good-habits)
-  - [Conclusion: The Secret to Results That Last](#conclusion-the-secret-to-results-that-last)
-
-</div>
-</details>
-
 # The Fundamentals
 
 *Why Tiny Changes Make a Big Difference*

@@ -8,43 +8,10 @@ book_authors: "Marijn Haverbeke"
 excerpt: "An introduction to a JavaScript."
 ---
 
-<p class="message">
-Some people, when confronted with a problem, think 'I know, I'll use regular expressions.' Now they have two problems. - Jamie Zawinski
-</p>
-
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [Part 1: Language](#part-1-language)
-  - [Chapter 1: Values, Types, and Operators](#chapter-1-values-types-and-operators)
-  - [Chapter 2: Program Structure](#chapter-2-program-structure)
-  - [Chapter 3: Functions](#chapter-3-functions)
-  - [Chapter 4: Data Structures: Objects and Arrays](#chapter-4-data-structures-objects-and-arrays)
-  - [Chapter 5: Higher-order Functions](#chapter-5-higher-order-functions)
-  - [Chapter 6: The Secret Life of Objects](#chapter-6-the-secret-life-of-objects)
-  - [Chapter 7: Project: A Robot](#chapter-7-project-a-robot)
-  - [Chapter 8: Bugs and Errors](#chapter-8-bugs-and-errors)
-  - [Chapter 9: Regular Expressions](#chapter-9-regular-expressions)
-  - [Chapter 10: Modules](#chapter-10-modules)
-  - [Chapter 11: Asynchronous Programming](#chapter-11-asynchronous-programming)
-  - [Chapter 12: Project: A Programming Language](#chapter-12-project-a-programming-language)
-- [Part 2: Browser](#part-2-browser)
-  - [Chapter 13: JavaScript and the Browser](#chapter-13-javascript-and-the-browser)
-  - [Chapter 14: The Document Object Model](#chapter-14-the-document-object-model)
-  - [Chapter 15: Handling Events](#chapter-15-handling-events)
-  - [Chapter 16: Project: A Platform Game](#chapter-16-project-a-platform-game)
-  - [Chapter 17: Drawing on Canvas](#chapter-17-drawing-on-canvas)
-  - [Chapter 18: HTTP and Forms](#chapter-18-http-and-forms)
-  - [Chapter 19: Project: A Pixel Art Editor](#chapter-19-project-a-pixel-art-editor)
-- [Part 3: Node](#part-3-node)
-  - [Chapter 20: Node.js](#chapter-20-nodejs)
-  - [Chapter 21: Project: Skill-Sharing Website](#chapter-21-project-skill-sharing-website)
-
-</div>
-</details>
-
----
+<blockquote class="blockquote">
+  <p>Some people, when confronted with a problem, think 'I know, I'll use regular expressions.' Now they have two problems.</p>
+  <p class="blockquote-footer">Jamie Zawinski</p>
+</blockquote>
 
 ## Chapter 0: Introduction
 

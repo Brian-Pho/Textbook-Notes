@@ -6,25 +6,6 @@ categories:
 excerpt: "Learning to learn."
 ---
 
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [Chapter 1: Learning is Misunderstood](#chapter-1-learning-is-misunderstood)
-- [Chapter 2: To Learn, Retrieve](#chapter-2-to-learn-retrieve)
-- [Chapter 3: Mix Up Your Practice](#chapter-3-mix-up-your-practice)
-- [Chapter 4: Embrace Difficulties](#chapter-4-embrace-difficulties)
-- [Chapter 5: Avoid Illusions of Knowing](#chapter-5-avoid-illusions-of-knowing)
-- [Chapter 6: Get Beyond Learning Styles](#chapter-6-get-beyond-learning-styles)
-- [Chapter 7: Increase Your Abilities](#chapter-7-increase-your-abilities)
-- [Chapter 8: Make It Stick](#chapter-8-make-it-stick)
-  - [Learning Tips for Students](#learning-tips-for-students)
-  - [Tips for Teachers](#tips-for-teachers)
-- [Summary Notes from an Amazon Review](#summary-notes-from-an-amazon-review)
-
-</div>
-</details>
-
 ## Chapter 1: Learning is Misunderstood
 
 - *Learning*: acquiring knowledge and skills and having them available from memory so you can make sense of future problems and opportunities.

@@ -6,23 +6,6 @@ categories:
 excerpt: "Living a meaningful life."
 ---
 
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [Introduction](#introduction)
-- [Chapter 1: The Meaning Crisis](#chapter-1-the-meaning-crisis)
-- [Chapter 2: Belonging](#chapter-2-belonging)
-- [Chapter 3: Purpose](#chapter-3-purpose)
-- [Chapter 4: Storytelling](#chapter-4-storytelling)
-- [Chapter 5: Transcendence](#chapter-5-transcendence)
-- [Chapter 6: Growth](#chapter-6-growth)
-- [Chapter 7: Cultures of Meaning](#chapter-7-cultures-of-meaning)
-- [Conclusion](#conclusion)
-
-</div>
-</details>
-
 ## Introduction
 
 - What is the meaning of existence?

@@ -8,60 +8,10 @@ book_authors: "Nils J. Nilsson"
 excerpt: "A thorough account of the history of AI. An ok book that was too detailed at times."
 ---
 
-<p class="message">
-Nobody phrases it this way, but I think that artificial intelligence is almost a humanities discipline. It's really an attempt to understand human intelligence and human cognition. - Sebastian Thrun
-</p>
-
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [Part I: Beginnings](#part-i-beginnings)
-  - [Chapter 1: Dreams and Dreamers](#chapter-1-dreams-and-dreamers)
-  - [Chapter 2: Clues](#chapter-2-clues)
-- [Part II: Early Explorations: 1950s and 1960s](#part-ii-early-explorations-1950s-and-1960s)
-  - [Chapter 3: Gatherings](#chapter-3-gatherings)
-  - [Chapter 4: Pattern Recognition](#chapter-4-pattern-recognition)
-  - [Chapter 5: Early Heuristics Programs](#chapter-5-early-heuristics-programs)
-  - [Chapter 6: Semantic Representations](#chapter-6-semantic-representations)
-  - [Chapter 7: Natural Language Processing](#chapter-7-natural-language-processing)
-  - [Chapter 8: 1960s' Infrastructure](#chapter-8-1960s-infrastructure)
-- [Part III: Efflorescence: Mid-1960s to Mid-1970s](#part-iii-efflorescence-mid-1960s-to-mid-1970s)
-  - [Chapter 9: Computer Vision](#chapter-9-computer-vision)
-  - [Chapter 10: "Hand-Eye" Research](#chapter-10-%22hand-eye%22-research)
-  - [Chapter 11: Knowledge Representation and Reasoning](#chapter-11-knowledge-representation-and-reasoning)
-  - [Chapter 12: Mobile Robots](#chapter-12-mobile-robots)
-  - [Chapter 13: Progress in Natural Language Processing](#chapter-13-progress-in-natural-language-processing)
-  - [Chapter 14: Game Playing](#chapter-14-game-playing)
-  - [Chapter 15: The Dendral Project](#chapter-15-the-dendral-project)
-  - [Chapter 16: Conferences, Books, and Funding](#chapter-16-conferences-books-and-funding)
-- [Part IV: Applications and Specializations: 1970s to Early 1980s](#part-iv-applications-and-specializations-1970s-to-early-1980s)
-  - [Chapter 17: Speech Recognition and Understanding Systems](#chapter-17-speech-recognition-and-understanding-systems)
-  - [Chapter 18: Consulting Systems](#chapter-18-consulting-systems)
-  - [Chapter 19: Understanding Queries and Signals](#chapter-19-understanding-queries-and-signals)
-  - [Chapter 20: Progress in Computer Vision](#chapter-20-progress-in-computer-vision)
-  - [Chapter 21: Boomtimes](#chapter-21-boomtimes)
-- [Part V: "New-Generation" Projects](#part-v-%22new-generation%22-projects)
-  - [Chapter 22: The Japanese Create a Stir](#chapter-22-the-japanese-create-a-stir)
-  - [Chapter 23: DARPA's Strategic Computing Program](#chapter-23-darpas-strategic-computing-program)
-- [Part VI: Entr'acte](#part-vi-entracte)
-  - [Chapter 24: Speed Bumps](#chapter-24-speed-bumps)
-  - [Chapter 25: Controversies and Alternative Paradigms](#chapter-25-controversies-and-alternative-paradigms)
-- [Part VII: The Growing Armamentarium: From the 1980s Onward](#part-vii-the-growing-armamentarium-from-the-1980s-onward)
-  - [Chapter 26: Reasoning and Representation](#chapter-26-reasoning-and-representation)
-  - [Chapter 27: Other Approaches to Reasoning and Representation](#chapter-27-other-approaches-to-reasoning-and-representation)
-  - [Chapter 28: Bayesian Networks](#chapter-28-bayesian-networks)
-  - [Chapter 29: Machine Learning](#chapter-29-machine-learning)
-  - [Chapter 30: Natural Languages and Natural Scenes](#chapter-30-natural-languages-and-natural-scenes)
-  - [Chapter 31: Intelligent System Architectures](#chapter-31-intelligent-system-architectures)
-- [Part VIII: Modern AI: Today and Tomorrow](#part-viii-modern-ai-today-and-tomorrow)
-  - [Chapter 32: Extraordinary Achievements](#chapter-32-extraordinary-achievements)
-  - [Chapter 33: Ubiquitous Artificial Intelligence](#chapter-33-ubiquitous-artificial-intelligence)
-  - [Chapter 34: Smart Tools](#chapter-34-smart-tools)
-  - [Chapter 35: The Quest Continues](#chapter-35-the-quest-continues)
-
-</div>
-</details>
+<blockquote class="blockquote">
+  <p>Nobody phrases it this way, but I think that artificial intelligence is almost a humanities discipline. It's really an attempt to understand human intelligence and human cognition.</p>
+  <p class="blockquote-footer">Sebastian Thrun</p>
+</blockquote>
 
 ## Part I: Beginnings
 
