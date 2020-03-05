@@ -6,24 +6,6 @@ categories:
 excerpt: "An exploration of how cooking has affected humanity."
 ---
 
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [Introduction](#introduction)
-- [Chapter 1: Quest for Raw-Foodists](#chapter-1-quest-for-raw-foodists)
-- [Chapter 2: The Cook’s Body](#chapter-2-the-cooks-body)
-- [Chapter 3: The Energy Theory of Cooking](#chapter-3-the-energy-theory-of-cooking)
-- [Chapter 4: When Cooking Began](#chapter-4-when-cooking-began)
-- [Chapter 5: Brain Foods](#chapter-5-brain-foods)
-- [Chapter 6: How Cooking Frees Men](#chapter-6-how-cooking-frees-men)
-- [Chapter 7: The Married Cook](#chapter-7-the-married-cook)
-- [Chapter 8: The Cook’s Journey](#chapter-8-the-cooks-journey)
-- [Epilogue](#epilogue)
-
-</div>
-</details>
-
 ## Introduction
 
 - What made us human was our control of fire and the advent of cooked meals.

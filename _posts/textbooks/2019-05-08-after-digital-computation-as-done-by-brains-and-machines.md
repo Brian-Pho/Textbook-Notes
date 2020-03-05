@@ -8,38 +8,10 @@ book_authors: "James A. Anderson"
 excerpt: "A good introductory book into the field that exists between brains and computers."
 ---
 
-<p class="message">
-We don't live in a world of reality but in a world of perceptions. - Unknown
-</p>
-
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [Chapter 1: The Past of the Future of Computation](#chapter-1-the-past-of-the-future-of-computation)
-- [Chapter 2: Computing Hardware: Analog](#chapter-2-computing-hardware-analog)
-- [Chapter 3: Computing Hardware: Digital](#chapter-3-computing-hardware-digital)
-- [Chapter 4: Software: Making a Digital Computer Do Something Useful](#chapter-4-software-making-a-digital-computer-do-something-useful)
-- [Chapter 5: Human Understanding of Complex Systems](#chapter-5-human-understanding-of-complex-systems)
-- [Chapter 6: An Engineer’s Introduction to Neuroscience](#chapter-6-an-engineers-introduction-to-neuroscience)
-- [Chapter 7: The Brain Works by Logic](#chapter-7-the-brain-works-by-logic)
-- [Chapter 8: The Brain Doesn’t Work by Logic](#chapter-8-the-brain-doesnt-work-by-logic)
-- [Chapter 9: Association](#chapter-9-association)
-- [Chapter 10: Cerebral Cortex: Basics](#chapter-10-cerebral-cortex-basics)
-- [Chapter 11: Cerebral Cortex: Columns and Collaterals](#chapter-11-cerebral-cortex-columns-and-collaterals)
-- [Chapter 12: Brain Theory: History](#chapter-12-brain-theory-history)
-- [Chapter 13: Brain Theory: Constraints](#chapter-13-brain-theory-constraints)
-- [Chapter 14: Programming](#chapter-14-programming)
-- [Chapter 15: Brain Theory: Numbers](#chapter-15-brain-theory-numbers)
-- [Chapter 16: Return to Cognitive Science](#chapter-16-return-to-cognitive-science)
-- [Chapter 17: Loose Ends: Biological Intelligence](#chapter-17-loose-ends-biological-intelligence)
-- [Chapter 18: The Near Future](#chapter-18-the-near-future)
-- [Chapter 19: Apotheosis: Yes! Or No?](#chapter-19-apotheosis-yes-or-no)
-
-</div>
-</details>
-
----
+<blockquote class="blockquote">
+  <p>We don't live in a world of reality but in a world of perceptions.</p>
+  <p class="blockquote-footer">Unknown</p>
+</blockquote>
 
 ## Chapter 1: The Past of the Future of Computation
 

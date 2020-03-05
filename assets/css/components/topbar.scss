@@ -1,0 +1,51 @@
+#topbar-wrapper {
+  width: 100%;
+  height: $topbar-height;
+  position: fixed;
+  transition: top 0.2s ease-in-out;
+  z-index: 50;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.07);
+  box-shadow: 0 3px 5px 0 rgba(0, 0, 0, 0.05);
+  background-color: $topbar-bg-color;
+}
+
+#breadcrumb {
+  font-size: $topbar-breadcrumb-font-size;
+  color: $topbar-breadcrumb-color;
+  padding-left: .5rem;
+}
+
+#breadcrumb span:not(:last-child)::after {
+  content: "›";
+  padding: 0 .3rem;
+}
+
+#topbar-title {
+  display: none;
+  font-size: $topbar-title-font-size;
+  font-weight: 600;
+  font-family: sans-serif;
+  color: $topbar-title-color;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-break: keep-all;
+  white-space: nowrap;
+}
+
+@media (max-width: $bootstrap-max-sm) {
+  #topbar-title {
+    display: block;
+  }
+
+  #topbar-wrapper {
+    width: 100vw;
+  }
+
+  #breadcrumb {
+    display: none;
+  }
+}
+
+@media (min-width: $bootstrap-min-md) and (max-width: $bootstrap-max-md) {}
+
+@media (min-width: $bootstrap-min-lg) {}

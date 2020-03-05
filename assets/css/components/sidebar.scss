@@ -1,0 +1,132 @@
+#sidebar {
+  width: $sidebar-width;
+  z-index: 99;
+  -webkit-transition: transform 0.4s ease;
+  transition: transform 0.4s ease;
+  background: $sidebar-bg-color;
+}
+
+#sidebar a {
+  font-family: $sidebar-subtitle-font-family;
+  color: $sidebar-nav-default;
+  transition: color 0.35s ease-in-out;
+}
+
+#sidebar .nav-item {
+  height: 20%;
+}
+
+#sidebar .nav-link {
+  border-radius: 0;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+}
+
+#sidebar .nav-item:hover .nav-link,
+#sidebar .contact a:hover {
+  color: $sidebar-nav-hover;
+}
+
+#sidebar .nav-item.active .nav-link {
+  color: $sidebar-nav-active;
+}
+
+#site-title a {
+  font-family: $sidebar-title-font-family;
+  font-size: $sidebar-title-size;
+  color: $sidebar-title-color;
+}
+
+#site-title a:hover {
+  color: $sidebar-subtitle-color;
+  text-decoration: none;
+}
+
+#site-subtitle {
+  font-family: $sidebar-subtitle-font-family;
+  font-size: $sidebar-subtitle-size;
+  color: $sidebar-subtitle-color;
+  font-weight: 300;
+}
+
+.sidebar-expand {
+  box-shadow: 4px 0 8px 0 rgba(0, 0, 0, 0.2),
+  6px 0 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+
+#sidebar-trigger {
+  display: none;
+}
+
+#sidebar .nav-link>i,
+#sidebar .contact i {
+  text-align: center;
+  border: 1px solid;
+  border-radius: 50%;
+  width: 2rem;
+  height: 2rem;
+  padding: 0.5em 0 0 0.1em;
+  display: inline-block !important;
+}
+
+#sidebar .contact i {
+  padding-right: 0.1rem;
+}
+
+@media (max-width: $bootstrap-max-sm) {
+  #sidebar {
+    top: 0;
+    width: $sidebar-width-two;
+    transform: translateX(-$sidebar-width-two);
+    -webkit-transform: translateX(-$sidebar-width-two);
+  }
+
+  #sidebar .cursor {
+    -webkit-transition: none;
+    -moz-transition: none;
+    transition: none;
+  }
+
+  #sidebar-trigger {
+    display: block;
+  }
+
+  .sidebar-expand {
+    transform: translateX(0) !important;
+    -webkit-transform: translateX(0) !important;
+  }
+
+  .sidebar-expand~#main-wrapper {
+    transform: translateX($sidebar-width-two);
+    -webkit-transform: translateX($sidebar-width-two);
+  }
+
+  #site-title a {
+    font-size: 3.4rem;
+  }
+
+  #site-subtitle {
+    font-size: 1.3rem;
+  }
+}
+
+@media (min-width: $bootstrap-min-md) and (max-width: $bootstrap-max-md) {
+  #sidebar {
+    width: $sidebar-width-two;
+  }
+
+  #site-title a {
+    font-size: 3.4rem;
+  }
+
+  #site-subtitle {
+    font-size: 1.3rem;
+  }
+}
+
+@media (min-width: $bootstrap-min-lg) {
+  #sidebar {
+    width: $sidebar-width;
+  }
+}

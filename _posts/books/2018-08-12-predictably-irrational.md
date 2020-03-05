@@ -6,29 +6,6 @@ categories:
 excerpt: "A rational approach to irrational decisions."
 ---
 
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [Chapter 1: The Truth about Relativity](#chapter-1-the-truth-about-relativity)
-- [Chapter 2: The Fallacy of Supply and Demand](#chapter-2-the-fallacy-of-supply-and-demand)
-- [Chapter 3: The Cost of Zero Cost](#chapter-3-the-cost-of-zero-cost)
-- [Chapter 4: The Cost of Social Norms](#chapter-4-the-cost-of-social-norms)
-- [Chapter 5: The Power of a Free Cookie](#chapter-5-the-power-of-a-free-cookie)
-- [Chapter 6: The Influence of Arousal](#chapter-6-the-influence-of-arousal)
-- [Chapter 7: The Problem of Procrastination and Self-Control](#chapter-7-the-problem-of-procrastination-and-self-control)
-- [Chapter 8: The High Price of Ownership](#chapter-8-the-high-price-of-ownership)
-- [Chapter 9: Keeping Doors Open](#chapter-9-keeping-doors-open)
-- [Chapter 10: The Effect of Expectation](#chapter-10-the-effect-of-expectation)
-- [Chapter 11: The Power of Price](#chapter-11-the-power-of-price)
-- [Chapter 12: The Cycle of Distrust](#chapter-12-the-cycle-of-distrust)
-- [Chapter 13: The Context of Our Character, Part I](#chapter-13-the-context-of-our-character-part-i)
-- [Chapter 14: The Context of Our Character, Part II](#chapter-14-the-context-of-our-character-part-ii)
-- [Chapter 15: Beer and Free Lunches](#chapter-15-beer-and-free-lunches)
-
-</div>
-</details>
-
 ## Chapter 1: The Truth about Relativity
 
 *Why Everything Is Relative - Even When It Shouldn’t Be*

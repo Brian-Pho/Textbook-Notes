@@ -1,0 +1,31 @@
+/*--- Begin of Markdown table style ---*/
+
+div.post-content>table,
+div.post-content li>table {
+  min-width: 60%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-bottom: 1.5rem;
+}
+
+table thead {
+  border-bottom: solid 2px rgba(210, 215, 217, 0.75);
+}
+
+table thead+tbody tr:nth-child(2n) {
+  background-color: var(--tb-even-bg);
+}
+
+table thead+tbody tr:last-child:nth-child(2n) {
+  border-bottom: solid 1px var(--tb-odd-bg, rgba(210, 215, 217, 0.75));
+}
+
+table thead+tbody tr:nth-child(2n + 1) {
+  background-color: var(--tb-odd-bg, #f8f9fa);
+}
+
+table thead th,
+table tbody td {
+  padding: .35rem .8rem;
+  font-size: 95%;
+}

@@ -1,0 +1,31 @@
+footer {
+  height: $footer-height;
+  bottom: 0;
+  font-size: $footer-font-size;
+  color: $footer-text-color;
+  background-color: $footer-bg-color;
+}
+
+footer a:link,
+footer a:hover {
+  text-decoration: none;
+}
+
+footer>.d-flex>div {
+  width: $sidebar-width;
+}
+
+footer .copyright a {
+  font-weight: 600;
+  color: inherit;
+}
+
+@media (max-width: $bootstrap-max-sm) {
+  footer {
+    width: 100vw;
+  }
+}
+
+@media (min-width: $bootstrap-min-md) and (max-width: $bootstrap-max-md) {}
+
+@media (min-width: $bootstrap-min-lg) {}

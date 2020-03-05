@@ -9,30 +9,10 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 mathjax: true
 ---
 
-<p class="message">
-We have not yet learned what the brain has to teach us. - Chris Eliasmith
-</p>
-
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [Part I: How to Build a Brain](#part-i-how-to-build-a-brain)
-  - [Chapter 2: An Introduction to Brain Building](#chapter-2-an-introduction-to-brain-building)
-  - [Chapter 3: Biological Cognition-Semantics](#chapter-3-biological-cognition-semantics)
-  - [Chapter 4: Biological Cognition-Syntax](#chapter-4-biological-cognition-syntax)
-  - [Chapter 5: Biological Cognition-Control](#chapter-5-biological-cognition-control)
-  - [Chapter 6: Biological Cognition-Memory and Learning](#chapter-6-biological-cognition-memory-and-learning)
-  - [Chapter 7: The Semantic Pointer Architecture](#chapter-7-the-semantic-pointer-architecture)
-- [Part II: Is That How You Build a Brain?](#part-ii-is-that-how-you-build-a-brain)
-  - [Chapter 8: Evaluating Cognitive Theories](#chapter-8-evaluating-cognitive-theories)
-  - [Chapter 9: Theories of Cognition](#chapter-9-theories-of-cognition)
-  - [Chapter 10: Consequences and Challenges](#chapter-10-consequences-and-challenges)
-
-</div>
-</details>
-
----
+<blockquote class="blockquote">
+  <p>We have not yet learned what the brain has to teach us.</p>
+  <p class="blockquote-footer">Chris Eliasmith</p>
+</blockquote>
 
 ## Chapter 1: The Science of Cognition
 

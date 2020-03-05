@@ -8,30 +8,10 @@ book_authors: "François Chollet"
 excerpt: "An introduction to practical deep learning with Python and Keras."
 ---
 
-<p class="message">
-Computer science is no more about computers than astronomy is about telescopes. - Unknown
-</p>
-
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [Part I: Fundamentals of Deep Learning](#part-i-fundamentals-of-deep-learning)
-  - [Chapter 1: What is deep learning?](#chapter-1-what-is-deep-learning)
-  - [Chapter 2: Before we begin: the mathematical building blocks of neural networks](#chapter-2-before-we-begin-the-mathematical-building-blocks-of-neural-networks)
-  - [Chapter 3: Getting started with neural networks](#chapter-3-getting-started-with-neural-networks)
-  - [Chapter 4: Fundamentals of machine learning](#chapter-4-fundamentals-of-machine-learning)
-- [Part II: Deep Learning in Practice](#part-ii-deep-learning-in-practice)
-  - [Chapter 5: Deep learning for computer vision](#chapter-5-deep-learning-for-computer-vision)
-  - [Chapter 6: Deep learning for text and sequences](#chapter-6-deep-learning-for-text-and-sequences)
-  - [Chapter 7: Advanced deep-learning best practices](#chapter-7-advanced-deep-learning-best-practices)
-  - [Chapter 8: Generative deep learning](#chapter-8-generative-deep-learning)
-  - [Chapter 9: Conclusions](#chapter-9-conclusions)
-
-</div>
-</details>
-
----
+<blockquote class="blockquote">
+  <p>Computer science is no more about computers than astronomy is about telescopes.</p>
+  <p class="blockquote-footer">Unknown</p>
+</blockquote>
 
 # Part I: Fundamentals of Deep Learning
 

@@ -9,48 +9,10 @@ excerpt: "An introduction to the field of neuroscience. A good book but lacks de
 mathjax: true
 ---
 
-<p class="message">
-If our brains were simple enough for us to understand them, we'd be so simple that we couldn't. - Ian Stewart
-</p>
-
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [Part I: Foundations](#part-i-foundations)
-  - [Chapter 1: Neuroscience: Past, Present, and Future](#chapter-1-neuroscience-past-present-and-future)
-  - [Chapter 2: Neurons and Glia](#chapter-2-neurons-and-glia)
-  - [Chapter 3: The Neuronal Membrane at Rest](#chapter-3-the-neuronal-membrane-at-rest)
-  - [Chapter 4: The Action Potential](#chapter-4-the-action-potential)
-  - [Chapter 5: Synaptic Transmission](#chapter-5-synaptic-transmission)
-  - [Chapter 6: Neurotransmitter Systems](#chapter-6-neurotransmitter-systems)
-  - [Chapter 7: The Structure of the Nervous System](#chapter-7-the-structure-of-the-nervous-system)
-- [Part II: Sensory and Motor Systems](#part-ii-sensory-and-motor-systems)
-  - [Chapter 8: The Chemical Senses](#chapter-8-the-chemical-senses)
-  - [Chapter 9: The Eye](#chapter-9-the-eye)
-  - [Chapter 10: The Central Visual System](#chapter-10-the-central-visual-system)
-  - [Chapter 11: The Auditory and Vestibular Systems](#chapter-11-the-auditory-and-vestibular-systems)
-  - [Chapter 12: The Somatic Sensory System](#chapter-12-the-somatic-sensory-system)
-  - [Chapter 13: Spinal Control of Movement](#chapter-13-spinal-control-of-movement)
-  - [Chapter 14: Brain Control of Movement](#chapter-14-brain-control-of-movement)
-- [Part III: The Brain and Behavior](#part-iii-the-brain-and-behavior)
-  - [Chapter 15: Chemical Control of the Brain and Behavior](#chapter-15-chemical-control-of-the-brain-and-behavior)
-  - [Chapter 16: Motivation](#chapter-16-motivation)
-  - [Chapter 17: Sex and the Brain](#chapter-17-sex-and-the-brain)
-  - [Chapter 18: Brain Mechanisms of Emotion](#chapter-18-brain-mechanisms-of-emotion)
-  - [Chapter 19: Brain Rhythms and Sleep](#chapter-19-brain-rhythms-and-sleep)
-  - [Chapter 20: Language](#chapter-20-language)
-  - [Chapter 21: The Resting Brain, Attention, and Consciousness](#chapter-21-the-resting-brain-attention-and-consciousness)
-  - [Chapter 22: Mental Illness](#chapter-22-mental-illness)
-- [Part IV: The Changing Brain](#part-iv-the-changing-brain)
-  - [Chapter 23: Wiring the Brain](#chapter-23-wiring-the-brain)
-  - [Chapter 24: Memory Systems](#chapter-24-memory-systems)
-  - [Chapter 25: Molecular Mechanisms of Learning and Memory](#chapter-25-molecular-mechanisms-of-learning-and-memory)
-
-</div>
-</details>
-
----
+<blockquote class="blockquote">
+  <p>If our brains were simple enough for us to understand them, we'd be so simple that we couldn't.</p>
+  <p class="blockquote-footer">Ian Stewart</p>
+</blockquote>
 
 # Part I: Foundations
 

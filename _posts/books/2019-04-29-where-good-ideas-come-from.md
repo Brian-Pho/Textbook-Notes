@@ -6,23 +6,6 @@ categories:
 excerpt: "An exploration of how good ideas are formed."
 ---
 
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [Introduction: REEF, CITY, WEB](#introduction-reef-city-web)
-- [Chapter 1: THE ADJACENT POSSIBLE](#chapter-1-the-adjacent-possible)
-- [Chapter 2: LIQUID NETWORKS](#chapter-2-liquid-networks)
-- [Chapter 3: THE SLOW HUNCH](#chapter-3-the-slow-hunch)
-- [Chapter 4: SERENDIPITY](#chapter-4-serendipity)
-- [Chapter 5: ERROR](#chapter-5-error)
-- [Chapter 6: EXAPTATION](#chapter-6-exaptation)
-- [Chapter 7: PLATFORMS](#chapter-7-platforms)
-- [Conclusion: THE FOURTH QUADRANT](#conclusion-the-fourth-quadrant)
-
-</div>
-</details>
-
 ## Introduction: REEF, CITY, WEB
 
 - The reef is the story of how Charles Darwin observes a coral reef.

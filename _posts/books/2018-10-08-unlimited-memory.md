@@ -6,15 +6,6 @@ categories:
 excerpt: "Memorizing memory techniques."
 ---
 
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [General Notes](#general-notes)
-
-</div>
-</details>
-
 ## General Notes
 
 - Only if you can remember information can you live it.

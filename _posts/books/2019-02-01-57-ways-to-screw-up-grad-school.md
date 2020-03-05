@@ -6,23 +6,6 @@ categories:
 excerpt: "How to do well in graduate school."
 ---
 
-<details>
-<summary>Table of Contents</summary>
-<div markdown="1">
-
-- [Starting Out](#starting-out)
-- [Supervisors](#supervisors)
-- [Managing Your Program](#managing-your-program)
-- [Your Work and Social Life](#your-work-and-social-life)
-- [Writing](#writing)
-- [Your Attitude and Actions](#your-attitude-and-actions)
-- [Delicate Matters](#delicate-matters)
-- [Am I Done Yet? On Finishing](#am-i-done-yet-on-finishing)
-- [Final Thoughts](#final-thoughts)
-
-</div>
-</details>
-
 ## Starting Out
 
 - Questions to ask yourself
