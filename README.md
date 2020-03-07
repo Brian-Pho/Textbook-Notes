@@ -6,13 +6,13 @@ Homepage Link:  <https://www.brianpho.com>
 
 CR4-DL Link: <https://brianpho.com/CR4-DL>
 
-Theme Link: <https://github.com/fongandrew/hydeout>
+Theme Link: <https://github.com/fongandrew/hydeout> and <https://github.com/cotes2020/jekyll-theme-chirpy>
 
 ## TODO
 
-- [ ] Modify the hard coded timeline
 - [ ] Run Google Chrome Audit for further improvements
 - [ ] Update textbook covers for mobile (iPad)
+- [ ] Delete textbook covers
 - [ ] Clean up grammar and spelling
 
 ## Favicon Generator
@@ -29,16 +29,9 @@ Theme Link: <https://github.com/fongandrew/hydeout>
 
 ## Other Resources
 
-- <https://docs.mathjax.org/en/latest/index.html>
-- <https://kramdown.gettalong.org/quickref.html>
-- <https://help.github.com/articles/configuring-jekyll/>
 - <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 - <https://codepen.io/mathiesjanssen/pen/ggeBKm>
-- <https://jekyllrb.com/docs/>
-- <https://shopify.github.io/liquid/>
 - <https://realfavicongenerator.net/favicon_checker>
-- <https://freefrontend.com/css-timelines/>
-- <https://codepen.io/mathiesjanssen/pen/ggeBKm>
 - <https://github.com/DavidAnson/markdownlint/blob/v0.10.0/doc/Rules.md>
 - jekyll serve --livereload
 
@@ -46,7 +39,7 @@ Theme Link: <https://github.com/fongandrew/hydeout>
 
 ### Style Guide
 
-- Definitions are in italics, don't italicize the colon, and end with a period.
+- Definitions are in italics, don't italicize the colon, end with a period.
 - E.g. *Algorithm*: a series of steps that completes a goal.
 
 - End bullet points with periods unless they have sub-bullet points.
