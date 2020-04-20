@@ -91,7 +91,6 @@ excerpt: "An amazing and scientific account of consciousness."
   - The regulation of the internal state of the organism so that it can be prepared for the specific reaction.
 - E.g. Increasing the heart rate when scared in anticipation of running or fighting.
 - Emotions lie between automatic homeostatic processes like pH balance and higher level reasoning.
-- [Insert table 2.1]
 - Emotions are relevant to the study of consciousness because they provide organisms with automatic, survival-oriented behaviors.
 - Different emotions are produced by different brain systems.
 - The different brain systems are located at a small number of brains sites that are subcortical.
@@ -264,7 +263,6 @@ excerpt: "An amazing and scientific account of consciousness."
 - The causal relationship between objects and organisms occurs in second-order neural maps.
 - Second-order maps catch the organism in the act of representing its own state change as its representing something else.
 - Autobiographical memory is architecturally connected to the nonconscious protoself and to the emergent and conscious core self of each lived instant.
-- [Insert table 6.1]
 - As we grow, the autobiographical self grows alongside the autobiographical memory.
 - Both require a continuous supply of CC for them to be of consequence.
 - E.g. In patients with epileptic automatism, they can't access their autobiographical memory yet the memories aren't destroyed. This suggests that the autobiographical self depends on CC to come alive.
