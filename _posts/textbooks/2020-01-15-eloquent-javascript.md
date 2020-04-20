@@ -5,7 +5,7 @@ categories:
 - Textbooks
 book: "eloquent-javascript"
 book_authors: "Marijn Haverbeke"
-excerpt: "An introduction to a JavaScript."
+excerpt: "An introduction to JavaScript."
 ---
 
 <blockquote class="blockquote">

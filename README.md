@@ -59,6 +59,9 @@ Theme Link: <https://github.com/fongandrew/hydeout> and <https://github.com/cote
 6. Compress images with TinyPNG.
 7. Test locally.
 
+Replace "\. \n" with ".\n"
+Replace "\? \n" with "?\n"
+
 ### Textbooks
 
 - Parts are in roman numerals
