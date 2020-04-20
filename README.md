@@ -11,9 +11,9 @@ Theme Link: <https://github.com/fongandrew/hydeout> and <https://github.com/cote
 ## TODO
 
 - [ ] Run Google Chrome Audit for further improvements
-- [ ] Update textbook covers for mobile (iPad)
 - [ ] Delete textbook covers
 - [ ] Clean up grammar and spelling
+- [ ] Run notes through Grammarly
 
 ## Favicon Generator
 
@@ -31,7 +31,6 @@ Theme Link: <https://github.com/fongandrew/hydeout> and <https://github.com/cote
 
 - <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 - <https://codepen.io/mathiesjanssen/pen/ggeBKm>
-- <https://realfavicongenerator.net/favicon_checker>
 - <https://github.com/DavidAnson/markdownlint/blob/v0.10.0/doc/Rules.md>
 - jekyll serve --livereload
 
@@ -53,11 +52,12 @@ Theme Link: <https://github.com/fongandrew/hydeout> and <https://github.com/cote
 ### Books
 
 1. Write notes in Dropbox Paper.
-2. Export notes in Markdown and copy them to site.
-3. Download images and fix to compile with linter.
-4. Replace image URLs with local ones.
-5. Compress images with TinyPNG.
-6. Test locally.
+2. Export notes in Markdown.
+3. Add them to site and fix to pass linter.
+4. Download images.
+5. Replace image URLs with local ones.
+6. Compress images with TinyPNG.
+7. Test locally.
 
 ### Textbooks
 
