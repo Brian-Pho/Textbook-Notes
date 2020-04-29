@@ -15,16 +15,16 @@ excerpt: "An exploration of how good ideas are formed."
 - The 10/10 Rule: ten years to develop, ten years to find mass market.
 - To understand where good ideas come from, we first have to understand the context that gave rise to them.
 - There are shared patterns that recur again and again to create these innovative ideas.
-- Each patter is its own chapter.
+- Each pattern is its own chapter.
 - We lack a unified theory that describes innovation systems.
-- We are often better served by connecting idea rather than protecting them.
+- We are often better served by connecting ideas rather than protecting them.
 - Good ideas want to complete each other as much as they want to compete.
 
 ## Chapter 1: THE ADJACENT POSSIBLE
 
 - Good ideas are constrained by the parts and skills that surround them.
 - Good ideas don't come cleanly from a factory, they're cobbled together from spare parts in a garage.
-- Evolution does the same thing too when innovating.
+- Evolution does the same thing when innovating.
 - E.g. The kludge of the brain.
 - The adjacent possible: the area of possible innovations given the current area.
 - E.g. Going from electricity to the telegram, not the Internet.
@@ -48,7 +48,7 @@ excerpt: "An exploration of how good ideas are formed."
 
 ## Chapter 2: LIQUID NETWORKS
 
-- The misconception that an idea isn't a single thing, it's a network.
+- There's a misconception that an idea is a single thing, it isn't, its a network.
 - Its a literal network in your brain, a new connection that's never formed before.
 - The network has two preconditions
   - The sheer size of the network
@@ -58,7 +58,7 @@ excerpt: "An exploration of how good ideas are formed."
 - The network in the brain is similar to a liquid, flexible enough to adapt but rigid enough to preserve.
 - One of the benefits of the agriculture revolution is that it brought people together to share ideas.
 - High density liquid networks make it easier for innovation to happen, but they also store those innovations.
-- A network let's good ideas thrive while killing off bad ideas. Natural selection of ideas.
+- A network let's good ideas thrive while killing off bad ideas. The natural selection of ideas.
 - However, these networks aren't the same as a hive mind or global brain.
 - Large collectives aren't capable of true innovation due to herd mentality.
 - Networks simply widen the pool of minds that could come up with and share good ideas.
@@ -104,7 +104,7 @@ excerpt: "An exploration of how good ideas are formed."
 - Human free-association is highly predictable.
 - A paradoxical truth about innovative ideas: good ideas are more likely to emerge in environments that contain a certain amount of noise and error.
 - Interesting, evolution has struck a balance between too much mutation and too much stability.
-- The explore and exploit tradeoff. The risk and reward tradeoff.
+- The explore-and-exploit tradeoff. The risk and reward tradeoff.
 - When the going gets tough, life tends to gravitate towards more innovative reproductive strategies.
 - Sex keeps the door to the adjacent possible open by just a crack, so that we can adapt to the changing pressures or opportunities of our environment.
 - The complicated relationship between accuracy and error, between signal and noise.
@@ -113,7 +113,7 @@ excerpt: "An exploration of how good ideas are formed."
 ## Chapter 6: EXAPTATION
 
 - Exaptation: an organism develops a trait optimized for a single use but then the trait gets hijacked for a completely different function.
-- E.g. A feature adapted for warmth is now exapted for flight.
+- E.g. A feature adapted for warmth, such as feathers, is now exapted for flight.
 - It's using what you have in a new environment or way.
 - Collisions of different fields of expertise leads to creativity.
 - The value of "weak tie" networks isn't just that information is communicated across distant fields, it's that it allows for exaptation to occur.

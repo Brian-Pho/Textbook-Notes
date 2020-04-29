@@ -87,29 +87,8 @@ footer a:hover,
 
 /* --- Effects classes --- */
 
-.loaded {
-  display: block !important;
-}
-
-.d-flex.loaded {
-  display: flex !important;
-}
-
 .unloaded {
   display: none !important;
-}
-
-.visable {
-  visibility: visible !important;
-}
-
-.hidden {
-  visibility: hidden !important;
-}
-
-.no-scroll {
-  position: fixed;
-  width: 100%;
 }
 
 .flex-grow-1 {
@@ -119,14 +98,6 @@ footer a:hover,
 
 .btn-box-shadow {
   box-shadow: 0 0 8px 0 var(--main-wrapper-bg, #eaeaea) !important;
-}
-
-.topbar-up {
-  top: -$topbar-height !important;
-}
-
-.no-text-decoration {
-  text-decoration: none;
 }
 
 .disabled {
