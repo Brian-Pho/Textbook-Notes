@@ -22,6 +22,9 @@ layout: page
       {{ post.date | date: POST_DATE }}
       <i class="unloaded">{{ post.date | date_to_xmlschema }}</i>
       </span>
+      <span>
+          &sdot; {{ post.categories }}
+      </span>
     </div>
   </div>
   {% endfor %}
