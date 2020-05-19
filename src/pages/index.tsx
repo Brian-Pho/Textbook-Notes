@@ -5,7 +5,6 @@ import { PageProps, Link, graphql } from "gatsby"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import { rhythm } from "../utils/typography"
 
 type Data = {
   site: {
@@ -45,7 +44,6 @@ const BlogIndex = ({ data, location }: PageProps<Data>) => {
             <header>
               <h3
                 style={{
-                  marginBottom: rhythm(1 / 4),
                 }}
               >
                 <Link style={{ boxShadow: `none` }} to={node.fields.slug}>
