@@ -1,13 +1,13 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `CR4-DL`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Brian Pho`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `The Cradle. A vault for notes on artificial intelligence and the brain.`,
+    siteUrl: `https://brianpho.com/CR4-DL/`,
     social: {
+      github: `fdsafs`,
       twitter: `kylemathews`,
     },
   },
