@@ -1,17 +1,37 @@
 module.exports = {
   siteMetadata: {
     title: `CR4-DL`,
+    description: `The Cradle. A vault for notes on artificial intelligence and the brain.`,
     author: {
       name: `Brian Pho`,
+      github: `Brian-Pho`,
     },
-    description: `The Cradle. A vault for notes on artificial intelligence and the brain.`,
     siteUrl: `https://brianpho.com/CR4-DL/`,
-    social: {
-      github: `fdsafs`,
-      twitter: `kylemathews`,
-    },
+    menu: [
+      {
+        label: 'Home',
+        path: '/',
+      },
+      {
+        label: 'Notes',
+        path: '/notes/',
+      },
+      {
+        label: 'Timeline',
+        path: '/timeline/',
+      },
+      {
+        label: 'About',
+        path: '/about/',
+      },
+    ],
   },
   plugins: [
+    `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-offline`,
+    `gatsby-plugin-sass`,
+    `gatsby-transformer-sharp`,
+    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -55,8 +75,6 @@ module.exports = {
         ],
       },
     },
-    `gatsby-transformer-sharp`,
-    `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
@@ -69,9 +87,23 @@ module.exports = {
         icon: `content/assets/gatsby-icon.png`,
       },
     },
-    `gatsby-plugin-react-helmet`,
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
-    // `gatsby-plugin-offline`,
+    {
+      resolve: `gatsby-plugin-prefetch-google-fonts`,
+      options: {
+        fonts: [
+          {
+            family: `Arima Madurai`,
+            variants: [`100`],
+          },
+          {
+            family: `Abel`
+          },
+          {
+            family: `Open Sans`,
+            variants: [`400`, `700`]
+          },
+        ],
+      },
+    },
   ],
 }

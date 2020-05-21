@@ -1,0 +1,6 @@
+// Override Bootstrap variables
+$theme-colors: (
+  "primary": #677b8c,
+);
+
+@import "~bootstrap/scss/bootstrap";
