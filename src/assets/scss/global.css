@@ -8,6 +8,11 @@ Error: File to import not found or unreadable: ~bootstrap/scss/bootstrap.
 4: );
 5: 
 6: @import "~bootstrap/scss/bootstrap";
+7: 
+8: ::-moz-selection { /* Code for Firefox *\/
+9:   color: white;
+10:   background: #eff1f3;
+11: }
 
 Backtrace:
 global.scss:6
@@ -48,4 +53,4 @@ C:/Ruby26-x64/bin/sass:23:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: ~bootstrap/scss/bootstrap.\A         on line 6 of global.scss\A \A 1: // Override Bootstrap variables\A 2: $theme-colors: (\A 3:   \"primary\": #677b8c,\A 4: );\A 5: \A 6: @import \"~bootstrap/scss/bootstrap\";"; }
+  content: "Error: File to import not found or unreadable: ~bootstrap/scss/bootstrap.\A         on line 6 of global.scss\A \A 1: // Override Bootstrap variables\A 2: $theme-colors: (\A 3:   \"primary\": #677b8c,\A 4: );\A 5: \A 6: @import \"~bootstrap/scss/bootstrap\";\A 7: \A 8: ::-moz-selection { /* Code for Firefox */\A 9:   color: white;\A 10:   background: #eff1f3;\A 11: }"; }

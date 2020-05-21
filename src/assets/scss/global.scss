@@ -4,3 +4,13 @@ $theme-colors: (
 );
 
 @import "~bootstrap/scss/bootstrap";
+
+::-moz-selection { /* Code for Firefox */
+  color: white;
+  background: #eff1f3;
+}
+
+::selection {
+  color: white;
+  background: #eff1f3;
+}
