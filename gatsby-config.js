@@ -35,8 +35,8 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/blog`,
-        name: `blog`,
+        path: `${__dirname}/content/posts`,
+        name: `posts`,
       },
     },
     {
@@ -94,13 +94,6 @@ module.exports = {
           {
             family: `Arima Madurai`,
             variants: [`100`],
-          },
-          {
-            family: `Abel`
-          },
-          {
-            family: `Open Sans`,
-            variants: [`400`, `700`]
           },
         ],
       },
