@@ -1,8 +1,31 @@
 import React from "react"
-import Sidebar from "../components/sidebar/sidebar"
+import { Menu } from "../components/sidebar/sidebar"
+import { graphql, useStaticQuery } from "gatsby"
+import Layout from "../components/layout/layout"
 
 const Homepage = (): JSX.Element => {
-  return (<Sidebar/>);
+  const data = useStaticQuery(graphql`
+    query {
+      site {
+        siteMetadata {
+          menu {
+            label
+            path
+          }
+        }
+      }
+    }
+  `);
+
+  const homePath = data.site.siteMetadata.menu.find((menuItem: Menu) => {
+    return menuItem.label === "Home";
+  }).path;
+
+  return (
+    <Layout activePath={homePath}>
+      <div>fdsa</div>
+    </Layout>
+    );
 };
 
 export default Homepage;

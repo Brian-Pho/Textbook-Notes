@@ -6,12 +6,16 @@ import { faGithub } from '@fortawesome/free-brands-svg-icons'
 import { faMoon } from "@fortawesome/free-solid-svg-icons"
 import "./sidebar.scss"
 
-interface Menu {
+export interface Menu {
   label: string,
   path: string,
 }
 
-const Sidebar = (): JSX.Element => {
+interface SidebarProps {
+  activePage: string;
+}
+
+const Sidebar = (props: SidebarProps): JSX.Element => {
   const data = useStaticQuery(graphql`
     query {
       site {
@@ -34,25 +38,27 @@ const Sidebar = (): JSX.Element => {
   const { title, description, menu, author } = data.site.siteMetadata;
 
   return (
-    <div className="sidebar d-flex flex-column justify-content-end
-      position-fixed h-100 p-4">
+    <div className="sidebar col-md-3 col-12 d-flex flex-column
+      justify-content-end position-sticky p-4">
       <div className="header">
         <Link className="site-title" to="/">{title}</Link>
         <div className="site-desc mb-4">{description}</div>
       </div>
       <div className="menu">
-        <Nav variant="pills" defaultActiveKey="/" className="flex-column">
+        <Nav variant="pills" defaultActiveKey={props.activePage} className="flex-column">
           {menu.map((item: Menu, index: number) => {
             return (
             <Nav.Link href={item.path} key={index} className="mt-2 mb-2">{item.label}</Nav.Link>);
           })}
         </Nav>
       </div>
-      <div className="buttons mt-2 mb-2">
+      <div className="buttons d-flex justify-content-center mt-4 mb-4">
         <FontAwesomeIcon icon={faMoon} />
-        <a href={`https://github.com/${author.github}`}>
-          <FontAwesomeIcon icon={faGithub} />
-        </a>
+        <FontAwesomeIcon icon={faGithub} />
+
+        {/*<a href={`https://github.com/${author.github}`}>*/}
+        {/*  <FontAwesomeIcon icon={faGithub} />*/}
+        {/*</a>*/}
       </div>
     </div>
   );
