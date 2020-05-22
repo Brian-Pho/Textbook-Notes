@@ -14,16 +14,18 @@ const Notes = (): JSX.Element => {
         }
       }
     }
-  `);
+  `)
 
   const notesPath = data.site.siteMetadata.menu.find((menuItem: Menu) => {
-    return menuItem.label === "Notes";
-  }).path;
+    return menuItem.label === "Notes"
+  }).path
 
-  return (<div>
-    <Sidebar activePage={notesPath}/>
-    <h1>Notes</h1>
-  </div>);
-};
+  return (
+    <div>
+      <Sidebar activePage={notesPath} />
+      <h1>Notes</h1>
+    </div>
+  )
+}
 
-export default Notes;
+export default Notes
