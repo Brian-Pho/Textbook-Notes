@@ -1,10 +1,27 @@
 import React from "react"
 import { graphql, Link, useStaticQuery } from "gatsby"
-
 import "./postList.scss"
 
+interface PostNode {
+  allMarkdownRemark: {
+    edges: {
+      node: {
+        excerpt: string
+        fields: {
+          slug: string
+        }
+        frontmatter: {
+          date: string
+          title: string
+          description: string
+        }
+      }
+    }[]
+  }
+}
+
 const PostList = () => {
-  const data = useStaticQuery(graphql`
+  const data: PostNode = useStaticQuery(graphql`
     query {
       allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
         edges {

@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAAA,OAAQ;EACN,aAAa,EAAE,iBAAiB",
+"mappings": "AAAA,OAAQ;EACN,aAAa,EAAE,iBAAiB;;AAGlC,EAAG;EACD,WAAW,EAAE,GAAG",
 "sources": ["postList.scss"],
 "names": [],
 "file": "postList.css"
