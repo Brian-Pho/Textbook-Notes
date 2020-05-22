@@ -9,20 +9,20 @@ module.exports = {
     siteUrl: `https://brianpho.com/CR4-DL/`,
     menu: [
       {
-        label: 'Home',
-        path: '/',
+        label: "Home",
+        path: "/",
       },
       {
-        label: 'Notes',
-        path: '/notes/',
+        label: "Notes",
+        path: "/notes/",
       },
       {
-        label: 'Timeline',
-        path: '/timeline/',
+        label: "Timeline",
+        path: "/timeline/",
       },
       {
-        label: 'About',
-        path: '/about/',
+        label: "About",
+        path: "/about/",
       },
     ],
   },
@@ -65,10 +65,10 @@ module.exports = {
           {
             resolve: `gatsby-remark-katex`,
             options: {
-              // Add any KaTeX options from https://github.com/KaTeX/KaTeX/blob/master/docs/options.md here
-              strict: `ignore`
-            }
+              strict: `ignore`,
+            },
           },
+          `gatsby-remark-autolink-headers`,
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
