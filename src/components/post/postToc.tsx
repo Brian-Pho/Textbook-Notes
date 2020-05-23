@@ -1,16 +1,33 @@
 import React from "react"
 import "./postToc.scss"
 import Col from "react-bootstrap/Col"
+import Nav from "react-bootstrap/Nav"
 
-const PostToc = () => {
+interface PostTocProps {
+  toc: string
+  headings: {
+    id: string
+    value: string
+  }[]
+}
+
+const PostToc = ({ toc, headings }: PostTocProps) => {
+  // const tocWithoutUl = toc.substring(5, toc.length - 6)
+  // const headingsId = headings.map(({ id }) => {
+  //   return id
+  // })
+  // console.log(tocWithoutUl)
+
   return (
-    <Col xl={2} className="js-toc position-sticky pt-5">
-      <link
-        rel="stylesheet"
-        href="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.css"
+    <Col
+      xl={3}
+      className="post-toc position-sticky d-flex flex-column justify-content-start pt-5"
+    >
+      <h5 className="toc-header">Contents</h5>
+      <Nav
+        className="bs-docs-sidebar"
+        dangerouslySetInnerHTML={{ __html: toc }}
       />
-      <script src="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.1/dist/bootstrap-toc.min.js"></script>
-      <nav id="toc" data-toggle="toc"></nav>
     </Col>
   )
 }

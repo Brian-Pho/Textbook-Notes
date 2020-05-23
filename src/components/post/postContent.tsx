@@ -15,8 +15,8 @@ interface PostContentProps {
 
 const PostContent = ({ post }: PostContentProps) => {
   return (
-    <Col xl={7} md={9} xs={12}>
-      <article className="p-5 js-toc-content">
+    <Col xl={6} md={9} xs={12} className="p-5">
+      <article>
         <header>
           <h1>{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>

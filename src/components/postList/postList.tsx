@@ -1,6 +1,7 @@
 import React from "react"
 import { graphql, Link, useStaticQuery } from "gatsby"
 import "./postList.scss"
+import Col from "react-bootstrap/Col"
 
 interface PostNode {
   allMarkdownRemark: {
@@ -44,7 +45,7 @@ const PostList = () => {
   const posts = data.allMarkdownRemark.edges
 
   return (
-    <div className="post-list col-md-9 col-12 d-flex flex-column p-4">
+    <Col md={6} xs={12} className="post-list p-4">
       {posts.map(({ node }) => {
         const title = node.frontmatter.title
 
@@ -62,7 +63,7 @@ const PostList = () => {
           </article>
         )
       })}
-    </div>
+    </Col>
   )
 }
 

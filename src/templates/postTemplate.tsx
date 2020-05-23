@@ -1,12 +1,26 @@
 import React from "react"
-import { graphql, Link } from "gatsby"
+import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
 import PostContent from "../components/post/postContent"
 import PostToc from "../components/post/postToc"
 
 interface PostTemplateProps {
   data: {
-    markdownRemark: any
+    markdownRemark: {
+      id: string
+      excerpt: string
+      html: string
+      tableOfContents: string
+      frontmatter: {
+        title: string
+        date: string
+        description: string
+      }
+      headings: {
+        id: string
+        value: string
+      }[]
+    }
   }
   pageContext: any
 }
@@ -18,7 +32,7 @@ const PostTemplate = ({ data, pageContext }: PostTemplateProps) => {
   return (
     <Layout activePath="/notes/">
       <PostContent post={post} />
-      <PostToc />
+      <PostToc toc={post.tableOfContents} headings={post.headings} />
     </Layout>
   )
 }
@@ -36,10 +50,15 @@ export const pageQuery = graphql`
       id
       excerpt(pruneLength: 160)
       html
+      tableOfContents(absolute: false)
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
         description
+      }
+      headings {
+        id
+        value
       }
     }
   }
