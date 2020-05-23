@@ -12,12 +12,6 @@ interface PostTocProps {
 }
 
 const PostToc = ({ toc, headings }: PostTocProps) => {
-  // const tocWithoutUl = toc.substring(5, toc.length - 6)
-  // const headingsId = headings.map(({ id }) => {
-  //   return id
-  // })
-  // console.log(tocWithoutUl)
-
   return (
     <Col
       xl={3}

@@ -6,61 +6,23 @@
 
 .toc-header {
   color: #677b8c;
-  padding-left: 20px;
 }
 
 .bs-docs-sidebar ul {
   list-style: none;
-  margin: 0;
+  padding-inline-start: 20px;
+}
+
+.bs-docs-sidebar > ul {
   padding: 0;
 }
 
-/* all links */
-.bs-docs-sidebar li a {
-  color: #677b8c;
-  border-left: 2px solid transparent;
-  padding: 4px 20px;
+.bs-docs-sidebar a {
   font-size: 13px;
   font-weight: 400;
 }
 
-/* nested links */
-.bs-docs-sidebar i a {
-  padding-top: 1px;
-  padding-bottom: 1px;
-  padding-left: 30px;
-  font-size: 12px;
-}
-
-/* active & hover links */
-.bs-docs-sidebar .active a,
 .bs-docs-sidebar a:hover,
 .bs-docs-sidebar a:focus {
-  //color: #43515d;
-  //border-left-color: #43515d;
-  color: #475460;
-  border-left-color: #475460;
-  text-decoration: none;
-  background-color: transparent;
+  font-weight: 600;
 }
-/* all active links */
-.bs-docs-sidebar .active a,
-.bs-docs-sidebar .active a:hover,
-.bs-docs-sidebar .active a:focus {
-  font-weight: 700;
-}
-/* nested active links */
-.bs-docs-sidebar .active a,
-.bs-docs-sidebar .active a:hover,
-.bs-docs-sidebar .active a:focus {
-  font-weight: 500;
-}
-
-///* hide inactive nested list */
-//.bs-docs-sidebar ul {
-//  display: none;
-//}
-///* show active nested list */
-//.bs-docs-sidebar .active u {
-//  display: block;
-//}

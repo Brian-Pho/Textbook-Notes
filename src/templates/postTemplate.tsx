@@ -32,7 +32,9 @@ const PostTemplate = ({ data, pageContext }: PostTemplateProps) => {
   return (
     <Layout activePage="Notes">
       <PostContent post={post} />
-      <PostToc toc={post.tableOfContents} headings={post.headings} />
+      {post.tableOfContents ? (
+        <PostToc toc={post.tableOfContents} headings={post.headings} />
+      ) : null}
     </Layout>
   )
 }
