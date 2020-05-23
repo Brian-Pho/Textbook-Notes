@@ -46,7 +46,8 @@
     "eslint": "^7.0.0",
     "eslint-plugin-react": "^7.20.0",
     "gh-pages": "^2.2.0",
-    "prettier": "2.0.5"
+    "prettier": "2.0.5",
+    "typescript": "3.9.3"
   },
   "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
   "keywords": [
