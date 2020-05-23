@@ -30,7 +30,7 @@ const PostTemplate = ({ data, pageContext }: PostTemplateProps) => {
   const { previous, next } = pageContext
 
   return (
-    <Layout activePath="/notes/">
+    <Layout activePage="Notes">
       <PostContent post={post} />
       <PostToc toc={post.tableOfContents} headings={post.headings} />
     </Layout>

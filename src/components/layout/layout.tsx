@@ -1,18 +1,38 @@
 import React from "react"
 import Container from "react-bootstrap/Container"
 import Row from "react-bootstrap/Row"
-import Sidebar from "../sidebar/sidebar"
+import Sidebar, { Menu } from "../sidebar/sidebar"
+import { graphql, useStaticQuery } from "gatsby"
 
 interface LayoutProps {
-  activePath: string
+  activePage: string
   children: any
 }
 
-const Layout = ({ activePath, children }: LayoutProps): JSX.Element => {
+const Layout = ({ activePage, children }: LayoutProps): JSX.Element => {
+  const data = useStaticQuery(graphql`
+    query {
+      site {
+        siteMetadata {
+          menu {
+            label
+            path
+          }
+        }
+      }
+    }
+  `)
+
+  const activePageData = data.site.siteMetadata.menu.find((menuItem: Menu) => {
+    return menuItem.label === activePage
+  })
+
+  const activePagePath = activePageData === undefined ? "" : activePageData.path
+
   return (
     <Container fluid>
       <Row className="flex-xl-nowrap">
-        <Sidebar activePage={activePath} />
+        <Sidebar activePage={activePagePath} />
         {children}
       </Row>
     </Container>

@@ -53,5 +53,4 @@ C:/Ruby26-x64/bin/sass:23:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: 'Error: File to import not found or unreadable: ~bootstrap/scss/bootstrap.\A         on line 6 of global.scss\A \A 1: // Override Bootstrap variables\A 2: $theme-colors: (\A 3:   "primary": #677b8c,\A 4: );\A 5: \A 6: @import "~bootstrap/scss/bootstrap";\A 7: \A 8: // Override text selection color\A 9: ::-moz-selection {\A 10:   /* Code for Firefox */\A 11:   color: white;';
-}
+  content: "Error: File to import not found or unreadable: ~bootstrap/scss/bootstrap.\A         on line 6 of global.scss\A \A 1: // Override Bootstrap variables\A 2: $theme-colors: (\A 3:   \"primary\": #677b8c,\A 4: );\A 5: \A 6: @import \"~bootstrap/scss/bootstrap\";\A 7: \A 8: // Override text selection color\A 9: ::-moz-selection {\A 10:   /* Code for Firefox */\A 11:   color: white;"; }
