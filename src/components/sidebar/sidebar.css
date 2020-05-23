@@ -1,25 +1,18 @@
 .sidebar {
   background-color: #eff1f3;
   height: 100vh;
-  top: 0;
-}
+  top: 0; }
 
 .site-title {
   font-size: 5.3em;
   font-family: "Arima Madurai", sans-serif;
   font-weight: 100;
-  font-style: normal;
-}
+  font-style: normal; }
 
 .site-desc {
   font-size: 1.5em;
   font-weight: 300;
   font-style: normal;
-  color: #606770;
-}
-
-a:hover {
-  text-decoration: none;
-}
+  color: #606770; }
 
 /*# sourceMappingURL=sidebar.css.map */
