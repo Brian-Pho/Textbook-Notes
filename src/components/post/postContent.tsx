@@ -15,8 +15,8 @@ interface PostContentProps {
 
 const PostContent = ({ post }: PostContentProps) => {
   return (
-    <Col xl={6} md={9} xs={12} className="p-5">
-      <article>
+    <Col xl={6} md={9} xs={12} className="p-4">
+      <article className="p-4">
         <header>
           <h1>{post.frontmatter.title}</h1>
           <p>{post.frontmatter.date}</p>

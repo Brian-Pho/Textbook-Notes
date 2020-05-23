@@ -21,13 +21,15 @@ const PostToc = ({ toc, headings }: PostTocProps) => {
   return (
     <Col
       xl={3}
-      className="post-toc position-sticky d-flex flex-column justify-content-start pt-5"
+      className="post-toc position-sticky d-flex flex-column justify-content-start p-4"
     >
-      <h5 className="toc-header">Contents</h5>
-      <Nav
-        className="bs-docs-sidebar"
-        dangerouslySetInnerHTML={{ __html: toc }}
-      />
+      <div className="p-4">
+        <h5 className="toc-header">Contents</h5>
+        <Nav
+          className="bs-docs-sidebar"
+          dangerouslySetInnerHTML={{ __html: toc }}
+        />
+      </div>
     </Col>
   )
 }
