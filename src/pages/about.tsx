@@ -2,7 +2,7 @@ import React from "react"
 import Layout from "../components/layout/layout"
 import Col from "react-bootstrap/Col"
 
-const About = (): JSX.Element => {
+const About = () => {
   return (
     <Layout activePage="About">
       <Col md={6} xs={12} className="p-4">

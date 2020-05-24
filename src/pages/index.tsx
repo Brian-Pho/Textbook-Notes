@@ -2,7 +2,7 @@ import React from "react"
 import Layout from "../components/layout/layout"
 import PostList from "../components/postList/postList"
 
-const Homepage = (): JSX.Element => {
+const Homepage = () => {
   return (
     <Layout activePage="Home">
       <PostList />

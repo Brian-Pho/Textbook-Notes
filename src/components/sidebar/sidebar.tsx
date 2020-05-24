@@ -1,9 +1,9 @@
 import React from "react"
-import { Link, graphql, useStaticQuery } from "gatsby"
+import { graphql, Link, useStaticQuery } from "gatsby"
 import Nav from "react-bootstrap/Nav"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faGithub } from "@fortawesome/free-brands-svg-icons"
-import { faMoon, faAt } from "@fortawesome/free-solid-svg-icons"
+import { faAt, faMoon } from "@fortawesome/free-solid-svg-icons"
 import "./sidebar.scss"
 import Col from "react-bootstrap/Col"
 
@@ -18,7 +18,7 @@ interface SidebarProps {
   activePage: string
 }
 
-const Sidebar = (props: SidebarProps): JSX.Element => {
+const Sidebar = (props: SidebarProps) => {
   const data = useStaticQuery(graphql`
     query {
       site {

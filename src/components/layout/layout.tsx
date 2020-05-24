@@ -9,7 +9,7 @@ interface LayoutProps {
   children: any
 }
 
-const Layout = ({ activePage, children }: LayoutProps): JSX.Element => {
+const Layout = ({ activePage, children }: LayoutProps) => {
   const data = useStaticQuery(graphql`
     query {
       site {
