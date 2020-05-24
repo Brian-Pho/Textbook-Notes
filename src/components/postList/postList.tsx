@@ -3,7 +3,7 @@ import { graphql, Link, useStaticQuery } from "gatsby"
 import "./postList.scss"
 import Col from "react-bootstrap/Col"
 
-interface PostNode {
+interface PostListDataType {
   allMarkdownRemark: {
     edges: {
       node: {
@@ -22,7 +22,7 @@ interface PostNode {
 }
 
 const PostList = () => {
-  const data: PostNode = useStaticQuery(graphql`
+  const data: PostListDataType = useStaticQuery(graphql`
     query {
       allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
         edges {
@@ -32,8 +32,8 @@ const PostList = () => {
               slug
             }
             frontmatter {
-              date(formatString: "MMMM D, YYYY")
               title
+              date(formatString: "MMMM D, YYYY")
               description
             }
           }
