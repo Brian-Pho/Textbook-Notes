@@ -14,7 +14,7 @@ interface PostTemplateProps {
       frontmatter: {
         title: string
         date: string
-        description: string
+        categories: string[]
       }
       headings: {
         id: string
@@ -31,7 +31,7 @@ const PostTemplate = ({ data, pageContext }: PostTemplateProps) => {
 
   return (
     <Layout activePage="Notes">
-      <PostContent post={post} />
+      <PostContent post={post} previous={previous} next={next} />
       {post.tableOfContents ? (
         <PostToc toc={post.tableOfContents} headings={post.headings} />
       ) : null}
@@ -51,7 +51,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
-        description
+        categories
       }
       headings {
         id
