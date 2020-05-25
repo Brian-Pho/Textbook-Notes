@@ -25,7 +25,10 @@ interface PostListDataType {
 const PostList = () => {
   const data: PostListDataType = useStaticQuery(graphql`
     query {
-      allMarkdownRemark(sort: { fields: [frontmatter___date], order: DESC }) {
+      allMarkdownRemark(
+        filter: { frontmatter: { layout: { eq: "post" } } }
+        sort: { fields: [frontmatter___date], order: DESC }
+      ) {
         edges {
           node {
             excerpt
@@ -59,10 +62,12 @@ const PostList = () => {
                 __html: node.frontmatter.excerpt || node.excerpt,
               }}
             />
-            <small>
-              {node.frontmatter.date} &sdot;{" "}
-              {node.frontmatter.categories.join(", ")}
-            </small>
+            {node.frontmatter.date && node.frontmatter.categories ? (
+              <small>
+                {node.frontmatter.date} &sdot;{" "}
+                {node.frontmatter.categories.join(" ")}
+              </small>
+            ) : null}
           </article>
         )
       })}

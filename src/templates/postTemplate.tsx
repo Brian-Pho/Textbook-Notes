@@ -7,8 +7,6 @@ import PostToc from "../components/post/postToc"
 interface PostTemplateProps {
   data: {
     markdownRemark: {
-      id: string
-      excerpt: string
       html: string
       tableOfContents: string
       frontmatter: {

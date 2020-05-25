@@ -15,6 +15,7 @@ const PostToc = ({ toc, headings }: PostTocProps) => {
   return (
     <Col
       xl={3}
+      xs={0}
       className="post-toc position-sticky d-flex flex-column justify-content-start p-4"
     >
       <div className="p-4">

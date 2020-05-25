@@ -8,12 +8,12 @@ interface PostContentProps {
   post: {
     frontmatter: {
       title: string
-      date: string
-      categories: string[]
+      date?: string
+      categories?: string[]
     }
     html: string
   }
-  previous: {
+  previous?: {
     fields: {
       slug: string
     }
@@ -21,7 +21,7 @@ interface PostContentProps {
       title: string
     }
   }
-  next: {
+  next?: {
     fields: {
       slug: string
     }
@@ -37,10 +37,12 @@ const PostContent = ({ post, previous, next }: PostContentProps) => {
       <article className="p-4">
         <header>
           <h1>{post.frontmatter.title}</h1>
-          <p>
-            {post.frontmatter.date} &sdot;{" "}
-            {post.frontmatter.categories.join(", ")}
-          </p>
+          {post.frontmatter.date && post.frontmatter.categories ? (
+            <p>
+              {post.frontmatter.date} &sdot;{" "}
+              {post.frontmatter.categories.join(" ")}
+            </p>
+          ) : null}
         </header>
         <section dangerouslySetInnerHTML={{ __html: post.html }} />
       </article>

@@ -9,7 +9,7 @@ interface PostNavButtonProps {
 }
 
 interface PostNavProps {
-  previous: {
+  previous?: {
     fields: {
       slug: string
     }
@@ -17,7 +17,7 @@ interface PostNavProps {
       title: string
     }
   }
-  next: {
+  next?: {
     fields: {
       slug: string
     }
