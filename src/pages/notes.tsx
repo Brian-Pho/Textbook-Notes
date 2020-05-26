@@ -61,6 +61,7 @@ const Notes = () => {
     if (!post.node.frontmatter.categories) {
       continue
     }
+
     for (const postCategory of post.node.frontmatter.categories) {
       let defaultCategory = "Other"
       const filteredPosts = categoryToPost.get(postCategory)

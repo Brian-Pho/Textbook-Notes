@@ -12,8 +12,8 @@ interface PostListDataType {
           slug: string
         }
         frontmatter: {
-          date: string
           title: string
+          date: string
           excerpt: string
           categories: string[]
         }
