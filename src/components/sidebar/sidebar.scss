@@ -1,20 +1,35 @@
+@import "../../assets/scss/global";
+
 .sidebar {
-  background-color: #eff1f3;
-  height: 100vh;
-  //max-width: 330px;
   top: 0;
+  z-index: $zindex-sticky;
+  background-color: theme-color("sidebar");
+
+  @include media-breakpoint-up(md) {
+    height: 100vh;
+    justify-content: flex-end;
+  }
 }
 
-.site-title {
-  font-size: 5.3em;
+.navbar-brand {
   font-family: "Arima Madurai", sans-serif;
-  font-weight: 100;
   font-style: normal;
+  font-weight: bold;
+
+  @include media-breakpoint-up(md) {
+    font-size: 4.45vw;
+    font-weight: 100;
+  }
 }
 
-.site-desc {
-  font-size: 1.5em;
+.navbar-text {
+  font-size: 1.25vw;
   font-weight: 300;
   font-style: normal;
   color: #606770;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+  padding-right: 1rem;
+  padding-left: 1rem;
 }

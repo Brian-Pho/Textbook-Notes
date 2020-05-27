@@ -1,7 +1,7 @@
 import React from "react"
 import Container from "react-bootstrap/Container"
 import Row from "react-bootstrap/Row"
-import Sidebar, { Menu } from "../sidebar/sidebar"
+import Sidebar, { NavItem } from "../sidebar/sidebar"
 import { graphql, useStaticQuery } from "gatsby"
 
 interface LayoutProps {
@@ -23,9 +23,11 @@ const Layout = ({ activePage, children }: LayoutProps) => {
     }
   `)
 
-  const activePageData = data.site.siteMetadata.menu.find((menuItem: Menu) => {
-    return menuItem.label === activePage
-  })
+  const activePageData = data.site.siteMetadata.menu.find(
+    (menuItem: NavItem) => {
+      return menuItem.label === activePage
+    }
+  )
 
   const activePagePath = activePageData === undefined ? "" : activePageData.path
 
