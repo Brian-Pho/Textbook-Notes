@@ -40,7 +40,7 @@ const PostNavButton = ({ link, smallText, postTitle }: PostNavButtonProps) => {
 
 const PostNav = ({ previous, next }: PostNavProps) => {
   return (
-    <ButtonGroup className="w-100 p-4">
+    <ButtonGroup className="w-100 pt-2 pb-2">
       {previous ? (
         <PostNavButton
           link={previous.fields.slug}

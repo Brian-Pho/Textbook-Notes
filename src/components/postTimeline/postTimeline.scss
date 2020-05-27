@@ -7,7 +7,6 @@
 
 .timeline {
   display: table; //*For Firefox
-  height: 100%;
   &:after {
     content: '';
     width: 2px;

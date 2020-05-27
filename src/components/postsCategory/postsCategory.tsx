@@ -21,7 +21,7 @@ const PostsCategory = ({ posts }: PostsCategoryProps) => {
   const totalCount = posts.length
 
   return (
-    <div className="p-4">
+    <div className="p-2 p-md-4">
       <h5>
         {totalCount} {totalCount === 1 ? "Post" : "Posts"}
       </h5>

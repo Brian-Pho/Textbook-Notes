@@ -1,41 +1,21 @@
 /*
-Error: File to import not found or unreadable: ~bootstrap/scss/bootstrap.
-        on line 7 of ../../assets/scss/global.scss
-        from line 1 of sidebar.scss
+Error: File to import not found or unreadable: ~bootstrap/scss/functions.
+        on line 1 of sidebar.scss
 
-2: 
-3: .sidebar {
-4:   top: 0;
-5:   z-index: $zindex-sticky;
-6:   background-color: theme-color("sidebar");
-7: 
-8:   @include media-breakpoint-up(md) {
-9:     height: 100vh;
-10:     justify-content: flex-end;
-11:   }
-12: }
+1: @import "~bootstrap/scss/functions";
+2: @import "~bootstrap/scss/variables";
+3: @import "~bootstrap/scss/mixins";
+4: 
+5: $theme-colors: (
+6:   "sidebar": #eff1f3,
 
 Backtrace:
-../../assets/scss/global.scss:7
 sidebar.scss:1
 C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/import_node.rb:67:in `rescue in import'
 C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/import_node.rb:44:in `import'
 C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/import_node.rb:28:in `imported_file'
 C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/import_node.rb:37:in `css_import?'
 C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:310:in `visit_import'
-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:36:in `visit'
-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:158:in `block in visit'
-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/stack.rb:79:in `block in with_base'
-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/stack.rb:135:in `with_frame'
-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/stack.rb:79:in `with_base'
-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:158:in `visit'
-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:325:in `block (2 levels) in visit_import'
-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:325:in `map'
-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:325:in `block in visit_import'
-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/stack.rb:88:in `block in with_import'
-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/stack.rb:135:in `with_frame'
-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/stack.rb:88:in `with_import'
-C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:322:in `visit_import'
 C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/base.rb:36:in `visit'
 C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/visitors/perform.rb:158:in `block in visit'
 C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/stack.rb:79:in `block in with_base'
@@ -68,4 +48,4 @@ C:/Ruby26-x64/bin/sass:23:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: ~bootstrap/scss/bootstrap.\A         on line 7 of ../../assets/scss/global.scss\A         from line 1 of sidebar.scss\A \A 2: \A 3: .sidebar {\A 4:   top: 0;\A 5:   z-index: $zindex-sticky;\A 6:   background-color: theme-color(\"sidebar\");\A 7: \A 8:   @include media-breakpoint-up(md) {\A 9:     height: 100vh;\A 10:     justify-content: flex-end;\A 11:   }\A 12: }"; }
+  content: "Error: File to import not found or unreadable: ~bootstrap/scss/functions.\A         on line 1 of sidebar.scss\A \A 1: @import \"~bootstrap/scss/functions\";\A 2: @import \"~bootstrap/scss/variables\";\A 3: @import \"~bootstrap/scss/mixins\";\A 4: \A 5: $theme-colors: (\A 6:   \"sidebar\": #eff1f3,"; }

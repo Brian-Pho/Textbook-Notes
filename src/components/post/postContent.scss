@@ -1,5 +1,15 @@
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
 section {
   h2, h3, h4, h5 {
     margin-top: 1rem;
+  }
+
+  ul {
+    @include media-breakpoint-down(md) {
+      padding-inline-start: 20px;
+    }
   }
 }

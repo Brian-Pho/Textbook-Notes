@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AACE,8CAAe;EACb,UAAU,EAAE,IAAI",
+"mappings": "AAGE,8CAAe;EACb,UAAU,EAAE,IAAI",
 "sources": ["postContent.scss"],
 "names": [],
 "file": "postContent.css"

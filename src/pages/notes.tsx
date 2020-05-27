@@ -75,30 +75,28 @@ const Notes = () => {
 
   return (
     <Layout activePage="Notes">
-      <Col xl={6} md={9} xs={12} className="p-4">
-        <div className="p-4">
-          <h1>Notes</h1>
-          <Tab.Container defaultActiveKey={NOTE_CATEGORIES[0]}>
-            <Nav justify variant="pills">
-              {NOTE_CATEGORIES.map((category, index) => {
-                return (
-                  <Nav.Item key={index}>
-                    <Nav.Link eventKey={category}>{category}</Nav.Link>
-                  </Nav.Item>
-                )
-              })}
-            </Nav>
-            <Tab.Content>
-              {NOTE_CATEGORIES.map((category, index) => {
-                return (
-                  <Tab.Pane key={index} eventKey={category}>
-                    <PostsCategory posts={categoryToPost.get(category)} />
-                  </Tab.Pane>
-                )
-              })}
-            </Tab.Content>
-          </Tab.Container>
-        </div>
+      <Col xl={6} md={9} xs={12} className="p-md-4 p-xl-5">
+        <h1>Notes</h1>
+        <Tab.Container defaultActiveKey={NOTE_CATEGORIES[0]}>
+          <Nav justify variant="pills">
+            {NOTE_CATEGORIES.map((category, index) => {
+              return (
+                <Nav.Item key={index}>
+                  <Nav.Link eventKey={category}>{category}</Nav.Link>
+                </Nav.Item>
+              )
+            })}
+          </Nav>
+          <Tab.Content>
+            {NOTE_CATEGORIES.map((category, index) => {
+              return (
+                <Tab.Pane key={index} eventKey={category}>
+                  <PostsCategory posts={categoryToPost.get(category)} />
+                </Tab.Pane>
+              )
+            })}
+          </Tab.Content>
+        </Tab.Container>
       </Col>
     </Layout>
   )

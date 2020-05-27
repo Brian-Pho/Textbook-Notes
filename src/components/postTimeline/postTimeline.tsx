@@ -102,7 +102,7 @@ const PostTimeline = () => {
   }
 
   return (
-    <div className="timeline position-relative h-100 m-4">
+    <div className="timeline position-relative m-2 m-md-4">
       {years.map((year, index) => {
         return <Year year={year} posts={yearToPost.get(year)} key={index} />
       })}

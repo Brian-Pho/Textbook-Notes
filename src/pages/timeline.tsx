@@ -6,11 +6,9 @@ import PostTimeline from "../components/postTimeline/postTimeline"
 const Timeline = () => {
   return (
     <Layout activePage="Timeline">
-      <Col md={6} xs={12} className="p-4">
-        <div className="p-4">
-          <h1>Timeline</h1>
-          <PostTimeline />
-        </div>
+      <Col md={6} xs={12} className="p-md-4 p-xl-5">
+        <h1>Timeline</h1>
+        <PostTimeline />
       </Col>
     </Layout>
   )

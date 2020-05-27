@@ -50,10 +50,10 @@ const PostList = () => {
   const posts = data.allMarkdownRemark.edges
 
   return (
-    <Col md={6} xs={12} className="post-list p-4">
+    <Col md={6} xs={12} className="post-list p-md-4">
       {posts.map(({ node }) => {
         return (
-          <article key={node.fields.slug} className="p-4">
+          <article key={node.fields.slug} className="p-2 p-md-4">
             <h3>
               <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
             </h3>

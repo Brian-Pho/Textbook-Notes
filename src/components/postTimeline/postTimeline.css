@@ -1,7 +1,6 @@
 @charset "UTF-8";
 .timeline {
-  display: table;
-  height: 100%; }
+  display: table; }
   .timeline:after {
     content: '';
     width: 2px;

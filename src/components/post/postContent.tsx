@@ -33,19 +33,17 @@ interface PostContentProps {
 
 const PostContent = ({ post, previous, next }: PostContentProps) => {
   return (
-    <Col xl={6} md={9} xs={12} className="p-4">
-      <article className="p-4">
-        <header>
-          <h1>{post.frontmatter.title}</h1>
-          {post.frontmatter.date && post.frontmatter.categories ? (
-            <p>
-              {post.frontmatter.date} &sdot;{" "}
-              {post.frontmatter.categories.join(" ")}
-            </p>
-          ) : null}
-        </header>
-        <section dangerouslySetInnerHTML={{ __html: post.html }} />
-      </article>
+    <Col xl={6} md={9} xs={12} className="p-md-4 p-xl-5">
+      <header>
+        <h1>{post.frontmatter.title}</h1>
+        {post.frontmatter.date && post.frontmatter.categories ? (
+          <p>
+            {post.frontmatter.date} &sdot;{" "}
+            {post.frontmatter.categories.join(" ")}
+          </p>
+        ) : null}
+      </header>
+      <section dangerouslySetInnerHTML={{ __html: post.html }} />
       <PostNav previous={previous} next={next} />
     </Col>
   )

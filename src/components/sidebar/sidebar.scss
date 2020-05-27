@@ -1,4 +1,10 @@
-@import "../../assets/scss/global";
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
+$theme-colors: (
+  "sidebar": #eff1f3,
+);
 
 .sidebar {
   top: 0;
