@@ -72,6 +72,7 @@ const Sidebar = (props: SidebarProps) => {
       <Navbar
         className="align-items-start flex-md-column w-100 p-md-0"
         expand="md"
+        // @ts-ignore
         variant="none"
         bg="sidebar"
       >

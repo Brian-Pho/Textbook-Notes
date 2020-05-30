@@ -6,7 +6,7 @@ import { graphql, useStaticQuery } from "gatsby"
 
 interface LayoutProps {
   activePage: string
-  children: JSX.Element
+  children: any
 }
 
 const Layout = ({ activePage, children }: LayoutProps) => {
