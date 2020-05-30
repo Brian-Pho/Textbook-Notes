@@ -6,18 +6,19 @@ import PostContent from "../components/post/postContent"
 
 interface AboutType {
   markdownRemark: {
+    html: string
+    timeToRead: number
+    tableOfContents: string
     frontmatter: {
       title: string
     }
     fields: {
       slug: string
     }
-    tableOfContents: string
     headings: {
       id: string
       value: string
     }[]
-    html: string
   }
 }
 
@@ -27,11 +28,12 @@ const About = () => {
       markdownRemark(
         frontmatter: { layout: { eq: "page" }, title: { eq: "About" } }
       ) {
+        html
+        tableOfContents
+        timeToRead
         frontmatter {
           title
         }
-        html
-        tableOfContents
         headings {
           id
           value

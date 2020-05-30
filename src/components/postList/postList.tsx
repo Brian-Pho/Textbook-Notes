@@ -8,6 +8,7 @@ interface PostListDataType {
     edges: {
       node: {
         excerpt: string
+        timeToRead: number
         fields: {
           slug: string
         }
@@ -41,6 +42,7 @@ const PostList = () => {
               excerpt
               categories
             }
+            timeToRead
           }
         }
       }
@@ -64,7 +66,7 @@ const PostList = () => {
             />
             {node.frontmatter.date && node.frontmatter.categories ? (
               <small>
-                {node.frontmatter.date} &sdot;{" "}
+                {node.frontmatter.date} &sdot; {node.timeToRead} min read &sdot;{" "}
                 {node.frontmatter.categories.join(" ")}
               </small>
             ) : null}

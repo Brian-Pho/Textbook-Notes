@@ -9,6 +9,7 @@ interface PostTemplateProps {
     markdownRemark: {
       html: string
       tableOfContents: string
+      timeToRead: number
       frontmatter: {
         title: string
         date: string
@@ -42,10 +43,9 @@ export default PostTemplate
 export const pageQuery = graphql`
   query PostBySlug($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
-      id
-      excerpt(pruneLength: 160)
       html
       tableOfContents(absolute: false)
+      timeToRead
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")

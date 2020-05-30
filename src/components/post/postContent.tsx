@@ -6,12 +6,13 @@ import PostNav from "./postNav"
 
 interface PostContentProps {
   post: {
+    html: string
+    timeToRead: number
     frontmatter: {
       title: string
       date?: string
       categories?: string[]
     }
-    html: string
   }
   previous?: {
     fields: {
@@ -38,7 +39,7 @@ const PostContent = ({ post, previous, next }: PostContentProps) => {
         <h1>{post.frontmatter.title}</h1>
         {post.frontmatter.date && post.frontmatter.categories ? (
           <p>
-            {post.frontmatter.date} &sdot;{" "}
+            {post.frontmatter.date} &sdot; {post.timeToRead} min read &sdot;{" "}
             {post.frontmatter.categories.join(" ")}
           </p>
         ) : null}
