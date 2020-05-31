@@ -38,10 +38,10 @@ const PostContent = ({ post, previous, next }: PostContentProps) => {
       <header>
         <h1>{post.frontmatter.title}</h1>
         {post.frontmatter.date && post.frontmatter.categories ? (
-          <p>
+          <small className="post-meta">
             {post.frontmatter.date} &sdot; {post.timeToRead} min read &sdot;{" "}
             {post.frontmatter.categories.join(" ")}
-          </p>
+          </small>
         ) : null}
       </header>
       <section dangerouslySetInnerHTML={{ __html: post.html }} />

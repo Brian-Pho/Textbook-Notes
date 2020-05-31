@@ -1,10 +1,11 @@
 import React from "react"
-import { graphql, Link, useStaticQuery } from "gatsby"
+import { Link } from "gatsby"
 import "./postList.scss"
 import Col from "react-bootstrap/Col"
+import Pagination from "react-bootstrap/Pagination"
 
-interface PostListDataType {
-  allMarkdownRemark: {
+export interface PostListDataType {
+  postList: {
     edges: {
       node: {
         excerpt: string
@@ -21,58 +22,61 @@ interface PostListDataType {
       }
     }[]
   }
+  currPage: number
+  numPages: number
 }
 
-const PostList = () => {
-  const data: PostListDataType = useStaticQuery(graphql`
-    query {
-      allMarkdownRemark(
-        filter: { frontmatter: { layout: { eq: "post" } } }
-        sort: { fields: [frontmatter___date], order: DESC }
-      ) {
-        edges {
-          node {
-            excerpt
-            fields {
-              slug
-            }
-            frontmatter {
-              title
-              date(formatString: "MMMM D, YYYY")
-              excerpt
-              categories
-            }
-            timeToRead
-          }
-        }
-      }
-    }
-  `)
-
-  const posts = data.allMarkdownRemark.edges
+const PostList = ({ postList, currPage, numPages }: PostListDataType) => {
+  const posts = postList.edges
+  const isFirstPage = currPage === 1
+  const isLastPage = currPage === numPages
+  const firstPage = `/`
+  const lastPage = `${numPages}`
+  const prevPage = currPage - 1 === 1 ? "/" : `${currPage - 1}`
+  const nextPage = `${currPage + 1}`
 
   return (
     <Col md={6} xs={12} className="post-list p-md-4">
       {posts.map(({ node }) => {
+        const post = node
         return (
-          <article key={node.fields.slug} className="p-2 p-md-4">
+          <article key={post.fields.slug} className="p-2 p-md-4">
             <h3>
-              <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
+              <Link to={post.fields.slug}>{post.frontmatter.title}</Link>
             </h3>
             <p
               dangerouslySetInnerHTML={{
-                __html: node.frontmatter.excerpt || node.excerpt,
+                __html: post.frontmatter.excerpt || post.excerpt,
               }}
             />
-            {node.frontmatter.date && node.frontmatter.categories ? (
-              <small>
-                {node.frontmatter.date} &sdot; {node.timeToRead} min read &sdot;{" "}
-                {node.frontmatter.categories.join(" ")}
+            {post.frontmatter.date && post.frontmatter.categories ? (
+              <small className="post-meta">
+                {post.frontmatter.date} &sdot; {post.timeToRead} min read &sdot;{" "}
+                {post.frontmatter.categories.join(" ")}
               </small>
             ) : null}
           </article>
         )
       })}
+      <Pagination className="p-2 p-md-4 mb-0 justify-content-center">
+        {!isFirstPage ? (
+          <>
+            <Pagination.First href={firstPage} />
+            <Pagination.Prev href={prevPage} />
+            <Pagination.Item href={prevPage}>
+              {prevPage === firstPage ? "1" : prevPage}
+            </Pagination.Item>
+          </>
+        ) : null}
+        <Pagination.Item active>{currPage}</Pagination.Item>
+        {!isLastPage ? (
+          <>
+            <Pagination.Item href={nextPage}>{nextPage}</Pagination.Item>
+            <Pagination.Next href={nextPage} />
+            <Pagination.Last href={lastPage} />
+          </>
+        ) : null}
+      </Pagination>
     </Col>
   )
 }
