@@ -29,7 +29,9 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 - [x] Update favicon
 - [ ] Implement dark mode
 - [ ] Merge repo
-- [ ] Clean up types
+- [ ] Clean up types in codebase
+- [ ] Clean up codebase
+- [ ] Add comments to codebase
 - [ ] Go through Gatsby performance <https://www.gatsbyjs.org/docs/performance/>
 - [ ] Move notes over
 - [ ] Paginate homepage
