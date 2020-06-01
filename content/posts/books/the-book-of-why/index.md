@@ -24,7 +24,7 @@ excerpt: "An introduction to the new science of causality."
 - Counterfactuals may seem unscientific because of the lack of evidence but people commonly perform this type of reasoning.
 - E.g. If the rooster is silent, we know the Sun will still rise. The rooster doesn’t cause the sun to rise, but rather the other way around.
 - You can't answer a question that you can't ask, and you can't ask a question that you have no words for.
-![Figure 1]({{ "/assets/books/the-book-of-why/figure1.png" | absolute_url }})
+![Figure 1](figure1.png)
 - We think of a cause as something that makes a difference, and the difference it makes must be a difference from what would have happened without it.
 - Summary of the book’s message: you are smarter than your data.
 
@@ -55,7 +55,7 @@ excerpt: "An introduction to the new science of causality."
     1. Association
     2. Intervention
     3. Counterfactuals
-![Figure 1.2]({{ "/assets/books/the-book-of-why/figure1-2.png" | absolute_url }})
+![Figure 1.2](figure1-2.png)
 - The three levels reminds me of how science, specifically neuroscience, has progressed. From data, to hypotheses, to theories.
 - We say one event is associated with another if observing one changes the chance of observing the other.
 - E.g. "How likely is a customer who bought toothpaste to also buy floss?"
@@ -76,10 +76,10 @@ excerpt: "An introduction to the new science of causality."
 - AI has contributed the phrase "Representation first, acquisition second."
 - Humans must have some compact representation of the information needed in their brains because we can answer causal questions.
 - The author believes the representation is a causal diagram.
-![Figure 1.4]({{ "/assets/books/the-book-of-why/figure1-4.png" | absolute_url }})
+![Figure 1.4](figure1-4.png)
 - Each variable represents either true or false and we can use the diagram to backtrack and answer questions.
 - The difference between observing an event and making it happen.
-![Figure 1.5]({{ "/assets/books/the-book-of-why/figure1-5.png" | absolute_url }})
+![Figure 1.5](figure1-5.png)
 - E.g. If we see A shoot, then we can deduce that B shot too. But if A decides to shoot, then the opposite is true.
 - This is the difference between seeing and doing.
 - We can leave the mathematical details out of the diagram because the structure of the diagram itself enables us to estimate all sorts of causal relationships.
@@ -95,7 +95,7 @@ excerpt: "An introduction to the new science of causality."
 ## Chapter 2: From Buccaneers to Guinea Pigs: The Genesis of Causal Inference
 
 - Where regression to the mean is concerned, there is no difference between cause and effect.
-![Figure 2.4]({{ "/assets/books/the-book-of-why/figure2-4.png" | absolute_url }})
+![Figure 2.4](figure2-4.png)
 - Story of Pearson and how correlation came to dominate statistics.
 - The next story is about how Wright connected correlations (rung one) to hidden causal quantities (rung two).
 - Wright connected them using a method called path analysis.
@@ -109,7 +109,7 @@ excerpt: "An introduction to the new science of causality."
 ## Chapter 3: From Evidence to Causes: Reverend Bayes Meets Mr. Holmes
 
 - A causal diagram is a Bayesian network in which every arrow signifies a direct causal relation.
-![Figure 3.2]({{ "/assets/books/the-book-of-why/figure3-2.png" | absolute_url }})
+![Figure 3.2](figure3-2.png)
 - Bayes rule let's us inverse probabilities, to find causes from effects.
 - E.g. Say we have a pool table of length L and we want to know the probability that a ball stops within x feet of the end. The intuitive probability is x / L.
 - However, what if we asked the reverse. Say the ball lands 1 foot from the end of the table (x = 1), then what is the probability that L is 100 feet?
@@ -139,16 +139,16 @@ excerpt: "An introduction to the new science of causality."
 ## Chapter 4: Confounding and Deconfounding: Or, Slaying the Lurking Variable
 
 - Confounding bias: when a variable influences both the cause and the effect.
-![Figure 4.1]({{ "/assets/books/the-book-of-why/figure4-1.png" | absolute_url }})
+![Figure 4.1](figure4-1.png)
 - Randomized controlled trial (RCT): an experiment where the group is randomly split into a test group and control group.
 - The whole art and practice of scientific experimentation is comprised in the skillful interrogation of Nature.
 - Nature is like a genie that answers exactly the question we pose and not necessarily the one we intend to ask.
 - RCTs bring two benefits
   - It eliminates confounded bias by asking Nature the right question.
   - It enables researchers to quantify uncertainty.
-![Figure 4.4]({{ "/assets/books/the-book-of-why/figure4-4.png" | absolute_url }})
-![Figure 4.5]({{ "/assets/books/the-book-of-why/figure4-5.png" | absolute_url }})
-![Figure 4.6]({{ "/assets/books/the-book-of-why/figure4-6.png" | absolute_url }})
+![Figure 4.4](figure4-4.png)
+![Figure 4.5](figure4-5.png)
+![Figure 4.6](figure4-6.png)
 - Randomization is a way of simulating Model 2.
 - However, there are other ways of simulating Model 2.
 - One way is to measure and adjust for all confounded variables but this is difficult.
@@ -164,7 +164,7 @@ excerpt: "An introduction to the new science of causality."
 - The low birth weight babies of smoking mothers had a better survival rate than those of non smokers.
 - However, the actual causal chain is: Smoking → Birth Weight ← Birth Defect → Mortality.
 - This path is non-causal because one of the arrows is the wrong way.
-![Figure 5.4]({{ "/assets/books/the-book-of-why/figure5-4.png" | absolute_url }})
+![Figure 5.4](figure5-4.png)
 - This is a case of the collider bias.
 
 ## Chapter 6: Paradoxes Galore!
@@ -178,14 +178,14 @@ excerpt: "An introduction to the new science of causality."
 - E.g. Have you noticed that among the people you date, the attractive ones tend to be jerks? That's because you'll date a mean attractive person, a nice unattractive person, and a nice attractive person, but not a mean unattractive person.
 - By self-selecting for what you want, you’ve introduced an implicit correlation.
 - Bad-Bad-Good Drug (BBG): a paradox where a drug is bad for one group, bad for another group, but is good for a combination of the groups.
-![Figure 6.6]({{ "/assets/books/the-book-of-why/figure6-6.png" | absolute_url }})
+![Figure 6.6](figure6-6.png)
 
 ## Chapter 7: Beyond Adjustment: The Conquest of Mount Intervention
 
 - The author details the attempts to replace the do operator and it’s possible under three conditions.
 - Randomization is a great way to ensure that a variable isn't affected by any confounders.
 - Introducing the idea of instrumental variables.
-![Figure 7.11]({{ "/assets/books/the-book-of-why/figure7-11.png" | absolute_url }})
+![Figure 7.11](figure7-11.png)
 - Monotonicity: there isn't a case where Z is 0 and X is 1 aka someone that obtained the drug but wasn't assigned it.
 
 ## Chapter 8: Counterfactuals: Mining Worlds That Could Have Been
@@ -206,7 +206,7 @@ excerpt: "An introduction to the new science of causality."
 - Humans make counterfactual judgments without much issue. We can even treat them as if they exist by envisioning possible worlds in which they are true.
 - Envisioning possible worlds is a capability that has gone unnoticed by people.
 - The following is an example of how counterfactuals compare to statistics, of structural causal modelling vs model-free.
-![Table 8.1]({{ "/assets/books/the-book-of-why/table8-1.png" | absolute_url }})
+![Table 8.1](table8-1.png)
 - The goal is to fill in the “?” cells which ask if that person had a different level of education, what would their salary have been?
 - Model-free approaches
   - Matching on experience and extrapolating
@@ -216,7 +216,7 @@ excerpt: "An introduction to the new science of causality."
 - Model-driven approach
   - The first key point is that experience depends on education since time spent on education is time not spent gaining experience.
   - The table doesn't capture this data so we start with a causal diagram.
-![Figure 8.3]({{ "/assets/books/the-book-of-why/figure8-3.png" | absolute_url }})
+![Figure 8.3](figure8-3.png)
   - If experience was a cause of education, then experience would be a confounder and matching based on experience would be valid.
   - But the diagram shows experience as a mediator so we must not adjust it.
   - Don't mistake a mediator for a confounder.

@@ -158,7 +158,7 @@ excerpt: "An amazing and scientific account of consciousness."
 - Seems like the cerebral cortex is a collection of tools for CC to use but doesn't depend on such as language and memory.
 - CC only requires very brief, short term memory.
 - Planning requires the intelligent manipulation of memories.
-![Figure 4.2]({{ "/assets/books/the-feeling-of-what-happens/figure4-2.png" | absolute_url }})
+![Figure 4.2](figure4-2.png)
 - High-level awareness of social situations is built on a vast knowledge of specific social situations.
 - The case of David supports two results
   - That factual knowledge at a unique and specific level isn't a prerequisite for CC.
@@ -271,7 +271,7 @@ excerpt: "An amazing and scientific account of consciousness."
 - Requirements for a second-order region
   - Must receive signals from whole-organism maps and object-maps.
   - Must be able to exert influence on first-order maps so that enhancement and coherence of object images can occur.
-![Figure 6.2]({{ "/assets/books/the-feeling-of-what-happens/figure6-2.png" | absolute_url }})
+![Figure 6.2](figure6-2.png)
 - Contenders for second-order structures
   - Superior colliculi
   - Cingulate cortex
@@ -371,7 +371,7 @@ excerpt: "An amazing and scientific account of consciousness."
   5. Bilateral damage to early sensory cortices shouldn't impair CC.
 - Coma is caused by damage to a small part of the brain stem.
 - Locked-in syndrome: when a patient cannot move anything but their eyes and to blink.
-![Figure 8.2]({{ "/assets/books/the-feeling-of-what-happens/figure8-2.png" | absolute_url }})
+![Figure 8.2](figure8-2.png)
 - The presence of consciousness depends on the integrity of the brain stem.
 - The reticular formation exerts a powerful influence over the cerebral cortex.
 - Certain patterns of firing from the reticular formation result in the awake state or in the sleep state.
@@ -379,7 +379,7 @@ excerpt: "An amazing and scientific account of consciousness."
 - Why is it that only damage to a particular area of the reticular formation, from the upper pons and upwards, cause loss of consciousness while damage to the rest doesn't affect awareness?
 - The division of damage to the reticular formation that affects consciousness is clear.
 - The boundary lies at the level of the trigeminal nerve.
-![Figure 8.3]({{ "/assets/books/the-feeling-of-what-happens/figure8-3.png" | absolute_url }})
+![Figure 8.3](figure8-3.png)
 - The structures of the reticular formation of the upper pons and mid brain are linked to the protoself and are simultaneously engaged in the processes of wakefulness, homeostatic regulation, emotion and feeling, attention, and consciousness.
 - The structures supporting CC are the cingulate gyrus, thalamic nuclei, and superior colliculi.
 - Structures whose damage doesn't affect CC are the hippocampus, the higher-order cortices  of temporal and frontal lobes, and the early sensory cortices  of vision and hearing.
@@ -429,7 +429,7 @@ excerpt: "An amazing and scientific account of consciousness."
 - As a consequence, will we eventually be able to gain access to each other's mental experiences?
 - The author believes no.
 - Explaining how to make something mental is different from making that something mental.
-![Figure 10.1]({{ "/assets/books/the-feeling-of-what-happens/figure10-1.png" | absolute_url }})
+![Figure 10.1](figure10-1.png)
 - The distinction between consciousness and conscience.
 
 ## Chapter 11: Under the Light

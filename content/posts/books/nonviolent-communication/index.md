@@ -67,7 +67,7 @@ excerpt: "How to communicate with people."
 - The key is to stick to facts, to view the other people from impartial eyes, and to stick to specific evidence.
 - Speaking by separating seeing from judging is the highest form of honesty, to speak about what we see and how we see it.
 - E.g. "John is ugly" to "John's looks don't appeal to me."
-![Observation vs Evaluation]({{ "/assets/books/nonviolent-communication/obs-vs-eval.png" | absolute_url }})
+![Observation vs Evaluation](obs-vs-eval.png)
 
 ## Chapter 4: Identifying and Expressing Feelings
 
@@ -87,7 +87,7 @@ excerpt: "How to communicate with people."
 - We also need to distinguish between how we think others react or behave towards us and what we feel.
 - E.g. "I feel unimportant/misunderstood/ignored. "
 - To be more clear about our feelings, it's better to be precise about what exactly that we're feeling.
-![Feelings Wheel]({{ "/assets/books/nonviolent-communication/feelings-wheel.jpg" | absolute_url }})
+![Emotion Word Wheel](emotion-word-wheel.png)
 
 ## Chapter 5: Taking Responsibility for Our Feelings
 
@@ -306,4 +306,4 @@ excerpt: "How to communicate with people."
 - Receive appreciation by hearing their feelings and the needs that were fulfilled.
 - Paradoxically, despite our unease in receiving appreciation, most of us desire to be genuinely recognized and appreciated.
 - We tend to notice what's wrong rather than what's right.
-![NVC Process Summary]({{ "/assets/books/nonviolent-communication/nvc-process.png" | absolute_url }})
+![NVC Process Summary](nvc-process.png)

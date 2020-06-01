@@ -21,7 +21,7 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 - The cerebral cortex is responsible for finding patterns, reasoning, developing technology, and more.
 - We're neither special nor extraordinary in terms of evolution, but we're remarkable in terms of our cognitive abilities.
 - Brain anatomy background
-![Brain Anatomy]({{ "/assets/books/the-human-advantage/brain-anatomy.png" | absolute_url }})
+![Brain Anatomy](brain-anatomy.png)
 
 ## Chapter 1: Humans Rule!
 
@@ -34,7 +34,7 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 - The history and development of the brain parallels the history of rocks in that new layers build upon the previous layers; the cumulative development of evolution.
 - The most recent layer of the human brain, the telencephalon, makes up almost 85% of our brain's mass.
 - However, this layering idea is wrong as mammals didn't evolve from birds or reptiles; it just evolved along a different evolutionary path.
-![Figure 1.4]({{ "/assets/books/the-human-advantage/figure1-4.png" | absolute_url }})
+![Figure 1.4](figure1-4.png)
 - Species don't always progress into more complex life-forms as they evolve.
 - Evolution isn't progress but simply change over time.
 - *Haller's rule*: that larger animals have larger brains.
@@ -80,7 +80,7 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 - The running theory at the time was that two brains of a similar size should always be made of a similar numbers of neurons.
 - Overall, the more neurons a brain has, the larger that brain is.
 - Use a log-log graph to make the smallest values appear more separated.
-![Figure 4.3]({{ "/assets/books/the-human-advantage/figure4-3.png" | absolute_url }})
+![Figure 4.3](figure4-3.png)
 - The brain mass in primates scales linearly with the number of neurons in the brain.
 - E.g. A ten times increase in the number of neurons in a primate brain leads to a ten times increase in its brain mass. $$10^{1} = 10$$.
 - However, rodents brain mass scales at 1.6 times the number of neurons.
@@ -92,15 +92,15 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 - The result that “not all brains are made the same” is significant because now we can't compare them and thus their cognitive abilities.
 - It's like apples and oranges but with rodents and primates.
 - All non-primate animals also follow the rodents rate of brain mass growth.
-![Figure 4.8]({{ "/assets/books/the-human-advantage/figure4-8.png" | absolute_url }})
+![Figure 4.8](figure4-8.png)
 - This suggests that primates diverged from the ancestral scaling rules that all other animals follow.
-![Figure 4.9]({{ "/assets/books/the-human-advantage/figure4-9.png" | absolute_url }})
+![Figure 4.9](figure4-9.png)
 - There isn't a single, universal relationship between the mass of brain structures and their number of neurons.
 - Since the distribution of non-neuronal cells is uniform across structures and species, it must be that the number of neurons changes when the brain is scaled.
 - Since the brain's mass and number of neurons scales linearly, we conclude that the average size of the neuron must stay the same.
 - The neuronal density for primates stays the same while it decreases for non-primates.
 - Primate neurons stopped growing as their brains grew.
-![Figure 4.13]({{ "/assets/books/the-human-advantage/figure4-13.png" | absolute_url }})
+![Figure 4.13](figure4-13.png)
 - Non-primates must have a mechanism that couples increases in the number of neurons in the cerebral cortex with increases in the average size of these neurons.
 - Interestingly, the mouse lemur sits at the intersection of primate and non-primate brains.
 - The implications of primate scaling
@@ -119,7 +119,7 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 - E.g. The cerebellum doesn't have a corpus callosum.
 - Differences in form are related to differences in function.
 - The difference in scaling quickly leads to a massive number of neurons in primate brains.
-![Figure 4.15]({{ "/assets/books/the-human-advantage/figure4-15.png" | absolute_url }})
+![Figure 4.15](figure4-15.png)
 
 ## Chapter 5: Remarkable, but Not Extraordinary
 
@@ -127,12 +127,12 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 - The development of the primate brain is more economical in terms of volume.
 - Reminds me of big-O notation in how to characterize growth.
 - In the context of primates, our brains fit the expected line of brain mass to brain neuron ratio.
-![Figure 5.1]({{ "/assets/books/the-human-advantage/figure5-1.png" | absolute_url }})
+![Figure 5.1](figure5-1.png)
 - Even our cerebral cortex and cerebellum does.
 - Our brain is made in the image of other primates and follows the same neuronal scaling rules that applied to primates before us.
 - The human brain is just a scaled up primate brain, remarkable but not special.
 - Human brains are just the size we expect them to be.
-![Figure 5.5]({{ "/assets/books/the-human-advantage/figure5-5.png" | absolute_url }})
+![Figure 5.5](figure5-5.png)
 - Does this remarkable, but not extraordinary, number of neurons in the human brain really provide a basis for our outstanding cognitive abilities?
 
 ## Chapter 6: The Elephant in the Room
@@ -145,19 +145,19 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 - One possible reason for the large number of cerebellum neurons is because the elephant’s trunk requires a lot of processing and control.
 - Since the large number of cerebellum neurons in the elephant doesn't result in superior cognitive abilities, we conclude that the cerebral cortex is responsible.
 - The human advantage lies in having the largest number of neurons in the cerebral cortex.
-![Figure 6.6]({{ "/assets/books/the-human-advantage/figure6-6.png" | absolute_url }})
+![Figure 6.6](figure6-6.png)
 
 ## Chapter 7: What Cortical Expansion?
 
 - The cerebral cortex has undergone both an absolute and relative expansion compared to non-primates.
-![Figure 7.2]({{ "/assets/books/the-human-advantage/figure7-2.png" | absolute_url }})
+![Figure 7.2](figure7-2.png)
 - Since the cerebral cortex has taken over more functions, it’s more capable of complex and flexible functions and behaviors beyond simply operating the body.
 - Cortical expansion in mammals has been about relative and overall mass but not about relative neurons.
-![Figure 7.3]({{ "/assets/books/the-human-advantage/figure7-3.png" | absolute_url }})
+![Figure 7.3](figure7-3.png)
 - How can the cerebral cortex gain more mass yet not as many neurons?
 - Another part of the brain must be gaining those neurons without the mass.
 - That other part is the cerebellum.
-![Figure 7.4]({{ "/assets/books/the-human-advantage/figure7-4.png" | absolute_url }})
+![Figure 7.4](figure7-4.png)
 - For every neuron gained in the cerebral cortex, four neurons are gained in the cerebellum.
 - This suggests that the cerebral cortex isn't about taking over the cerebellum but that they scale together.
 - This still leaves the cause of our cognitive abilities to the sheer number of cerebral cortex neurons in the brain.
@@ -191,14 +191,14 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 - This is counterintuitive since human neurons should consume more energy than a mouse neuron.
 - We look towards glia/glial cells as a possible explanation as they help neurons.
 - There is no trend for larger brains to have larger and larger proportions of glia cells than neurons.
-![Figure 9.2]({{ "/assets/books/the-human-advantage/figure9-2.png" | absolute_url }})
+![Figure 9.2](figure9-2.png)
 - Humans have a one to one ratio for neurons to glia cells.
 - In each brain structure, there also isn't any trend.
-![Figure 9.3]({{ "/assets/books/the-human-advantage/figure9-3.png" | absolute_url }})
+![Figure 9.3](figure9-3.png)
 - However, there is a linear relationship between glia cells and the mass of the brain structure.
 - Glia cells must be doing something so sensitive and so important that the number of them added to the brain has remained the same over the at least the last 300 million years of evolution.
 - The glia/neuron ratio increases with decreasing neuronal density because larger neurons require more support.
-![Figure 9.7]({{ "/assets/books/the-human-advantage/figure9-7.png" | absolute_url }})
+![Figure 9.7](figure9-7.png)
 - The lower the neuron density, the larger the average size of neurons in the tissue and the higher the glia/neuron ratio in that tissue.
 - It's extraordinary how some biology doesn't change much in evolution even though evolution means change.
 - If it doesn't change, for example the glia/neuron ratio per neuronal density, then it suggests two kinds of constraint.
@@ -215,9 +215,9 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 - Repolarization requires energy as it's just like a pump pushing the water back uphill and into the dam.
 - To grow a larger brain is more expensive than to grow a larger body.
 - Larger neurons (within each neuronal type) don't cost more energy.
-![Figure 9.10]({{ "/assets/books/the-human-advantage/figure9-10.png" | absolute_url }})
+![Figure 9.10](figure9-10.png)
 - The more neurons in a brain, the more energy that brain costs.
-![Figure 9.11]({{ "/assets/books/the-human-advantage/figure9-11.png" | absolute_url }})
+![Figure 9.11](figure9-11.png)
 - It's amazing how much we're able to do with a slight variation in energy used by neurons in the form of action potentials.
 - Even decreases of 1% in overall blood flow compromises brain function.
 - E.g. Standing up too quickly which causes black or dimmed vision.
@@ -235,7 +235,7 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
     - Trades synapses in one place for another. Like a zero-sum game.
 - The human brain requires so much energy because it has a lot of neurons.
 - The human brain uses 25% of our total energy because we have more brain neurons per body mass.
-![Figure 9.12]({{ "/assets/books/the-human-advantage/figure9-12.png" | absolute_url }})
+![Figure 9.12](figure9-12.png)
 
 ## Chapter 10: Brains or Brawn: You Can’t Have Both
 
@@ -255,7 +255,7 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 ## Chapter 11: Thank Cooking for Your Neurons
 
 - Given that we shouldn't be viable, how did our ancestors manage to afford the increasing numbers of neurons?
-![Figure 11.1]({{ "/assets/books/the-human-advantage/figure11-1.png" | absolute_url }})
+![Figure 11.1](figure11-1.png)
 - There are four ways to deal with the energy constraint
   - Decrease the size of the body
   - Decrease the energy cost of the brain
@@ -269,7 +269,7 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 - Long legs reduced the cost of walking which increased our endurance; allowing for active hunting in addition to foraging and feeding.
 - However, this didn't increase the number of neurons in our brains by much.
 - What did occur at the same time we see the explosion of neurons is the invention of cooking.
-![Figure 11.2]({{ "/assets/books/the-human-advantage/figure11-2.png" | absolute_url }})
+![Figure 11.2](figure11-2.png)
 - Specifically, cooking with fire.
 - *Cooking hypothesis*: that the invention of cooking by our ancestors resulted in food that offered the large caloric intake that allows our brain to grow.
 - We never diverged from the linear relationship that applies to primates; we just kept pushing it.

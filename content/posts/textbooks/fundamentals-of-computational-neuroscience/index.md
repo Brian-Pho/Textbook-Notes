@@ -14,11 +14,9 @@ excerpt: "An introduction to the field of computational neuroscience."
 - Textbook website: https://web.cs.dal.ca/~tt/fundamentals/
 - Computational neuroscience (CN): the theoretical study of the brain to uncover the principles and mechanisms behind the development, organization, information-processing, and mental abilities of the nervous system.
 - A major focus of CN is the development and evaluation of models.
-![](https://i.imgur.com/AYVhhem.png)
-
+![Figure 1.1](figure1-1.png)
 - The nervous system is separated into many different levels of organization to manage details (through abstraction) and to better organize our knowledge.
-![](https://i.imgur.com/u29JGf0.png)
-
+![Figure 1.2](figure1-2.png)
 - Networks of neurons have information-processing capabilities beyond that of single neurons such as representing information in a distributed way.
 - E.g. Edge detector network. A single neuron isn’t able to detect an edge but a group of neurons can.
 - Model: a simplification/abstraction of a system in order to test aspects of it or a hypothesis.
@@ -71,7 +69,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 - Potassium is concentrated inside the cell and sodium is concentrated outside the cell.
 - The resting potential of a neuron is typically close to -65 mV.
 - Ion channel: special types of proteins embedded into the cell membrane.
-![](https://i.imgur.com/TSx2ZiS.png)
+![Figure 2.2](figure2-2.png)
 - There are five main types of ion channels
     1. Leakage: always open
     2. Voltage-gated: depends on membrane potential
@@ -89,22 +87,22 @@ excerpt: "An introduction to the field of computational neuroscience."
   - $$\Delta V_{m}^{non-NMDA} = Ate^{-t/t^{peak}}$$
   - Describes the difference between the membrane potential and the resting potential as a function of time.
 - The alpha-function can be implemented with a basic model used to describe chemical synapses.
-![](https://i.imgur.com/VC52XXa.png)
+![Figure 2.5](figure2-5.png)
 - Using Kirchhoff’s law
   - $$c_{m}\frac{dV_{m}(t)}{dt} = -I$$
 - A differential equation describes the small change of a quantity (in this case voltage) with respect to time.
 - Solving a differential equation means to derive how that quantity changes over time.
-![](https://i.imgur.com/GfAknXr.png)
-![](https://i.imgur.com/vkW2Nkj.png)
+![Figure 2.6](figure2-6.png)
+![Figure 2.7](figure2-7.png)
 - Hodgkin and Huxley quantified the process of spike generation into a set of four coupled differential equations.
-![](https://i.imgur.com/ChGhlNp.png)
+![Figure 2.8](figure2-8.png)
 - Hodgkin-Huxley model
   - $$C \frac{dV}{dt} = -g_{K}n^{4}(V-E_{k})-g_{Na}m^{3}h(V-E_{Na})-g_{L}(V-E_{L}) + I(t)$$
   - $$\tau_{n}(V)\frac{dn}{dt} = -[n-n_{0}(V)]$$
   - $$\tau_{m}(V)\frac{dm}{dt} = -[m-m_{0}(V)]$$
   - $$\tau_{h}(V)\frac{dh}{dt} = -[h-h_{0}(V)]$$
 - The four equations describe how the activation of potassium channels, activation of sodium channels, inactivation of sodium channels, and the fact that neurons store electric charges, are related.
-- [INSERT FIGURE 2.10]
+![Figure 2.10](figure2-10.png)
 - Absolute refractory period: delay before another AP can be generated due to sodium channel inactivation.
 - The absolute refractory period limits the firing rates of neurons to a maximum of about 1000 Hz or 1 spike per millisecond.
 - Relative refractory period: delay before another AP can be generated due to hyperpolarizing AP.
@@ -122,12 +120,12 @@ excerpt: "An introduction to the field of computational neuroscience."
   - Fast spiking (FS)
   - Continuously spiking (CS)
   - Intrinsic bursting (IB)
-- [INSERT FIGURE 2.13]
+![Figure 2.13](figure2-13.png)
 - Spike rate adaptation/fatigue: reduction in firing rate after initial stimulation.
 - After-depolarizing potential (ADP): an increase in voltage after being depolarized similar to a reverberating effect.
 - To get a more complete and accurate model of neurons, we need to model the conductance properties and the physical shape of the neuron.
 - Introduction to the cable equation and the idea of turning a neuron in a chain/branch of compartments.
-- [INSERT FIGURE 2.15]
+![Figure 2.15](figure2-15.png)
 - Each compartment is governed by a cable equation for a finite cable and the potential is almost constant.
 - The compartmental model is used to turn the derivatives in the cable equation into differences. It converts a continuous model into a discrete one.
 - However, the trade-off is that you need more compartments to get a good approximation. In practice, they use a few hundred to several thousand compartments to represent single neurons accurately.
@@ -149,7 +147,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 - A crude approximation of real spike generation is to use a fixed threshold.
 - Actual thresholds vary as the HH equations show that the threshold depends on the form of current buildup.
 - Leaky integrate-and-fire-and-reset neuron (LIF): a model of a neuron that integrates external inputs and leaks current.
-- [INSERT FIG 3.1]
+![Figure 3.1](figure3-1.png)
 - In simulations, we’re mainly concerned about the sum of synaptic currents and this sum depends on the efficiency of individual synapses.
 - We describe this efficiency by a synaptic strength/weight value, $$w_j$$ where j is the index representing each presynaptic neuron.
 - We assume that there is no interaction between synapses so we can do a linear summation of the inputs.
@@ -159,7 +157,7 @@ excerpt: "An introduction to the field of computational neuroscience."
   - Doesn’t include the variety of response patterns seen in real neurons.
 - However, more realistic neuron models are more computationally demanding.
 - One model reaches a good tradeoff between computation and realism, the Izhikevich neuron model.
-- INSERT FIG 3.4
+![Figure 3.4](figure3-4.png)
 - We can modify the four parameters of the Izhikevich model to match different types of neural firing patterns.
 - One of the oldest and simplest neuron models is the McCulloch-Pitts (MCP) neuron. This model is used in artificial neural networks.
 - However, the MCP model is used to model the computational properties of neurons rather than the physical properties of neurons.
@@ -168,7 +166,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 - Single-cell recordings transmitted to a speaker sound very much like the irregular ticking of a Geiger counter when exposed to radioactive material.
 - Coefficient of variation (Cv): a measure of the variability of spike trains.
 - Real neurons have a Cv around 0.5 to 1 while an IF neuron has a Cv of 0.
-- INSERT FIG 3.5
+![Figure 3.5](figure3-5.png)
 - Spike trains are often generated using a Poisson process but a Poisson process has no memory of past events. This means that there’s an equal likelihood that the next spike occurs.
 - This isn’t realistic though as the refractory period makes it so that there isn’t an equal likelihood.
 - Another problem of modeling neurons is the inability to capture further details such as
@@ -180,27 +178,27 @@ excerpt: "An introduction to the field of computational neuroscience."
   - Stochastic threshold: replace the constant threshold with a noisy threshold.
   - Random reset: randomly reset the membrane potential.
   - Noisy integration: integration has an additional noisy variable.
-- INSERT FIG 3.6
+![Figure 3.6](figure3-6.png)
 - Neural code: correlations between sensory stimuli/behaviour and neural activity patterns.
 - The most robust finding is that the modulation of firing rate changes with sensory stimuli.
 - Number of spikes of a neuron often increases with increasing the strength of stimulus.
 - E.g. Increased firing rate with increasing weight on a frog muscle.
-- INSERT FIG 3.10
+![Figure 3.10](figure3-10.png)
 - Response/tuning curve: the response (firing rate) of a neuron to various stimuli.
 - Receptive field: the area in the physical world for which the neuron is responsive.
 - E.g. Neurons in the visual area responding to orientations of bars moved through the receptive field of the neuron.
-- INSERT FIG 3.11
+![Figure 3.11](figure3-11.png)
 - While firing rates are important, we shouldn’t forget that other parts of spike patterns can convey information too.
 - E.g. The integration of multiple neurons to encode information.
-- INSERT FIGURE 3.12
+![Figure 3.12](figure3-12.png)
 - We don’t see any significant variation of the firing rates in either neuron.
 - However, if we plot the probability of co-occurrence of spikes of the two neurons, we see that it captures the input.
 - This is a nice example of how behavioral correlates can only be seen in the correlation between the firing patterns of neurons.
 - The temporal proximity of spikes can make a difference in the information processing of the brain.
-- INSERT FIG 3.13
+![Figure 3.13](figure3-13.png)
 - It’s a widely held belief that neural spiking isn’t very reliable and that there’s a lot of variability in neuronal responses.
 - However, the data indicates that the initial response is reliable while it varies considerably afterwards.
-- INSERT FIG 3.14
+![Figure 3.14](figure3-14.png)
 - The data in Fig. 3.14 indicates that there might not be much information in the continuing firing pattern of the neuron due to the enormous variability.
 - Also, constant input is not realistic as neurons don’t receive nor send constant input current to other neurons.
 - If neurons are judged based on how well they convey changes in the stimulus, then populations of neurons are quite reliable.
@@ -213,10 +211,10 @@ excerpt: "An introduction to the field of computational neuroscience."
 - To describe the average behavior of a pool of neurons, we divide the pool into sub-pools of neurons of the same type.
 - However, one issue with using a population of neurons is that they don’t exactly model a group of neurons.
 - E.g. Population dynamics versus averaging over a population of neurons.
-- INSERT FIG 3.18
+![Figure 3.18](figure3-18.png)
 - Some neurons can respond quickly to input because there’s a subset of neurons that are close to threshold. So if an input is detected, the neurons can respond quickly.
 - The average firing rate determines the probability of having a spike in a small interval.
-- INSERT FIG 3.19
+![Figure 3.19](figure3-19.png)
 - Fig 3.19 shows examples of modulatory effects between synaptic inputs.
 
 ## Chapter 4: Associators and synaptic plasticity
@@ -243,12 +241,12 @@ excerpt: "An introduction to the field of computational neuroscience."
 - Another benefit of associative networks is that they model the graceful degradation seen in biological networks where the removal of synapses and neurons slowly degrades the networks performance.
 - Such fault tolerance is essential in biological systems.
 - Introduction to long-term potentiation (LTP) and long-term depression (LTD).
-- INSERT FIG 4.5
+![Figure 4.5](figure4-5.png)
 - The fraction of times that a post-synaptic event was observed can be equated with the probability of transmitter release.
-- INSERT FIG 4.6
+![Figure 4.6](figure4-6.png)
 - Introduction to spike-timing dependent plasticity (STDP).
 - STDP can be seen as a spike-based formulation of a Hebbian learning rule.
-- INSERT FIG 4.7
+![Figure 4.7](figure4-7.png)
 - Calcium hypothesis: the idea that high levels of calcium promote LTP where moderate levels of calcium promote LTD.
 - It’s hypothesized that NMDAR channels along with calcium provide the mechanisms for Hebbian learning.
 - It’s important to note that STDP only applies to isolated spike pairings. It doesn’t exactly apply to other cases of spiking such as multiple spikes or overlapping bursts.
@@ -258,7 +256,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 - Mixed population models: populations that contain both excitatory and inhibitory neurons.
 - Repeated application of additive association rules results in runaway synaptic values.
 - One way to solve this issue is to consider competitive synaptic scaling.
-- INSERT FIG 4.12
+![Figure 4.12](figure4-12.png)
 - We assume that learning is aimed at establishing correlations between input and output pattern, and learning should cease when this correlation is established.
 - So far, the biological mechanisms of synaptic scaling aren’t completely understood.
 
@@ -281,7 +279,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 - The idea of the thalamus as a relay station for sensory signals is too simplistic as there are many more back-projections from the cortex to the thalamus compared to the forward-projections.
 - People can perform object recognition in around 150 ms which is surprising since it takes each neuron around 10-20 ms to pass on its signal.
 - Introduction to the six layers of the neocortex and cortical columns.
-- INSERT FIG 5.5
+![Figure 5.5](figure5-5.png)
 - The distribution of neurons with specific response characteristics isn’t random but there seems to be some form of organization.
 - Cortical magnification: the over-representation of the central visual area compared to the peripheral visual area in the visual cortex.
 - E.g. In Fig 5.5, the center visual fields 1 and 2 are smaller than the other visual fields and yet they have the largest area in the visual cortex.
@@ -292,11 +290,11 @@ excerpt: "An introduction to the field of computational neuroscience."
 - Maybe the brain needed more area, more neocortex, to fit more functions.
 - It can be assumed that the white matter is the main pathway between remote cortical areas and thus for global information transmission.
 - While pyramidal cells in layers II and III seem to be the main pathway between adjacent cortical areas.
-- INSERT FIG 5.6
+![Figure 5.6](figure5-6.png)
 - It’s generally accepted that gross brain architecture is genetically coded while fine brain architecture is developed through experience and learning.
 - Synfire chains: information transmission in neuronal chains.
 - We start with a simple, linear chain of neurons.
-- INSERT FIG 5.8
+![Figure 5.8](figure5-8.png)
 - This simple chain isn’t biologically realistic because
   - A single spike isn’t sufficient to elicit a postsynaptic spike.
   - Synaptic transmission is lossy as synapses aren’t reliable.
@@ -339,7 +337,7 @@ excerpt: "An introduction to the field of computational neuroscience."
   - Neurons can represent features using tuning curves.
   - Features are organized topographically with similar features being represented in similar cortical tissue.
   - The primary visual cortex is organized with orientation tuning curves.
-- INSERT FIG 7.1
+![Figure 7.1](figure7-1.png)
 - Activity packet/bubble: how neighboring nodes are activated through lateral interaction.
 - Competition between features is often observed in physiological studies.
 - Topographic maps have two major characteristics
@@ -348,17 +346,17 @@ excerpt: "An introduction to the field of computational neuroscience."
 - The creation of such maps is experience dependent as shown by evidence that these maps can be disrupted in young animals by sensory deprivation.
 - Self-organizing maps (SOMs): maps that are activity-driven and are changed by experience.
 - We can model SOMs and train them to form topographical representations of the input.
-- INSERT FIG 7.4
+![Figure 7.4](figure7-4.png)
 - Plasticity-stability dilemma: the problem that every new training example changes the map, but we want to stabilize a map to be able to use it.
 - One way neural networks do this is to reduce the learning rate as training goes on.
 - However, this doesn’t match evidence that the brain still has the ability to adapt to changes later on in life.
 - One way to deal with the dilemma more realistically is to distort the SOM.
-- INSERT FIG 7.5
+![Figure 7.5](figure7-5.png)
 - If the simulations match reality, then we can conclude that
   - It seems best to be exposed to a broad feature space early in life as development of it later in life is difficult.
   - We can learn new examples later in training, but the fine details are not captured as clearly as the original examples.
 - Evidence of representational plasticity in adult mammals is shown in Fig 7.6.
-- INSERT FIG 7.6
+![Figure 7.6](figure7-6.png)
 - It shows that some goal-directed learning must take place for the SOM to be reorganized.
 - The brain seems to have an effective interaction structure of short-distance excitation and long-distance inhibition; a small-world network of many local connections and few long-distance connections.
 - Principle regimes of models with local cooperation and global competition
@@ -369,7 +367,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 - Is working memory implemented by ongoing firing in the brain?
 - Probably not, as a more common explanation is that working memory is sustained by lateral reverberating neural activity.
 - The DNF model captures this reverberation and can model working memory.
-- INSERT FIG 7.14
+![Figure 7.14](figure7-14.png)
 - The network self-organizes to reflect the dimensionality of the feature space.
 - It discovers the dimensionality of the underlying problem by activity dependent co-activation of neurons, aka Hebbian learning.
 - People have a sense of direction and it appears to be quite accurate.
@@ -382,7 +380,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 - Path integration is also the calculation of a new state representation from an initial state plus signals that represent the changes of the state.
 - Idiothetic cues: self-generated cues.
 - E.g. Inputs from the vestibular system.
-- INSERT FIG 7.19
+![Figure 7.19](figure7-19.png)
 - The key idea behind the model is that the rotation nodes can modulate the strength of the collateral connections between DNF nodes.
 - However, one issue with this model is how to make it a self-organizing system.
 - The key issue is that we need a learning rule that can associate the recent movement of the activity packet with the firing of the appropriate rotation node, we need a short-term memory.
@@ -401,7 +399,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 - Bayes’s theorem applies to decoding: $$P(s|r) = \frac{P(r|s)P(s)}{P(r)}$$.
 - However, we need some function to specify how likely a response is given a stimulus or $$P(r|s)$$.
 - Tuning curves are commonly used as the likelihood function.
-- INSERT FIG 7.22
+![Figure 7.22](figure7-22.png)
 - A single neuron can’t be used to decode a stimulus because the tuning curve has two intersection points for a single firing rate.
 - E.g. If a neuron is firing at 1 Hz, it can either be due to one direction or another direction since there are two intersection points.
 - However, we can resolve this ambiguity by using more neurons and thus more information to decode the firing rate.
@@ -409,7 +407,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 - Intuitively, we think that sharper tuning curves lead to more accurate decoding since a neuron only responds to a specific stimulus (local representation) but that isn’t the case.
 - Population vector decoding is summarized in this formula: $$s_{decoded} = \sum_{i}{r_{i}s_{i}^{preferred}}$$ where we multiply the firing rate of each neuron by its preferred direction and sum the contribution of all neurons.
 - However, since we’re using all neurons, this isn’t a sparse representation but rather a distributed representation.
-- INSERT FIG 7.23
+![Figure 7.23](figure7-23.png)
 - Another decoding scheme is to use DNFs which are biologically plausible and work for noisy population decoding.
 
 ## Chapter 8: Recurrent associative networks and episodic memory
@@ -423,8 +421,8 @@ excerpt: "An introduction to the field of computational neuroscience."
   - Perceptual (imagery)
   - Conditioning (if-then)
   - Non-associative (reflexes)
-- INSERT FIG 8.1
-- INSERT FIG 8.2
+![Figure 8.1](figure8-1.png)
+![Figure 8.2](figure8-2.png)
 - The networks considered in this chapter is shown in Fig. 8.2 and are called point attractor neural networks (PANNs) or attractor neural networks (ANNs) in contrast to continous attractor neural networks (CANNs).
 - Auto-associator: a network that feeds the output of each node to all other nodes in the network, thus the network can associate a pattern within itself.
 - We expect that the cycling in a recurrent network can enhance pattern completion ability.
@@ -443,7 +441,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 
 - Why is modular specialization used in the brain?
 - There are many different architectures for modular networks and one of them is the mixture of experts.
-- INSERT FIG 9.1
+![Figure 9.1](figure9-1.png)
 - The mixture of experts architecture divides the system into a module of experts, a gating network to control the output of the experts, and an integration network to combine the output of the experts.
 - This architecture use a divide-and-conquer strategy to solve a problem because it divides the input among experts and may require a complex merging strategy.
 - There’s also the problem of training the gating network, which is a form of the credit-assignment problem.
@@ -461,17 +459,17 @@ excerpt: "An introduction to the field of computational neuroscience."
     3. The capacity limit isn’t due to an increase in the number of decisions that have to be made.
 - One explanation for the limit on working memory is the spurious synchronization hypothesis.
 - Spurious synchronization hypothesis: the idea that different objects are represented by different synchronized spike trains, and that increasing the number of objects results in spurious synchronization between spike trains. At some point, the level of spurious synchronization becomes too large for the system to distinguish between objects.
-- INSERT FIG 9.9
+![Figure 9.9](figure9-9.png)
 - Reinforcement learning differs from supervised learning in that only a general feedback signal, like reward or punishment, is given.
 - For motor control, one source of feedback is proprioreceptive feedback or the position of our body.
 - Another source of feedback is visual signals. However, sensory feedback has to be converted into the right reference frame to be used by the motor system.
 - Conditioning: learning with reward signals.
 - Temporal credit assignment problem: the problem of associating an action with a future reward.
 - Neural mechanisms must be able to solve this problem as we have evidence of this from rodents.
-- INSERT FIG 9.14
+![Figure 9.14](figure9-14.png)
 - RL evaluation problem: how to estimate future rewards for a given state and action.
 - Temporal difference (TD) learning: a solution to the RL evalution problem.
-- INSERT FIG 9.15
+![Figure 9.15](figure9-15.png)
 - RL may be implemented in the basal ganglia using an actor-critic scheme. However, there have been criticisms and questions on the assumptions.
 
 ## Chapter 10: The cognitive brain
@@ -481,19 +479,19 @@ excerpt: "An introduction to the field of computational neuroscience."
 - Recognizing your hand doesn’t crucially depend on the viewing conditions.
 - We’ve seen that changes in the input vector for neural systems can result in very different activation patterns in the retina.
 - The problem is known as invariant object recognition and one solution is to use hierarchical networks.
-- INSERT FIG 10.1
+![Figure 10.1](figure10-1.png)
 - An essential rule of a hierarchical network is that each node is connected to a spatially restricted area of nodes in the layer below.
 - This allows nodes at the upper levels to have large receptive fields as they cover more nodes at the lower layers.
 - Each layer in the model is a competitive map, where competition is implemented through adjustment of the firing threshold of nodes until a predefined sparseness is reached in each layer.
 - Weights between the layers are adjusted using Hebbian learning and the model is trained on object movements such as translation or rotation.
 - The reverse problem of object recognition is visual search, where processing goes from top-down to find an object given its name.
 - E.g. Find the Eiffel tower in this picture.
-- INSERT FIG 10.2
+![Figure 10.2](figure10-2.png)
 - It’s clear the complex cognitive tasks can only be solved with cooperation between many specialized modules in the brain.
 - One theory is that all modules have access to a global workspace that they can use to send/receive information.
-- INSERT FIG 10.6
+![Figure 10.6](figure10-6.png)
 - The global workspace theory has been used to provide an explanation for the Stroop task.
-- INSERT FIG 10.8
+![Figure 10.8](figure10-8.png)
 - We now attempt to generalize brain-style information processing into a more general hypothesis.
 - Central to this theory is the idea of the brain as an anticipating memory system.
 - Principles incorporated by the anticipating memory system theory

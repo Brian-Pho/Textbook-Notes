@@ -35,6 +35,7 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 - [ ] Go through Gatsby performance <https://www.gatsbyjs.org/docs/performance/>
 - [ ] Move notes over
 - [x] Paginate homepage
+- [ ] Fix timeline line wrap
 
 ## Favicon Generator
 

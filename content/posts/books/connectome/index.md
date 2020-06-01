@@ -11,7 +11,7 @@ excerpt: "How the connections in our brain make us who we are."
 
 - The analogy of the brain as a forest where the neurons are the trees. Demonstrates how messy but organized the brain is.
 - *Connectome*: a wiring diagram of the brain.
-![Figure 3. Map of the C. elegans nervous system, or “connectome”]({{ "/assets/books/connectome/figure3.png" | absolute_url }})
+![Figure 3. Map of the C. elegans nervous system, or “connectome”](figure3.png)
 - A connectome is a map of all connections for all neurons.
 - The book's argument is that minds differ because connectomes differ.
 - An alternative argument is that minds differ because genomes differ but genomes cannot explain how your brain becomes what it is now.
@@ -37,8 +37,8 @@ excerpt: "How the connections in our brain make us who we are."
 
 - The hypothesis that different brains result in different minds.
 - Brain size is weakly correlated with IQ.
-![Figure 7. A tripartite division of the brain]({{ "/assets/books/connectome/figure7.png" | absolute_url }})
-![Figure 8. The cerebrum divided into hemispheres (left), and each hemisphere divided into lobes (right)]({{ "/assets/books/connectome/figure8.png" | absolute_url }})
+![Figure 7. A tripartite division of the brain](figure7.png)
+![Figure 8. The cerebrum divided into hemispheres (left), and each hemisphere divided into lobes (right)](figure8.png)
 - *Aphasia*: loss of language ability.
 - *Broca's aphasia*: loss of speech.
 - *Cortical/cerebral localizationism*: the localizing of mental function to particular brain regains.
@@ -55,7 +55,7 @@ excerpt: "How the connections in our brain make us who we are."
 - There's evidence for this in the form of children with brain damage.
 - There is a map dividing the cortex into areas with distinct functions, but the map can be redrawn as evident by neuroplasticity.
 - Maybe phantom limbs are caused by a remapping of the cortex.
-![Figure 12. Functional maps of cortical areas 3 and 4: the “sensory homunculus” (left) and the “motor homunculus” (right)]({{ "/assets/books/connectome/figure12.png" | absolute_url }})
+![Figure 12. Functional maps of cortical areas 3 and 4: the “sensory homunculus” (left) and the “motor homunculus” (right)](figure12.png)
 - Confirmed by Ramachandran experiment where the surrounding areas encroach upon the unused area.
 - Why isn't the correlation between the size of a cortical area and its function more strongly correlated?
 - The coefficient of muscle size to muscle strength is 0.7 to 0.9 which contrasts with the brain’s low coefficient of size to function.
@@ -89,7 +89,7 @@ excerpt: "How the connections in our brain make us who we are."
 - Synapses are one-way which makes neurons one-way.
 - Synapses impose this directionality onto neurites.
 - Similar to how the valves in veins impose directionality, synapses impose directionality onto neural pathways.
-![Figure 18. Multineuron pathway in the nervous system]({{ "/assets/books/connectome/figure18.png" | absolute_url }})
+![Figure 18. Multineuron pathway in the nervous system](figure18.png)
 - Synapses don't simply relay spikes to the next neuron as almost all synapses are weak.
 - Axons diverge but dendrites converge.
 - The cell body collects currents from many synapses converging onto its dendrites.
@@ -155,7 +155,7 @@ excerpt: "How the connections in our brain make us who we are."
     3. They extend their branches.
     4. They make connections.
 - By the time a baby is born, almost all of its neurons are there.
-![Figure 25. Dendrite growth from birth to age two, followed by pruning]({{ "/assets/books/connectome/figure25.png" | absolute_url }})
+![Figure 25. Dendrite growth from birth to age two, followed by pruning](figure25.png)
 - Neurites grow quickly in childhood but eventually 40 percent of branches are pruned by adulthood.
 - Why does the brain create so many synapses just to destroy them?
 - Perhaps the early connectome is like a rough draft.
@@ -215,7 +215,7 @@ excerpt: "How the connections in our brain make us who we are."
 - The cerebral cortex resembles a layered cake with layers of neurons, six of them to be precise.
 - We can classify neurons based on their anatomy but also their connections.
 - *Neuron type connectome*: a diagram showing how different neuron types are connected.
-![Figure 42. Portion of the “reduced” connectome (with neurons grouped by type) of C. elegans]({{ "/assets/books/connectome/figure42.png" | absolute_url }})
+![Figure 42. Portion of the “reduced” connectome (with neurons grouped by type) of C. elegans](figure42.png)
 - These maps would be a refinement of Cajal's neuron classification because connections depend on contact which is governed by location and shape.
 - Brodmann relied on cortical layering to create brain maps and Cajal on neural shape and location.
 - Associate every brain region with an elementary function, then explain more complex mental functions as combinations of elementary functions.

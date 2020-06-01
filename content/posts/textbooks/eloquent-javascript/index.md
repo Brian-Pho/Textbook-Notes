@@ -224,7 +224,7 @@ excerpt: "An introduction to JavaScript."
 - *Synchronous*: things happen one at a time.
 - *Asynchronous*: multiple things happen at the same time.
 
-![Figure 11.1]({{ "/assets/textbooks/eloquent-javascript/figure11-1.png" | absolute_url }})
+![Figure 11.1](figure11-1.png)
 
 - One approach to asynchronous programming is to make functions that are slow to take an extra argument called a callback function.
 - *Callback function*: when the function finishes, call the callback function with the result.
@@ -331,7 +331,7 @@ excerpt: "An introduction to JavaScript."
 - For the DOM, `document.documentElement` is the root element.
 - DOM nodes contains various links to other nearby nodes.
 
-![Figure 14.1]({{ "/assets/textbooks/eloquent-javascript/figure14-1.png" | absolute_url }})
+![Figure 14.1](figure14-1.png)
 
 - The `childNodes` array isn’t a real array so you can’t loop over it with a forEach loop. You have to use the index.
 - E.g. of combining JS and HTML

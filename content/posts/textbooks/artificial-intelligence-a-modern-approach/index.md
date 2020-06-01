@@ -26,7 +26,7 @@ excerpt: "The artificial intelligence textbook. I've dropped it due to not belie
   - Thought processes and reasoning versus behavior
   - Human performance versus ideal performance
 - Are you concerned with thinking or behavior? Do you want to model humans or work from an ideal standard?
-![Figure 1.1]({{ "/assets/textbooks/artificial-intelligence-a-modern-approach/figure1-1.png" | absolute_url }})
+![Figure 1.1](figure1-1.png)
 - This book views intelligence as rational action. An intelligent agent takes the best possible action in a situation.
 - Personally, I believe in the left side of figure 1.1 and this book takes the bottom right approach. I will continue though just to see what’s on the other side.
 - *Natural language processing*: the ability to communicate using natural language.
@@ -63,12 +63,12 @@ excerpt: "The artificial intelligence textbook. I've dropped it due to not belie
 - One might say that to solve a hard problem, you have to almost know the answer already.
 - Computer science focuses on algorithms but AI suggests that we should also focus on data.
 - *Knowledge bottleneck in AI*: the problem of how to express all the knowledge that a system needs.
-![Questions 1.9 to 1.13]({{ "/assets/textbooks/artificial-intelligence-a-modern-approach/question1-9_1-13.png" | absolute_url }})
+![Questions 1.9 to 1.13](question1-9_1-13.png)
 
 ## Chapter 2: Intelligent Agents
 
 - *Agent*: anything that perceives and acts upon an environment.
-![Figure 2.1]({{ "/assets/textbooks/artificial-intelligence-a-modern-approach/figure2-1.png" | absolute_url }})
+![Figure 2.1](figure2-1.png)
 - *Performance measure*: evaluates the behavior of the agent in an environment.
 - *Percept sequence*: the complete history of everything the agent has ever perceived.
 - The agent function is an abstract mathematical description; the agent program is a concrete implementation, running within some physical system.

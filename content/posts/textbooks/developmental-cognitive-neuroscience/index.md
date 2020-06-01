@@ -34,7 +34,7 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - The relationship between the genotype and its resulting phenotype is much more dynamic and flexible than assumed.
 - Constructivism: the relationship between the initial state and the final product can only be understood by considering the progressive construction of information.
 - There is no aspect of development that can be said to be strictly genetic.
-![Table 1.1]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/table1-1.png" | absolute_url }})
+![Table 1.1](table1-1.png)
 - We can use artificial neural networks (ANN) to model the development of neural circuits.
 - We can modify ANNs in four ways.
 
@@ -51,7 +51,7 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - Predetermined epigenesis views the infant mind as comparable to adults with focal brain injury.
 - However, this view doesn’t provide a full account of development in the long run.
 - An alternative view is that development involves the progressive restriction of fate.
-![Figure 1.3]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/figure1-3.png" | absolute_url }})
+![Figure 1.3](figure1-3.png)
 - A deviation from the normal path early in development, at a decision point, may cause the child to take a different developmental path and reach a different end state.
 - Three viewpoints of human functional brain development
     1. Maturational: relate the maturation of particular brain regions to new cognitive functions.
@@ -107,7 +107,7 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
     2. Study the naturally occurring differences among individuals.
     3. Study of human syndromes and developmental disorders.
     4. Study animal models
-![Figure 3.2]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/figure3-2.png" | absolute_url }})
+![Figure 3.2](figure3-2.png)
 
 ## Chapter 4: Building a Brain
 
@@ -132,10 +132,10 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - Two forms of migration
   - Passive cell displacement: migrate by being pushed by new cells (outside-in).
   - Active cell displacement: migrate by moving past older cells (inside-out).
-![Figure 4.4]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/figure4-4.png" | absolute_url }})
+![Figure 4.4](figure4-4.png)
 - The brain increases in volume during development not due to the addition of new neurons (most neurons are present around seven months), but rather the addition of synapses, dendrites, and myelination.
 - The dendritic tree of most neurons increases in size and complexity with a corresponding increase in the density of synapses.
-![Figure 4.5]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/figure4-5.png" | absolute_url }})
+![Figure 4.5](figure4-5.png)
 - Sensory areas tend to myelinate earlier than motor areas with cortical association areas myelinating last.
 - Some parts of development follow a rise-and-fall trend such as metabolism and synapse density.
 - Most of the cortex, with exception to primary sensory areas of cortex, develop from the back-to-front direction, with the prefrontal cortex developing last.
@@ -148,7 +148,7 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - There’s evidence that several aspects of the cerebral cortex, such as the general laminar structure and large-scale regions, don’t require neural activity to develop.
 - However, much of the small-scale divisions into functional areas requires neural activity to develop.
 - Radial unit model: a model that explains neocortical differentiation by having neurons migrate along radial glial fibers.
-![Figure 4.13]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/figure4-13.png" | absolute_url }})
+![Figure 4.13](figure4-13.png)
 - Protomap: differentiation of the cortex is due to intrinsic factors such as genetics.
 - Protocortex: differentiation of the cortex is due to extrinsic factors such as input from other parts of the brain or sensory systems.
 - Current reviews of the evidence converge on views that are midway between the protomap and protocortex hypotheses.
@@ -173,7 +173,7 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 ## Chapter 5: Vision, Orienting, and Attention
 
 - It’s hard to determine whether changes in visual abilities during development are due to limitations in the eye or whether they are due to changes within the brain.
-![Figure 5.2]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/figure5-2.png" | absolute_url }})
+![Figure 5.2](figure5-2.png)
 - One ability associated with binocular vision, stereoacuity, increases rapidly such that it reaches adult levels within a few weeks.
 - This rapid spurt in stereoacuity requires some equally rapid change in the neural substrate supporting it.
 - It’s thought that the inputs from the two eyes to the cortex are initially mixed so that they synapse on common cortical neurons in layer 4.
@@ -182,13 +182,13 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - This suggests that there will be a certain decline in integration once each neuron receives innervations from only one eye.
 - Evidence for this comes from showing that infants under 4 months can perform certain types of integration that older infants can’t.
 - E.g. Showing horizontal gratings to the one eye and vertical gratings to the other eye. Infants under 4 months perceived a single grid-like representations instead of two sets of gratings.
-![Figure 5.3]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/figure5-3.png" | absolute_url }})
+![Figure 5.3](figure5-3.png)
 - The loss of these connections is probably due to the refinement of synapses by selective loss.
 - This refinement probably occurs through activity-dependent neural mechanisms since the creation of ocular dominance columns can be blocked by reducing neuronal activity.
 - There’s evidence showing a strong role for visual experience in guiding the development of binocularity.
 - Dorsal visual pathway: where/action.
 - Ventral visual pathway: what/perception.
-![Figure 5.4]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/figure5-4.png" | absolute_url }})
+![Figure 5.4](figure5-4.png)
 - Hypothesized sequence of development of cortical pathways underlying oculomotor control
   - Eye → Superior colliculus
   - Cortical projections → Inhibit superior colliculus
@@ -197,12 +197,12 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - Interesting notes of infant eye movements
   - Eye movements follow a stimulus in a saccadic/step-like manner compared to the smooth movements in adults.
   - Eye movements lag behind the movement of the stimulus compared to the trajectory prediction in adults.
-![Table 5.1]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/table5-1.png" | absolute_url }})
+![Table 5.1](table5-1.png)
 - Presaccadic spike potential (SP): a sharp deflection that precedes a saccade by 8-20 ms.
 - Surprisingly, 6-month old infants don’t exhibit SPs as expected.
-![Figure 5.6]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/figure5-6.png" | absolute_url }})
+![Figure 5.6](figure5-6.png)
 - The representation for generating saccades within an eye- or head-centered frame of reference emerged as a result of training and was not hard-wired.
-![Figure 5.7]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/figure5-7.png" | absolute_url }})
+![Figure 5.7](figure5-7.png)
 - Overt attention: shifts of attention due to eye/head movements.
 - Covert attention: shifts of attention without eye/head movements.
 - Adults are able to covertly shift their attention which allows us to enhance our processing of objects within our visual field.
@@ -212,7 +212,7 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 
 - Ventral route (what): visual cortex → temporal cortex.
 - Dorsal route (where): visual cortex → parietal cortex.
-![Figure 6.1]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/figure6-1.png" | absolute_url }})
+![Figure 6.1](figure6-1.png)
 - Going along the ventral route, cells respond to more complex clusters of features and at the highest level, the complex cells show remarkable selectively in their firing.
 - However, they still have very large receptive fields on the retina suggesting that they can process feature information but lose their spatial resolution on the retina.
 - In effect, the cells develop spatially invariant representations of objects by responding to features, not position.
@@ -228,7 +228,7 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - One of the major characteristics of the human brain is its social nature.
 - The brain of a newborn human infant contains some information about faces.
 - E.g. Infants select for face-like patterns.
-![Figure 7.2]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/figure7-2.png" | absolute_url }})
+![Figure 7.2](figure7-2.png)
 - The development of face perception is consistent with the interactive specialization view.
 - Joint attention: directing your attention to the same object/location that another person is looking at.
 - Mutual gaze: direct eye contact.
@@ -260,7 +260,7 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - Also, it seems like an “innate language module” exists in the brain as there’s evidence for normal language skills with poor performance in other domains of cognition and vice versa. This is consistent with the interactive specialization view.
 - Language is a system for communicating with other people using sounds, symbols, and words to express a meaning, idea, or thought.
 - A network of brain regions supports language functions.
-![Figure 9.1]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/figure9-1.png" | absolute_url }})
+![Figure 9.1](figure9-1.png)
 - Primary language functions: speaking.
 - Secondary language functions: reading and writing.
 - Primary language functions seem to emerge without much effort as children develop, but mastery of secondary language functions requires extensive practice.
@@ -286,7 +286,7 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - Studies also show that in deaf patients, the auditory area becomes, at least partially, allocated to visual functions.
 - These results are consistent with the idea that networks in the brain adapt to altered experience, rather than single regions altering their function in isolation.
 - Studies on deaf people suggest that maybe it’s the computations required for linguistic processing, rather than the modality (sounds/hands), that determine cortical localization.
-![Figure 9.2]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/figure9-2.png" | absolute_url }})
+![Figure 9.2](figure9-2.png)
 - The evidence for left-hemisphere bias is that the left temporal areas showed significantly more activation when infants were exposed to normal speech than to backward speech/silence.
 - While infants at 6 months can distinguish between sounds present and not present in their native tongue, infants at 10 months have a diminished ability to discriminate nonnative contrasts.
 - Does earlier exposure to language impact when language abilities are acquired?
@@ -359,7 +359,7 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
   - Representations are limited to set sizes of three or four.
   - Successful representations can be formed and maintained even when the items are occluded.
   - Representations are not as abstract as large number representations.
-![Figure 12.1]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/figure12-1.png" | absolute_url }})
+![Figure 12.1](figure12-1.png)
 - Infants are only able to discriminate between large numerosities only when the ratio difference is large.
 - E.g. 8 vs 16 is successfully distinguished but 8 vs 12 isn’t.
 - Finding suggest that both infants and other animals have separate systems for representing large approximate numerosity and small exact numerosity.
@@ -401,7 +401,7 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - Parcellation: the increasing encapsulation (information isolation) of neural circuits due to the loss of synaptic contacts and circuits.
 - Parcellation results in a reduction of interference and a reduction in exchange of information between different neural systems.
 - While large-scale regions of cerebral cortex show graded differential patterns of gene expression, many of the small-scale functional areas require activity-dependent processes for their specialization.
-![Table 13.1]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/table13-1.png" | absolute_url }})
+![Table 13.1](table13-1.png)
 - Maturational approach
   - Deterministic epigenesis where gene expression determines brain functions.
   - One-to-one mapping between brain and cortical regions to particular cognitive functions.
@@ -464,7 +464,7 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - We are still in the dark about how larger scale of cortical function develops.
 - While it may seem at first that a lattice/grid pattern is the best design for a network,  analysis of local network connectivity and average path length shows that small world networks are the most efficient.
 - E.g. Small local streets and highways, World Wide Web, most biological systems.
-![Figure 13.2]({{ "/assets/textbooks/developmental-cognitive-neuroscience-an-introduction/figure13-2.png" | absolute_url }})
+![Figure 13.2](figure13-2.png)
 - Studies show that the regional interconnectivity of the adult brain is a highly efficient small world network.
 - Development entails both segregation (decreased short-range connectivity) and integration (increased long-range connectivity) of networks involving brain regions.
 - IS explains segregation as neighboring regions of cortical tissue become increasingly specialized for different functions, thus they are less commonly coactivated so a decrease in short-range connectivity.

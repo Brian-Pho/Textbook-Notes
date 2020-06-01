@@ -140,7 +140,7 @@ excerpt: "A good introductory book into the field that exists between brains and
 - However, if it makes the potential more positive, say from -60 mV to -50 mV, and it passes a "threshold", then the membrane potential quickly goes positive, say to +40 mV, and then re-establishes itself.
 - This phenomenon of quickly flipping voltage is called an action potential.
 - It never changes shape; it’s either there or it'sn’t.
-![Figure 6.3]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure6-3.png" | absolute_url }})
+![Figure 6.3](figure6-3.png)
 - The very high capacity and resistance of neuron membranes mean that their membrane potential will respond slowly to a changing input.
 - *Time constant*: the time it takes for the voltage to decay by about two-thirds.
 - Neurons have a time constant of a few milliseconds.
@@ -157,13 +157,13 @@ excerpt: "A good introductory book into the field that exists between brains and
 - *Myelin sheath*: an insulator that’s spaced apart on the axon to allow APs to jump between the gaps.
 - By wrapping the axon in a myelin sheath, the construction of larger animals is possible.
 - The structure that allows information to flow between neurons is called the synapse.
-![Figure 6.4]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure6-4.png" | absolute_url }})
+![Figure 6.4](figure6-4.png)
 - Synapses are more complex than neurons.
 - Synapses use neurotransmitters to communicate information.
 - There is little or no understanding of why changing a low-level synaptic mechanism affects mood at higher levels of the nervous system.
 - E.g. Serotonin drugs to treat depression.
 - When an AP reaches the input (presynaptic) side of the synapse, at first nothing happens. There’s a delay of around half a millisecond before any electrical activity occurs.
-![Figure 6.5]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure6-5.png" | absolute_url }})
+![Figure 6.5](figure6-5.png)
 - Changes in the strength of synapses are where learning and memory are stored.
 - Cognitive software has developed effective workarounds to compensate for the questionable performance of the hardware.
 - The rate of firing differs depending on the size of the stimulating current.
@@ -204,7 +204,7 @@ excerpt: "A good introductory book into the field that exists between brains and
 
 - Only one unit's active for one concept.
 - Also known as one-hot encoding.
-![Figure SR]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figureSR.png" | absolute_url }})
+![Figure SR](figureSR.png)
 - Are neurons extremely selective and only activate for one concept?
 - E.g. Grandmother cell that only responds to grandmother.
 - The evidence suggests no but there does seem to be highly selective *groups*.
@@ -215,7 +215,7 @@ excerpt: "A good introductory book into the field that exists between brains and
 **Distributed representations**
 
 - All units are active for all concepts.
-![Figure DR]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figureDR.png" | absolute_url }})
+![Figure DR](figureDR.png)
 - Is more efficient than selective representations because only 8 units are needed to represent 256 different concepts versus 26 units for 26 concepts.
 - However, the problem with distributed representations is that it requires looking at all units.
 - This doesn’t seem to happen biologically as not all neurons are active for all concepts.
@@ -287,7 +287,7 @@ excerpt: "A good introductory book into the field that exists between brains and
 - The fundamental unit of memory is sense images.
 - We can link/associate different sense images to form more complex ideas.
 - Sense images don’t have high resolution nor high accuracy which means they’re unreliable.
-![Figure 9.1]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure9-1.png" | absolute_url }})
+![Figure 9.1](figure9-1.png)
 - James’ three computational assumptions
     1. The items that are associatively linked contain components parts.
     2. Since there are many links between sub-components, it’s likely that more than one link will be active at a time.
@@ -350,7 +350,7 @@ excerpt: "A good introductory book into the field that exists between brains and
 - An increase in correlation between cells can cause a demonstrable change in the cell’s response.
 - About 80% of the cells in the cortex are pyramidal cells.
 - Most of the cerebral cortex is made up of 6 layers.
-![Figure 10.8]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure10-3.png" | absolute_url }})
+![Figure 10.8](figure10-3.png)
 
 ## Chapter 11: Cerebral Cortex: Columns and Collaterals
 
@@ -361,7 +361,7 @@ excerpt: "A good introductory book into the field that exists between brains and
 - Candidates for local interactions
   - *Recurrent collaterals*: axons connecting nearby pyramidal cells.
   - *Cortical columns*:  an intermediate level of neural organization where nearby cortical neurons seem to work together.
-![Figure 11.2]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure11-2.png" | absolute_url }})
+![Figure 11.2](figure11-2.png)
 - There is substantial local processing power as shown by the large number of local connections.
 - A negative feedback system leads to a virtuous circle.
 - A positive feedback system leads to a vicious circle.
@@ -375,13 +375,13 @@ excerpt: "A good introductory book into the field that exists between brains and
 - *Minicolumn*: a column of 80 - 100 neurons that’s built from birth.
 - *Cortical columns*: a collection of minicolumns bound by common input and short horizontal connections.
 - Cortical expansion in evolution is marked by increases in surface area with little change in thickness.
-![Figure 11.7]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure11-7.png" | absolute_url }})
+![Figure 11.7](figure11-7.png)
 - Sometimes it's better to reduce extreme selectivity to reflect underlying real world similarities.
 - Neurons → Minicolumn → Cortical column → Cortical region
 - The entire region is mostly uniform and usually has a topographic map.
 - E.g. Vison → space, Audition → frequency, Touch → body surface.
 - There is a speed-accuracy trade off in cognition.
-![Figure 11.9]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure11-9.png" | absolute_url }})
+![Figure 11.9](figure11-9.png)
 
 ## Chapter 12: Brain Theory: History
 
@@ -421,11 +421,11 @@ excerpt: "A good introductory book into the field that exists between brains and
   - Sensory-based information, memories, is the raw material of cognition.
   - Memories can become associatively linked to form a network.
 - *Semantic network*: a network that represents the semantic relations between concepts.
-![Figure 13.2]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure13-2.png" | absolute_url }})
+![Figure 13.2](figure13-2.png)
 - An ISA semantic network not only saves memory by reducing duplicates, it also can answer queries by moving among the nodes.
 - *Spreading activation*: a "level of excitement" of each node that can spread to connected nodes.
 - E.g. "What do canaries and ostriches have in common?" would make the bird node twice as excited.
-![Figure 13.6]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure13-6.png" | absolute_url }})
+![Figure 13.6](figure13-6.png)
 - Another property of semantic networks is that they can be queried without updating the network. So inferences can be drawn without learning from an external source.
 - The use of summed network excitation from multiple weak sources of information is what the brain seems to do. It also makes it seem like the brain is just an amplifier.
 - The idea that cognition incorporates an active search for meaning is central to most forms of brain-like computing.
@@ -438,7 +438,7 @@ excerpt: "A good introductory book into the field that exists between brains and
 - E.g. Colors versus logic.
 - Nothing recurs exactly. Therefore, proper cognitive operation requires that behavior generalize properly.
 - The signal processing technique of averaging different examples.
-![Figure 13.7]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure13-7.png" | absolute_url }})
+![Figure 13.7](figure13-7.png)
 - Associative learning with proper data representation is capable of extracting concepts.
 - Two powers of our cognitive system
   - *Generalization*: taking something specific and applying it more broadly.
@@ -451,8 +451,8 @@ excerpt: "A good introductory book into the field that exists between brains and
 - Sometimes accuracy can be the enemy of generality.
 - Memory abstracts only what the details allow it to abstract.
 - An extreme example of abstraction is "identity" or how things are identical.
-![Figure 13.8]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure13-8.png" | absolute_url }})
-![Figure 13.9]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure13-9.png" | absolute_url }})
+![Figure 13.8](figure13-8.png)
+![Figure 13.9](figure13-9.png)
 - The ability to generate abstract relationships and good generalization is not accurate pattern recognition but is something different and much more interesting for higher level cognition.
 
 ## Chapter 14: Programming
@@ -461,17 +461,17 @@ excerpt: "A good introductory book into the field that exists between brains and
 - The key to brain-like computation is to get the data representation fitted to the problem.
 - There must be something in perception representing this invariant commonality derived from the shape.
 - The brain is able to "generalize" image viewpoints.
-![Figure 14.2]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure14-2.png" | absolute_url }})
+![Figure 14.2](figure14-2.png)
 - *Traveling wave*: a wave of spikes in neurons.
 - This reminds me of how our brains might determine where a sound comes from by timing when the two audio signals from both ears meet.
-![Figure 14.3]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure14-3.png" | absolute_url }})
+![Figure 14.3](figure14-3.png)
 - *Medial axis representation*: representations where the shape is extracted from an axis that’s equidistant from all edges.
 - There are more cells in the visual cortex than there are incoming fibers in the optic nerve.
 - 300 million neurons in the primary visual cortex versus 1 million optic nerve fibers.
 - Maybe identity is also "calculated/determined" via traveling waves.
-![Figure 14.7]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure14-7.png" | absolute_url }})
-![Figure 14.8]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure14-8.png" | absolute_url }})
-![Figure 14.9]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure14-9.png" | absolute_url }})
+![Figure 14.7](figure14-7.png)
+![Figure 14.8](figure14-8.png)
+![Figure 14.9](figure14-9.png)
 - This also provides a basis for determining the similarity between items. Maybe the larger the resultant wave, the stronger the identity.
 - This can also be applied to determining symmetry.
 - However, identity and symmetry don’t exist in reality as they’re abstractions created by humans.
@@ -486,7 +486,7 @@ excerpt: "A good introductory book into the field that exists between brains and
 - It’s suggested that a spatial system that responds best to ratios of frequencies and not to absolute frequencies can recognize sound.
 - Logarithms provide a possible mechanism for implementing this invariance towards frequency.
 - Important abstractions can be produced from properly constructed topographical mappings combined with traveling waves that doesn’t involve logic or binary arithmetic.
-![Figure 14.12]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure14-12.png" | absolute_url }})
+![Figure 14.12](figure14-12.png)
 - Well-developed sources of related good ideas to borrow can be found in optics, antenna design, and complex mechanical linkages, all of which depend on a careful mingling of geometry, desired function, and interacting selective wave- like signals.
 - Using traveling waves as a form of computation reminds me of how we can multiply by running a current through a resistor and measuring the voltage.
 - It uses the natural world do the calculation.
@@ -506,7 +506,7 @@ excerpt: "A good introductory book into the field that exists between brains and
 - Are there specific cells for numerosity/counting?
 - There are "bug detector" cells in toads, "face cells" in monkeys and humans, and "place cells" in humans. Aren’t these examples of neuron selectivity?
 - Numerosity can also be calculated via topographical maps and traveling waves.
-![Figure 15.2]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure15-2.png" | absolute_url }})
+![Figure 15.2](figure15-2.png)
 - This fits the experimental data as
   - Additional items require more time for the waves to interfere.
   - It computes both numerosity and similarity.
@@ -528,18 +528,18 @@ excerpt: "A good introductory book into the field that exists between brains and
 - Numbers seem to be represented on a topopgraphical map just like touch.
 - E.g. The number "9" is physically closer to "8" than to "1".
 - Similar magnitude numbers are physically closer to each other which forms a map.
-![Figure 15.3]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure15-3.png" | absolute_url }})
+![Figure 15.3](figure15-3.png)
 - The location holds value and meaning.
 - Human performance for multiplication is always close to the correct answer.
 - How can we reverse engineer the way people do number comparisons?
 - We first start with how to represent/encode the numbers.
-![Figure 15.4]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure15-4.png" | absolute_url }})
+![Figure 15.4](figure15-4.png)
 - The second step is to create a program to combine our representations of numbers into the meaningful output that we want.
-![Figure 15.5]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure15-5.png" | absolute_url }})
+![Figure 15.5](figure15-5.png)
 - When people compare numbers, they only have to remember the single digit comparisons as that can be applied to longer numbers.
 - E.g. To determine which number is greater, 100 or 140, we only have to compare the middle digit where 4 is greater than 0.
 - It’s paradoxical that the larger the difference, the faster the answer because shouldn’t things farther away take longer?
-![Figure 15.7]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure15-7.png" | absolute_url }})
+![Figure 15.7](figure15-7.png)
 
 ## Chapter 16: Return to Cognitive Science
 
@@ -551,7 +551,7 @@ excerpt: "A good introductory book into the field that exists between brains and
 - Experiments suggest that when a word is first seen, all meanings are briefly present but then filtered using disambiguation.
 - This happens extremely quickly that the user doesn’t notice.
 - Ambiguity also shows up in vision as is known as multi-stable perception.
-![Figure 16.1]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure16-1.png" | absolute_url }})
+![Figure 16.1](figure16-1.png)
 - The meaning of a word is its use in the language.
 - Disambiguation depends on our extensive real-world knowledge.
 - *Catastrophic unlearning*: where learning a new association causes older associations to vanish.
@@ -577,7 +577,7 @@ excerpt: "A good introductory book into the field that exists between brains and
   - Letting the voltage not reach the threshold potential
   - Increase the distance to let the potential dissipate
 - Hebbian synaptic learning probably occurs at the lowest level of organization, but what about the higher levels?
-![Figure 17.8]({{ "/assets/textbooks/after-digital-computation-as-done-by-brains-and-machines/figure17-8.png" | absolute_url }})
+![Figure 17.8](figure17-8.png)
 - It’s theorized that larger assemblies can be more stable because of the extensive connections.
 - "The secret of a good memory is thus the secret of forming diverse and multiple associations with every fact we care to retain." Think back to the Russian reporter and the memory palace.
 
