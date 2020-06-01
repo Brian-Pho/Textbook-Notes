@@ -1,5 +1,5 @@
 {
-  "name": "cradle",
+  "name": "CR4-DL",
   "description": "The Cradle. A vault for notes on artificial intelligence and the brain.",
   "version": "0.1.0",
   "private": true,
@@ -20,6 +20,7 @@
     "gatsby-plugin-react-helmet": "^3.3.1",
     "gatsby-plugin-sass": "^2.3.2",
     "gatsby-plugin-sharp": "^2.6.3",
+    "gatsby-plugin-sitemap": "^2.4.3",
     "gatsby-remark-autolink-headers": "^2.3.3",
     "gatsby-remark-copy-linked-files": "^2.3.2",
     "gatsby-remark-images": "^3.3.3",
@@ -39,6 +40,7 @@
     "react-helmet": "^5.2.1"
   },
   "devDependencies": {
+    "@types/react-helmet": "^6.0.0",
     "@typescript-eslint/eslint-plugin": "^2.34.0",
     "@typescript-eslint/parser": "^2.34.0",
     "eslint": "^7.0.0",

@@ -31,6 +31,7 @@ module.exports = {
     `gatsby-plugin-sass`,
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -82,7 +83,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `CR4-DL`,
-        short_name: `Cradle`,
+        short_name: `CR4-DL`,
         start_url: `/`,
         background_color: `#FFFFFF`,
         theme_color: `#677B8C`,

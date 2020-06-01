@@ -29,7 +29,7 @@ const PostTemplate = ({ data, pageContext }: PostTemplateProps) => {
   const { previous, next } = pageContext
 
   return (
-    <Layout activePage="Notes">
+    <Layout activePage="Notes" article={true}>
       <PostContent post={post} previous={previous} next={next} />
       {post.tableOfContents ? (
         <PostToc toc={post.tableOfContents} headings={post.headings} />

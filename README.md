@@ -22,8 +22,8 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 - [ ] Add scrollspy to table of contents
 - [ ] Optimize category filtering
 - [ ] Test mobile responsiveness
-- [ ] Add Helmet component
-- [ ] Add SEO component
+- [x] Add Helmet component
+- [x] Add SEO component
 - [ ] Clean up about me page
 - [x] Update readme
 - [x] Update favicon
@@ -34,7 +34,7 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 - [ ] Add comments to codebase
 - [ ] Go through Gatsby performance <https://www.gatsbyjs.org/docs/performance/>
 - [ ] Move notes over
-- [ ] Paginate homepage
+- [x] Paginate homepage
 
 ## Favicon Generator
 

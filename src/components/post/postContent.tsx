@@ -1,8 +1,8 @@
 import React from "react"
 import "katex/dist/katex.min.css"
 import Col from "react-bootstrap/Col"
-import "./postContent.scss"
 import PostNav from "./postNav"
+import "./postContent.scss"
 
 interface PostContentProps {
   post: {
