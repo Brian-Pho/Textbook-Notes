@@ -2,6 +2,13 @@
 @import "~bootstrap/scss/variables";
 @import "~bootstrap/scss/mixins";
 
+header {
+  h1 {
+    margin-bottom: 0;
+  }
+  margin-bottom: 0.5rem;
+}
+
 section {
   h2, h3, h4, h5 {
     margin-top: 0.5rem;

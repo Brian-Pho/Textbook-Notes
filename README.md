@@ -28,8 +28,9 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 - [ ] Clean up types in codebase
 - [ ] Clean up codebase
 - [ ] Add comments to codebase
-- [ ] Fix timeline line wrap
 - [ ] Convert LaTeX course notes into Markdown using Pandoc
+- [ ] Fix table of content overflow
+- [ ] Clean up notes
 
 ## Favicon Generator
 

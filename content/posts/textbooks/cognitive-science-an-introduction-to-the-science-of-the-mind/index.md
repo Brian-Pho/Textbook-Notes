@@ -548,7 +548,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 ### Summary
 
-||**ID3**|**WHISPER**|**SHAKEY|
+|**ID3**|**WHISPER**|**SHAKEY**|
 |---|---|---|---|
 |Symbols are physical patterns.|Attributes and values|Blocks and shapes|Symbols in predicate calculus|
 |Symbols can be combined to form more complex symbol structures.|Database|Diagram|Formulas in predicate calculus|

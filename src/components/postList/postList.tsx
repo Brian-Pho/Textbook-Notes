@@ -1,10 +1,10 @@
 import React from "react"
 import { Link } from "gatsby"
-import "./postList.scss"
 import Col from "react-bootstrap/Col"
 import Pagination from "react-bootstrap/Pagination"
+import "./postList.scss"
 
-export interface PostListDataType {
+export interface PostListProps {
   postList: {
     edges: {
       node: {
@@ -26,7 +26,7 @@ export interface PostListDataType {
   numPages: number
 }
 
-const PostList = ({ postList, currPage, numPages }: PostListDataType) => {
+const PostList = ({ postList, currPage, numPages }: PostListProps) => {
   const posts = postList.edges
   const isFirstPage = currPage === 1
   const isLastPage = currPage === numPages
