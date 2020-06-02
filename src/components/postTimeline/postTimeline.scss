@@ -1,0 +1,73 @@
+// CSS heavily borrowed from: https://codepen.io/mathiesjanssen/pen/ggeBKm
+@mixin border-radius($radius) {
+  -webkit-border-radius: $radius;
+  -moz-border-radius: $radius;
+  -ms-border-radius: $radius;
+  border-radius: $radius;
+}
+
+.timeline {
+  &:before {
+    content: '';
+    width: 2px;
+    position: absolute;
+    top: 1rem;
+    bottom: 0rem;
+    left: 60px;
+    background: #C5C5C5;
+  }
+  h3 {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 5rem;
+    margin: 0;
+    font-size: 1.4em;
+    &:before {
+      content: '';
+      width: 10px;
+      height: 10px;
+      background: #C5C5C5;
+      border: 2px solid #FFFFFF;
+      @include border-radius(50%);
+      position: absolute;
+      left: 56px;
+      top: 10px;
+    }
+  }
+  section.year {
+    position: relative;
+    &:first-child section{
+      margin-top: -1.3em;
+      padding-bottom: 0px;
+    }
+    &:last-child section {
+      margin-bottom: 0;
+    }
+    section {
+      position: relative;
+      margin-bottom: 1em;
+      ul {
+        list-style-type: none;
+        padding: 0 0 0 81px;
+        &:last-child {
+          margin-bottom: 0;
+        }
+        li {
+          margin-left: .5rem;
+          &:before {
+            content: '·';
+            margin-left: -.5rem;
+            padding-right: .3rem;
+          }
+          &:not(:first-child) {
+            margin-top: .5rem;
+          }
+        }
+      }
+    }
+  }
+}
+
+//* {
+//  border: 1px solid #f00 !important;
+//}

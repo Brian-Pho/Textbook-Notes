@@ -1,0 +1,607 @@
+---
+layout: post
+title: "PSYC 365: Cognitive Psychology"
+date: "2019-05-01"
+categories:
+  - Courses
+excerpt: "Cognitive Psychology"
+---
+
+## Introduction
+
+- Textbook: <https://www.amazon.ca/Cognition-Scott-Sinnett/dp/0199019703>
+- Cognitive psychology: a field focused on mental processes.
+- E.g. Memory, attention, thinking.
+- Fundamental ideas
+  - Cognition is information processing
+  - Human information processing capacity is limited
+  - Information theory
+    - Information provided is inversely related to the probability of its occurrence
+- Limitations on information processing
+  - The speed of the nervous system
+  - The capacity of the nervous system
+- Hick-Hyman law: increasing the number of choices a person has will increase the decision time logarithmically.
+- However, there’s an exception if I’ve already made a decision before being presented the options.
+- Model of information processing
+  - Broadbent’s filter model: nervous system as one info processing channel, limited by channel capacity.
+    - Sense information → Short-term memory (buffer) → Filter based on only physical characteristics → Selected input for attention
+    - Some cogsci think it doesn’t actually work this way
+  - Waugh and Norman’s model: information that isn’t selected is lost
+![Image result for Waugh and Norman’s model](https://psikologikognitifduinmaliki.files.wordpress.com/2016/10/p034.jpg)
+  - Brown-Peterson Task tests short term memory.
+- Ecological validity
+  - Not all stimuli are created equal.
+  - How applicable are conclusions from experiments to the real world.
+  - Ecological approach: experiments that reflect conditions in the real world.
+  - Meaning of objects perceived via affordances.
+  - Affordances: potential functions of the stimuli.
+  - The function of perception is to serve biological needs and guide action, not to model reality objectively.
+  - E.g. A rock is perceived as a tool for people but a place to hide for rates.
+  - Knowledge of affordances isn’t innate and are learned.
+  - Schema: mental representations of objects or blueprint.
+  - Both expected and unexpected information increases accuracy with which schema represents the environment.
+- Laboratory-based vs ecological approaches to cognition.
+- Cognitive hierarchy
+  - More automatic/less conscious versus less automatic/more conscious
+  - Bottom-up vs top-down processing
+  - Bottom-up processing is perception without context/assumptions/priming.
+  - Top-down processing is perception that’s biased with the context/assumptions/priming.
+  - A 13 C versus 12 13 14 shows how context matters in cognition.
+
+## Cognitive Neuroscience
+
+- Principles of brain function
+  - The neuron is the fundamental building block of the nervous system.
+  - Cognition arises from the firing of neural networks and forms from large patterns of neural connections that are distributed throughout the brain.
+  - Learning: creating new connections are strengthening them.
+  - Four lobes of the brain
+    - Frontal
+    - Parietal
+    - Occipital
+    - Temporal
+  - Some mental functions are localized to certain brain regions.
+  - However, no region acts in isolation as processing is distributed.
+  - Brain damage doesn’t always diminish brain function as expected.
+  - *Law of mass action*: learning and memory are dependent on the total mass of the brain tissue remaining.
+  - *Law of equipotentiality*: although some parts of the cortex become specialized, other parts (with limits) can do the job of any other part of that area. Also known as neuroplasticity.
+- Secrets of the Mind Nova HD Youtube video notes
+  - The body is mapped/projected onto the brain’s somatosensory area.
+  - The face area invaded the unused arm area. Neuroplasticity?
+  - Confirmed via MEG
+- Neuroimaging Methods
+  - PET
+    - All cognitive activities use energy in the form of oxygen and glucose.
+    - Trace these metabolic changes with radioactive tracers.
+    - Active parts of the brain → more blood flow → more radioactivity.
+    - Expensive.
+  - fMRI
+    - Indirectly measures oxygen uptake in active brain cells.
+    - Use the BOLD signal, a ratio of oxygenated to deoxygenated blood.
+    - MRI vs fMRI: one sample versus multiple samples. Higher spatial resolution versus higher temporal resolution. Do we care about the details or the function?
+  - ERP
+    - Uses EEG to measure voltage fluctuations at the surface of the brain.
+    - Events in the brain generates a voltage potential.
+    - Good temporal resolution but poor spatial resolution.
+  - MEG
+    - Measures magnetic fields produced by electrical activity in the brain.
+    - Good temporal resolution and better than EEG spatial resolution but not better than MRI.
+
+## Perception
+
+- Perception: the processing of sensory input.
+
+### Visual System
+
+- Takes in light as input.
+- There’s color blindness and motion blindness.
+- The dorsal pathway is the “where” pathway.
+  - Depth perception
+  - Motion perception
+- The ventral pathway is the “what” pathway.
+  - Color
+  - Shape perception
+  - Object recognition
+- The pathways are bidirectional so there’s bottom-up but also top-down influences.
+- Ventral Pathway
+  - How do we identify objects?
+  - Feature detection: recognize objects on the basis of features/property
+  - Pandemonium model.
+  - Recognition by Components (RBC): representation of an image/object is parsed into separate and basic components called geometric ions (geons).
+  - Geons are like the building blocks of the world.
+  - If we recognize objects using geons, then object recognition depends on the number of geons perceived.
+  - Experimentally, more geons equates to better recognition which is puzzling since more geons requires more processing time.
+  - Template matching: recognize objects by comparison to templates stored in memory.
+  - However, it’s difficult to identify “similar enough” objects.
+  - Multiple trace theory: explains how we create prototypes.
+    - Primary memory: what we’re aware of at present
+    - Secondary memory: traces created from past experiences
+    - Secondary memory is activated by probe from primary memory.
+    - All memory traces (in the secondary memory) similar to probe are activated.
+    - All activated traces return an echo to the primary memory.
+  - Moon illusion: when the moon looks bigger than it really is.
+  - One explanation is that when the moon is on the horizon, the visual system compares it to its surroundings.
+  - Apparent Distance Theory: that the horizon Moon looks larger than the zenith Moon because it looks farther away.
+  - It’s similar to the Ebbinghaus visual illusion.
+  - Demonstrates that context is important and influences vision.
+  - Gestalt psychology: emphasizes the influence of context and the whole rather than the parts.
+    - Principle of experience: we perceive objects through prior experience with objects.
+    - Principle of similarity: group similar elements together.
+    - Principle of proximity: group closer elements together.
+    - Principle of symmetry: lines that are symmetrical combine to form a single image.
+    - Principle of common fate/movement: group moving elements together.
+- Word recognition
+  - Context matters in word recognition.
+  - Word superiority effect: when people have better recognition of letters presented within words compared to isolated letters.
+  - Word superiority effect: it’s easier to identify letters that were briefly presented in words compared to when the letters were presented alone.
+- Color
+  - Color perception depends on prior experience as experience can bias what we see.
+  - Context and past experiences matter as the visual system uses it to make inferences.
+  - What’s the neural basis of the dress illusion?
+- Prosopagnosia: the inability to recognize faces but can still identify elements of a face.
+- The association/link between a face and person is broken. Can the association be relearned? What about neuroplasticity? Evidence of the brain’s fault tolerance.
+- Dorsal pathway
+  - Visual agnosia: can’t recognize objects/text but can manipulate objects resulting from ventral stream damage.
+  - Optic ataxia: inability to reach for objects resulting from dorsal stream damage.
+  - There’s a separation between recognizing faces and recognizing objects/text.
+- Multimodal perception
+  - Multiple senses can process information concurrently.
+  - E.g. Speech perception where we hear sounds and see mouth movements.
+  - McGurk effect: visual input can change auditory perception.
+
+## Attention
+
+- Selective attention: when exposed to two simultaneous events but we only attend to one of them.
+- Early selection theory: attention prevents early perceptual processing.
+  - Input → Attention → Perceptual processing → Awareness
+- Late selection theory: we perceive all stimuli and then filter out the irrelevant stimuli.
+  - Input → Perceptual processing → Attention → Awareness
+- Attenuation selection theory: not a filter but an attenuator.
+  - Input → Attenuator → Perceptual processing
+- When does attention come into information processing?
+- Cocktail party phenomenon: ability to focus attention on a single conversation in a busy setting yet still pick up relevant information from unattended sources.
+- Dichotic listening task: when participants know in advance, performance is good.
+- Selective looking task: visual analog of the dichotic listening task.
+  - E.g. Ball passing and gorilla experiment.
+- These experiments provide support for the early selection theory.
+- According to this, we can’t hear nor see the irrelevant information.
+- However, the Stroop task provides contradictory evidence.
+- Stroop interference effect: it’s difficult to respond when two aspects of the stimuli are inconsistent.
+- The Stroop effect supports the late selection theory.
+- The explanation is that we read the word before we process the color so it interferes with processing the color. This is seen in the increased cognitive difficulty and increased time to answer.
+- How do we know the Stroop task takes more cognitive difficultly?
+- One variant of the Stroop effect is the emotional Stroop effect.
+- Automatic processing
+  - Easy tasks with familiar items
+  - Parallel processing
+  - Without intention
+  - Without awareness
+  - Uses few resources
+  - Bottom-up approach
+  - Usually practiced
+- Controlled processing
+  - Difficult tasks
+  - Serial processing
+  - With intention
+  - With awareness
+  - Uses many resources
+  - Top-down approach
+  - Usually unpracticed
+- Stroop effect with brain mechanisms
+  - Dorsolateral prefrontal cortex: goal maintenance, selection of task-relevant information
+  - Anterior cingulate cortex: task dependent, conflict detection
+- Unilateral neglect
+  - Caused by damage to the parietal lobe
+  - Damage to the right hemisphere causes neglect of the left visual
+  - Due to the contralateral organization of the brain
+- Attentional network
+  - Parietal lobe: engagement/disengagement of attention
+- Spatial attention: selecting a subset of visual info for conscious awareness.
+- Spotlight metaphor for spatial attention.
+- How does the spotlight move?
+  - Exogenous shifts: involuntary shifts in attention
+  - Endogenous shifts: voluntary shifts in attention
+- Not eye movement shifts but conscious shifts.
+- Central cueing paradigm for endogenous shifts.
+- Attentional capture: when a stimulus is so powerful that it compels us to notice it.
+- E.g. Calling your name from a crowd.
+- Inattentional blindness: failure to attend to stimuli that’s expected to be noticed.
+- Certain stimuli work better for attention capture
+  - Faces
+  - Eyes
+  - Names
+  - Other meaningful words
+- Flanker task: as task difficulty increases, only faces distract not other objects.
+- Face processing in involuntary.
+- “Meaning is the primary determinant of selective attention and therefore of the content of perceptual consciousness. We see what interests us, what we are looking for, and what we are expecting.”
+- Deja Vu: the impression of having previously experienced an unexperienced situation.
+- One potential cause is that it’s from a forgotten memory.
+- Highlights inattentional blindness.
+- Limits of attention
+  - Capacity model: attention can only handle a limited amount of activity
+  - Structural limits: attention tasks interfere with each other if the tasks are similar
+  - Central bottleneck: there’s only one narrow path along which information can travel
+  - Divided attention: the ability to attend to more than one thing at a time
+    - Practice leads to better ability to divide attention
+    - Studied using dual task experiments
+    - Evidence that central bottleneck could be overcome by practice
+- Mind wandering: a shift of mental resources away from the task at hand and towards internal thoughts.
+  - Associated with increased activity in default mode network
+  - Default mode network: a network that’s more active when not doing any task
+- Task switching: changing from working on one task to working to another.
+  - Set/Mental set: temporary, top-down organization in the brain to achieve some goal
+  - Switch cost: the finding that performance gets worse immediately after switching tasks
+  - Switching requires a change in the mental set
+  - Participants were reluctant to pay the switch cost once they got used to a task
+- Sustained attention: the ability to pay attention for a long period of time.
+- Attention can also be understood in terms of the body aka the hardware.
+- Overt attention: attending to something with eye movements.
+- Covert attention: attending to something without eye movements.
+- We tend to focus first on words then images.
+- Retinotopic: the mapping of neurons from the retina to the visual cortex.
+
+## Memory Systems
+
+- Primary memory = short-term memory
+- Secondary memory = long-term memory
+- Sensory memory: buffer system for stimuli received through senses
+  - Iconic: visual
+  - Echoic: auditory
+  - Can register large amounts of information but only for a short period of time
+  - Partial report task: test of iconic storage capacity
+  - The rate of decay for sensory memory is rapid. How rapid?
+- Short-term/working memory: pulls all other memory systems together for temporary storage and manipulation.
+- Short-term memory consists of fluid and crystallized systems.
+- Fluid systems can manipulate information but is unchanged by learning.
+- Crystallized systems are for accumulating long-term knowledge.
+- What we process, we learn.
+- Long-term memory is split into declarative and non-declarative memory.
+- Declarative memory: know that can be stated (explicit memory)
+  - Episodic memory: personally experienced events
+  - Semantic memory: knowledge, facts
+  - These two are not mutually exclusive as we can access both simultaneously
+  - How do we know they’re separate? Why are they separate?
+  - Patient WJ had a deficit in episodic memory but her semantic memory was intact
+- Identity is made up of episodic and semantic memory.
+- E.g. Semantic memory holds facts about yourself such as name, age, and personality. Episodic memory holds your experiences and evidence of claims about yourself.
+- Normal people show a recency bias, patient WJ showed a primacy bias.
+- Retrograde and anterograde amnesia can happen together or separately.
+- Explicit memory = tested directly (conscious)
+- Implicit memory = tested indirectly (subconscious)
+- Patients with amnesia were able to complete the implicit memory test (complete word from stem) but not the explicit memory test (recognition).
+- Amnesia: impairment of explicit memory.
+- Two subtypes of implicit memory
+  - Perceptual representation system
+    - Responsible for priming effects
+    - Priming: unconscious processing where our response to a given stimulus is effected by previous exposure to a related/identical stimulus.
+  - Procedural
+    - Knowing how to do something without being able to describe it.
+    - E.g. How to ride a bike, how to read.
+- Spreading activation: activation of one memory/idea leads to further activations along associative links.
+- Spreading activation explains why priming has an effect because related ideas/memories are already in processing.
+- Tip-of-the-tongue phenomenon (TOT): knowing that you know something without being able to explicitly recall it.
+- TOT occurs more frequently with
+  - aging
+  - bilinguals
+  - stress
+- Why does TOT occur more frequently in bilinguals?
+  - Maybe it’s because of the interference or conflict between representation and meaning.
+  - E.g. Having a meaning that’s represented in different languages.
+- Why does TOT occur?
+  - Retrieval failure due to blocking by a competitor which suggests that spreading activation isn’t automatic or diffuse.
+  - Perhaps some activations inhibit other activations.
+- Connectionist models of memory
+  - Individual items aren’t stored but rather a pattern of activity within a network constitutes a memory.
+  - When a neuron is activated, it also actives all units connected to it.
+  - The system needs to inhibit some connections and excite other connections.
+- Memory and aging
+  - Episodic memory shows a strong decline with age.
+  - Semantic memory isn’t affected as much with age.
+  - Associative deficit hypothesis: that older adults’ inability to remember the details of prior episodes results from a failure to create and retrieve links between individual items and the contexts in which they appeared during encoding.
+  - Older adults are able to learn new implicit associations
+  - Korsakoff’s syndrome: a form of amnesia from brain atrophy that occurs due to malnutrition.
+  - Korsakoff’s patients have a disconnection syndrome as if the two memory systems are now disconnected.
+  - Confabulation: honest lying that requires strategics.
+  - Alzheimer’s disease: progressive disease of memory impairment.
+    - Primary cause is age
+    - Due to synapse loss and neuron loss
+    - Affects semantic memory
+- Memory trace vs memory schema
+  - Remembering is re-experiencing of the past versus using fragments of past events to support a new construction
+  - Memory traces aren’t permanent. Why?
+  - Consolidation theory: memories take some time to consolidate.
+  - The hippocampus plays an important role in memory consolidation.
+  - Reconsolidation: when a memory trace is revised upon reactivation.
+  - Memories are a dynamic process.
+- Flashbulb memories
+  - Flashbulb memory: vivid and detailed memories of highly significant events.
+  - A type/subset of autobiographical memory.
+  - Usually associated with a powerful emotion.
+  - Depends on
+    - Degree of surprise
+    - Degree of consequentiality
+    - Elaboration
+    - Frequency of rehearsal
+    - Narration
+  - Do flashbulb memories have a unique neural circuitry?
+    - Parahippocampal gyrus was inactive when recalling 9/11 memories.
+    - Amygdala was active when recalling 9/11 memories.
+  - Different parts of the brain are used for LTM and flashbulb memory.
+  - The strength of the amygdala activation correlates with flashbulb memories.
+  - It also stories the emotional response at the time.
+  - Feeling a memory as more vivid and more detailed doesn’t mean it’s more accurate.
+  - Confidence doesn’t equate to accuracy for memories.
+  - Flashbulb memories decay in consistency at the same rate as everyday memories.
+- Memory errors
+  - Deese-Roediger-McDermott paradigm: used to examine false memory formation in humans.
+  - Don’t only do we forget, we don’t know that we’ve forgotten because the brain creates false memories.
+  - Inter-item association
+    - Pros: makes items relatively easier to remember
+    - Cons: increases the chance of false memories
+  - Schemas are double-edged swords. They help by filling in missing details but the process is error-prone and fills in memories through context.
+  - Experiment where participants were asked to recall a story
+    - Specific details were forgotten
+    - Stories were shortened
+    - Substituted unfamiliar details with more familiar details
+    - Order of events changed to be more familiar
+  - Two types of information go into memory
+    - Information from perception
+    - Information from reality
+  - E.g. How fast were the cars going when they crashed/smashed/hit?
+  - The answer varies depending on the word used.
+  - Factors that lead to errors are often byproducts of a highly effective memory system.
+- Schema Theory
+  - Selection: we select information as we receive and recall it.
+  - Abstraction: we remember the high level details.
+  - Interpretation: we interpret by making inferences and then remembering those inferences.
+  - Integration: we abstract the meaning of the event and then combine the abstractions in a coherent way.
+- Encoding specificity
+  - The way an item is retrieved from memory depends on the way it was stored in memory.
+  - If a cue was encoded together with a memory, it will aid in recall.
+  - Recognition failure of recallable words. The inability to recognize words that you can recall.
+  - The idea is that you want the context of learning is the same as the context of retrieval.
+  - Similar to practice like you play so you play like you practice.
+- Autobiographical memory
+  - Childhood amnesia: the general inability to retrieve episodic memories from before the age of three.
+  - Memory bump: the increase in the number of memories between the age of 10 to 30.
+  - Possible explanations of the memory bump
+    - Autobiographical consequential experiences that form a person’s identity
+    - Life scripts due to culturally provided narratives
+    - More distinctive events occur in the first 30 years of life
+  - All explanations highlight that development during critical periods of life is memorable.
+- Depth of processing
+  - Shallow processing: structural/syntax encoding
+  - Intermediate processing: phonemic encoding
+  - Deep processing: semantic encoding
+  - Does the level of processing effect recall?
+  - Elaboration and distinctiveness both involve deeper levels of processing, both aid in the recall of memory.
+  - Elaboration: adding to or enriching information by relating it to other information.
+  - Distinctiveness: the precision with which an item is encoded.
+  - Recall performance: shallow < intermediate < deep < personal
+  - We recall more when we construct the information ourselves.
+- Forgetting
+  - Forgetting is an exponential decrease where we forget a lot at the beginning.
+  - Long term remembering tips
+    - Distributed learning
+    - Retrieval learning
+    - Connecting concepts
+
+## Imagery
+
+- Imagery: picture in your head.
+- Imagery and memory
+  - Does imagery help memory?
+    - Experiment by comparing memory of abstract versus concrete ideas.
+    - Yes, concrete words are more easily memorized compared to abstract words.
+  - Dual coding theory: there are two ways of representing events: verbal and non-verbal.
+    - Logogens: the units containing verbal information.
+    - Imagens: the unit containing non-verbal information.
+  - High imagery words can be coded with both codes whereas abstract words can be only coded verbally.
+  - Double dissociation when tested for dual coding theory. Impairment in concrete words while abstract is intact, impairment in abstract words while concrete is intact.
+  - Concrete and abstract words are processed independently in the brain.
+  - Distinctiveness hypothesis (DH): that more unique items are more easily remembered.
+  - The DH doesn’t always occur as it’s dependent on context.
+  - Synesthesia: perception in one modality triggers perception in another modality.
+  - E.g. A sound triggers a color.
+  - Aphantasia: inability to create mental images.
+- Manipulation of mental images
+  - Mental rotation
+    - The greater the angle fo rotation, the greater the reaction time for deciding whether two objects are the same.
+    - Rotating real objects takes time so it seems that applies to rotating mental objects.
+    - Mental rotation speed is constant between 0 and 180 degrees.
+  - From other experiments, it seems like mental imagery mirrors the real world.
+  - Ambiguous images: images that can be viewed in two different perspectives.
+  - E.g. Necker’s cube.
+  - Mental images cannot be ambiguous just like the real world.
+- Cognitive maps
+  - Tolman rat experiment that demonstrates that rats create cognitive maps instead of remembering actions.
+  - Egocentric map: map based on where I am (relative)
+  - Allocentric map: map based on bird eye’s view (absolute)
+  - The hippocampus is essential for memory and spatial navigation.
+  - However, not all of hippocampus grew equally in the London taxi experiment.
+- Auditory imagery
+  - Imagery is not only visual, it can also be music/voices in your head.
+  - Visual imagery activates almost all of the same areas as actual perception.
+  - Imagery: Frontal cortex activates the visual cortex.
+  - Perception: Retina activates the visual cortex which activates the frontal cortex.
+  - Motor imagery: imaging a body movement.
+  - E.g. Imagining a dance or a sport.
+  - Once again, there’s a large overlap in brain areas between actually doing a movement and mentally imagining the movement.
+  - The brain reuses the same areas for imagery as for perception which is efficient.
+
+## Concepts
+
+- Classical approach: concepts are realized through instances.
+- How attributes define concepts
+  - Conjunctive: AND
+  - Disjunctive: OR
+  - Relational concept
+- Positive instance: an instance of a concept.
+- Negative instance: an instance that doesn’t contain the right attributes of a concept.
+- Criterial attribute: a required attribute for a concept.
+- E.g. Primary key in databases
+- Abstraction: the process of including recurring attributes and excluding non-recurring attributes.
+- Bruner cards experiment
+- Implicit learning: learning that takes place unintentionally.
+- E.g. Grammar
+- Explicit learning: learning that takes place intentionally.
+- E.g. Algebra
+- Wittgenstein’s problem with the classical approach
+  - Category members tend to share certain features but not always.
+  - E.g. Game.
+- Prototypicality
+  - Category represented by an “ideal” category member.
+  - Defines the center of the category.
+- Cognitive economy
+  - The balance between complexity and simplicity.
+  - Complexity: maximizing informativeness.
+  - Simplicity: keeping the number of concepts manageable.
+- Perceived world structure: some combinations of attributes are more common.
+- Concepts have two dimensions: vertical and horizontal.
+- Vertical dimension: how specific.
+- Horizontal dimension: how different.
+- Embodied cognition: cognition also depends on the body.
+- Goal-derived category: a category invented for a specific purpose or occasion.
+- Concepts as metaphors: the pairing of subjective experience with sensorimotor experience.
+
+## Language
+
+- Phonemes: the smallest unit of language.
+- E.g. d, o, g
+- Morphemes: the smallest meaningful units of language.
+- E.g. Dog.
+- Syntax: the rules that govern how words are arranged in a sentence.
+- Semantics: the meaning of words and sentences.
+- Language is generative meaning there are unlimited number of possible words, sentences, etc.
+- Language is limitless within limits; it’s bounded by rules.
+- Linguistic competence: ability to relate sound to meaning.
+- Linguistic performance: linguistic competence plus memory, context, sensitivity.
+- Chomsky’s poverty of stimulus argument.
+- Perhaps the development of language in children is related to the complexity of teacher’s speech.
+- Is language acquisition innate?
+- Linguistic relativity: does language influence thought?
+- Language specialization moves from the entire brain to the left hemisphere.
+- Is this shift due to biology or experience?
+- Aphasia: loss of a language ability due to brain damage.
+
+## Problem Solving
+
+- Insight problems
+  - Gestalt theory: assumes that consciousness is organized.
+  - Gestalt switch: a sudden change in the way information is organized.
+  - Insight problem: a problem that requires a different angle before we can solve it.
+  - The way the problem is posed makes it difficult to solve.
+  - No specifiable path to the solution.
+  - Gestalt theory is controversial but essential.
+  - Kohler 1925 experiment with Sultan the chimpanzee.
+  - Insight occurs during productive thinking when the problem is suddenly restructured and the solution becomes clear.
+  - To achieve representational change
+    - Constraint relaxation: removing assumptions that were blocking the solution.
+    - Chunk decomposition: parts of problems that are related are separated and thought about independently.
+- Functional fixedness
+  - Functional fixedness: the tendency to think about objects based on the function they were designed for.
+  - Children are less likely to be functionally fixed because they have no assumptions about how to use tools. They believe an object’s function is determined by the user’s goals.
+  - Around the age of six, the children develop the belief that the function of an object is one for which it was designed/created for.
+  - Einstellung effect: the tendency to respond inflexibly to a particular type of problem.
+  - E.g. Solving the same problem in the same way.
+- Artificial intelligence approaches
+  - Break a problem into sub-problems.
+  - Goal stack: the final goal at the bottom with sub-goals stacked on top.
+
+## Reasoning, Judgement, and Choice
+
+- Reasoning: a thought process that yields a conclusion from premises.
+- Syllogistic reasoning: two premises + one conclusion.
+- True reasoning isn’t the same as valid reasoning.
+- E.g. You can have valid reasoning with false premises.
+- Logicism: the belief that logical reasoning is an essential part of human nature.
+- Interpretation of “some”
+  - The statement “Some people are human”.
+  - Doesn’t mean “Some people are not human” nor “Not all people are human”.
+  - We interpret “some” as “some but not all” whereas the logical meaning is “at least one and possibility all”.
+  - Why use “some” to mean “all” in the logical definition if we can use the word “all” instead?
+- Mental model: a mental structure that specifies how the parts of the model go together.
+- Falsification: looking for evidence that falsifies the hypothesis.
+- Heuristic: a rule of thumb or shortcut.
+- Bias: a predisposition towards one option.
+- There’s a desire to conserve cognitive effort. Why?
+- Law of large numbers: the larger the sample, the closer a statistic will be to the true value.
+- Law of averages: fallacy based on assumption that events of one kind are always balanced by events of another kind. Also known as the gambler’s fallacy.
+- Representative heuristic: making inferences on the assumption that small samples resemble the population from which they’re drawn.
+- Anchoring bias: judgements of magnitude are biased by the initial values.
+- Availability bias: judgements are based on readily available memory.
+
+## Intelligence, Creativity, and Consciousness
+
+- Intelligence
+  - The first test assumed one fundamental faculty: judgement.
+  - The ability to judge, comprehend, and reason well.
+  - Another measure is obtained by dividing a person’s mental age (MA) by the chronological age (CA).
+  - $$IQ = \frac{MA}{CA} * 100$$.
+  - IQ follows a normal distribution.
+  - Is intelligence one construct or many?
+  - Spearman’s Two-factory theory of intelligence
+    - General intelligence: part of intelligence common to all abilities.
+    - Specific intelligence: underlying abilities that drive general intelligence.
+  - Raven’s progressive matrices: a set of problems that make up the most widely accepted test of “g”.
+    - Not about measuring content of person’s knowledge.
+    - More about the ability to draw relationships from new situations.
+  - Cattel
+    - Fluid and crystal intelligence
+  - Neural plasticity: changes in neuronal circuitry as a function of experience.
+  - Flynn effect: rise in IQ scores over time.
+- Sternberg’s theory of intelligence
+  - Universal components
+    - Metacomponents: executive processes.
+    - Performance components: task execution processes.
+    - Knowledge acquisition components: learning and storing processes.
+  - Triarchic theory: three content areas
+    - Analytic intelligence: mental steps to solve problems.
+    - Creative intelligence: use experience to foster insight.
+    - Practical intelligence: ability to adapt to new situations in life.
+- Garden’s theory of multiple intelligences
+  - Intelligence consists of many different abilities, not a general ability like “g”.
+  - Criteria for identification of a separate intelligence
+    - There are eight factors, here are three of them.
+    - Symbol system
+    - Existence of prodigies
+    - Distinctive developmental history
+  - Examples of multiple intelligences
+    - Spatial
+    - Mathematical
+    - Language
+  - Not grounded in scientific data but in case studies such as savants.
+- Expertise
+  - Chunk: break problems down into meaningful subcomponents.
+- Creativity
+  - A creative discovery is a novel and valuable/useful.
+  - Guilford’s alternative uses task
+  - Stages of creativity
+    - Preparation
+    - Incubation
+    - Illumination
+    - Verification
+  - However, the evidence for these stages is weak.
+  - Maybe incubation works because we forget “bad” strategies.
+- Consciousness
+  - Tulving’s different kinds of consciousness
+    - Anoetic: procedural memory
+    - Noetic: semantic memory
+    - Autonoetic: episodic memory
+  - Autonoetic consciousness allows for “mental time travel”.
+  - It isn’t just remembering but re-experiencing an event.
+  - Schooler’s level of consciousness
+    - Non-conscious/unconscious: the unexperienced.
+    - Conscious: the simply aware.
+    - Meta-conscious: the directing of attention.
+  - Grand illusion of conscious perception: the illusion that what we see is a clear and detailed picture.
+  - Change blindness: the increase in difficulty when trying to find differences in images when there’s a blank image between the images. A failure to consciously detect a change in a scene.
+  - Maybe the blank image wipes our temporary memory of the image?
+  - Constraints of the visual system
+    - Retinal blur: the blurring of information when the eye moves.
+    - The brain suppresses information processing when the eye is moving.
+    - Blind spot: region of the retina without any photoreceptors.
+  - Mind-wandering: a state when your thoughts wander from a particular task without realizing.
+  - When you realize you’re mind-wandering/day-dreaming, that’s an example of meta-consciousness.
+  - Lucid dreaming: when we’re aware that we’re dreaming.
+  - Lucid dreaming is a hybrid state between consciousness and meta-consciousness.
+  - Hemispatial neglect: the lack of awareness of objects located in the opposite side of the brain damage. Also applies to other senses and memories.

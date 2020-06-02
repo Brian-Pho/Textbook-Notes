@@ -1,0 +1,28 @@
+/* sidebar */
+.post-toc {
+  top: 0;
+  height: 100vh;
+}
+
+.toc-header {
+  color: #677b8c;
+}
+
+.bs-docs-sidebar ul {
+  list-style: none;
+  padding-inline-start: 20px;
+}
+
+.bs-docs-sidebar > ul {
+  padding: 0;
+}
+
+.bs-docs-sidebar a {
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.bs-docs-sidebar a:hover,
+.bs-docs-sidebar a:focus {
+  font-weight: 600;
+}

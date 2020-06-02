@@ -1,0 +1,41 @@
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
+$theme-colors: (
+  "sidebar": #eff1f3,
+);
+
+.sidebar {
+  top: 0;
+  z-index: $zindex-sticky;
+  background-color: theme-color("sidebar");
+
+  @include media-breakpoint-up(md) {
+    height: 100vh;
+    justify-content: flex-end;
+  }
+}
+
+.navbar-brand {
+  font-family: "Arima Madurai", sans-serif;
+  font-style: normal;
+  font-weight: bold;
+
+  @include media-breakpoint-up(md) {
+    font-size: 4.45vw;
+    font-weight: 100;
+  }
+}
+
+.navbar-text {
+  font-size: 1.25vw;
+  font-weight: 300;
+  font-style: normal;
+  color: #606770;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
