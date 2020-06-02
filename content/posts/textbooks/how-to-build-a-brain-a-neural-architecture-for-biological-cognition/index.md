@@ -7,7 +7,6 @@ categories:
 book: "how-to-build-a-brain-a-neural-architecture-for-biological-cognition"
 book_authors: "Chris Eliasmith"
 excerpt: "An introduction to a biologically plausible model of the brain."
-
 ---
 
 <blockquote class="blockquote">

@@ -594,7 +594,3 @@ excerpt: "A good introductory book into the field that exists between brains and
   - Brain-like
 - Brains are between digital and analog. It’s like analog because of how specialized the hardware is but it’s like digital because of how generalized the software is.
 - The flexibility from learning and association.
-
----
-
-Anki flashcards to be added.

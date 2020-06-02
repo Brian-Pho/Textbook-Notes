@@ -7,4 +7,4 @@ categories:
 excerpt: "Principles of Operating Systems"
 ---
 
-[LaTeX Notes]({{ "/assets/courses/cpsc-457.pdf" | absolute_url }})
+[LaTeX Notes](cpsc-457.pdf)

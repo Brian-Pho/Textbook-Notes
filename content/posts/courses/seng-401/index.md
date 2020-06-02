@@ -7,4 +7,4 @@ categories:
 excerpt: "Software Architecture"
 ---
 
-[LaTeX Notes]({{ "/assets/courses/seng-401.pdf" | absolute_url }})
+[LaTeX Notes](seng-401.pdf)

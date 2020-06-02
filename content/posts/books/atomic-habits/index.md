@@ -5,7 +5,6 @@ date: "2019-04-07"
 categories:
   - Books
 excerpt: "How to build good habits and to break bad habits."
-
 ---
 
 # The Fundamentals

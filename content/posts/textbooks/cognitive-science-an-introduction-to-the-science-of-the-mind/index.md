@@ -18,7 +18,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 ## Chapter 1: The prehistory of cognitive science
 
-**1.1 The reaction against behaviorism in psychology**
+### 1.1 The reaction against behaviorism in psychology
 
 - *Behaviorism*: the belief that we should only study observable phenomena and measurable behavior. To link particular stimuli to particular responses.
 - The behaviorism paradigm was challenged by various types of behavior that couldn't be explained in terms of stimulus-response.
@@ -39,13 +39,13 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - *Hypothesis of Subconscious Information Processing*: much of what we do is under the control of planning and information processing mechanisms that operate below the threshold of awareness. We do a lot of things without being aware.
 - *Hypothesis of Task Analysis*: we can break down a complex task into a hierarchy of more simpler tasks. Reductionism vs emergence.
 
-**1.2 The theory of computation and the idea of an algorithm**
+### 1.2 The theory of computation and the idea of an algorithm
 
 - *Algorithm*: makes the notion of a "mechanical procedure" more precise (via math and logic).
 - *Universal Turing Machine*: a Turing machine that can simulate any specialized Turing machine by taking that machine (plus its input) as its input.
 - *Church-Turing Thesis*: anything that can be done in mathematics by an algorithm can be done by a Turing machine. Turing machines can compute anything that can be algorithmically computed.
 
-**1.3 Linguistics and the formal analysis of language**
+### 1.3 Linguistics and the formal analysis of language
 
 - Two types of sentence structures
   - *Deep structure*: how a sentence is made up of basic parts and basic rules (think context-free grammar and emergence).
@@ -55,7 +55,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
   - Sophisticated, hierarchical, cognitive abilities (e.g. language) involved stored bodies of information.
   - These bodies of information can be manipulated algorithmically.
 
-**1.4 Information-processing models in psychology**
+### 1.4 Information-processing models in psychology
 
 - How can we measure information?
 - *Information channel*: a medium that transmits information from sender to receiver.
@@ -74,14 +74,14 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - The sensory input is first filtered before reaching the limited capacity channel. The filter is "programmed" by another system.
 ![Figure 1.6](figure1-6.png)
 
-**1.5 Connections and points of contact**
+### 1.5 Connections and points of contact
 
 - Information is gained through learning and is stored as a representation, thus organisms are information processors.
 - Information processing is done by dedicated and specialized systems. These systems perform simpler tasks to process the information.
 - We can understand how a cognitive system works as a whole by understanding how information flows through the system. Think of DFD (Data-Flow-Diagram) and UML.
 - Cognition as a form of information processing. Processing as in how information is represented, transformed, and exploited.
 
-**Summary**
+### Summary
 
 - The fundamental idea of cognitive science is that the mind is an information processor. That mental operations involve processing information.
 - Should we abstract away the brain to understand the mind?
@@ -95,7 +95,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 ## Chapter 2: The discipline matures: Three milestones
 
-**2.1 Language and micro-worlds**
+### 2.1 Language and micro-worlds
 
 - Language is more than a tool used for communication. It’s also a tool used for thinking.
 - Three reasons why SHRDLU (a program that can manipulate and answer questions about its environment) is important
@@ -104,7 +104,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
   - It shows how understanding language is an algorithmic process.
 - Approach the understanding of systems by starting from the abstract/general and moving down towards the concrete/specific.
 
-**2.2 How do mental images represent?**
+### 2.2 How do mental images represent?
 
 - One way to test our understanding of a cognitive ability is to try to build it.
 - Artificial intelligence can be thought of as a way to experiment with models in cognitive science.
@@ -129,7 +129,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - *Imagistic representation*: Opposite to a digital representation where the representation matches the meaning assigned to it.
 - E.g. a map. What it represents is similar to reality as the representation is secured though resemblance.
 
-**2.3 An interdisciplinary model of vision**
+### 2.3 An interdisciplinary model of vision
 
 - *Reverse engineering*: the process by which we take an object and try to work backwards from its structure and function to its basic design principles.
 - Reverse engineering = science.
@@ -143,7 +143,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
   - The representation of a object should be object-centered rather than egocentric.
   - E.g. If the viewer’s perspective changes or the object moves, we can still keep track of the object even though its representation changes. This means we have a viewer-independent representation of the object.
 
-**Summary**
+### Summary
 
 - SHRDLU illustrated how abstract grammatical rules might be represented in a cognitive system.
 - The imagery debate is about whether the different effects revealed by experiments on mental imagery can or cannot be explained in terms of digital information processing models.
@@ -154,7 +154,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 ## Chapter 3: The turn to the brain
 
-**3.1 Cognitive systems as functional systems**
+### 3.1 Cognitive systems as functional systems
 
 - It’s widely viewed that cognitive systems are functions systems. And functional systems have to be analyzed in terms of their function - what they do and how they do it.
 - It’s also viewed that cognitive processes can be studied independently of their physical realization.
@@ -163,7 +163,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Maybe cognition can be realized in machines - that’s the goal of AI.
 - Certain types of mental activity are multiply realizable due to evidence of neural plasticity.
 
-**3.2 The anatomy of the brain and the primary visual pathway**
+### 3.2 The anatomy of the brain and the primary visual pathway
 
 ![Figure 3.3](figure3-3.png)
 
@@ -180,7 +180,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - The brain is able to compensate for the loss of function in one hemisphere by using it in the other hemisphere via the corpus callosum.
 - This contrasts with Marr’s approach as this is bottom up.
 
-**3.3 Extending computational modeling to the brain**
+### 3.3 Extending computational modeling to the brain
 
 - There are several reasons why we shouldn’t ignore the brain/hardware and abstract away the details
   - The temporal dimension of cognition. The right answer is no use if it comes at the wrong time.
@@ -197,7 +197,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - ANNs learn by adjusting their weights.
 - ANNs have no memory, or rather the only traces of what happened exists in the weights of the network.
 
-**3.4 Mapping the stages of lexical processing**
+### 3.4 Mapping the stages of lexical processing
 
 - Understand complex systems by simplifying them.
 - PET measures the blood flow in the brain.
@@ -215,19 +215,17 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Experiments using PET suggest the neurological model is inaccurate due to each function requiring a different area of activation.
 ![Figure 3.9](figure3-9.png)
 
-**Summary**
+### Summary
 
 - We’ve identified two information processing pathways for visual information, the "what" pathway and the "where" pathway.
 - Artificial neural networks are a model of the brain and learns by adjusting its weights.
 - The processing of one word is supported by a parallel model of processing where reading, hearing, speaking, and understanding are independent.
 
----
-
 # Part II: The Integration Challenge
 
 ## Chapter 4: Cognitive science and the integration challenge
 
-**4.1 Cognitive science: An interdisciplinary endeavor**
+### 4.1 Cognitive science: An interdisciplinary endeavor
 
 - We should take both a top-down approach and a bottom-up approach.
 - Our theories of what the mind does has to co-evolve with our theories of how the brain works.
@@ -238,7 +236,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - This hexagon isn’t a good model cognitive science because it doesn’t give any sense of a unified intellectual enterprise. The whole isn’t greater than the sum of its parts.
 - It also doesn’t take into account other relevant fields such as math (dynamical systems theory), ecology (cognition in other animals), political science (game theory)
 
-**4.2 Levels of explanation: The contrast between psychology and neuroscience**
+### 4.2 Levels of explanation: The contrast between psychology and neuroscience
 
 - One way of separating psychology and neuroscience is through the idea of levels.
 - Even though psychology has various sub-fields, there is a continuity of methodology which links those sub-fields into psychology.
@@ -248,7 +246,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Different branches of neuroscience uses different tools that vary in spatial resolution and temporal resolution.
 ![Figure 4.3](figure4-3.png)
 
-**4.3 The integration challenge**
+### 4.3 The integration challenge
 
 - *Integration challenge*: explaining how all of the different levels of explanation fit together.
 - The integration challenge arises because cognitive science has three dimensions of variation
@@ -263,7 +261,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
   - *Global strategies*: overarching models that explain how cognitive science as a whole fits together.
   - *Local strategies*: integration across levels of organization and levels of explanation.
 
-**4.4 Local integration I: Evolutionary psychology and the psychology of reasoning**
+### 4.4 Local integration I: Evolutionary psychology and the psychology of reasoning
 
 - We want to understand how people solve problems and reason.
 - One solution is that human reasoning uses basic principles of logic and probability theory but this doesn’t seem true.
@@ -283,7 +281,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - The idea of a module to detect cheating is an example of local integration between cognitive psychology and evolutionary psychology.
 - We evolved this module in response to our environment and its effects are seen in the Watson card selection experiment.
 
-**4.5 Local integration II: Neural activity and the BOLD signal**
+### 4.5 Local integration II: Neural activity and the BOLD signal
 
 - PET measure local blood flow, fMRI measures levels of blood oxygenation.
 - fMRI is built on the principle that deoxygenated hemoglobin disrupts magnetic fields thus we can measure the blood that lacks oxygen.
@@ -298,7 +296,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Does BOLD measure the input or output of neurons?
 - The BOLD contrast is more highly correlated with the LFP (local field potential aka the inputs) than the firing activity of neurons (the outputs).
 
-**Summary**
+### Summary
 
 - Cognitive science is interdisciplinary.
 - Disciplines and sub-fields across cognitive science differ in three dimensions
@@ -313,7 +311,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 ## Chapter 5: Tackling the integration challenge
 
-**5.1 Intertheoretic reduction and the integration challenge**
+### 5.1 Intertheoretic reduction and the integration challenge
 
 - *Intertheoretic reduction*: solves the integration challenge by reducing the various theories of cognitive science to a fundamental theory (similar to how we could unify the physical sciences by reducing them all to physics). It relates between laws at different levels of explanation. It's a translation in a sense.
 - The integration challenge isn’t unique to cognitive science, other sciences also face a similar problem.
@@ -333,7 +331,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - *Anterograde amnesia*: affecting memory of events after the onset of brain injury.
 - *Retrograde amnesia*: affecting memory of events before the onset of brain injury.
 
-**5.2 Marr’s tri-level hypothesis and the integration challenge**
+### 5.2 Marr’s tri-level hypothesis and the integration challenge
 
 - The mind is an information processing system. The brain is a signal-processing system.
 - Marr’s three levels (tri-level hypothesis) are computational, algorithmic, and implementational.
@@ -354,7 +352,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - There seems to be a close relation between cognitive systems being modular and it being susceptible to Marr’s top-down analysis.
 - *Frame problem*: how to build a system that will correctly identify what information and which inferences should be pursued in a given situation.
 
-**5.3 Models of mental architecture**
+### 5.3 Models of mental architecture
 
 - *Mental architecture*: solves the integration challenge by looking for a general model of the organization of the mind and the mechanics of cognition that incorporates some of the basic assumptions common to all disciples and fields composing cognitive science.
 - We start off with a basic assumption common to all of the cognitive sciences. Then we show how different interpretations of that assumption generate different models of the mind.
@@ -373,18 +371,16 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Modularity hypothesis (domain-specific) vs faculty-based hypothesis (domain-general).
 - Computational information processing paradigm (physical system hypothesis) vs connectionist information processing paradigm (artificial neural networks).
 
-**Summary**
+### Summary
 
 - The integration challenge can be tackled in a global manner.
 - Global responses to the integration challenge seek to define relations either between different levels of explanation (intertheoretic reduction) or between different levels of organization (Marr’s tri-level hypothesis).
-
----
 
 # Part III: Information-Processing Models of the Mind
 
 ## Chapter 6: Physical symbol systems and the language of thought
 
-**6.1 The physical symbol system hypothesis**
+### 6.1 The physical symbol system hypothesis
 
 - *Physical symbol system hypothesis*: A physical symbol system has the necessary and sufficient means for general intelligent action.
 - There are two claims here
@@ -419,7 +415,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
     - Apply research to game-playing AI
     - Learn from failures, proceed with successes
 
-**6.2 From physical symbol systems to the language of thought**
+### 6.2 From physical symbol systems to the language of thought
 
 - *Fodor’s language of thought hypothesis*: the basic symbol structures in the mind that carry information are sentences in an internal language of thought.
 - *Propositional attitudes*: the psychology states (E.g. fear, belief, happiness) that a person associates with a proposition (claim)
@@ -454,7 +450,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - E.g. of semantic transition, the word "cat" refers to a fluffy cute animal, but now I change it so that the word "cat" also refers to that yellow, curved fruit.
 ![Figure 6.3](figure6-3.png)
 
-**6.3 The Chinese room argument**
+### 6.3 The Chinese room argument
 
 - John Searle challenges the claim that manipulating symbols is sufficient to produce intelligence behavior.
 - Chinese room thought experiment
@@ -477,7 +473,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - The basic principle of cognitive science is that the mind works by processing information. If this information processing is symbolic, then the symbol-grounding problem immediately raises its head.
 - We can either abandon the idea that cognition is a form of information processing (and with it abandon the idea that cognitive science can explain the mind). Or we can look for forms of information processing that are not symbolic.
 
-**Summary**
+### Summary
 
 - *Mental architecture*: combines a model of how information is stored and processed with a model of the overall organization of the mind.
 - One model of how information is stored and processed is the physical symbol system hypothesis.
@@ -492,7 +488,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 ## Chapter 7: Applying the symbolic paradigm
 
-**7.1 Expert systems, machine learning, and the heuristic search hypothesis**
+### 7.1 Expert systems, machine learning, and the heuristic search hypothesis
 
 - *Expert systems*: a program that will reproduce the expert performance of human beings in a certain domain.
 - *Decision trees*: a tree where each node is a question and each edge is an answer. The decision starts from the top and goes down as more questions are answered.
@@ -501,7 +497,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - *Heuristic search hypothesis*: problems are solved by generating and modifying symbol structures until a suitable solution is found.
 - We want a machine learning algorithm that will construct a decision tree from a collection of data. In other words, we kind of want it to program IF-THEN constructs and to find patterns in the data.
 
-**7.2 ID3: An algorithm for machine learning**
+### 7.2 ID3: An algorithm for machine learning
 
 - *Information gain*: how much information we would get from that attribute or how much that attribute reduces uncertainty/entropy.
 - The machine learning algorithm should generalize the hidden rules in data which can be used on new, incoming data. To convert from a database to a decision tree.
@@ -523,7 +519,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - The ID3 algorithm is an example of the physical symbol hypothesis because it transforms a highly complex symbol structure, the database, into a simpler symbol structure, the decision tree.
 - The process of transforming inputs to outputs is essentially a process of manipulating symbol structures according to rules. The rules are the IF-THEN statements.
 
-**7.3 WHISPER: Predicting stability in a block world**
+### 7.3 WHISPER: Predicting stability in a block world
 
 - The physical symbol structures in the physical symbol system hypothesis doesn’t have to be language-like. They could be diagrams or images.
 - There’s a dispute about which physical symbol structures are involved in particular types of information processing.
@@ -537,7 +533,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - WHISPER shows that there are other ways of thinking about the physical symbol system hypothesis.
 - Both ID3 and WHISPER solve problems by generating and modifying physical symbol structures until a solution structure is reached.
 
-**7.4 Putting it all together: SHAKEY the robot**
+### 7.4 Putting it all together: SHAKEY the robot
 
 - Now we try to see whether symbol manipulation can generate intelligent action in a real, physical environment.
 - SHAKEY is a robot that’s able to move around, perceive, follow instructions, and implement complex instructions in a realistic environment.
@@ -550,9 +546,9 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - We can also call functions in the same level.
 - We can think about SHAKEY’s planning process as a tree search. The top node is the current state and the branches are states that can be reached via transformations.
 
-**Summary**
+### Summary
 
-||**ID3**|**WHISPER**|**SHAKEY**|
+||**ID3**|**WHISPER**|**SHAKEY|
 |---|---|---|---|
 |Symbols are physical patterns.|Attributes and values|Blocks and shapes|Symbols in predicate calculus|
 |Symbols can be combined to form more complex symbol structures.|Database|Diagram|Formulas in predicate calculus|
@@ -566,7 +562,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 ## Chapter 8: Neural networks and distributed information processing
 
-**8.1 Neurally inspired models of information processing**
+### 8.1 Neurally inspired models of information processing
 
 - Whereas the physical symbol system hypothesis is derived from the workings of digital computers, this new model of information processing is derived from the working of brains.
 - The problems when studying the brain as an information processor is the resolution and scale. Neuroimaging techniques are too coarse while single neuron techniques are too fine.
@@ -587,7 +583,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 ![Figure 8.2](figure8-2.png)
 - If the total input exceeds the threshold (T) then the neuron "fires" and transmits an output signal.
 
-**8.2 Single-layer networks and Boolean functions**
+### 8.2 Single-layer networks and Boolean functions
 
 - *Mapping function*: a function that maps inputs to outputs where no input has more than one output.
 - *Binary boolean functions*: inputs are pairs of truth values and outputs a truth value.
@@ -613,7 +609,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Multilayered networks can compute any computable function - not just the linearly separable ones. The problem is how to train a multilayered network.
 - The perceptron convergence rule cannot be applied to multilayer networks because there isn’t an error value for the hidden layers. With no way of calculating the error, we don’t know how to update the weights.
 
-**8.3 Multilayer networks**
+### 8.3 Multilayer networks
 
 - *Feed forward networks*: the processing is forwards through the network.
 ![Figure 8.10](figure8-10.png)
@@ -641,7 +637,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - E.g. recognizing the same object from many different angles and perspectives. This is known as *position-invariant object recognition*.
 - A good neural network model should match closely with what we know about people.
 
-**8.4 Information processing in neural networks: Key features**
+### 8.4 Information processing in neural networks: Key features
 
 - Instead of focusing on the details of neural networks, we now return to studying how neural networks process information.
 - In the physical symbol system hypothesis, representations are distinct and identifiable because symbols are like that. The structure and shape of the physical symbol structure is directly correlated with the structure and shape of the information it is carrying.
@@ -651,7 +647,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - E.g. To calculate the result of an AND statement, the physical symbol system hypothesis uses a Turing machine with explicit rules that only apply for AND. While an ANN can use the same network for AND and OR.
 - The final key feature is that ANNs can learn / be updated while physical symbol systems cannot.
 
-**Summary**
+### Summary
 
 - Artificial neural networks (ANN) are constructed from individual units that function as highly idealized neurons.
 - Train single-layer networks using the perceptron convergence rule.
@@ -667,7 +663,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 ## Chapter 9: Neural network models of cognitive processes
 
-**9.1 Language and rules: The challenge for information processing models**
+### 9.1 Language and rules: The challenge for information processing models
 
 - It’s remarkable that all children manage to arrive at about the same level of linguistic comprehension and language use.
 - Language is a rule-governed activity. It has grammatical rules.
@@ -689,7 +685,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - You cannot use the language that you are learning to learn that language. Much like how a compiler cannot be written in the language it’s meant to compile. But bootstrapping.
 - Language understanding isn’t purely theoretical so what does the evidence say?
 
-**9.2 Language learning in neural networks**
+### 9.2 Language learning in neural networks
 
 - ANNs can model complex linguistic skills without having any explicit linguistic rules encoded into them.
 - When children learn languages, they display a very typical trajectory.
@@ -722,7 +718,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - ANN models of language acquisition are deeply controversial.
 - The aim of neural network modeling isn’t to provide a model that faithfully reflects every aspect of neural functioning, but rather to explore alternatives to dominant conceptions of how the mind works.
 
-**9.3 Object permanence and physical reasoning in infancy**
+### 9.3 Object permanence and physical reasoning in infancy
 
 - We assume that infants look longer at events that they find surprising.
 - So by measuring the amount of time that infants look at events, experimenters can work out which events infants find surprising (which also provides us info on what infants expect).
@@ -753,7 +749,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Infants emphasize spatiotemporal continuity over featural while it’s the opposite for adults.
 - Similar to the case of grammar, object physics also has rules and both can be modeled by the physical symbol hypothesis.
 
-**9.4 Neural network models of children’s physical reasoning**
+### 9.4 Neural network models of children’s physical reasoning
 
 - Likewise to learning past tense, a neural network can simulate the behavior of infants in experiments on the dishabituation paradigm (without explicit rules being coded).
 - It's unfounded to conclude that infants actually access and reason using the object principles even though we believe it results in their behavior. It’s unfounded to attach a cause to an effect without ruling out the alternatives.
@@ -804,7 +800,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - In the physical symbol hypothesis, the progression to a different stage would be explained by the transition from one rule to another.
 - However, step-like progression can also emerge without the ANN learning explicit rules.
 
-**9.5 Conclusion: The question of levels**
+### 9.5 Conclusion: The question of levels
 
 - ANN models have an ability to model the complicated trajectories by which cognitive abilities are learnt.
 - In this section, we look into some concerns regarding ANN modeling.
@@ -821,19 +817,17 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - It may turn out that different types of cognitive task require fundamentally different types of information processing.
 - Maybe a combination of both is what’s needed which is what the next part is on, a hybrid architecture.
 
-**Summary**
+### Summary
 
 - One of the great strengths of neural networks is that they are capable of learning.
 - The development of cognitive abilities (such as learning past tense and object interactions) can be studied as a series of steps.
 - These steps can be modeled using the physical symbol system hypothesis or using an artificial neural network model.
 
----
-
 # Part IV: The Organization of the Mind
 
 ## Chapter 10: How are cognitive systems organized?
 
-**10.1 Architectures for intelligent agents**
+### 10.1 Architectures for intelligent agents
 
 - AI aims to build intelligent agents.
 - *Agent*: a system that perceives its environment through sensory systems and acts upon that environment through effector systems.
@@ -858,7 +852,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
   - Do all of the modules process information in the same way? Do they all have the same representations?
   - How "autonomous" and "insulated" are the different modules?
 
-**10.2 Fodor on the modularity of mind**
+### 10.2 Fodor on the modularity of mind
 
 - *Cognitive module*: a module (specialized sub-systems) that carries out an information processing task.
 - E.g. Color perception, face recognition, and shape analysis
@@ -892,7 +886,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - I think that both modularity and central processing exist. Modules exist because we have different parts of the brain devoted to different functions. Central processing exists because different sense can use the same knowledge gained from a different sense.
 - E.g. Memory, learning, and eye-hand coordination is general. The difficultly of AI is related to this.
 
-**10.3 The massive modularity hypothesis**
+### 10.3 The massive modularity hypothesis
 
 - The belief that all information processing is modular.
 - People are better at deontic conditions (permissions, requests, entitlements, etc.) than non-deontic conditionals.
@@ -911,7 +905,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
   - The input to a module must be filtered, and if this filtering is done by a module, then what is being inputted into the module? At some point, the input must be domain-general information thus not modular.
   - How to combine the outputs of different modules?
 
-**10.4 Hybrid architectures**
+### 10.4 Hybrid architectures
 
 - *Symbolic paradigm*: physical symbol system hypothesis
 - *Distributed paradigm*: artificial neural networks
@@ -936,7 +930,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
   - Organization of the mind is closely related to the nature of information processing.
   - Different parts of a mental architecture might exploit different models of information processing.
 
-**Summary**
+### Summary
 
 - There are three different types of agents
   - Simple reflex
@@ -957,7 +951,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 ## Chapter 11: Strategies for brain mapping
 
-**11.1 Structure and function in the brain**
+### 11.1 Structure and function in the brain
 
 - The distinction between anatomy and cognitive function in the brain.
 - Different regions in the cerebral cortex can be distinguished in terms of the types of cell that they contain and how densely those cells occur.
@@ -974,7 +968,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
   - Diagrams are studied independently from cognitive functions
 - There’s at least as many feedback connections as there are feedforward connections.
 
-**11.2 Studying cognitive functioning: Techniques from neuroscience**
+### 11.2 Studying cognitive functioning: Techniques from neuroscience
 
 - *Principle of integration*: cognitive functioning involved the coordinated activity of networks of different brain areas
 - There isn’t a way of measuring cognitive activity directly.
@@ -987,7 +981,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - PET and fMRI measure the brain’s blood flow and blood oxygen levels and have poor temporal resolution but good spatial resolution.
 ![Table 11.1](table11-1.png)
 
-**11.3 Combining resources I: The locus of selection problem**
+### 11.3 Combining resources I: The locus of selection problem
 
 - *Attention*: the ability to focus on/attend to a small portion of what we see, hear, touch, etc.
 - Does attention occur at the early or late stages of perceptual processing?
@@ -1001,7 +995,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - V4 appears to be affected by attention which supports that attention is an early selection phenomenon. Attention occurs before object recognition.
 - Although there are no techniques or technologies for studying cognitive activity directly and although each of the techniques has significant limitations, we can overcome many of the limitations by combining and triangulating the different techniques.
 
-**11.4 Combining resources II: Networks for attention**
+### 11.4 Combining resources II: Networks for attention
 
 - Important questions related to attention
   - Which brain areas are involved in attention?
@@ -1017,7 +1011,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Once again, the lesson here is that while we can’t directly measure attention, we can indirectly measure it by combining techniques and technologies.
 - This is similar to how we can’t see exoplanets, but we can see their shadow and their gravitational influence.
 
-**11.5 From data to maps: Problems and pitfalls**
+### 11.5 From data to maps: Problems and pitfalls
 
 - Neuroimaging isn’t a direct picture of cognitive activity.
 - The issue with neuroimaging isn’t that it’s indirect, it’s that not much is known about the connections between what we observe and what we’re trying to measure.
@@ -1033,7 +1027,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - However, correlation can lead to causation with the right techniques. See [this video](https://www.youtube.com/watch?v=HUti6vGctQM).
 - We should be careful to not interpret experiments as telling us about effective connectivity when they’re actually only telling us about functional connectivity.
 
-**Summary**
+### Summary
 
 - Two questions about cognitive sub-systems
   - How do the individual cognitive sub-systems work?
@@ -1046,7 +1040,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 ## Chapter 12: A case study: Exploring mindreading
 
-**12.1 Pretend play and metarepresentation**
+### 12.1 Pretend play and metarepresentation
 
 - Children start to engage in pretend play between 13-24 months.
 - Types of pretend play
@@ -1081,7 +1075,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Pretending is just the start of developing decoupled representations.
 - How is this related to empathy? What about Josh Tenenbaum’s intuitive psychology?
 
-**12.2 Metarepresentation, autism, and theory of mind**
+### 12.2 Metarepresentation, autism, and theory of mind
 
 - What’s the evidence for metarepresentation?
 - Autistic children are known to have problems with pretend play.
@@ -1095,7 +1089,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Infants pass the false belief test as demonstrated by the violation of expectation paradigm experiments.
 - This suggests they have an implicit understanding of false belief.
 
-**12.3 The mindreading system**
+### 12.3 The mindreading system
 
 - Why is there a large time gap between pretend play and the false belief task even though they use the same underlying mechanism?
 ![Figure 12.6](figure12-6.png)
@@ -1107,7 +1101,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - TESS and TOMM are separate because psychopaths show that it’s possible for them to be distinct.
 - Why does it take longer to develop TOMM?
 
-**12.4 Understanding false belief**
+### 12.4 Understanding false belief
 
 - The answer is that there are two different attributes to pass the false belief test.
   - The ability to attribute true beliefs to someone else
@@ -1127,7 +1121,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
   - Metarepresention is thinking *about* decoupled representations
   - Counterfactual thinking is thinking *with* decoupled representations
 
-**12.5 Mindreading as simulation**
+### 12.5 Mindreading as simulation
 
 - The basic idea behind simulation theory is that we can explain and predict the behavior of other agents by projecting ourselves into the situation of the person and then using our mind as a model of theirs.
 - This is done "offline" so that it doesn’t generate an action but still generates a description of the action.
@@ -1139,7 +1133,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - *Radical simulationism*: thinking about the world from the perspective of the person being simulated rather than thinking about their beliefs, desires, and psychological states.
 - Since radical simulationism is world-directed rather than mind-directed, it explains mindreading without invoking metarepresentation.
 
-**12.6 The cognitive neuroscience of mindreading**
+### 12.6 The cognitive neuroscience of mindreading
 
 - Is there evidence at the neural level for the existence of TOMM?
 - Are there brain regions that are specialized for processing information about mental states?
@@ -1157,7 +1151,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Is there neuroscience evidence for simulation in high-level mindreading?
 - Not so much.
 
-**Summary**
+### Summary
 
 - Overarching theme for this chapter was the idea that there’s a dedicated system for mindreading (understanding other minds).
 - *Metarepresentation*: representing representations.
@@ -1165,13 +1159,11 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Both pretend play and mindreading exploit metarepresentation.
 - There’s evidence for co-opted mechanisms in that the inability to experience/feel an emotion also leads to the inability to recognize/identify those same emotions in others.
 
----
-
 # Part V: New Horizons
 
 ## Chapter 13: New horizons: Dynamical systems and situated cognition
 
-**13.1 Cognitive science and dynamical systems**
+### 13.1 Cognitive science and dynamical systems
 
 - Instead of cognitive modules, computation, and representations, use dynamical systems theory to understand how agents behave.
 - *Dynamical system*: any system that changes over time (in a law-governed way).
@@ -1194,7 +1186,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Dynamical systems could be used to model the mind as it an alternative to the algorithmic approach.
 - Maybe homeostasis is an attractor state?
 
-**13.2 Applying dynamical systems: Two examples from child development**
+### 13.2 Applying dynamical systems: Two examples from child development
 
 - Since dynamical systems are good for tracking variables over time, apply it to child development.
 - The first example is how children develop motor control.
@@ -1221,7 +1213,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Dynamical systems models operate at a higher level of abstraction. However, abstraction isn’t the same as replacing.
 - While dynamical systems are good descriptions of behavior, they don’t provide explanations.
 
-**13.3 Situated cognition and biorobotics**
+### 13.3 Situated cognition and biorobotics
 
 - *Situated/embodied cognition*: cognition that needs to be embedded in an environment that’s similar to the real world (with its complexity and randomness).
 - They claim that there’s a close relation between how a cognitive system’s knowledge is programmed and represented, and the type of problem solving that it can engage in.
@@ -1236,7 +1228,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - *Morphological computation*: organisms can exploit features of body shape to simplify (what might’ve been) complex information processing tasks.
 - This is relevant to cognitive science because the tasks that were thought to require information processing are really just an exploitation of their physical design.
 
-**13.4 From subsumption architectures to behavior-based robotics**
+### 13.4 From subsumption architectures to behavior-based robotics
 
 - *Subsumption architectures*: made of semi-autonomous subsystem layers that work in parallel.
 - Subsumption architectures are built to mimic how evolution might work. New systems are grafted on in layers that typically don’t change the design of the existing systems.
@@ -1259,7 +1251,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Multi-agent programming is computationally demanding due to needing to keep track of all individuals and due to the large degrees of freedom.
 - Emergence seems to use the combinatorial explosion against itself by having simple rules generate complex behavior.
 
-**Summary**
+### Summary
 
 - Use dynamical systems theory to model cognitive skills.
 - Approach cognition in terms of variables that evolve through a state space.
@@ -1270,7 +1262,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 ## Chapter 14: The cognitive science of consciousness
 
-**14.1 The challenge of consciousness: Leibniz’s Mill**
+### 14.1 The challenge of consciousness: Leibniz’s Mill
 
 - Cognitive scientists usually approach cognition from the third person; working backwards from behaviors and observable phenomena to cognition.
 - However, we can approach the study of cognition from the first person; through experiences and consciousness.
@@ -1280,14 +1272,14 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - E.g. If we look at a sunset, we can trace the flow of data from the retina to the brain. But this is all from the third person perspective, we don’t observe the person’s experience.
 - I disagree. I believe that at some point in the path it becomes a part of conscious awareness. It’s similar to the mind-body problem.
 
-**14.2 Consciousness and information processing: The Knowledge Argument**
+### 14.2 Consciousness and information processing: The Knowledge Argument
 
 - *Jackson’s Knowledge Argument*: [Mary’s Room thought experiment](https://plato.stanford.edu/entries/qualia-knowledge/#2).
 - *Physicalism*: all facts are physical facts.
 - The knowledge argument challenges physicalism because even though Mary knows all the physical facts, she still leaves with the "fact" on what it’s like to see red.
 - The knowledge argument argues that information processing models of the mind are inadequate since experiences can’t be understood in terms of information processing.
 
-**14.3 Information processing without conscious awareness: Some basic data**
+### 14.3 Information processing without conscious awareness: Some basic data
 
 - Understanding comes from learning what a thing does and what it can be used for.
 - E.g. Learning a definition and its corresponding example.
@@ -1307,7 +1299,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 ![Figure 14.4](figure14-4.png)
 - Neglect patients are capable of relatively high-level processing in their blind field.
 
-**14.4 So what is consciousness for?**
+### 14.4 So what is consciousness for?
 
 - Experiments from priming and brain-damaged subjects suggests that a large number of information processing tasks can be performed without conscious awareness.
 - So what exactly does consciousness contribute? Why do we need it?
@@ -1322,7 +1314,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - E.g. In a masked priming experiment, if you increase the delay between the prime and the final image, then the congruent effect only occurred at the shortest delays. Anything above 100 ms didn’t have any effect.
 - Consciousness allows information to be explicitly retained and maintained.
 
-**14.5 Two types of consciousness and the hard problem**
+### 14.5 Two types of consciousness and the hard problem
 
 - *Phenomenal consciousness (P-consciousness)*: experiences, feelings, wants, emotions.
 - *Access consciousness (A-consciousness)*: direct control of thought and action.
@@ -1336,7 +1328,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - One argument is that there’s a double dissociation between A-consciousness and P-consciousness. You can have one without the other.
 - The easy aspect of consciousness is the information processing part. The hard aspect of consciousness is the experiential part.
 
-**14.6 The global workspace theory of consciousness**
+### 14.6 The global workspace theory of consciousness
 
 - The global workspace theory is a theory of how information is made available for high-level cognition.
 - Attention serves as a gatekeeper for what crosses the threshold of conscious awareness.
@@ -1350,14 +1342,14 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Attention can be thought of as a filter and as an amplifer.
 - Pyramidal neurons are thought to be the implementation of the global workspace as they are heavily branched.
 
-**14.7 Conclusion**
+### 14.7 Conclusion
 
 - There have been two approaches to the study of consciousness
   - Mysterians who don’t believe that the hard problem of consciousness can be studied
   - Scientists who believe that consciousness can be fully explained
 - The problem consciousness faces now is similar to the problem of vitalism in biology.
 
-**Summary**
+### Summary
 
 - Cognition is a form of information processing.
 - Our best model for information processing are digital computers.
@@ -1370,36 +1362,36 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 ## Chapter 15: Looking ahead: Challenges and applications
 
-**15.1 Exploring the connectivity of the brain: The connectome and the BRAIN**
-**initiative**
+### 15.1 Exploring the connectivity of the brain: The connectome and the BRAIN
+### initiative
 
 - The cognitive science equivalent of the Human Genome Project is the Human Connectome Project (HCP).
 - The goal of HCP is to develop and share knowledge about the structural and functional connectivity of the brain.
 - To create a wiring diagram of the brain.
 - The BRAIN initiative aims to produce real-time pictures of complex neural circuits and to visualize the firing of cells.
 
-**15.2 Understanding what the brain is doing when it appears not to be doing**
-**anything**
+### 15.2 Understanding what the brain is doing when it appears not to be doing
+### anything
 
 - There is a large amount of activity that goes on in the when subjects aren’t doing anything or just passively looking.
 - This is called the default mode of the brain.
 - *Default mode network (DMN)*: the network of what happens in the brain when it’s in a resting state.
 
-**15.3 Building artificial brain systems?**
+### 15.3 Building artificial brain systems?
 
 - *Neuroprosthesis*: replacement of damaged systems in the brain.
 - E.g. Cochlear implants and artificial hippocampal prosthetics
 
-**15.4 Enhancing education**
+### 15.4 Enhancing education
 
 - The study of how learning takes place and how knowledge is stored, organized, and retrieved.
 - Learning depends on declarative (facts) and procedural (skills) knowledge.
 
-**15.5 Building bridges to economics and the law**
+### 15.5 Building bridges to economics and the law
 
 - *Neuroeconomics*: the study of how people make economic decisions and rational decisions
 
-**Summary**
+### Summary
 
 - Cognitive science is an interdisciplinary science of the mind.
 - The foundation assumption is that the mind is an information processor.
@@ -1410,7 +1402,3 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - New approaches
   - Dynamical systems theory
   - Embodied/situated cognition
-
----
-
-[Anki Flashcards (Download)]({{ "/assets/textbooks/cognitive-science-an-introduction-to-the-science-of-the-mind/Cognitive Science.apkg" | absolute_url }})

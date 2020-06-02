@@ -7,4 +7,4 @@ categories:
 excerpt: "Software Performance Evaluation"
 ---
 
-[LaTeX Notes]({{ "/assets/courses/seng-533.pdf" | absolute_url }})
+[LaTeX Notes](seng-533.pdf)

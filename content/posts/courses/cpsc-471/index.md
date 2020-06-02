@@ -7,4 +7,4 @@ categories:
 excerpt: "Data Base Management Systems"
 ---
 
-[LaTeX Notes]({{ "/assets/courses/cpsc-471.pdf" | absolute_url }})
+[LaTeX Notes](cpsc-471.pdf)

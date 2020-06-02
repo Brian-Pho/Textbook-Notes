@@ -5,7 +5,6 @@ date: "2019-05-01"
 categories:
   - Courses
 excerpt: "Cognitive Psychology"
-
 ---
 
 ## Introduction

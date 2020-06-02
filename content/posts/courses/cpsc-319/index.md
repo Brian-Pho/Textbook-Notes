@@ -7,4 +7,4 @@ categories:
 excerpt: "Data Structures, Algorithms, and Their Applications"
 ---
 
-[LaTeX Notes]({{ "/assets/courses/cpsc-319.pdf" | absolute_url }})
+[LaTeX Notes](cpsc-319.pdf)

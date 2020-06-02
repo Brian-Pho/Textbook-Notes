@@ -7,4 +7,4 @@ categories:
 excerpt: "Software Testing, Reliability, and Quality"
 ---
 
-[LaTeX Notes]({{ "/assets/courses/seng-438.pdf" | absolute_url }})
+[LaTeX Notes](seng-438.pdf)

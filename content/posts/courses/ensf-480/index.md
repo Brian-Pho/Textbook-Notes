@@ -7,4 +7,4 @@ categories:
 excerpt: "Principles of Software Design"
 ---
 
-[LaTeX Notes]({{ "/assets/courses/ensf-480.pdf" | absolute_url }})
+[LaTeX Notes](ensf-480.pdf)

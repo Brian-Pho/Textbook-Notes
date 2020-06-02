@@ -7,4 +7,4 @@ categories:
 excerpt: "Computer Networks"
 ---
 
-[LaTeX Notes]({{ "/assets/courses/cpsc-441.pdf" | absolute_url }})
+[LaTeX Notes](cpsc-441.pdf)

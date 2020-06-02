@@ -7,4 +7,4 @@ categories:
 excerpt: "Software Requirements Engineering"
 ---
 
-[LaTeX Notes]({{ "/assets/courses/seng-471.pdf" | absolute_url }})
+[LaTeX Notes](seng-471.pdf)

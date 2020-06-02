@@ -20,9 +20,9 @@ excerpt: "An introduction to practical deep learning with Python and Keras."
 
 - Repository with author’s code
   - <https://github.com/fchollet/deep-learning-with-python-notebooks>
-- Personal Google Colaboratory code
-  - [Google Colaboratory/Jupyter Notebook]({{ "/assets/textbooks/deep-learning-with-python/google-colaboratory.ipynb" | absolute_url }})
-  - [Raw Python]({{ "/assets/textbooks/deep-learning-with-python/raw-python.py" | absolute_url }})
+- Download my Google Colaboratory code
+  - [Google Colaboratory/Jupyter Notebook](google-colaboratory.ipynb)
+  - [Raw Python](raw-python.py)
 - Deep learning → Machine learning → Artificial intelligence
 ![Figure 1.2](figure1-2.png)
 - *Representations*: different ways to look at data; to represent or encode the data.
