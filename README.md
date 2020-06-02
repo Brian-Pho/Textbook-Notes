@@ -22,20 +22,14 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 - [ ] Add scrollspy to table of contents
 - [ ] Optimize category filtering
 - [ ] Test mobile responsiveness
-- [x] Add Helmet component
-- [x] Add SEO component
 - [ ] Clean up about me page
-- [x] Update readme
-- [x] Update favicon
 - [ ] Implement dark mode
 - [ ] Merge repo
 - [ ] Clean up types in codebase
 - [ ] Clean up codebase
 - [ ] Add comments to codebase
-- [ ] Go through Gatsby performance <https://www.gatsbyjs.org/docs/performance/>
-- [ ] Move notes over
-- [x] Paginate homepage
 - [ ] Fix timeline line wrap
+- [ ] Convert LaTeX course notes into Markdown using Pandoc
 
 ## Favicon Generator
 

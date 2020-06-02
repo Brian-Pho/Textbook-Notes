@@ -31,7 +31,7 @@ const PostList = ({ postList, currPage, numPages }: PostListDataType) => {
   const isFirstPage = currPage === 1
   const isLastPage = currPage === numPages
   const firstPage = `/`
-  const lastPage = `${numPages}`
+  const lastPage = `/${numPages}`
   const prevPage = currPage - 1 === 1 ? "/" : `${currPage - 1}`
   const nextPage = `${currPage + 1}`
 
@@ -62,8 +62,8 @@ const PostList = ({ postList, currPage, numPages }: PostListDataType) => {
         {!isFirstPage ? (
           <>
             <Pagination.First href={firstPage} />
-            <Pagination.Prev href={prevPage} />
-            <Pagination.Item href={prevPage}>
+            <Pagination.Prev href={`/${prevPage}`} />
+            <Pagination.Item href={`/${prevPage}`}>
               {prevPage === firstPage ? "1" : prevPage}
             </Pagination.Item>
           </>
@@ -71,8 +71,8 @@ const PostList = ({ postList, currPage, numPages }: PostListDataType) => {
         <Pagination.Item active>{currPage}</Pagination.Item>
         {!isLastPage ? (
           <>
-            <Pagination.Item href={nextPage}>{nextPage}</Pagination.Item>
-            <Pagination.Next href={nextPage} />
+            <Pagination.Item href={`/${nextPage}`}>{nextPage}</Pagination.Item>
+            <Pagination.Next href={`/${nextPage}`} />
             <Pagination.Last href={lastPage} />
           </>
         ) : null}

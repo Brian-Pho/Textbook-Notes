@@ -68,10 +68,6 @@ module.exports = {
               strict: `ignore`,
             },
           },
-          {
-            resolve: "gatsby-plugin-codegen",
-            options: {}
-          },
           `gatsby-remark-autolink-headers`,
           `gatsby-remark-prismjs`,
           `gatsby-remark-copy-linked-files`,
@@ -100,6 +96,13 @@ module.exports = {
             variants: [`100`],
           },
         ],
+      },
+    },
+    {
+      resolve: `gatsby-plugin-typescript`,
+      options: {
+        isTSX: true,
+        allExtensions: true
       },
     },
     `gatsby-plugin-offline`,

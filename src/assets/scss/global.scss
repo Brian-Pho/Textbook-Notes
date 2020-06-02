@@ -35,5 +35,14 @@ a:hover {
 }
 
 .post-meta {
-  color: grey;
+  @extend .text-secondary;
+}
+
+table {
+  @extend .table;
+  @extend .table-hover;
+}
+
+thead {
+  @extend .thead-light;
 }
