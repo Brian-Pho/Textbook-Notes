@@ -1,6 +1,6 @@
 // Override Bootstrap variables
 $theme-colors: (
-  "primary": #677b8c,
+  "primary": #677B8C,
 );
 
 @import "~bootstrap/scss/bootstrap";
@@ -46,3 +46,8 @@ table {
 thead {
   @extend .thead-light;
 }
+
+// https://stackoverflow.com/questions/31458477/find-element-that-is-causing-the-showing-of-horizontal-scrollbar-in-google-chrom
+//* {
+//  border: 1px solid #f00 !important;
+//}

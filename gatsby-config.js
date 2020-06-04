@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/CR4-DL`,
   siteMetadata: {
     title: `CR4-DL`,
     description: `The Cradle. A vault for notes on artificial intelligence and the brain.`,

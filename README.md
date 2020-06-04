@@ -23,14 +23,14 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 - [ ] Optimize category filtering
 - [ ] Test mobile responsiveness
 - [ ] Clean up about me page
-- [ ] Implement dark mode
-- [ ] Merge repo
 - [ ] Clean up types in codebase
 - [ ] Clean up codebase
 - [ ] Add comments to codebase
 - [ ] Convert LaTeX course notes into Markdown using Pandoc
 - [ ] Fix table of content overflow
 - [ ] Clean up notes
+- [ ] Add new svg logo of Newton's Cradle
+- [ ] Replace figure -> fig and table -> tab for filenames
 
 ## Favicon Generator
 
@@ -49,6 +49,7 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 
 - <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 - <https://github.com/DavidAnson/markdownlint/blob/v0.10.0/doc/Rules.md>
+- <https://github.github.com/gfm/>
 - <https://www.gatsbyjs.org/docs/gatsby-cli/>
 
 ## Note Creation Process

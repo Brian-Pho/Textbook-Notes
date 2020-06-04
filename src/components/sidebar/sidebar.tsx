@@ -1,9 +1,9 @@
 import React from "react"
-import { graphql, Link, useStaticQuery } from "gatsby"
+import { graphql, Link, useStaticQuery, withPrefix } from "gatsby"
 import Nav from "react-bootstrap/Nav"
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import { faGithub } from "@fortawesome/free-brands-svg-icons"
-import { faAt, faMoon } from "@fortawesome/free-solid-svg-icons"
+import { faAt } from "@fortawesome/free-solid-svg-icons"
 import "./sidebar.scss"
 import Col from "react-bootstrap/Col"
 import Navbar from "react-bootstrap/Navbar"
@@ -28,9 +28,6 @@ interface SidebarContactProps {
 const SidebarContact = (props: SidebarContactProps) => {
   return (
     <div className="nav-buttons d-none d-md-flex justify-content-around w-100 mt-4 mb-4">
-      <a href="/">
-        <FontAwesomeIcon icon={faMoon} size={SIDEBAR_ICON_SIZE} />
-      </a>
       <a href={`https://github.com/${props.author.github}`}>
         <FontAwesomeIcon icon={faGithub} size={SIDEBAR_ICON_SIZE} />
       </a>
@@ -88,13 +85,13 @@ const Sidebar = (props: SidebarProps) => {
         <Navbar.Collapse className="w-100">
           <Nav
             variant="pills"
-            defaultActiveKey={props.activePage}
+            defaultActiveKey={withPrefix(props.activePage)}
             className="flex-column w-100"
           >
             {menu.map((item: NavItem, index: number) => {
               return (
                 <Nav.Link
-                  href={item.path}
+                  href={withPrefix(item.path)}
                   key={index}
                   className="mt-1 mb-1 mt-md-2 mb-md-2"
                 >

@@ -1,5 +1,5 @@
 import React from "react"
-import { Link } from "gatsby"
+import { Link, withPrefix } from "gatsby"
 import Col from "react-bootstrap/Col"
 import Pagination from "react-bootstrap/Pagination"
 import "./postList.scss"
@@ -32,7 +32,7 @@ const PostList = ({ postList, currPage, numPages }: PostListProps) => {
   const isLastPage = currPage === numPages
   const firstPage = `/`
   const lastPage = `/${numPages}`
-  const prevPage = currPage - 1 === 1 ? "/" : `${currPage - 1}`
+  const prevPage = currPage - 1 === 1 ? firstPage : `${currPage - 1}`
   const nextPage = `${currPage + 1}`
 
   return (
@@ -61,9 +61,9 @@ const PostList = ({ postList, currPage, numPages }: PostListProps) => {
       <Pagination className="p-2 p-md-4 mb-0 justify-content-center">
         {!isFirstPage ? (
           <>
-            <Pagination.First href={firstPage} />
-            <Pagination.Prev href={`/${prevPage}`} />
-            <Pagination.Item href={`/${prevPage}`}>
+            <Pagination.First href={withPrefix(firstPage)} />
+            <Pagination.Prev href={withPrefix(`/${prevPage}`)} />
+            <Pagination.Item href={withPrefix(`/${prevPage}`)}>
               {prevPage === firstPage ? "1" : prevPage}
             </Pagination.Item>
           </>
@@ -71,9 +71,11 @@ const PostList = ({ postList, currPage, numPages }: PostListProps) => {
         <Pagination.Item active>{currPage}</Pagination.Item>
         {!isLastPage ? (
           <>
-            <Pagination.Item href={`/${nextPage}`}>{nextPage}</Pagination.Item>
-            <Pagination.Next href={`/${nextPage}`} />
-            <Pagination.Last href={lastPage} />
+            <Pagination.Item href={withPrefix(`/${nextPage}`)}>
+              {nextPage}
+            </Pagination.Item>
+            <Pagination.Next href={withPrefix(`/${nextPage}`)} />
+            <Pagination.Last href={withPrefix(lastPage)} />
           </>
         ) : null}
       </Pagination>
