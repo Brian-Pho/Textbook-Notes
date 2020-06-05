@@ -28,10 +28,10 @@ interface SidebarContactProps {
 const SidebarContact = (props: SidebarContactProps) => {
   return (
     <div className="nav-buttons d-none d-md-flex justify-content-around w-100 mt-4 mb-4">
-      <a href={`https://github.com/${props.author.github}`}>
+      <a title="github" href={`https://github.com/${props.author.github}`}>
         <FontAwesomeIcon icon={faGithub} size={SIDEBAR_ICON_SIZE} />
       </a>
-      <a href="mailto:brainic777@gmail.com">
+      <a title="email" href="mailto:brainic777@gmail.com">
         <FontAwesomeIcon icon={faAt} size={SIDEBAR_ICON_SIZE} />
       </a>
     </div>

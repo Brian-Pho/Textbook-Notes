@@ -6,7 +6,7 @@ import { useStaticQuery, graphql } from "gatsby"
 interface SEOProps {
   title: string
   description: string
-  article: boolean
+  article?: boolean
 }
 
 const SEO = ({ title, description, article }: SEOProps) => {

@@ -16,20 +16,17 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 
 ## TODO
 
-- [ ] Run [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 - [ ] Clean up grammar and spelling
 - [ ] Run notes through Grammarly
 - [ ] Add scrollspy to table of contents
 - [ ] Optimize category filtering
-- [ ] Test mobile responsiveness
 - [ ] Clean up about me page
 - [ ] Clean up types in codebase
 - [ ] Clean up codebase
 - [ ] Add comments to codebase
-- [ ] Convert LaTeX course notes into Markdown using Pandoc
+- [ ] Convert LaTeX course notes into Markdown using [Pandoc](https://pandoc.org/getting-started.html)
 - [ ] Fix table of content overflow
 - [ ] Clean up notes
-- [ ] Add new svg logo of Newton's Cradle
 - [ ] Replace figure -> fig and table -> tab for filenames
 
 ## Favicon Generator

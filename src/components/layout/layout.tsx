@@ -31,7 +31,7 @@ const Layout = ({ activePage, article, children }: LayoutProps) => {
     }
   )
 
-  const activePagePath = activePageData === undefined ? "" : activePageData.path
+  const activePagePath = activePageData ? activePageData.path : ""
 
   return (
     <Container fluid>

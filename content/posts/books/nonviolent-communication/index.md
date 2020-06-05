@@ -265,7 +265,7 @@ excerpt: "How to communicate with people."
 ## Chapter 12: The Protective Use of Force
 
 - There may be some situations where one party isn't willing to communicate or there is eminent danger.
-- In such cases, the use of protective, not punitive force, is justified.
+- In such cases, the use of protective, not punitive, force is justified.
 - The intention behind the protective use of force is only to protect, not to punish, blame, or condemn.
 - Examples of punitive force
   - Physical punishment

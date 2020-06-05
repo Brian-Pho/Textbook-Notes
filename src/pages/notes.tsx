@@ -3,25 +3,27 @@ import Nav from "react-bootstrap/Nav"
 import Layout from "../components/layout/layout"
 import Col from "react-bootstrap/Col"
 import Tab from "react-bootstrap/Tab"
-import PostsCategory from "../components/postsCategory/postsCategory"
+import PostCategory from "../components/postCategory/postCategory"
 import { graphql, useStaticQuery } from "gatsby"
 
 const NOTE_CATEGORIES = ["Books", "Textbooks", "Papers", "Courses", "Other"]
+
+export interface NodeType {
+  frontmatter: {
+    title: string
+    date: string
+    categories: string
+  }
+  fields: {
+    slug: string
+  }
+}
 
 interface NotesCategoryType {
   allMarkdownRemark: {
     totalCount: string
     edges: {
-      node: {
-        frontmatter: {
-          title: string
-          date: string
-          categories: string
-        }
-        fields: {
-          slug: string
-        }
-      }
+      node: NodeType
     }[]
   }
 }
@@ -49,13 +51,13 @@ const Notes = () => {
     }
   `)
 
-  // Create mapping of categories to posts with that category
+  // Create mapping of category to posts
   const categoryToPost = new Map()
   for (const category of NOTE_CATEGORIES) {
     categoryToPost.set(category, [])
   }
 
-  // Filter all posts and add them to their respective category
+  // Filter posts by their category
   const posts = data.allMarkdownRemark.edges
   for (const post of posts) {
     if (!post.node.frontmatter.categories) {
@@ -91,7 +93,7 @@ const Notes = () => {
             {NOTE_CATEGORIES.map((category, index) => {
               return (
                 <Tab.Pane key={index} eventKey={category}>
-                  <PostsCategory posts={categoryToPost.get(category)} />
+                  <PostCategory posts={categoryToPost.get(category)} />
                 </Tab.Pane>
               )
             })}
