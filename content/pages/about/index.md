@@ -3,7 +3,7 @@ layout: page
 title: "About"
 ---
 
-Hello and welcome to the CR4-DL (Cradle). On this site, you'll find my notes from
+Hello and welcome to the Cradle. On this website, you'll find my notes from
 
 - books that I've enjoyed,
 - courses that I've taken,
@@ -14,54 +14,46 @@ Hello and welcome to the CR4-DL (Cradle). On this site, you'll find my notes fro
 
 ### Who are you?
 
-You can visit my [personal website](https://brianpho.com/) to learn more about me but here's a summary.
+You can visit my [personal website](https://brianpho.com/) to learn more about me but here's a summary. My goal is to help humanity build artificial general intelligence (AGI). I plan to achieve this goal by becoming a neuroscientist and by studying the brain through textbooks, books, and papers. I hope to become the Einstein of neuroscience, although far-fetched and difficult, by synthesizing results from different fields to push our understanding of the brain. However, it isn't enough for me to understand the brain, but to build one. By reverse engineering the brain, I believe we can create an intelligence greater than ourselves.
 
-I'm an undergraduate student studying software engineering and my goal is to become a scientist to achieve my dream of creating artificial general intelligence (AGI).
+### Why are you pursuing AGI?
 
-My current plan is to study computer science, neuroscience, cognitive science, and psychology (pretty much all of the brain sciences) to create the basis for me to generate new ideas about intelligence. I believe this is how we should approach imbuing machines with intelligence; through a biology-inspired approach.
+I'm pursuing AGI for multiple reasons.
 
-### Why are you doing this?
+- The scientist in me does it in **search for the truth**. How does the brain work? Why are we conscious? Why are we different from everything else that's alive?
+- The person in me does it to **help humanity**. An AGI could theoretically solve all of our problems. World hunger, immortality, space travel, the perfect government, you name it.
+- The child in me does it because it's **fun**! There's so much to explore, learn, and play with. I don't think we should ever forget the innocence within us.
+- The adult in me does it because **I can't see myself doing anything else**. Once AGI is created, it will be the best at everything. Which means that whatever I do now, will be done better by an AGI in the future.
 
-I started this site with the intention of sharing my knowledge with others and as
-an archive that I can quickly refer back to. It also makes my notes look nice and be more organized.
+### How do you plan on creating AGI?
 
-### Why research AI?
+I plan on creating AGI by first studying the human brain. My approach is to reverse engineer the brain by extracting the core principles of how the brain processes information. Information processing requires two separate, but integrated, parts like computers: hardware and software. The hardware of the brain is the physical implementation of it, cells called neurons. Examples of brain hardware include its inputs and outputs such as the eye, skin, spinal cord, and muscles. The software of the brain is the intangible or emergent properties of it. Examples of brain software include consciousness, visual illusions, and language. By understanding both the hardware and software of the brain, we should have enough information to create it. 
 
-I'm pursing AI for multiple reasons.
+### Why did you make this website?
 
-- The scientist in me does it **in search of the truth.** What is intelligence? Why are we conscious? What does it mean to be human?
-- The human in me does it **to help humanity.** An AI could theoretically solve all of our problems. World hunger, immortality, space travel, you name it.
-- The child in me does it because **it's fun!** There's so much to explore, learn, and play with. I don't think we should ever forget this child-like innocence about us.
-- The adult in me does it because **I can't see myself doing anything else.** Once AI is created, it will be the best at everything which means that whatever I do now will be done better by an AI in the future.
+I started this website with the intention of sharing my knowledge and as an archive that I can quickly refer back to. It also makes my notes look nice and be more organized.
 
 ### What's with the name "CR4-DL"?
 
-CR4-DL (pronounced as "cradle") is my homage to the HBO show [Westworld](https://en.wikipedia.org/wiki/Westworld_(TV_series)); a great show that touches on AI, human nature, and reality. This site reflects similar themes and I really enjoyed the show. I think it's a witty name and I'm very proud of it. [More info on the CR4-DL in Westworld.](http://westworld.wikia.com/wiki/Cradle)
+The CR4-DL (pronounced as "Cradle") is my homage to the HBO show [Westworld](https://en.wikipedia.org/wiki/Westworld_(TV_series)). It's an amazing show that touches on AI, human nature, and reality. This website reflects similar themes from the show so I named my website after it. I think it's a witty name and I'm very proud of it. [More info on the CR4-DL in Westworld.](http://westworld.wikia.com/wiki/Cradle)
 
-### How was this site built?
+### How is this website built?
 
-This site was built by me and is hosted by Github Pages. The Jekyll theme is [Hydeout](https://github.com/fongandrew/hydeout) which was heavily modified by me.
-
-### Why study the subjects you've chosen? What's your study plan?
-
-My main goal is the creation of AI (or AGI if you're being technical about it). I'm studying neuroscience because I think of it the "hardware" of the brain with cognitive science as the "software" of the mind. In order to understand the brain, mind, and intelligence, I believe this entire systems approach is necessary. However, the tradeoff is the massive amount of time and effort needed to become PhD/expert level in each field which is why I'm starting early (I'm currently 20 years old as of writing this in 2018).
-
-My plan is to first read through the foundational textbooks in each field to understand the basics of each subject, and then to branch off into papers where the frontier of knowledge is at. Along the way, I plan on studying non-related subjects like critical thinking, writing, and learning to help improve me as a learner, researcher, and person.
+This website is built by me and is hosted by Github Pages. I've redesigned this website three times now, the first time using a simple Jekyll theme, the second time using a more complicated Jekyll theme, and the third time using Gatsby. I've gone through multiple iterations and designs to improve the look-and-feel and the functionality of the website to my liking. I also enjoy web development as it allows me to express my creative side with programming. 
 
 ### Where can I find updates on your journey?
 
-I've created another site to handle more of the blogging and narrative side of my journey. It's called "Cadence" and you can access it [here](https://brianpho.com/Cadence/).
-The ongoing updates are in this post: [My quest for artificial intelligence](https://brianpho.com/Cadence/2019/05/09/my-quest-for-artificial-intelligence.html).
+I've created another website to handle the blogging and narrative side of my journey. It's called Cadence and you can find it [here](https://brianpho.com/Cadence/). Specifically, the AGI updates are in this post: [My quest for artificial intelligence](https://brianpho.com/Cadence/2019/05/09/my-quest-for-artificial-intelligence.html).
 
-### How do I get in contact with you?
+### How do I contact you?
 
-You can contact me via my main website which also has links to my email and social media.
+You can contact me through my [main website](https://brianpho.com/HTML/contact.html) which has links to my email and social media.
 
-## Favorite Quotes
+## My Favorite Quotes
 
 > The field was founded on the claim that human intelligence "can be so precisely described that a machine can be made to simulate it".
 
-[Darthmouth Workshop in 1956](https://en.wikipedia.org/wiki/Dartmouth_workshop)
+[Dartmouth Summer Research Project on Artificial Intelligence Workshop in 1956](https://en.wikipedia.org/wiki/Dartmouth_workshop)
 
 ---
 

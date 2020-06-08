@@ -12,29 +12,29 @@ excerpt: "An introduction to the field of computational neuroscience."
 ## Chapter 1: Introduction
 
 - Textbook website: https://web.cs.dal.ca/~tt/fundamentals/
-- Computational neuroscience (CN): the theoretical study of the brain to uncover the principles and mechanisms behind the development, organization, information-processing, and mental abilities of the nervous system.
+- *Computational neuroscience (CN)*: the theoretical study of the brain to uncover the principles and mechanisms behind the development, organization, information-processing, and mental abilities of the nervous system.
 - A major focus of CN is the development and evaluation of models.
 ![Figure 1.1](figure1-1.png)
 - The nervous system is separated into many different levels of organization to manage details (through abstraction) and to better organize our knowledge.
 ![Figure 1.2](figure1-2.png)
 - Networks of neurons have information-processing capabilities beyond that of single neurons such as representing information in a distributed way.
 - E.g. Edge detector network. A single neuron isn’t able to detect an edge but a group of neurons can.
-- Model: a simplification/abstraction of a system in order to test aspects of it or a hypothesis.
+- *Model*: a simplification/abstraction of a system in order to test aspects of it or a hypothesis.
 - It’s questionable how much more we would comprehend about the functionality of the brain with extremely complex and detailed models.
 - E.g. Blue Brain Project
 - The current state of neuroscience is exploratory in nature, not explanatory.
-- Abstraction: making simplifications to a system without removing the important features.
+- *Abstraction*: making simplifications to a system without removing the important features.
 - Reverse engineering a system can be difficult even for systems that we created in the first place.
 - E.g. Measuring the varying states of a transistor and inferring that a word processor is running on it.
 - In most models, real neurons are abstracted to be nodes in networks to reduce complexity.
 - A major ingredient of information-processing in the brain is the interaction of neurons in networks.
 - Emergence is the defining property of neural computation which distinguishes it from parallel computing in classical computers.
-- Emergent properties: properties that were not encoded directly into the system but show up in the system.
+- *Emergent properties*: properties that were not encoded directly into the system but show up in the system.
 - We separate the description of systems into two levels
   - Basic rules
   - Consequences of such rules
 - However, determining the basic rules is difficult because the actions of a system don’t directly reflects its rules, but rather the interaction between the rules.
-- Adaptive system: the ability of a system to adjust its response to external stimuli.
+- *Adaptive system*: the ability of a system to adjust its response to external stimuli.
 - There’s a difference between understanding computers and understanding computation.
 - Computers are an implementation of computation. This means computation is more general and theoretically, it could also be implemented in a different way such as the brain.
 - One way of analyzing systems is through Marr’s three levels of analysis.
@@ -56,19 +56,19 @@ excerpt: "An introduction to the field of computational neuroscience."
 
 ## Chapter 2: Neurons and conductance-based models
 
-- Neuron: a specialized cell that enables specific information-processing mechanisms in the brain.
+- *Neuron*: a specialized cell that enables specific information-processing mechanisms in the brain.
 - Pyramidal neurons are the most abundant neurons found in the neocortex, accounting for 75-90% of the neocortex.
 - Structural properties have computational consequences that must be explored.
 - E.g. Keeping RAM close to the CPU enables faster transfer of information between the CPU and RAM. Speed is encoded in distance.
-- Presynaptic neuron: the neuron sending the signal.
-- Postsynaptic neuron: the neuron receiving the signal.
+- *Presynaptic neuron*: the neuron sending the signal.
+- *Postsynaptic neuron*: the neuron receiving the signal.
 - The general information-processing feature of synapses that they enable signals from a presynaptic neuron to modify the state of a postsynaptic neuron.
 - E.g. An action potential from the presynaptic neuron causes the voltage in the postsynaptic neuron to go up.
 - The white matter of the nervous system contains no neuron cell bodies, only axons and oligodendrocytes (special glial cells).
 - The cause of the membrane potential is due to the difference in concentration of ions inside and outside the nerve cell.
 - Potassium is concentrated inside the cell and sodium is concentrated outside the cell.
 - The resting potential of a neuron is typically close to -65 mV.
-- Ion channel: special types of proteins embedded into the cell membrane.
+- *Ion channel*: special types of proteins embedded into the cell membrane.
 ![Figure 2.2](figure2-2.png)
 - There are five main types of ion channels
     1. Leakage: always open
@@ -77,12 +77,12 @@ excerpt: "An introduction to the field of computational neuroscience."
     4. Ionotopic: depends on neurotransmitter
     5. Metabotropic: secondary messenger
 - Chemical synapses are the workhorses of neuronal information transfer.
-- Postsynaptic potential (PSP): the response in membrane potential of a postsynaptic neuron.
-- Excitatory synapse: neurotransmitters that drive the PSP towards the excited state.
-- Inhibitory synapse: neurotransmitters that drive the PSP towards the inhibited state.
-- Excitatory postsynaptic potential (EPSP): when the postsynaptic neuron is excited.
-- Inhibitory postsynaptic potential (IPSP): when the postsynaptic neuron is inhibited.
-- Shunting inhibition: inhibitory synapses that are close to the cell body that can modulate the effects of EPSPs.
+- *Postsynaptic potential (PSP)*: the response in membrane potential of a postsynaptic neuron.
+- *Excitatory synapse*: neurotransmitters that drive the PSP towards the excited state.
+- *Inhibitory synapse*: neurotransmitters that drive the PSP towards the inhibited state.
+- *Excitatory postsynaptic potential (EPSP)*: when the postsynaptic neuron is excited.
+- *Inhibitory postsynaptic potential (IPSP)*: when the postsynaptic neuron is inhibited.
+- *Shunting inhibition*: inhibitory synapses that are close to the cell body that can modulate the effects of EPSPs.
 - Alpha-function in neuroscience
   - $$\Delta V_{m}^{non-NMDA} = Ate^{-t/t^{peak}}$$
   - Describes the difference between the membrane potential and the resting potential as a function of time.
@@ -103,16 +103,16 @@ excerpt: "An introduction to the field of computational neuroscience."
   - $$\tau_{h}(V)\frac{dh}{dt} = -[h-h_{0}(V)]$$
 - The four equations describe how the activation of potassium channels, activation of sodium channels, inactivation of sodium channels, and the fact that neurons store electric charges, are related.
 ![Figure 2.10](figure2-10.png)
-- Absolute refractory period: delay before another AP can be generated due to sodium channel inactivation.
+- *Absolute refractory period*: delay before another AP can be generated due to sodium channel inactivation.
 - The absolute refractory period limits the firing rates of neurons to a maximum of about 1000 Hz or 1 spike per millisecond.
-- Relative refractory period: delay before another AP can be generated due to hyperpolarizing AP.
+- *Relative refractory period*: delay before another AP can be generated due to hyperpolarizing AP.
 - The relative refractory period further limits the firing rate on top of the absolute refractory period.
 - APs travel in axons at around 10 m/s and this form of signal transportation within an active membrane is loss-free meaning the signal won’t deteriorate with distance.
 - This is important because some axons can be very long (1 m) so it’s important to retain the complete signal.
 - Compared to simple current transportation within a conductor, APs are slower and consume more energy.
 - Evolution responded to this problem by covering axons with a myelin sheath to increase AP speed by reducing ion leakage.
 - However, the tradeoff is a lossy signal within axons.
-- Ranvier nodes: gaps in the myelin sheath that allow the AP to regenerate through the active membrane mechanism.
+- *Ranvier nodes*: gaps in the myelin sheath that allow the AP to regenerate through the active membrane mechanism.
 - Evolution combined the advantages of faster and cheaper with regenerative amplifiers.
 - We can simplify the H&H equations to the Wilson model or we can be more realistic by using the complete Wilson model.
 - Classes of spike characteristics
@@ -121,8 +121,8 @@ excerpt: "An introduction to the field of computational neuroscience."
   - Continuously spiking (CS)
   - Intrinsic bursting (IB)
 ![Figure 2.13](figure2-13.png)
-- Spike rate adaptation/fatigue: reduction in firing rate after initial stimulation.
-- After-depolarizing potential (ADP): an increase in voltage after being depolarized similar to a reverberating effect.
+- *Spike rate adaptation/fatigue*: reduction in firing rate after initial stimulation.
+- *After-depolarizing potential (ADP)*: an increase in voltage after being depolarized similar to a reverberating effect.
 - To get a more complete and accurate model of neurons, we need to model the conductance properties and the physical shape of the neuron.
 - Introduction to the cable equation and the idea of turning a neuron in a chain/branch of compartments.
 ![Figure 2.15](figure2-15.png)
@@ -146,7 +146,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 - $$\tau_{m} \frac{dv(t)}{dt} = -(v(t)-E_{L}) + RI(t)$$
 - A crude approximation of real spike generation is to use a fixed threshold.
 - Actual thresholds vary as the HH equations show that the threshold depends on the form of current buildup.
-- Leaky integrate-and-fire-and-reset neuron (LIF): a model of a neuron that integrates external inputs and leaks current.
+- *Leaky integrate-and-fire-and-reset neuron (LIF)*: a model of a neuron that integrates external inputs and leaks current.
 ![Figure 3.1](figure3-1.png)
 - In simulations, we’re mainly concerned about the sum of synaptic currents and this sum depends on the efficiency of individual synapses.
 - We describe this efficiency by a synaptic strength/weight value, $$w_j$$ where j is the index representing each presynaptic neuron.
@@ -164,7 +164,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 - Neurons in the brain do not fire regularly, rather, they seem extremely noisy.
 - Neurons that are relatively inactive emit spikes with low frequencies that are very irregular.
 - Single-cell recordings transmitted to a speaker sound very much like the irregular ticking of a Geiger counter when exposed to radioactive material.
-- Coefficient of variation (Cv): a measure of the variability of spike trains.
+- *Coefficient of variation (Cv)*: a measure of the variability of spike trains.
 - Real neurons have a Cv around 0.5 to 1 while an IF neuron has a Cv of 0.
 ![Figure 3.5](figure3-5.png)
 - Spike trains are often generated using a Poisson process but a Poisson process has no memory of past events. This means that there’s an equal likelihood that the next spike occurs.
@@ -175,17 +175,17 @@ excerpt: "An introduction to the field of computational neuroscience."
   - Geometries of dendrites and axons.
 - To reduce the complexity, we lump these factors under noise.
 - To introduce noise into neuron models, we can
-  - Stochastic threshold: replace the constant threshold with a noisy threshold.
-  - Random reset: randomly reset the membrane potential.
-  - Noisy integration: integration has an additional noisy variable.
+  - **Stochastic threshold**: replace the constant threshold with a noisy threshold.
+  - *Random reset*: randomly reset the membrane potential.
+  - *Noisy integration*: integration has an additional noisy variable.
 ![Figure 3.6](figure3-6.png)
-- Neural code: correlations between sensory stimuli/behaviour and neural activity patterns.
+- *Neural code*: correlations between sensory stimuli/behaviour and neural activity patterns.
 - The most robust finding is that the modulation of firing rate changes with sensory stimuli.
 - Number of spikes of a neuron often increases with increasing the strength of stimulus.
 - E.g. Increased firing rate with increasing weight on a frog muscle.
 ![Figure 3.10](figure3-10.png)
-- Response/tuning curve: the response (firing rate) of a neuron to various stimuli.
-- Receptive field: the area in the physical world for which the neuron is responsive.
+- *Response/tuning curve*: the response (firing rate) of a neuron to various stimuli.
+- *Receptive field*: the area in the physical world for which the neuron is responsive.
 - E.g. Neurons in the visual area responding to orientations of bars moved through the receptive field of the neuron.
 ![Figure 3.11](figure3-11.png)
 - While firing rates are important, we shouldn’t forget that other parts of spike patterns can convey information too.
@@ -220,16 +220,16 @@ excerpt: "An introduction to the field of computational neuroscience."
 ## Chapter 4: Associators and synaptic plasticity
 
 - Two forms of neural plasticity
-  - Structural: the generation of new connections and changes in the topology of the network.
-  - Functional: the changing of strength values of existing connections.
+  - *Structural*: the generation of new connections and changes in the topology of the network.
+  - *Functional*: the changing of strength values of existing connections.
 - It’s important to distinguish between developmental mechanisms from adaptations in mature organisms. The difference between nature and nurture; between innate and learned.
-- Hebbian learning: neurons that fire together wire together.
+- *Hebbian learning*: neurons that fire together wire together.
 - Hebbian learning is an example of functional plasticity that depends on activity.
 - More generally, Hebbian learning is an instance of association.
 - In contrast to computers, we can learn associations that can trigger memories based on related/partial information and we believe that this is essential for human cognition.
 - However, Hebbian learning must be limited by some form of synaptic depression or else the association would keep rising and get out of control.
 - The weights would become extremely large and so the response of the neuron becomes unspecific to the input pattern.
-- Personal note: Maybe association follows the “if you don’t use it, you lose it” rule that if a synapse isn’t used, it disappears.
+- *Personal note*: Maybe association follows the “if you don’t use it, you lose it” rule that if a synapse isn’t used, it disappears.
 - This may also reflect why distributed, retrieval practice is the most efficient for learning. We’re trying to rerun the same pathways without input.
 - We’ve seen that a stimulus capturing only part of the pattern associated with an object can still trigger memories about that object.
 - This ability to recall from partial input is also called pattern completion.
@@ -247,13 +247,13 @@ excerpt: "An introduction to the field of computational neuroscience."
 - Introduction to spike-timing dependent plasticity (STDP).
 - STDP can be seen as a spike-based formulation of a Hebbian learning rule.
 ![Figure 4.7](figure4-7.png)
-- Calcium hypothesis: the idea that high levels of calcium promote LTP where moderate levels of calcium promote LTD.
+- *Calcium hypothesis*: the idea that high levels of calcium promote LTP where moderate levels of calcium promote LTD.
 - It’s hypothesized that NMDAR channels along with calcium provide the mechanisms for Hebbian learning.
 - It’s important to note that STDP only applies to isolated spike pairings. It doesn’t exactly apply to other cases of spiking such as multiple spikes or overlapping bursts.
 - It’s clear that with repeated spike pairings, STDP can’t go on forever or else the the weight would go to infinity. So there must be some upper and lower bounds.
 - We also can’t incorporate spike timings in rate models (average behavior of single neurons) or population models (cell assemblies).
-- Hebbian covariance rule: a rule that captures that LTP occurs when presynaptic firing rate and postsynaptic firing rate are both below or above their average firing rates, and that LTD occurs when one of the firing rates is below average while the other remains above.
-- Mixed population models: populations that contain both excitatory and inhibitory neurons.
+- *Hebbian covariance rule*: a rule that captures that LTP occurs when presynaptic firing rate and postsynaptic firing rate are both below or above their average firing rates, and that LTD occurs when one of the firing rates is below average while the other remains above.
+- *Mixed population models*: populations that contain both excitatory and inhibitory neurons.
 - Repeated application of additive association rules results in runaway synaptic values.
 - One way to solve this issue is to consider competitive synaptic scaling.
 ![Figure 4.12](figure4-12.png)
@@ -281,7 +281,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 - Introduction to the six layers of the neocortex and cortical columns.
 ![Figure 5.5](figure5-5.png)
 - The distribution of neurons with specific response characteristics isn’t random but there seems to be some form of organization.
-- Cortical magnification: the over-representation of the central visual area compared to the peripheral visual area in the visual cortex.
+- *Cortical magnification*: the over-representation of the central visual area compared to the peripheral visual area in the visual cortex.
 - E.g. In Fig 5.5, the center visual fields 1 and 2 are smaller than the other visual fields and yet they have the largest area in the visual cortex.
 - E.g. More sensitive body areas have a larger cortical area.
 - The map preserves the relationships between adjacent points but not the area.
@@ -292,7 +292,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 - While pyramidal cells in layers II and III seem to be the main pathway between adjacent cortical areas.
 ![Figure 5.6](figure5-6.png)
 - It’s generally accepted that gross brain architecture is genetically coded while fine brain architecture is developed through experience and learning.
-- Synfire chains: information transmission in neuronal chains.
+- *Synfire chains*: information transmission in neuronal chains.
 - We start with a simple, linear chain of neurons.
 ![Figure 5.8](figure5-8.png)
 - This simple chain isn’t biologically realistic because
@@ -301,8 +301,8 @@ excerpt: "An introduction to the field of computational neuroscience."
   - Death of a single neuron would disrupt transmission.
 - Next, we move to diverging-converging (DC) chains.
 - DC chains aren’t the same as neural networks as not all neurons in the previous layer are fully connected to neurons in the current layer.
-- Netlet: small networks with only a small number of highly efficient synapses.
-- Axional delay: the delay between presynaptic and postsynaptic events.
+- *Netlet*: small networks with only a small number of highly efficient synapses.
+- *Axional delay*: the delay between presynaptic and postsynaptic events.
 - Axional delay is often ignored in modelling papers but it’s a realistic aspect of neuronal activity.
 
 ## Chapter 6: Feed-forward mapping networks
@@ -312,18 +312,18 @@ excerpt: "An introduction to the field of computational neuroscience."
   - Attaching meaning
 - The first, physical sensing, is done by converting an object into spikes using one of the sensory organs (ear, eye, tongue).
 - The conversion happens at the scale of the receptive field, the resolution of the organ, and it converts the object into a sensory feature vector representation.
-- Sensory feature vector: a vector representing the object.
+- *Sensory feature vector*: a vector representing the object.
 - Then, the problem of object recognition is then mapping the sensory feature vector on to an internal representation of the object.
 - How is the mapping function implemented?
-  - Look-up table: a large table listing all sensory input vectors and their corresponding internal representation.
+  - *Look-up table*: a large table listing all sensory input vectors and their corresponding internal representation.
   - E.g. Logical truth table for AND
-  - Prototypes: a vector that encapsulates, on average, the features for each object.
+  - *Prototypes*: a vector that encapsulates, on average, the features for each object.
 - To use prototypes, there needs to be some sort of “distance” or “similarity” function to compare the feature vector with how similar it’s to the internal representation.
 - However, it seems unrealistic to use a single neuron to solve the mapping problem by using a complex input-output relationship.
 - A more realistic solution is to use networks.
 - Introduction to perceptions, gradient descent, multilayer perceptions, backprop algorithm.
 - A multilayer feedforward network is a universal function approximator.
-- Generalization: performance of the network on data that wasn’t part of the training set.
+- *Generalization*: performance of the network on data that wasn’t part of the training set.
 - Biological problems with backprop
   - Sending the error back raises synchronization issues.
   - How to separate forward signals from backprop error signals.
@@ -338,16 +338,16 @@ excerpt: "An introduction to the field of computational neuroscience."
   - Features are organized topographically with similar features being represented in similar cortical tissue.
   - The primary visual cortex is organized with orientation tuning curves.
 ![Figure 7.1](figure7-1.png)
-- Activity packet/bubble: how neighboring nodes are activated through lateral interaction.
+- *Activity packet/bubble*: how neighboring nodes are activated through lateral interaction.
 - Competition between features is often observed in physiological studies.
 - Topographic maps have two major characteristics
   - There is some order in feature space such that neighboring areas represent neighboring features.
   - Features with enhanced sensory resolution are over-represented with larger cortical space while preserving relations between feature values.
 - The creation of such maps is experience dependent as shown by evidence that these maps can be disrupted in young animals by sensory deprivation.
-- Self-organizing maps (SOMs): maps that are activity-driven and are changed by experience.
+- *Self-organizing maps (SOMs)*: maps that are activity-driven and are changed by experience.
 - We can model SOMs and train them to form topographical representations of the input.
 ![Figure 7.4](figure7-4.png)
-- Plasticity-stability dilemma: the problem that every new training example changes the map, but we want to stabilize a map to be able to use it.
+- *Plasticity-stability dilemma*: the problem that every new training example changes the map, but we want to stabilize a map to be able to use it.
 - One way neural networks do this is to reduce the learning rate as training goes on.
 - However, this doesn’t match evidence that the brain still has the ability to adapt to changes later on in life.
 - One way to deal with the dilemma more realistically is to distort the SOM.
@@ -360,10 +360,10 @@ excerpt: "An introduction to the field of computational neuroscience."
 - It shows that some goal-directed learning must take place for the SOM to be reorganized.
 - The brain seems to have an effective interaction structure of short-distance excitation and long-distance inhibition; a small-world network of many local connections and few long-distance connections.
 - Principle regimes of models with local cooperation and global competition
-  - Growing activity: inhibition < excitation, model is dominated by positive feedback.
-  - Decaying activity: inhibition > excitation, facilitates competition between inputs.
-  - Memory activity: inhibition ~ excitation, can represent past values without input.
-- Dynamic neural field (DNF): a model of the dynamics of a cortical sheet using differential equations.
+  - *Growing activity*: inhibition < excitation, model is dominated by positive feedback.
+  - *Decaying activity*: inhibition > excitation, facilitates competition between inputs.
+  - *Memory activity*: inhibition ~ excitation, can represent past values without input.
+- *Dynamic neural field (DNF)*: a model of the dynamics of a cortical sheet using differential equations.
 - Is working memory implemented by ongoing firing in the brain?
 - Probably not, as a more common explanation is that working memory is sustained by lateral reverberating neural activity.
 - The DNF model captures this reverberation and can model working memory.
@@ -376,9 +376,9 @@ excerpt: "An introduction to the field of computational neuroscience."
   - We have a representations of the body/head direction.
   - We have a mechanism to update this information without visual cues.
 - Spatial information of the head and body is also stored in the hippocampus.
-- Path integration: the processing of changes from the old position to the new position.
+- *Path integration*: the processing of changes from the old position to the new position.
 - Path integration is also the calculation of a new state representation from an initial state plus signals that represent the changes of the state.
-- Idiothetic cues: self-generated cues.
+- *Idiothetic cues*: self-generated cues.
 - E.g. Inputs from the vestibular system.
 ![Figure 7.19](figure7-19.png)
 - The key idea behind the model is that the rotation nodes can modulate the strength of the collateral connections between DNF nodes.
@@ -393,10 +393,10 @@ excerpt: "An introduction to the field of computational neuroscience."
     3. Sparsely distributed representation: some neurons are used to represent one stimulus.  Scales between linear and exponential.
 - To quantify how many neurons are used in the neural processing of stimuli, we define a measure of sparseness of a representation.
 - A mathematical measure is given but is not copied here.
-- Probabilistic encoding: the specific way a stimulus is coded into a neuron or a population of neurons.
+- *Probabilistic encoding*: the specific way a stimulus is coded into a neuron or a population of neurons.
 - The probability that a population of neurons encodes a stimulus is given by $$P(r|s) = R(r_{1}^{s}, r_{2}^{s}, r_{3}^{s}, ...|s)$$ where $$r_{i}^{s}$$ is the stimulus-specific response of neuron i in the population.
 - We can also flip the r and s to decode a stimulus and we can do so using Bayes’s theorem.
-- Bayes’s theorem applies to decoding: $$P(s|r) = \frac{P(r|s)P(s)}{P(r)}$$.
+- *Bayes’s theorem applies to decoding*: $$P(s|r) = \frac{P(r|s)P(s)}{P(r)}$$.
 - However, we need some function to specify how likely a response is given a stimulus or $$P(r|s)$$.
 - Tuning curves are commonly used as the likelihood function.
 ![Figure 7.22](figure7-22.png)
@@ -405,7 +405,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 - However, we can resolve this ambiguity by using more neurons and thus more information to decode the firing rate.
 - The most commonly used method of populating decoding is population vector decoding.
 - Intuitively, we think that sharper tuning curves lead to more accurate decoding since a neuron only responds to a specific stimulus (local representation) but that isn’t the case.
-- Population vector decoding is summarized in this formula: $$s_{decoded} = \sum_{i}{r_{i}s_{i}^{preferred}}$$ where we multiply the firing rate of each neuron by its preferred direction and sum the contribution of all neurons.
+- *Population vector decoding is summarized in this formula*: $$s_{decoded} = \sum_{i}{r_{i}s_{i}^{preferred}}$$ where we multiply the firing rate of each neuron by its preferred direction and sum the contribution of all neurons.
 - However, since we’re using all neurons, this isn’t a sparse representation but rather a distributed representation.
 ![Figure 7.23](figure7-23.png)
 - Another decoding scheme is to use DNFs which are biologically plausible and work for noisy population decoding.
@@ -424,7 +424,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 ![Figure 8.1](figure8-1.png)
 ![Figure 8.2](figure8-2.png)
 - The networks considered in this chapter is shown in Fig. 8.2 and are called point attractor neural networks (PANNs) or attractor neural networks (ANNs) in contrast to continous attractor neural networks (CANNs).
-- Auto-associator: a network that feeds the output of each node to all other nodes in the network, thus the network can associate a pattern within itself.
+- *Auto-associator*: a network that feeds the output of each node to all other nodes in the network, thus the network can associate a pattern within itself.
 - We expect that the cycling in a recurrent network can enhance pattern completion ability.
 - The hippocampus is implicated with the acquisition of episodic memory using patient H.M. as evidence.
 - Removal of patient H.M’s medial temporal lobes (MTL) resulted in retrograde amnesia, the inability to form new long-term memories.
@@ -448,8 +448,8 @@ excerpt: "An introduction to the field of computational neuroscience."
 - One example of this system in the brain is the where and what visual pathways.
 - Each pathway is an example of an expert and both pathways receive the same input.
 - The reason to use two pathways is justified by the following two problems
-  - Temporal cross-talk: training a network on a new task will interfere with a previously learned task.
-  - Spatial cross-talk: training a network to create distributed representations can create conflicting representations.
+  - *Temporal cross-talk*: training a network on a new task will interfere with a previously learned task.
+  - *Spatial cross-talk*: training a network to create distributed representations can create conflicting representations.
 - It’s thought that the balance between cooperation and independence between modules is a driving force behind the complex structures in the brain.
 - The distinction between working memory and short-term memory is fuzzy and not clear. They appear to be the same yet they don’t seem to be.
 - The limited capacity of working memory is puzzling since we can easily build systems that can rapidly store many thousands of items.
@@ -458,17 +458,17 @@ excerpt: "An introduction to the field of computational neuroscience."
     2. Visual working memory is separate from verbal working memory.
     3. The capacity limit isn’t due to an increase in the number of decisions that have to be made.
 - One explanation for the limit on working memory is the spurious synchronization hypothesis.
-- Spurious synchronization hypothesis: the idea that different objects are represented by different synchronized spike trains, and that increasing the number of objects results in spurious synchronization between spike trains. At some point, the level of spurious synchronization becomes too large for the system to distinguish between objects.
+- *Spurious synchronization hypothesis*: the idea that different objects are represented by different synchronized spike trains, and that increasing the number of objects results in spurious synchronization between spike trains. At some point, the level of spurious synchronization becomes too large for the system to distinguish between objects.
 ![Figure 9.9](figure9-9.png)
 - Reinforcement learning differs from supervised learning in that only a general feedback signal, like reward or punishment, is given.
 - For motor control, one source of feedback is proprioreceptive feedback or the position of our body.
 - Another source of feedback is visual signals. However, sensory feedback has to be converted into the right reference frame to be used by the motor system.
-- Conditioning: learning with reward signals.
-- Temporal credit assignment problem: the problem of associating an action with a future reward.
+- *Conditioning*: learning with reward signals.
+- *Temporal credit assignment problem*: the problem of associating an action with a future reward.
 - Neural mechanisms must be able to solve this problem as we have evidence of this from rodents.
 ![Figure 9.14](figure9-14.png)
-- RL evaluation problem: how to estimate future rewards for a given state and action.
-- Temporal difference (TD) learning: a solution to the RL evalution problem.
+- *RL evaluation problem*: how to estimate future rewards for a given state and action.
+- *Temporal difference (TD) learning*: a solution to the RL evalution problem.
 ![Figure 9.15](figure9-15.png)
 - RL may be implemented in the basal ganglia using an actor-critic scheme. However, there have been criticisms and questions on the assumptions.
 
@@ -504,15 +504,15 @@ excerpt: "An introduction to the field of computational neuroscience."
 - The central conjecture is that the brain is trying to match sensory input with internally generated states.
 - These internal states depend not only on input from the environment, but also on the predictions from higher cortical areas.
 - Some specific implementations are
-  - Deep belief networks: “believe networks” for their ability to generate expectations.
-  - Bayesian network: specifies the causal relations between conditional probability functions.
-  - Boltzmann machines: stochastic networks with symmetrical connections.
+  - *Deep belief networks*: “believe networks” for their ability to generate expectations.
+  - *Bayesian network*: specifies the causal relations between conditional probability functions.
+  - *Boltzmann machines*: stochastic networks with symmetrical connections.
 - We can view the anticipating brain as a generative model, a model that’s able to produce data comparable to data from the environment.
 - We should also be able to inverse the generative model to create a recognition model, a model that can be used to recognize causes in the environment.
 - We can think of the brain as a flexible dynamic system where the parameters are adjusted to match world distributions, and through evolution, this system has evolved to parameterize common concepts of our world.
-- Plasticity-stability dilemma: how to have a system learn new concepts quickly but to also be stable enough to retain learning concepts.
+- *Plasticity-stability dilemma*: how to have a system learn new concepts quickly but to also be stable enough to retain learning concepts.
 - How should an experience change our world model? Should it be learned as a new concept or should it adjust an existing concept?
 - ART is one answer to these questions.
-- Adaptive resonance theory (ART): inputs are compared against internal states through a measure of “resonance” and if the measure is above a threshold, then the input is considered a new concept and triggers a different pathway.
+- *Adaptive resonance theory (ART)*: inputs are compared against internal states through a measure of “resonance” and if the measure is above a threshold, then the input is considered a new concept and triggers a different pathway.
 - A current challenge in computational neuroscience is the multitude of models with diverse aims.
 - The progression of our understanding of brain functions will also certainly lead to more convergence in modelling approaches. Remember function follows form.
