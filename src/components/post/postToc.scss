@@ -1,11 +1,15 @@
-/* sidebar */
+@import "../../assets/scss/variables";
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+
 .post-toc {
   top: 0;
   height: 100vh;
 }
 
 .toc-header {
-  color: #677b8c;
+  color: theme-color("primary");
 }
 
 .bs-docs-sidebar ul {

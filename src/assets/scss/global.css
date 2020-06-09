@@ -1,21 +1,17 @@
 /*
 Error: File to import not found or unreadable: ~bootstrap/scss/bootstrap.
-        on line 6 of global.scss
+        on line 2 of global.scss
 
-1: // Override Bootstrap variables
-2: $theme-colors: (
-3:   "primary": #677B8C,
-4: );
-5: 
-6: @import "~bootstrap/scss/bootstrap";
-7: 
-8: // Override text selection color
-9: ::-moz-selection {
-10:   /* Code for Firefox *\/
-11:   color: white;
+1: @import "variables";
+2: @import "~bootstrap/scss/bootstrap";
+3: 
+4: // Override text selection color
+5: ::-moz-selection {
+6:   /* Code for Firefox *\/
+7:   color: white;
 
 Backtrace:
-global.scss:6
+global.scss:2
 C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/import_node.rb:67:in `rescue in import'
 C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/import_node.rb:44:in `import'
 C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/import_node.rb:28:in `imported_file'
@@ -53,4 +49,4 @@ C:/Ruby26-x64/bin/sass:23:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: ~bootstrap/scss/bootstrap.\A         on line 6 of global.scss\A \A 1: // Override Bootstrap variables\A 2: $theme-colors: (\A 3:   \"primary\": #677B8C,\A 4: );\A 5: \A 6: @import \"~bootstrap/scss/bootstrap\";\A 7: \A 8: // Override text selection color\A 9: ::-moz-selection {\A 10:   /* Code for Firefox */\A 11:   color: white;"; }
+  content: "Error: File to import not found or unreadable: ~bootstrap/scss/bootstrap.\A         on line 2 of global.scss\A \A 1: @import \"variables\";\A 2: @import \"~bootstrap/scss/bootstrap\";\A 3: \A 4: // Override text selection color\A 5: ::-moz-selection {\A 6:   /* Code for Firefox */\A 7:   color: white;"; }

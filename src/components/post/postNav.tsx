@@ -1,6 +1,7 @@
 import React from "react"
 import Button from "react-bootstrap/Button"
 import ButtonGroup from "react-bootstrap/ButtonGroup"
+import { PostNavLink } from "./postContent"
 
 interface PostNavButtonProps {
   link: string
@@ -9,30 +10,15 @@ interface PostNavButtonProps {
 }
 
 interface PostNavProps {
-  previous?: {
-    fields: {
-      slug: string
-    }
-    frontmatter: {
-      title: string
-    }
-  }
-  next?: {
-    fields: {
-      slug: string
-    }
-    frontmatter: {
-      title: string
-    }
-  }
+  previous?: PostNavLink
+  next?: PostNavLink
 }
 
 const PostNavButton = ({ link, smallText, postTitle }: PostNavButtonProps) => {
   return (
     <Button variant="outline-secondary" className="w-50" href={link}>
-      <p>
-        <small>{smallText}</small>
-      </p>
+      <small>{smallText}</small>
+      <br />
       {postTitle}
     </Button>
   )

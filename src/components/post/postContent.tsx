@@ -5,7 +5,7 @@ import PostNav from "./postNav"
 import PostMeta from "./postMeta"
 import "./postContent.scss"
 
-interface PostLink {
+export interface PostNavLink {
   fields: {
     slug: string
   }
@@ -24,8 +24,8 @@ interface PostContentProps {
       categories: string[]
     }
   }
-  previous?: PostLink
-  next?: PostLink
+  previous?: PostNavLink
+  next?: PostNavLink
 }
 
 const PostContent = ({ post, previous, next }: PostContentProps) => {

@@ -1,8 +1,4 @@
-// Override Bootstrap variables
-$theme-colors: (
-  "primary": #677B8C,
-);
-
+@import "variables";
 @import "~bootstrap/scss/bootstrap";
 
 // Override text selection color
@@ -34,10 +30,6 @@ li {
 
 a:hover {
   text-decoration: none;
-}
-
-.post-meta {
-  @extend .text-secondary;
 }
 
 table {

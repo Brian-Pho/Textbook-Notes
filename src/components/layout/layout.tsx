@@ -26,11 +26,14 @@ const Layout = ({ activePage, article, children }: LayoutProps) => {
     }
   `)
 
-  const activePageData = site.siteMetadata.menu.find(menuItem => {
-    return menuItem.label === activePage
-  })
+  let activePagePath = ""
 
-  const activePagePath = activePageData ? activePageData.path : ""
+  for (const menuItem of site.siteMetadata.menu) {
+    if (menuItem.label === activePage) {
+      activePagePath = menuItem.path
+      break
+    }
+  }
 
   return (
     <Container fluid>

@@ -1,10 +1,8 @@
 # The CR4-DL (Cradle)
 
-This repository is for me to store and view my notes from books, textbooks, courses, and papers.
+This repository holds the code for the CR4-DL website.
 
-Homepage Link: <https://www.brianpho.com>
-
-CR4-DL Link: <https://brianpho.com/CR4-DL>
+CR4-DL Website: <https://brianpho.com/CR4-DL>
 
 The website was built using Gatsby and React-Bootstrap, and the theme was heavily inspired by
 
@@ -16,15 +14,13 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 
 ## TODO
 
+- [ ] Clean up notes
 - [ ] Clean up grammar and spelling
 - [ ] Run notes through Grammarly
 - [ ] Add scrollspy to table of contents
-- [ ] Optimize category filtering
-- [ ] Clean up codebase
 - [ ] Add comments to codebase
 - [ ] Convert LaTeX course notes into Markdown using [Pandoc](https://pandoc.org/getting-started.html)
 - [ ] Fix table of content overflow
-- [ ] Clean up notes
 
 ## Favicon Generator
 

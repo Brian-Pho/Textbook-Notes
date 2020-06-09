@@ -1,17 +1,16 @@
 /*
 Error: File to import not found or unreadable: ~bootstrap/scss/functions.
-        on line 2 of postToc.scss
+        on line 1 of postMeta.scss
 
-1: @import "../../assets/scss/variables";
-2: @import "~bootstrap/scss/functions";
-3: @import "~bootstrap/scss/variables";
-4: @import "~bootstrap/scss/mixins";
-5: 
-6: .post-toc {
-7:   top: 0;
+1: @import "~bootstrap/scss/functions";
+2: @import "~bootstrap/scss/variables";
+3: @import "~bootstrap/scss/mixins";
+4: 
+5: .post-meta {
+6:   color: theme-color("secondary");
 
 Backtrace:
-postToc.scss:2
+postMeta.scss:1
 C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/import_node.rb:67:in `rescue in import'
 C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/import_node.rb:44:in `import'
 C:/Ruby26-x64/lib/ruby/gems/2.6.0/gems/sass-3.7.4/lib/sass/tree/import_node.rb:28:in `imported_file'
@@ -49,4 +48,4 @@ C:/Ruby26-x64/bin/sass:23:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: ~bootstrap/scss/functions.\A         on line 2 of postToc.scss\A \A 1: @import \"../../assets/scss/variables\";\A 2: @import \"~bootstrap/scss/functions\";\A 3: @import \"~bootstrap/scss/variables\";\A 4: @import \"~bootstrap/scss/mixins\";\A 5: \A 6: .post-toc {\A 7:   top: 0;"; }
+  content: "Error: File to import not found or unreadable: ~bootstrap/scss/functions.\A         on line 1 of postMeta.scss\A \A 1: @import \"~bootstrap/scss/functions\";\A 2: @import \"~bootstrap/scss/variables\";\A 3: @import \"~bootstrap/scss/mixins\";\A 4: \A 5: .post-meta {\A 6:   color: theme-color(\"secondary\");"; }
