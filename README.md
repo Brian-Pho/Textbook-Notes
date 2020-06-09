@@ -20,7 +20,6 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 - [ ] Run notes through Grammarly
 - [ ] Add scrollspy to table of contents
 - [ ] Optimize category filtering
-- [ ] Clean up types in codebase
 - [ ] Clean up codebase
 - [ ] Add comments to codebase
 - [ ] Convert LaTeX course notes into Markdown using [Pandoc](https://pandoc.org/getting-started.html)

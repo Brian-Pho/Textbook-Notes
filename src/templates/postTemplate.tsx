@@ -3,24 +3,10 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
 import PostContent from "../components/post/postContent"
 import PostToc from "../components/post/postToc"
+import { Markdown } from "../types/graphqlQuery"
 
 interface PostTemplateProps {
-  data: {
-    markdownRemark: {
-      html: string
-      tableOfContents: string
-      timeToRead: number
-      frontmatter: {
-        title: string
-        date: string
-        categories: string[]
-      }
-      headings: {
-        id: string
-        value: string
-      }[]
-    }
-  }
+  data: Markdown
   pageContext: any
 }
 
@@ -31,9 +17,7 @@ const PostTemplate = ({ data, pageContext }: PostTemplateProps) => {
   return (
     <Layout activePage="Notes" article={true}>
       <PostContent post={post} previous={previous} next={next} />
-      {post.tableOfContents ? (
-        <PostToc toc={post.tableOfContents} headings={post.headings} />
-      ) : null}
+      {post.tableOfContents ? <PostToc toc={post.tableOfContents} /> : null}
     </Layout>
   )
 }
@@ -50,10 +34,6 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         categories
-      }
-      headings {
-        id
-        value
       }
     }
   }

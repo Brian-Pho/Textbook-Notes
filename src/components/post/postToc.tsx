@@ -5,13 +5,9 @@ import Nav from "react-bootstrap/Nav"
 
 interface PostTocProps {
   toc: string
-  headings: {
-    id: string
-    value: string
-  }[]
 }
 
-const PostToc = ({ toc, headings }: PostTocProps) => {
+const PostToc = ({ toc }: PostTocProps) => {
   return (
     <Col
       xl={3}

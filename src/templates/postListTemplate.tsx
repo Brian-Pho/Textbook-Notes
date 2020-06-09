@@ -2,27 +2,10 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
 import PostList from "../components/postList/postList"
+import { AllMarkdown } from "../types/graphqlQuery"
 
 interface PostListTemplateProps {
-  data: {
-    allMarkdownRemark: {
-      edges: {
-        node: {
-          excerpt: string
-          timeToRead: number
-          fields: {
-            slug: string
-          }
-          frontmatter: {
-            title: string
-            date: string
-            excerpt: string
-            categories: string[]
-          }
-        }
-      }[]
-    }
-  }
+  data: AllMarkdown
   pageContext: any
 }
 

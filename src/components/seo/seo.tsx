@@ -2,34 +2,35 @@ import React from "react"
 import { Helmet } from "react-helmet"
 import { useLocation } from "@reach/router"
 import { useStaticQuery, graphql } from "gatsby"
+import { SiteMetadata } from "../../types/graphqlQuery"
 
 interface SEOProps {
-  title: string
-  description: string
-  article?: boolean
+  customTitle?: string
+  customDesc?: string
+  isArticle?: boolean
 }
 
-const SEO = ({ title, description, article }: SEOProps) => {
+const SEO = ({ customTitle, customDesc, isArticle }: SEOProps) => {
   const { pathname } = useLocation()
-  const { site } = useStaticQuery(graphql`
+  const { site }: SiteMetadata = useStaticQuery(graphql`
     query SEO {
       site {
         siteMetadata {
-          defaultTitle: title
-          defaultDescription: description
-          defaultUrl: siteUrl
+          title
+          description
+          siteUrl
         }
       }
     }
   `)
 
-  const { defaultTitle, defaultDescription, defaultUrl } = site.siteMetadata
+  const { title, description, siteUrl } = site.siteMetadata
 
   const seo = {
-    title: title || defaultTitle,
-    description: description || defaultDescription,
-    url: `${defaultUrl}${pathname}`,
-    type: article ? "article" : "website",
+    title: customTitle || title,
+    description: customDesc || description,
+    url: `${siteUrl}${pathname}`,
+    type: isArticle ? "article" : "website",
   }
 
   return (

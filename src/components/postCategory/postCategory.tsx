@@ -1,11 +1,11 @@
 import React from "react"
 import { Link } from "gatsby"
 import ListGroup from "react-bootstrap/ListGroup"
-import { NodeType } from "../../pages/notes"
+import { AllMarkdownNode } from "../../types/graphqlQuery"
 
 interface PostCategoryProps {
   posts: {
-    node: NodeType
+    node: AllMarkdownNode
   }[]
 }
 

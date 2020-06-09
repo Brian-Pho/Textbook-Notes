@@ -3,27 +3,10 @@ import Layout from "../components/layout/layout"
 import { graphql, useStaticQuery } from "gatsby"
 import PostToc from "../components/post/postToc"
 import PostContent from "../components/post/postContent"
-
-interface AboutType {
-  markdownRemark: {
-    html: string
-    timeToRead: number
-    tableOfContents: string
-    frontmatter: {
-      title: string
-    }
-    fields: {
-      slug: string
-    }
-    headings: {
-      id: string
-      value: string
-    }[]
-  }
-}
+import { Markdown } from "../types/graphqlQuery"
 
 const About = () => {
-  const data: AboutType = useStaticQuery(graphql`
+  const data: Markdown = useStaticQuery(graphql`
     query {
       markdownRemark(
         frontmatter: { layout: { eq: "page" }, title: { eq: "About" } }
@@ -33,10 +16,6 @@ const About = () => {
         timeToRead
         frontmatter {
           title
-        }
-        headings {
-          id
-          value
         }
         fields {
           slug
@@ -50,9 +29,7 @@ const About = () => {
   return (
     <Layout activePage="About">
       <PostContent post={page} />
-      {page.tableOfContents ? (
-        <PostToc toc={page.tableOfContents} headings={page.headings} />
-      ) : null}
+      {page.tableOfContents ? <PostToc toc={page.tableOfContents} /> : null}
     </Layout>
   )
 }

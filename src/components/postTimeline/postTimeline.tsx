@@ -1,38 +1,13 @@
 import React from "react"
 import { graphql, Link, useStaticQuery } from "gatsby"
 import "./postTimeline.scss"
+import { AllMarkdown, AllMarkdownNode } from "../../types/graphqlQuery"
 
 interface YearProps {
   year: string
   posts: {
-    node: {
-      fields: {
-        slug: string
-      }
-      frontmatter: {
-        title: string
-        date: string
-        categories: string[]
-      }
-    }
+    node: AllMarkdownNode
   }[]
-}
-
-interface TimelineDataType {
-  allMarkdownRemark: {
-    edges: {
-      node: {
-        fields: {
-          slug: string
-        }
-        frontmatter: {
-          title: string
-          date: string
-          categories: string[]
-        }
-      }
-    }[]
-  }
 }
 
 const Year = ({ year, posts }: YearProps) => {
@@ -57,7 +32,7 @@ const Year = ({ year, posts }: YearProps) => {
 }
 
 const PostTimeline = () => {
-  const data: TimelineDataType = useStaticQuery(graphql`
+  const data: AllMarkdown = useStaticQuery(graphql`
     query {
       allMarkdownRemark(
         filter: { frontmatter: { layout: { eq: "post" } } }

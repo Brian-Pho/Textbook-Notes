@@ -7,13 +7,9 @@ import { faAt } from "@fortawesome/free-solid-svg-icons"
 import "./sidebar.scss"
 import Col from "react-bootstrap/Col"
 import Navbar from "react-bootstrap/Navbar"
+import { SiteMetadata } from "../../types/graphqlQuery"
 
 const SIDEBAR_ICON_SIZE = "lg"
-
-export interface NavItem {
-  label: string
-  path: string
-}
 
 interface SidebarProps {
   activePage: string
@@ -39,7 +35,7 @@ const SidebarContact = (props: SidebarContactProps) => {
 }
 
 const Sidebar = (props: SidebarProps) => {
-  const data = useStaticQuery(graphql`
+  const { site }: SiteMetadata = useStaticQuery(graphql`
     query {
       site {
         siteMetadata {
@@ -58,7 +54,7 @@ const Sidebar = (props: SidebarProps) => {
     }
   `)
 
-  const { title, description, menu, author } = data.site.siteMetadata
+  const { title, description, menu, author } = site.siteMetadata
 
   return (
     <Col
@@ -88,7 +84,7 @@ const Sidebar = (props: SidebarProps) => {
             defaultActiveKey={withPrefix(props.activePage)}
             className="flex-column w-100"
           >
-            {menu.map((item: NavItem, index: number) => {
+            {menu.map((item, index) => {
               return (
                 <Nav.Link
                   href={withPrefix(item.path)}

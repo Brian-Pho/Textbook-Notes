@@ -1,5 +1,4 @@
 import React from "react"
-import "./postMeta.scss"
 
 interface PostMetaProps {
   post: {
