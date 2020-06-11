@@ -3,16 +3,15 @@ import Layout from "../components/layout/layout"
 import { graphql, useStaticQuery } from "gatsby"
 import PostToc from "../components/post/postToc"
 import PostContent from "../components/post/postContent"
-import { Markdown } from "../types/graphqlQuery"
+import { MarkdownType } from "../types/graphqlQuery"
 
 const About = () => {
-  const data: Markdown = useStaticQuery(graphql`
+  const data: MarkdownType = useStaticQuery(graphql`
     query {
       markdownRemark(
         frontmatter: { layout: { eq: "page" }, title: { eq: "About" } }
       ) {
         html
-        tableOfContents
         timeToRead
         frontmatter {
           title

@@ -2,7 +2,7 @@ import React from "react"
 import { Helmet } from "react-helmet"
 import { useLocation } from "@reach/router"
 import { useStaticQuery, graphql } from "gatsby"
-import { SiteMetadata } from "../../types/graphqlQuery"
+import { SiteMetadataType } from "../../types/graphqlQuery"
 
 interface SEOProps {
   customTitle?: string
@@ -12,7 +12,7 @@ interface SEOProps {
 
 const SEO = ({ customTitle, customDesc, isArticle }: SEOProps) => {
   const { pathname } = useLocation()
-  const { site }: SiteMetadata = useStaticQuery(graphql`
+  const { site }: SiteMetadataType = useStaticQuery(graphql`
     query SEO {
       site {
         siteMetadata {

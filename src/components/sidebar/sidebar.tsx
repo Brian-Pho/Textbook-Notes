@@ -7,7 +7,7 @@ import { faAt } from "@fortawesome/free-solid-svg-icons"
 import "./sidebar.scss"
 import Col from "react-bootstrap/Col"
 import Navbar from "react-bootstrap/Navbar"
-import { SiteMetadata } from "../../types/graphqlQuery"
+import { SiteMetadataType } from "../../types/graphqlQuery"
 
 const SIDEBAR_ICON_SIZE = "lg"
 
@@ -35,7 +35,7 @@ const SidebarContact = (props: SidebarContactProps) => {
 }
 
 const Sidebar = (props: SidebarProps) => {
-  const { site }: SiteMetadata = useStaticQuery(graphql`
+  const { site }: SiteMetadataType = useStaticQuery(graphql`
     query {
       site {
         siteMetadata {

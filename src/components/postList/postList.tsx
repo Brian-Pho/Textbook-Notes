@@ -3,7 +3,7 @@ import { Link, withPrefix } from "gatsby"
 import Col from "react-bootstrap/Col"
 import Pagination from "react-bootstrap/Pagination"
 import ListGroup from "react-bootstrap/ListGroup"
-import { AllMarkdownNode } from "../../types/graphqlQuery"
+import { PostType } from "../../types/graphqlQuery"
 import PostMeta from "../post/postMeta"
 
 interface PostListPaginationProps {
@@ -14,7 +14,7 @@ interface PostListPaginationProps {
 interface PostListProps extends PostListPaginationProps {
   postList: {
     edges: {
-      node: AllMarkdownNode
+      node: PostType
     }[]
   }
 }

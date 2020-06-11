@@ -4,7 +4,7 @@ import Row from "react-bootstrap/Row"
 import Sidebar from "../sidebar/sidebar"
 import { graphql, useStaticQuery } from "gatsby"
 import SEO from "../seo/seo"
-import { SiteMetadata } from "../../types/graphqlQuery"
+import { SiteMetadataType } from "../../types/graphqlQuery"
 
 interface LayoutProps {
   activePage: string
@@ -13,7 +13,7 @@ interface LayoutProps {
 }
 
 const Layout = ({ activePage, article, children }: LayoutProps) => {
-  const { site }: SiteMetadata = useStaticQuery(graphql`
+  const { site }: SiteMetadataType = useStaticQuery(graphql`
     query {
       site {
         siteMetadata {

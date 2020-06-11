@@ -2,10 +2,10 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
 import PostList from "../components/postList/postList"
-import { AllMarkdown } from "../types/graphqlQuery"
+import { AllMarkdownType } from "../types/graphqlQuery"
 
 interface PostListTemplateProps {
-  data: AllMarkdown
+  data: AllMarkdownType
   pageContext: any
 }
 
@@ -44,8 +44,8 @@ export const pageQuery = graphql`
           frontmatter {
             title
             date(formatString: "MMMM D, YYYY")
-            excerpt
             categories
+            excerpt
           }
         }
       }

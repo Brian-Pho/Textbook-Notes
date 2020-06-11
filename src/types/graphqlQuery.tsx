@@ -1,4 +1,4 @@
-export interface SiteMetadata {
+export interface SiteMetadataType {
   site: {
     siteMetadata: {
       title: string
@@ -16,32 +16,20 @@ export interface SiteMetadata {
   }
 }
 
-export interface Markdown {
-  markdownRemark: {
-    html: string
-    tableOfContents: string
-    timeToRead: number
-    frontmatter: {
-      title: string
-      date: string
-      categories: string[]
-    }
-    fields: {
-      slug: string
-    }
-  }
+export interface MarkdownType {
+  markdownRemark: PostType
 }
 
-export interface AllMarkdown {
+export interface AllMarkdownType {
   allMarkdownRemark: {
     edges: {
-      node: AllMarkdownNode
+      node: PostType
     }[]
   }
 }
 
-export interface AllMarkdownNode {
-  excerpt: string
+export interface PostType {
+  html: string
   timeToRead: number
   fields: {
     slug: string
@@ -49,7 +37,7 @@ export interface AllMarkdownNode {
   frontmatter: {
     title: string
     date: string
-    excerpt: string
     categories: string[]
+    excerpt: string
   }
 }

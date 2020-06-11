@@ -1,12 +1,12 @@
 import React from "react"
 import { graphql, Link, useStaticQuery } from "gatsby"
 import "./postTimeline.scss"
-import { AllMarkdown, AllMarkdownNode } from "../../types/graphqlQuery"
+import { AllMarkdownType, PostType } from "../../types/graphqlQuery"
 
 interface YearProps {
   year: string
   posts: {
-    node: AllMarkdownNode
+    node: PostType
   }[]
 }
 
@@ -32,7 +32,7 @@ const Year = ({ year, posts }: YearProps) => {
 }
 
 const PostTimeline = () => {
-  const data: AllMarkdown = useStaticQuery(graphql`
+  const data: AllMarkdownType = useStaticQuery(graphql`
     query {
       allMarkdownRemark(
         filter: { frontmatter: { layout: { eq: "post" } } }
