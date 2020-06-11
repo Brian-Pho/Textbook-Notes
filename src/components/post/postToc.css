@@ -6,9 +6,9 @@ Error: File to import not found or unreadable: ~bootstrap/scss/functions.
 2: @import "~bootstrap/scss/functions";
 3: @import "~bootstrap/scss/variables";
 4: @import "~bootstrap/scss/mixins";
-5: 
-6: .post-toc {
-7:   top: 0;
+5: @import "~tocbot/src/scss/tocbot";
+6: 
+7: .post-toc {
 
 Backtrace:
 postToc.scss:2
@@ -49,4 +49,4 @@ C:/Ruby26-x64/bin/sass:23:in `<main>'
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Error: File to import not found or unreadable: ~bootstrap/scss/functions.\A         on line 2 of postToc.scss\A \A 1: @import \"../../assets/scss/variables\";\A 2: @import \"~bootstrap/scss/functions\";\A 3: @import \"~bootstrap/scss/variables\";\A 4: @import \"~bootstrap/scss/mixins\";\A 5: \A 6: .post-toc {\A 7:   top: 0;"; }
+  content: "Error: File to import not found or unreadable: ~bootstrap/scss/functions.\A         on line 2 of postToc.scss\A \A 1: @import \"../../assets/scss/variables\";\A 2: @import \"~bootstrap/scss/functions\";\A 3: @import \"~bootstrap/scss/variables\";\A 4: @import \"~bootstrap/scss/mixins\";\A 5: @import \"~tocbot/src/scss/tocbot\";\A 6: \A 7: .post-toc {"; }

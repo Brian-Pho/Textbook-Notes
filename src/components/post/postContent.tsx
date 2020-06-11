@@ -4,6 +4,7 @@ import Col from "react-bootstrap/Col"
 import PostNav from "./postNav"
 import PostMeta from "./postMeta"
 import "./postContent.scss"
+import { tocContentClassName } from "./postToc"
 
 export interface PostNavLink {
   fields: {
@@ -35,7 +36,10 @@ const PostContent = ({ post, previous, next }: PostContentProps) => {
         <h1>{post.frontmatter.title}</h1>
         <PostMeta post={post} />
       </header>
-      <section dangerouslySetInnerHTML={{ __html: post.html }} />
+      <section
+        className={tocContentClassName}
+        dangerouslySetInnerHTML={{ __html: post.html }}
+      />
       <PostNav previous={previous} next={next} />
     </Col>
   )

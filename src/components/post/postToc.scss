@@ -2,31 +2,27 @@
 @import "~bootstrap/scss/functions";
 @import "~bootstrap/scss/variables";
 @import "~bootstrap/scss/mixins";
+@import "~tocbot/src/scss/tocbot";
 
 .post-toc {
   top: 0;
-  height: 100vh;
+  height: 100%;
 }
 
 .toc-header {
   color: theme-color("primary");
 }
 
-.bs-docs-sidebar ul {
-  list-style: none;
-  padding-inline-start: 20px;
+.toc-list {
+  margin: 0;
+  padding-left: 15px;
+  font-size: 14px;
 }
 
-.bs-docs-sidebar > ul {
-  padding: 0;
+a.toc-link {
+  color: theme-color("primary");
 }
 
-.bs-docs-sidebar a {
-  font-size: 13px;
-  font-weight: 400;
-}
-
-.bs-docs-sidebar a:hover,
-.bs-docs-sidebar a:focus {
-  font-weight: 600;
+.is-active-link::before {
+  background-color: theme-color("primary");
 }

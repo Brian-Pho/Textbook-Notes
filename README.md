@@ -17,10 +17,9 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 - [ ] Clean up notes
 - [ ] Clean up grammar and spelling
 - [ ] Run notes through Grammarly
-- [ ] Add scrollspy to table of contents
 - [ ] Add comments to codebase
 - [ ] Convert LaTeX course notes into Markdown using [Pandoc](https://pandoc.org/getting-started.html)
-- [ ] Fix table of content overflow
+- [ ] Don't create TOC component on mobile <https://github.com/gatsbyjs/gatsby/blob/master/www/src/components/docs-table-of-contents.js>
 
 ## Favicon Generator
 

@@ -28,7 +28,7 @@ const About = () => {
   return (
     <Layout activePage="About">
       <PostContent post={page} />
-      <PostToc toc={page.tableOfContents} />
+      <PostToc />
     </Layout>
   )
 }
