@@ -7,7 +7,7 @@ import { faAt } from "@fortawesome/free-solid-svg-icons"
 import "./sidebar.scss"
 import Col from "react-bootstrap/Col"
 import Navbar from "react-bootstrap/Navbar"
-import { SiteMetadataType } from "../../types/graphqlQuery"
+import { SiteMetadataType } from "../../utils/graphqlTypes"
 
 const SIDEBAR_ICON_SIZE = "lg"
 

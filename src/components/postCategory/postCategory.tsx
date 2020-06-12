@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import ListGroup from "react-bootstrap/ListGroup"
-import { PostType } from "../../types/graphqlQuery"
+import { PostType } from "../../utils/graphqlTypes"
 
 interface PostCategoryProps {
   posts: {

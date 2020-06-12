@@ -2,7 +2,7 @@ import React from "react"
 import { Helmet } from "react-helmet"
 import { useLocation } from "@reach/router"
 import { useStaticQuery, graphql } from "gatsby"
-import { SiteMetadataType } from "../../types/graphqlQuery"
+import { SiteMetadataType } from "../../utils/graphqlTypes"
 
 interface SEOProps {
   customTitle?: string

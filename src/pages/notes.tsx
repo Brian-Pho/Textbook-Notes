@@ -5,7 +5,7 @@ import Col from "react-bootstrap/Col"
 import Tab from "react-bootstrap/Tab"
 import PostCategory from "../components/postCategory/postCategory"
 import { graphql, useStaticQuery } from "gatsby"
-import { AllMarkdownType } from "../types/graphqlQuery"
+import { AllMarkdownType } from "../utils/graphqlTypes"
 
 const NOTE_CATEGORIES = ["Books", "Textbooks", "Papers", "Courses", "Other"]
 

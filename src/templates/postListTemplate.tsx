@@ -2,7 +2,7 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
 import PostList from "../components/postList/postList"
-import { AllMarkdownType } from "../types/graphqlQuery"
+import { AllMarkdownType } from "../utils/graphqlTypes"
 
 interface PostListTemplateProps {
   data: AllMarkdownType

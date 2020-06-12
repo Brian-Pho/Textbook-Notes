@@ -1,7 +1,7 @@
 import React from "react"
 import { graphql, Link, useStaticQuery } from "gatsby"
 import "./postTimeline.scss"
-import { AllMarkdownType, PostType } from "../../types/graphqlQuery"
+import { AllMarkdownType, PostType } from "../../utils/graphqlTypes"
 
 interface YearProps {
   year: string

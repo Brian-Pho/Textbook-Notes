@@ -3,7 +3,7 @@ import { Link, withPrefix } from "gatsby"
 import Col from "react-bootstrap/Col"
 import Pagination from "react-bootstrap/Pagination"
 import ListGroup from "react-bootstrap/ListGroup"
-import { PostType } from "../../types/graphqlQuery"
+import { PostType } from "../../utils/graphqlTypes"
 import PostMeta from "../post/postMeta"
 
 interface PostListPaginationProps {
