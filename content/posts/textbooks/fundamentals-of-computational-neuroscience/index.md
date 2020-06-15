@@ -11,7 +11,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 
 ## Chapter 1: Introduction
 
-- Textbook website: https://web.cs.dal.ca/~tt/fundamentals/
+- Textbook website: <https://web.cs.dal.ca/~tt/fundamentals/>
 - *Computational neuroscience (CN)*: the theoretical study of the brain to uncover the principles and mechanisms behind the development, organization, information-processing, and mental abilities of the nervous system.
 - A major focus of CN is the development and evaluation of models.
 ![Figure 1.1](figure1-1.png)
@@ -428,7 +428,7 @@ excerpt: "An introduction to the field of computational neuroscience."
 - We expect that the cycling in a recurrent network can enhance pattern completion ability.
 - The hippocampus is implicated with the acquisition of episodic memory using patient H.M. as evidence.
 - Removal of patient H.M’s medial temporal lobes (MTL) resulted in retrograde amnesia, the inability to form new long-term memories.
-- There’s an issue when we combine associative Hebbian mechanisms with recurrent networks. 
+- There’s an issue when we combine associative Hebbian mechanisms with recurrent networks.
 - The issue is that associative learning depends on relating presynaptic activity to postsynaptic activity however, recurrent networks drive the postsynaptic activity away from the desired activity pattern if the dynamic of the network is dominant.
 - One solution is to divide the operation of the networks into two phases, a training phase and a retrieval phase. This is a reasonable assumption since we rarely want to store and retrieve information at the same time.
 - The switch between the two phases could be implemented in multiple ways in the hippocampus. The ways aren’t described here.

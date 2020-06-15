@@ -47,7 +47,7 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
   - Anterior, posterior, superior, and inferior
 ![Figure 2.4](figure2-4.png)
 - The three anatomical planes are horizontal (cuts up/down), coronal (cuts front/back), and sagittal (cuts left/right).
-- Introduction to neurons, glia, axons, dendrites, synapses, APs, EPSPs, IPSPs, .
+- Introduction to neurons, glia, axons, dendrites, synapses, APs, EPSPs, and IPSPs.
 - Neurons are electrically and chemically active.
 ![Table 2.2](table2-2.png)
 - In the CNS, the most common excitatory neurotransmitter is glutamate and the most common inhibitory neurotransmitter is GABA.

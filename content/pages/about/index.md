@@ -27,7 +27,7 @@ I'm pursuing AGI for multiple reasons.
 
 ### How do you plan on creating AGI?
 
-I plan on creating AGI by first studying the human brain. My approach is to reverse engineer the brain by extracting the core principles of how the brain processes information. Information processing requires two separate, but integrated, parts like computers: hardware and software. The hardware of the brain is the physical implementation of it, cells called neurons. Examples of brain hardware include its inputs and outputs such as the eye, skin, spinal cord, and muscles. The software of the brain is the intangible or emergent properties of it. Examples of brain software include consciousness, visual illusions, and language. By understanding both the hardware and software of the brain, we should have enough information to create it. 
+I plan on creating AGI by first studying the human brain. My approach is to reverse engineer the brain by extracting the core principles of how the brain processes information. Information processing requires two separate, but integrated, parts like computers: hardware and software. The hardware of the brain is the physical implementation of it, cells called neurons. Examples of brain hardware include its inputs and outputs such as the eye, skin, spinal cord, and muscles. The software of the brain is the intangible or emergent properties of it. Examples of brain software include consciousness, visual illusions, and language. By understanding both the hardware and software of the brain, we should have enough information to create it.
 
 ### Why did you make this website?
 
@@ -39,7 +39,7 @@ The CR4-DL (pronounced as "Cradle") is my homage to the HBO show [Westworld](htt
 
 ### How is this website built?
 
-This website is built by me and is hosted by Github Pages. I've redesigned this website three times now, the first time using a simple Jekyll theme, the second time using a more complicated Jekyll theme, and the third time using Gatsby. I've gone through multiple iterations and designs to improve the look-and-feel and the functionality of the website to my liking. I also enjoy web development as it allows me to express my creative side with programming. 
+This website is built by me and is hosted by Github Pages. I've redesigned this website three times now, the first time using a simple Jekyll theme, the second time using a more complicated Jekyll theme, and the third time using Gatsby. I've gone through multiple iterations and designs to improve the look-and-feel and the functionality of the website to my liking. I also enjoy web development as it allows me to express my creative side with programming.
 
 ### Where can I find updates on your journey?
 

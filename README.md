@@ -48,28 +48,28 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 - E.g. *Algorithm*: a series of steps that completes a goal.
 
 - End bullet points with periods unless they have sub-bullet points.
-- E.g. Blah blah blah
+- E.g.
+- This sentence has no sub-bullets so it ends with a period.
+- This sentence has sub-bullets so it doesn't end with a period
   - No period here
   - Except when the inner points are full sentences or long.
-
 - No newline breaks except between sections within a chapter.
 - No colon “:” before nested list.
+- Parts are in roman numerals.
+- Chapters are in digits.
+- Markdown linter: <https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint>
 
-### Books
+### Process
 
-1. Write notes in Dropbox Paper.
+1. Read the textbook and write notes in Dropbox Paper.
 2. Export notes in Markdown.
-3. Add them to site and fix to pass linter.
+3. Add them to site and fix markdown to pass linter.
 4. Download images.
 5. Replace image URLs with local ones.
 6. Compress images with TinyPNG.
 7. Test locally.
+8. Push to repo.
+9. Review and fix errors.
 
-Replace "\. \n" with ".\n"
-Replace "\? \n" with "?\n"
-
-### Textbooks
-
-- Parts are in roman numerals
-- Chapters are in digits
+- Replace "\. \n" with ".\n" and replace "\? \n" with "?\n" for notes written on mobile (it auto-adds space after period).
 - VS Code Replace "  - (.*[^*]):" with "  - *$1*:".
