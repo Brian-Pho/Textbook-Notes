@@ -9,6 +9,11 @@ book_authors: "Thomas Trappenberg"
 excerpt: "An introduction to the field of computational neuroscience."
 ---
 
+<blockquote class="blockquote">
+  <p>As far as the laws of mathematics refer to reality, they are not certain, as far as they are certain, they do not refer to reality</p>
+  <p class="blockquote-footer">Albert Einstein</p>
+</blockquote>
+
 ## Chapter 1: Introduction
 
 - Textbook website: <https://web.cs.dal.ca/~tt/fundamentals/>

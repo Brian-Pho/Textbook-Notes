@@ -129,7 +129,7 @@ excerpt: "An introduction to the new science of causality."
     - A confounded will make A and C statistically correlated even though there isn't a causal link between them.
     - E.g. Shoe Size ← Age of Child → Reading Ability
   - A → B ← C
-    - Collier junction.
+    - Collider junction.
     - E.g. Talent → Celebrity ← Beauty.
 - These three junctions are like keyholes through the door that separates the first and second levels of the Ladder of Causation.
 - We can use them to see the secrets of the causal process that generated the observed data.

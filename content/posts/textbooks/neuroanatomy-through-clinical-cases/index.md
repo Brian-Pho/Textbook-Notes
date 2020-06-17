@@ -9,6 +9,11 @@ book_authors: "Hal Blumenfeld"
 excerpt: "An in-depth look into the anatomy of the human brain through how it goes wrong."
 ---
 
+<blockquote class="blockquote">
+  <p>Praised be this science! Praised be the men who do it! And praised be the human mind, which sees more sharply than does the human eye.</p>
+  <p class="blockquote-footer">Aaron Bernstein</p>
+</blockquote>
+
 ## Chapter 1: Introduction to Clinical Case Presentations
 
 - Textbook website: <http://neuroexam.com/>

@@ -18,7 +18,7 @@ excerpt: "An introduction to JavaScript."
 
 - DISCLAIMER: These notes are from a senior software engineering student so basic concepts have been skipped and I’ve mostly noted the special syntax/features of JS. These notes are not for beginner programmers.
 - Textbook website: <https://eloquentjavascript.net/>
-- A better review: <https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript>
+- A better review of JS for experienced programmers: <https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript>
 - ECMAScript = JavaScript (JS)
 - JavaScript is mostly run in a browser but Node.js lets JS run outside of it.
 

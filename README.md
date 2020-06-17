@@ -19,6 +19,7 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 - [ ] Run notes through Grammarly
 - [ ] Add comments to codebase
 - [ ] Convert LaTeX course notes into Markdown using [Pandoc](https://pandoc.org/getting-started.html)
+- [ ] Fix three-depth bullet points (The Book of Why)
 
 ## Favicon Generator
 
@@ -61,15 +62,16 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 
 ### Process
 
-1. Read the textbook and write notes in Dropbox Paper.
+1. Read the textbook/book and write notes in Dropbox Paper.
 2. Export notes in Markdown.
 3. Add them to site and fix markdown to pass linter.
-4. Download images.
-5. Replace image URLs with local ones.
-6. Compress images with TinyPNG.
-7. Test locally.
-8. Push to repo.
-9. Review and fix errors.
+4. Add quote to start of textbook notes.
+5. Download images.
+6. Replace image URLs with local ones.
+7. Compress images with TinyPNG.
+8. Test locally.
+9. Push to repo.
+10. Review and fix errors.
 
 - Replace "\. \n" with ".\n" and replace "\? \n" with "?\n" for notes written on mobile (it auto-adds space after period).
 - VS Code Replace "  - (.*[^*]):" with "  - *$1*:".
