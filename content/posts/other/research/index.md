@@ -84,6 +84,7 @@ A list of resources and people in artificial intelligence and neuroscience resea
 - Carver Mead (neuromorphic, vlsi design)
 - James Anderson (neuromorphic)
 - Giacomo Indiveri (neuromorphic)
+- Kwabena Boahen (neuromorphic)
 - Mike Davies (neuromorphic)
 - Daniel Kahneman (thinking fast and slow)
 - Markus Meister (neural circuits)
@@ -110,6 +111,8 @@ A list of resources and people in artificial intelligence and neuroscience resea
 ### Organizations
 
 - [Numenta](https://numenta.com/)
+- [Neuralink](https://www.neuralink.com/)
+- [Kernel](https://www.kernel.co/)
 
 ## General
 

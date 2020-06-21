@@ -14,13 +14,13 @@ excerpt: "An introduction to the new science of causality."
 - One issue with the way we write equations is that it doesn’t capture the cause-effect relationship between variables.
 - E.g. The barometer reading tracks the atmospheric pressure and we can describe this relationship as B = kP. However, we can rearrange the equation in many ways like k = B/P or B - kP = 0. This doesn't capture the cause-effect between barometer and atmosphere though.
 - The current trend of big data is misleading in its intelligence because it can't answer why questions.
-- Calculus of causation: causal diagrams and a symbolic language.
-- Causal diagrams: dot-and-arrow diagrams with dots as quantities and arrows as causal relationships.
+- *Calculus of causation*: causal diagrams and a symbolic language.
+- *Causal diagrams*: dot-and-arrow diagrams with dots as quantities and arrows as causal relationships.
 - Diagrams are the language of knowledge while symbols are the language of queries.
 - E.g. P(L \| do(D)) what is the probability (P) that a patient would survive L years if made to take drug D?
 - This is different from the conditional probability of P(L \| D).
 - The difference between seeing and doing.
-- Counterfactual reasoning: dealing with what-if situations.
+- *Counterfactual reasoning*: dealing with what-if situations.
 - Counterfactuals may seem unscientific because of the lack of evidence but people commonly perform this type of reasoning.
 - E.g. If the rooster is silent, we know the Sun will still rise. The rooster doesn’t cause the sun to rise, but rather the other way around.
 - You can't answer a question that you can't ask, and you can't ask a question that you have no words for.
@@ -43,13 +43,13 @@ excerpt: "An introduction to the new science of causality."
     - Seeing
     - Doing
     - Imagining
-- Seeing: detection of regularities/patterns in our environment.
+- *Seeing*: detection of regularities/patterns in our environment.
 - Seeing is shared by many animals and humans.
 - E.g. Frog detecting the regular flight path of a fly to eat it.
-- Doing: predicting the effects of deliberate alterations of the environment and choosing the preferred outcome.
+- *Doing*: predicting the effects of deliberate alterations of the environment and choosing the preferred outcome.
 - Doing is shared by a small set of animals.
 - E.g. Tool-use by octopuses such as using shells.
-- Imagining: why tools work and why they don't work.
+- *Imagining*: why tools work and why they don't work.
 - Only humans are at the level of imagining.
 - The three levels are also known as the Ladder of Causation.
     1. Association
@@ -138,9 +138,9 @@ excerpt: "An introduction to the new science of causality."
 
 ## Chapter 4: Confounding and Deconfounding: Or, Slaying the Lurking Variable
 
-- Confounding bias: when a variable influences both the cause and the effect.
+- *Confounding bias*: when a variable influences both the cause and the effect.
 ![Figure 4.1](figure4-1.png)
-- Randomized controlled trial (RCT): an experiment where the group is randomly split into a test group and control group.
+- *Randomized controlled trial (RCT)*: an experiment where the group is randomly split into a test group and control group.
 - The whole art and practice of scientific experimentation is comprised in the skillful interrogation of Nature.
 - Nature is like a genie that answers exactly the question we pose and not necessarily the one we intend to ask.
 - RCTs bring two benefits
@@ -153,7 +153,7 @@ excerpt: "An introduction to the new science of causality."
 - However, there are other ways of simulating Model 2.
 - One way is to measure and adjust for all confounded variables but this is difficult.
 - Randomization severs all known and unknown links to the randomized variable.
-- Confounding: anything that makes P(Y\|X) different from P(Y\|do(X)).
+- *Confounding*: anything that makes P(Y\|X) different from P(Y\|do(X)).
 - The do operator erases all arrows that come into X and randomization has the same effect.
 
 ## Chapter 5: The Smoke-Filled Debate: Clearing the Air
@@ -177,7 +177,7 @@ excerpt: "An introduction to the new science of causality."
 - Conditioning on a collider means to filter the collider variable and find a correlation between the two colliding variables.
 - E.g. Have you noticed that among the people you date, the attractive ones tend to be jerks? That's because you'll date a mean attractive person, a nice unattractive person, and a nice attractive person, but not a mean unattractive person.
 - By self-selecting for what you want, you’ve introduced an implicit correlation.
-- Bad-Bad-Good Drug (BBG): a paradox where a drug is bad for one group, bad for another group, but is good for a combination of the groups.
+- *Bad-Bad-Good Drug (BBG)*: a paradox where a drug is bad for one group, bad for another group, but is good for a combination of the groups.
 ![Figure 6.6](figure6-6.png)
 
 ## Chapter 7: Beyond Adjustment: The Conquest of Mount Intervention
@@ -186,7 +186,7 @@ excerpt: "An introduction to the new science of causality."
 - Randomization is a great way to ensure that a variable isn't affected by any confounders.
 - Introducing the idea of instrumental variables.
 ![Figure 7.11](figure7-11.png)
-- Monotonicity: there isn't a case where Z is 0 and X is 1 aka someone that obtained the drug but wasn't assigned it.
+- *Monotonicity*: there isn't a case where Z is 0 and X is 1 aka someone that obtained the drug but wasn't assigned it.
 
 ## Chapter 8: Counterfactuals: Mining Worlds That Could Have Been
 
@@ -201,7 +201,7 @@ excerpt: "An introduction to the new science of causality."
     - Necessary causation
     - Sufficient causation
     - Necessary-and-sufficient causation
-- Counterfactual: if the first object had not been, the second had never existed.
+- *Counterfactual*: if the first object had not been, the second had never existed.
 - Where regularities can only be observed, counterfactuals can only be imagined.
 - Humans make counterfactual judgments without much issue. We can even treat them as if they exist by envisioning possible worlds in which they are true.
 - Envisioning possible worlds is a capability that has gone unnoticed by people.
@@ -221,13 +221,13 @@ excerpt: "An introduction to the new science of causality."
     - But the diagram shows experience as a mediator so we must not adjust it.
     - Don't mistake a mediator for a confounder.
 - Structural model
-    - Abduction: use the data to estimate the factors unique to each employee.
-    - Action: use the do operator to change the model to reflect the counterfactual assumption being made.
-    - Prediction: calculate the new salary using the modified model and the updated info about exogenous variables.
+    - *Abduction*: use the data to estimate the factors unique to each employee.
+    - *Action*: use the do operator to change the model to reflect the counterfactual assumption being made.
+    - *Prediction*: calculate the new salary using the modified model and the updated info about exogenous variables.
 
 ## Chapter 9: Mediation: The Search for a Mechanism
 
-- Mediation analysis: the study of whether mediators have a direct effect or an indirect effect.
+- *Mediation analysis*: the study of whether mediators have a direct effect or an indirect effect.
 - The question "Why?" has at least two versions.
     - One where you see an effect and you want to know the cause.
     - One when you want to better understand the connection between a known cause and a known effect.

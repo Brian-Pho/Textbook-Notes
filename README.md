@@ -2,7 +2,7 @@
 
 This repository holds the code for the CR4-DL website.
 
-CR4-DL Website: <https://brianpho.com/CR4-DL>
+CR4-DL Link: <https://brianpho.com/CR4-DL>
 
 The website was built using Gatsby and React-Bootstrap, and the theme was heavily inspired by
 
@@ -18,7 +18,7 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 - [ ] Clean up grammar and spelling
 - [ ] Run notes through Grammarly
 - [ ] Convert LaTeX course notes into Markdown using [Pandoc](https://pandoc.org/getting-started.html)
-- [ ] Add review section to all textbooks
+- [ ] Add a review section to all notes
 
 ## Favicon Generator
 
@@ -35,23 +35,24 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 
 ## Other Resources
 
-- <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
+- <https://www.markdownguide.org>
 - <https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md>
 - <https://github.github.com/gfm/>
 - <https://www.gatsbyjs.org/docs/gatsby-cli/>
+- <https://regexr.com/>
+- <https://www.thepunctuationguide.com/>
 
 ## Note Creation Process
 
 ### Style Guide
 
 - Parts use h1 (\#), chapters use h2 (\#\#), subsections use h3 (\#\#\#)
-- If a part/chapter/subsection has a subtitle, use italics (\*subtitle goes here\*)
+- If a part/chapter has a subtitle, use italics (\*subtitle goes here\*)
 - Definitions are in italics, don't italicize the colon, end with a period.
 - E.g. *Algorithm*: a series of steps that completes a goal.
 - End bullet points with periods unless they have sub-bullet points.
-- E.g.
-- This sentence has no sub-bullets so it ends with a period.
-- This sentence has sub-bullets so it doesn't end with a period
+- E.g. This sentence has no sub-bullets so it ends with a period.
+- E.g. This sentence has sub-bullets so it doesn't end with a period
     - No period here
     - Except when the inner points are full sentences or long.
 - No newline breaks except between sections within a chapter.
@@ -62,16 +63,17 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 
 ### Process
 
-1. Read the textbook/book and write notes in Dropbox Paper.
-2. Export notes in Markdown.
-3. Add them to site and fix markdown to pass linter.
-4. Add quote to start of textbook notes.
-5. Download images.
-6. Replace image URLs with local ones.
-7. Compress images with TinyPNG.
-8. Test locally.
-9. Push to repo.
-10. Review and fix errors.
+1. Copy the book's table of contents into Dropbox Paper.
+2. Read the book and write notes in Dropbox Paper.
+3. Export notes in Markdown.
+4. Add them to site and fix markdown to pass linter.
+5. Add a quote to the start of textbook notes.
+6. Download images.
+7. Replace image URLs with local ones.
+8. Compress images with TinyPNG.
+9. Test locally.
+10. Push to repo.
+11. Review and fix errors.
 
 - Replace "\. \n" with ".\n" and replace "\? \n" with "?\n" for notes written on mobile (it auto-adds space after period).
 - VS Code Replace "- (.*[^*]):" with "- *$1*:".

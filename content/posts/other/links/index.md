@@ -83,6 +83,7 @@ A list of useful links on artificial intelligence, neuroscience, and on becoming
 - [Intel](https://www.intel.ca/content/www/ca/en/research/neuromorphic-computing.html)
 - [Exploring Neuromorphic Computing for AI: Why Spikes?](https://www.intel.ai/exploring-neuromorphic-computing-for-ai-why-spikes-part-one/#gs.wttfzd)
 - [The Future of Neuromorphic Computing - Presented by Intel](https://events.technologyreview.com/video/watch/mike-davies-intel-neuromorphic-computing/)
+- [On a Path to Artificial Brains](https://www.eetimes.com/on-a-path-to-artificial-brains/)
 
 ---
 
@@ -102,7 +103,7 @@ A list of useful links on artificial intelligence, neuroscience, and on becoming
 - [Effectiviology](https://effectiviology.com/)
 - [James Clear Articles](https://jamesclear.com/articles)
 
-### On becoming an master researcher
+### On becoming an master
 
 - [Life Without A Destiny](https://www.susanjfowler.com/blog/2017/5/21/life-without-a-destiny)
 - [The 5 Stages of an Electronic Music Producer (and How to Progress Effectively Through Them)](https://www.edmprod.com/5-stages-electronic-music-producer/)
@@ -111,10 +112,5 @@ A list of useful links on artificial intelligence, neuroscience, and on becoming
 - [How to Pick a Career (That Actually Fits You)](https://waitbutwhy.com/2018/04/picking-career.html)
 - [80,000 Hours](https://80000hours.org/)
 - [Warren Buffett’s 5-Step Process for Prioritizing True Success (and Why Most People Never Do It)](https://liveyourlegend.net/warren-buffetts-5-step-process-for-prioritizing-true-success-and-why-most-people-never-do-it/)
-- [Mastery by Robert Greene]({{ site.baseurl }}{% post_url /books/2018-10-07-mastery %})
-- [Outliers by Malcolm Gladwell]({{ site.baseurl }}{% post_url /books/2018-09-17-outliers %})
-- [Peak by Anders Ericsson and Robert Pool]({{ site.baseurl }}{% post_url /books/2018-12-21-peak %})
-- [Atomic Habits by James Clear](https://jamesclear.com/atomic-habits)
-- [Make It Stick by Peter Brown, Henry Roedinger, Mark McDaniel](https://makeitstick.net/)
 - [The Making of an Expert](https://hbr.org/2007/07/the-making-of-an-expert)
 - [7 Habits of Highly Effective People Summary](https://blog.hubspot.com/sales/habits-of-highly-effective-people-summary)

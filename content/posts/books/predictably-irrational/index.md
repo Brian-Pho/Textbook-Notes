@@ -22,9 +22,9 @@ excerpt: "A rational approach to irrational decisions."
 *Why the Price of Pearls - and Everything Else - Is Up in the Air*
 
 - In order to sell something at a high price, it's only necessary to make it difficult to obtain.
-- Arbitrary coherence: initial prices are largely arbitrary but once those prices are established, they shape not only how much we are willing to pay but also how much we are willing to pay for related products.
+- *Arbitrary coherence*: initial prices are largely arbitrary but once those prices are established, they shape not only how much we are willing to pay but also how much we are willing to pay for related products.
 - First impressions matter.
-- Self-herding: when we believe something is good/bad on the basis of our own previous behaviour.
+- *Self-herding*: when we believe something is good/bad on the basis of our own previous behaviour.
 - The first decision is crucial and we should give it an appropriate amount of attention.
 
 ## Chapter 3: The Cost of Zero Cost

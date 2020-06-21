@@ -18,13 +18,13 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 
 - Textbook website: <http://www.wiley.com/go/johnson/developmentalcognitiveneuroscience>
 - Brain volume increases four times from birth to adolescence.
-- Developmental cognitive neuroscience (DCN): how the brain and mind change from childhood into adulthood.
+- *Developmental cognitive neuroscience (DCN)*: how the brain and mind change from childhood into adulthood.
 - Two main questions of DCN
     - How are the mind and body related? (Cognitive Neuroscience)
     - How does the brain develop? (Development)
 - The origins of the brain can be posed in two ways
-    - Phylogeny (evolutionary): concerns the origin of the species.
-    - Ontogeny (individual development): concerns individual development.
+    - *Phylogeny (evolutionary)*: concerns the origin of the species.
+    - *Ontogeny (individual development)*: concerns individual development.
 - Some people argue that ontogeny can be reduced down to phylogeny since development depends on genes which result from evolution but the textbook disagrees.
 - The information isn’t in the genes, but emerges from the constructive interaction between genes and their environment.
 - Phylogeny vs ontogeny = Nature vs nurture.
@@ -32,7 +32,7 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - Ontogeny/Nurture believe that most of the information that shapes the mind comes from the external world.
 - Both views are ill conceived as they assume that information for the structure of an organism exists prior to construction (either in genes or the external world).
 - The relationship between the genotype and its resulting phenotype is much more dynamic and flexible than assumed.
-- Constructivism: the relationship between the initial state and the final product can only be understood by considering the progressive construction of information.
+- *Constructivism*: the relationship between the initial state and the final product can only be understood by considering the progressive construction of information.
 - There is no aspect of development that can be said to be strictly genetic.
 ![Table 1.1](table1-1.png)
 - We can use artificial neural networks (ANN) to model the development of neural circuits.
@@ -46,8 +46,8 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - The representations that emerge as a result of training are constrained by the basic architecture of the network.
 - Development can be used a tool to study the interactions between disparate levels of organization because development applies to all levels of organization.
 - Constructivism views development as the attempt to unravel the dynamic relations between intrinsic and extrinsic structure that progressively restrict the phenotypes that can emerge.
-- Predetermined epigenesis: unidirectional structure-functional development.
-- Probabilistic epigenesis: bidirectional structure-functional development.
+- *Predetermined epigenesis*: unidirectional structure-functional development.
+- *Probabilistic epigenesis*: bidirectional structure-functional development.
 - Predetermined epigenesis views the infant mind as comparable to adults with focal brain injury.
 - However, this view doesn’t provide a full account of development in the long run.
 - An alternative view is that development involves the progressive restriction of fate.
@@ -71,14 +71,14 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
     - Nonverbal instructions
     - No complex motor responses
     - Short attention spans
-- Preferential looking: pairing visual stimuli and recording the time that infants choose to look.
-- Habituation: showing the same stimulus repeatedly until the infant shows disinterest.
+- *Preferential looking*: pairing visual stimuli and recording the time that infants choose to look.
+- *Habituation*: showing the same stimulus repeatedly until the infant shows disinterest.
 - We can use habituation to infer whether an infant finds a new stimulus as similar or different compared to the habituated stimulus.
-- Marker task: specific behavioral tasks based on brain regions that are measured at different ages and in different contexts.
+- *Marker task*: specific behavioral tasks based on brain regions that are measured at different ages and in different contexts.
 - However, the marker task doesn’t take into account that different brain regions may be used for the same task at different ages.
 - Introduction to EEG, MRI, fMRI, NIRS.
 - The vast majority of what we currently know about both pre- and postnatal brain development comes from research on other species.
-- Williams syndrome (WS): a developmental disorder that is characterized by mild to moderate intellectual disability or learning problems, unique personality characteristics, distinctive facial features, and heart and cardiovascular problems.
+- *Williams syndrome (WS)*: a developmental disorder that is characterized by mild to moderate intellectual disability or learning problems, unique personality characteristics, distinctive facial features, and heart and cardiovascular problems.
 - Four levels of developmental disorders of genetic origin
     - Gross brain anatomy
     - Deficit areas
@@ -92,15 +92,15 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 
 ## Chapter 3: From Gene to Brain
 
-- Gene: a sequence of nucleotides within a strand of DNA.
-- Genotype: the sum total of all genes.
-- Phenotype: the end product or result of gene expression.
+- *Gene*: a sequence of nucleotides within a strand of DNA.
+- *Genotype*: the sum total of all genes.
+- *Phenotype*: the end product or result of gene expression.
 - Surprisingly, proteins are constructed relatively far away from the DNA itself which means there’s some intermediary molecule that transfers the information from the DNA to the machinery making proteins.
 - The messenger was discovered to be RNA.
 - This lead to the view that all genetic information necessary for the development and functioning of an organism was contained in the DNA.
 - However, this isn’t true and the first evidence for when the mapping between genes and proteins breaks down is DNA transcription and DNA translation.
 - The same sequence of DNA can generate dozens of different proteins and as much as 95% of the DNA doesn’t appear to code for proteins.
-- Pleiotropic: a gene can play multiple different roles at different times in different areas of development.
+- *Pleiotropic*: a gene can play multiple different roles at different times in different areas of development.
 - In present day, genes are said to be pleiotropic.
 - Four strategies to understand the mapping from genotype to behavioral phenotype
     1. Cases where the gene to brain to behavior pathway is simple.
@@ -114,24 +114,24 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - The brain of all mammals follows a basic plan that’s found across other species such as reptiles and birds.
 - The major difference between other species and primates is the dramatic expansion of the cerebral cortex together with the associated structures such as the basal ganglia.
 - Interestingly, human brain development follows the development of other primate brains but on a slower schedule.
-- Neocortex: thin (3-4 mm) sheet of tissue covering the cerebral cortex.
+- *Neocortex*: thin (3-4 mm) sheet of tissue covering the cerebral cortex.
 - The layered structure of the neocortex is relatively constant throughout the brain and is about $$2,400\ cm^{2}$$.
 - Most of the sensory inputs to the cortex pass through the thalamus and each type of input has its own corresponding nuclei in the thalamus.
 - E.g. LGN for visual input and MGN for auditory input.
 - The flow of information to and from the cortex is mostly bidirectional.
 - Most areas of the neocortex are made up of six layers.
-    - Layer 1: long white fibers running along the surface.
-    - Layer 2 & 3: more horizontal connections.
-    - Layer 4: where most input connections terminate and contains a high proportion of spiny stellate neurons.
-    - Layer 5: & 6: have the major outputs to subcortical regions and contains a high proportion of pyramidal neurons.
+    - *Layer 1*: long white fibers running along the surface.
+    - *Layer 2 & 3*: more horizontal connections.
+    - *Layer 4*: where most input connections terminate and contains a high proportion of spiny stellate neurons.
+    - *Layer 5: & 6*: have the major outputs to subcortical regions and contains a high proportion of pyramidal neurons.
 - However, there are exceptions
     - Layer 4 is thicker and well developed in the sensory cortex.
     - Layer 5 is well developed in the motor cortex.
 - Nervous system development starts with neurulation where a part of the ectoderm begins to form a hollow cylinder called the neural tube.
 - When neurons are born, they have to migrate from the proliferative zones to their respective region.
 - Two forms of migration
-    - Passive cell displacement: migrate by being pushed by new cells (outside-in).
-    - Active cell displacement: migrate by moving past older cells (inside-out).
+    - *Passive cell displacement*: migrate by being pushed by new cells (outside-in).
+    - *Active cell displacement*: migrate by moving past older cells (inside-out).
 ![Figure 4.4](figure4-4.png)
 - The brain increases in volume during development not due to the addition of new neurons (most neurons are present around seven months), but rather the addition of synapses, dendrites, and myelination.
 - The dendritic tree of most neurons increases in size and complexity with a corresponding increase in the density of synapses.
@@ -147,10 +147,10 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - While the network imposes architectural constraints on the representations that emerge within it, there are no innate representations.
 - There’s evidence that several aspects of the cerebral cortex, such as the general laminar structure and large-scale regions, don’t require neural activity to develop.
 - However, much of the small-scale divisions into functional areas requires neural activity to develop.
-- Radial unit model: a model that explains neocortical differentiation by having neurons migrate along radial glial fibers.
+- *Radial unit model*: a model that explains neocortical differentiation by having neurons migrate along radial glial fibers.
 ![Figure 4.13](figure4-13.png)
-- Protomap: differentiation of the cortex is due to intrinsic factors such as genetics.
-- Protocortex: differentiation of the cortex is due to extrinsic factors such as input from other parts of the brain or sensory systems.
+- *Protomap*: differentiation of the cortex is due to intrinsic factors such as genetics.
+- *Protocortex*: differentiation of the cortex is due to extrinsic factors such as input from other parts of the brain or sensory systems.
 - Current reviews of the evidence converge on views that are midway between the protomap and protocortex hypotheses.
 - In the case of mouse whiskers, it’s almost as if the sensory surface imposes itself on to the brain stem.
 - Large‐scale regions of cortex have particular combinations of graded gene expression that are then refined into smaller functional areas through activity‐dependent processes.
@@ -186,8 +186,8 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - The loss of these connections is probably due to the refinement of synapses by selective loss.
 - This refinement probably occurs through activity-dependent neural mechanisms since the creation of ocular dominance columns can be blocked by reducing neuronal activity.
 - There’s evidence showing a strong role for visual experience in guiding the development of binocularity.
-- Dorsal visual pathway: where/action.
-- Ventral visual pathway: what/perception.
+- *Dorsal visual pathway*: where/action.
+- *Ventral visual pathway*: what/perception.
 ![Figure 5.4](figure5-4.png)
 - Hypothesized sequence of development of cortical pathways underlying oculomotor control
     - Eye → Superior colliculus
@@ -198,20 +198,20 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
     - Eye movements follow a stimulus in a saccadic/step-like manner compared to the smooth movements in adults.
     - Eye movements lag behind the movement of the stimulus compared to the trajectory prediction in adults.
 ![Table 5.1](table5-1.png)
-- Presaccadic spike potential (SP): a sharp deflection that precedes a saccade by 8-20 ms.
+- *Presaccadic spike potential (SP)*: a sharp deflection that precedes a saccade by 8-20 ms.
 - Surprisingly, 6-month old infants don’t exhibit SPs as expected.
 ![Figure 5.6](figure5-6.png)
 - The representation for generating saccades within an eye- or head-centered frame of reference emerged as a result of training and was not hard-wired.
 ![Figure 5.7](figure5-7.png)
-- Overt attention: shifts of attention due to eye/head movements.
-- Covert attention: shifts of attention without eye/head movements.
+- *Overt attention*: shifts of attention due to eye/head movements.
+- *Covert attention*: shifts of attention without eye/head movements.
 - Adults are able to covertly shift their attention which allows us to enhance our processing of objects within our visual field.
 - It appears that the speed of shifting attention improves as we age.
 
 ## Chapter 6: Perceiving and Acting in a World of Objects
 
-- Ventral route (what): visual cortex → temporal cortex.
-- Dorsal route (where): visual cortex → parietal cortex.
+- *Ventral route (what)*: visual cortex → temporal cortex.
+- *Dorsal route (where)*: visual cortex → parietal cortex.
 ![Figure 6.1](figure6-1.png)
 - Going along the ventral route, cells respond to more complex clusters of features and at the highest level, the complex cells show remarkable selectively in their firing.
 - However, they still have very large receptive fields on the retina suggesting that they can process feature information but lose their spatial resolution on the retina.
@@ -230,13 +230,13 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - E.g. Infants select for face-like patterns.
 ![Figure 7.2](figure7-2.png)
 - The development of face perception is consistent with the interactive specialization view.
-- Joint attention: directing your attention to the same object/location that another person is looking at.
-- Mutual gaze: direct eye contact.
+- *Joint attention*: directing your attention to the same object/location that another person is looking at.
+- *Mutual gaze*: direct eye contact.
 - It’s believed that joint attention is useful for word learning.
 - Direct eye contact enhances the perceptual processing of faces in 4-month-old infants.
-- Mirror neuron system (MNS): the same cells and circuits are involved both in generated a motor action and in processing the visual input from watching someone else performing a similar action.
+- *Mirror neuron system (MNS)*: the same cells and circuits are involved both in generated a motor action and in processing the visual input from watching someone else performing a similar action.
 - Once infants could anticipate the occurrence of a repeated action, the motor activation was evident prior to the start of the repeated observed action.
-- Theory of mind: the ability to comprehend another person’s thought processes such as their feelings, beliefs, and knowledge.
+- *Theory of mind*: the ability to comprehend another person’s thought processes such as their feelings, beliefs, and knowledge.
 - Many believe that a deficit in theory of mind is a central cognitive deficit in autism.
 
 ## Chapter 8: Learning and Long-Term Memory
@@ -261,13 +261,13 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - Language is a system for communicating with other people using sounds, symbols, and words to express a meaning, idea, or thought.
 - A network of brain regions supports language functions.
 ![Figure 9.1](figure9-1.png)
-- Primary language functions: speaking.
-- Secondary language functions: reading and writing.
+- *Primary language functions*: speaking.
+- *Secondary language functions*: reading and writing.
 - Primary language functions seem to emerge without much effort as children develop, but mastery of secondary language functions requires extensive practice.
 - Interestingly, secondary language functions seem to be tool made by humans and not found in nature. So it makes sense why speaking is easily acquired.
 - Primary language functions are split into
-    - Speech perception: discriminating and analyzing sound patterns.
-    - Language processing: understanding word meaning and applying the rules of grammar.
+    - *Speech perception*: discriminating and analyzing sound patterns.
+    - *Language processing*: understanding word meaning and applying the rules of grammar.
 - The difference is between the substrate and the substance, the medium and the message.
 - One challenge for studying language acquisition is that animal models can’t be used.
 - Does a region of the cortex have innate representations for language, or are language representations the emergent result of a variety of constraints (architecture, connectivity)?
@@ -304,8 +304,8 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
     - Are the specialized computations performed by the frontal cortex due to a unique neuroanantomy/neurochemistry/other factors?
     - How do we align evidence for the prefrontal cortex functioning within the first 6 months of life with evidence for the continuing development of the region until teenage years?
 - Two views of the prefrontal cortex development
-    - Maturational perspective: structural development occurs at a particular age, enabling increases in cognitive ability.
-    - Skill learning perspective: regions of the prefrontal cortex play a fundamental role in cognitive transitions because of the region’s involvement in the acquisition of any new skill or knowledge.
+    - *Maturational perspective*: structural development occurs at a particular age, enabling increases in cognitive ability.
+    - *Skill learning perspective*: regions of the prefrontal cortex play a fundamental role in cognitive transitions because of the region’s involvement in the acquisition of any new skill or knowledge.
 - Lesions to the dorsolateral prefrontal cortex in infant monkeys lose the skill of object permanence.
 - Studies show that stronger activation of the frontoparietal network is related to greater working memory capacity and that activation of the network also increase with age.
 - This is further supported by computational modeling where stronger synaptic connectivity between the prefrontal and parietal regions, and not faster transmission of signal nor stronger connections, can itself account for the observed changes in working memory.
@@ -323,27 +323,27 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - A major feature of human brain function is the differential specialization of the two cerebral hemispheres.
 - Why do we have two hemispheres? Not one, not three, but two.
 - Three developmental models of hemispheric specialization of function
-    - Biased gene: genetic accounts of laterality.
-    - Biased brain: neuroanatomical observations of hemispheric differences around the time of birth.
-    - Biased head/uterus: laterality results from a strong tendency for young infants to angle their head to one side.
+    - *Biased gene*: genetic accounts of laterality.
+    - *Biased brain*: neuroanatomical observations of hemispheric differences around the time of birth.
+    - *Biased head/uterus*: laterality results from a strong tendency for young infants to angle their head to one side.
 - No firm conclusions can be drawn about pre-specified computational properties of the two hemispheres.
 - Within the first year of life, hemispheric specialization emerges for cognitive function such as language and face processing.
 - It’s generally agreed that there is some degree of neuroanatomical hemispheric lateralization present shortly after birth.
-- Callosal agenesis: a condition where an individual is born without a corpus callosum.
+- *Callosal agenesis*: a condition where an individual is born without a corpus callosum.
 - Lateralization for language can develop in people with callosal agenesis, suggesting that the corpus calllosum doesn’t have an impact in the development of lateral language.
 - Maybe it’s the difference in timing of development between the two hemispheres in early infancy that may be sufficient to bias each of them to process particular types of inputs.
 
 ## Chapter 12: Educational Neuroscience
 
-- Educational neuroscience: studying the brain bases of acquiring academic skills (literacy/numeracy) and disorders in acquiring these skills.
+- *Educational neuroscience*: studying the brain bases of acquiring academic skills (literacy/numeracy) and disorders in acquiring these skills.
 - Academic skills can be viewed as a process where simpler skills (letter/number recognition, tracking multiple objects) that are relevant to a domain of knowledge lead to more complex ones that are specific for that domain.
 - Domain-specific skills vs domain-general skills.
 - Studies show that acquiring academic skills involved both domain-specific and domain-general skills.
 - Acquiring academic skills can be considered as an example of the skill learning view of brain development.
 - We’d expect that regions involved in domain-general skills would overlap with brain activation seen during domain-specific skills.
-- Approximate number system (ANS): a cognitive system that supports the estimation of the magnitude of a group without relying on language or symbols.
+- *Approximate number system (ANS)*: a cognitive system that supports the estimation of the magnitude of a group without relying on language or symbols.
 - We might think of ANS as domain-specific to mathematics but ANS is present in other species, suggesting it might be domain-general.
-- Numeracy: the ability to effortlessly perceive the number of objects in a set.
+- *Numeracy*: the ability to effortlessly perceive the number of objects in a set.
 - Two systems for representing numbers
     - An ANS similar to the system used to approximate numerosity of large sets of objects.
     - A system engaged by tracking small number of objects (object-files).
@@ -364,7 +364,7 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - E.g. 8 vs 16 is successfully distinguished but 8 vs 12 isn’t.
 - Finding suggest that both infants and other animals have separate systems for representing large approximate numerosity and small exact numerosity.
 - ANS and the object-file system is associated with bilateral activity in the inferior parietal lobes.
-- Integer-list representation: the number system taught in schools that doesn’t have an upper limit, isn’t constrained by the Weber faction, isn’t constrained by perception, and can be related to language.
+- *Integer-list representation*: the number system taught in schools that doesn’t have an upper limit, isn’t constrained by the Weber faction, isn’t constrained by perception, and can be related to language.
 - So far, there is no evidence that any non-human animal can acquire the system of integer-list representation.
 - How do children construct this system?
 - It’s hypothesized that children construct a new concept of number and gain arithmetic skills by merging their two initial systems of number representations and that language plays a central role in managing these systems.
@@ -374,16 +374,16 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - Findings provide evidence that representations of large, exact numerosities depend on language for adults, whereas representations of large approximate numerosities don’t.
 - Reading involves linking a visual word with the sound of language and interpreting its meaning.
 - Unlike speech abilities, which seem to unfold without special effort, reading is a relatively recent development in human history that’s acquired through explicit teaching and practice.
-- Visual word form area (VWFA): a region in the left occipitotemporal cortex, centered on the midfusiform gyrus, that shows a preference to visual words compared to other complex visual stimuli.
+- *Visual word form area (VWFA)*: a region in the left occipitotemporal cortex, centered on the midfusiform gyrus, that shows a preference to visual words compared to other complex visual stimuli.
 - VWFA appears to be used for quick and automatic word recognition in skilled readers.
 - VWFA echoes the role of another region of the fusiform gyrus, the fusiform face area.
 - Studies show that the VWFA is starts with bilateral activation in beginning readers but shifts to a pattern of left-lateralization with age and increasing reading skill.
 - The findings for literacy are consistent with the interactive specialization view that brain activity underlying language functions becomes more focal with experience, as language skills become more efficient, automated, and specialized.
 - There’s agreement that basic executive skills (working memory, inhibitory control, and switching) contribute to the emergence of more complex executive skills (problem solving, planning, and reasoning).
-- Inhibition: the ability to stop an inappropriate response or thought.
-- Working memory: our mental workspace.
-- Dyscalculia: problems with mathematical abilities.
-- Dyslexia: problems with learning to read and spell.
+- *Inhibition*: the ability to stop an inappropriate response or thought.
+- *Working memory*: our mental workspace.
+- *Dyscalculia*: problems with mathematical abilities.
+- *Dyslexia*: problems with learning to read and spell.
 - Developmental atypicalities at the cellular or molecular level will not always be evident in terms of gross brain structure, so it doesn’t show up in structural MRI or computed tomography (CT).
 - Regions of the left temporal lobe are engaged by inputs that require rapid temporal processing. This is due to having a neural architecture that’s slightly different from the basic structure common to the rest of the cortex.
 - This makes the region the best, but not the only possible, home for speech processing.
@@ -394,11 +394,11 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 
 - It’s suggested that interactive specialization provides the best framework for understanding the majority of data.
 - Interactive specialization provides an account of developmental changes in the postnatal functional development of cortex
-    - Localization: the extend of cortex activated in a given task.
-    - Specialization: how finely tuned the functionality of a given cortical area is.
+    - *Localization*: the extend of cortex activated in a given task.
+    - *Specialization*: how finely tuned the functionality of a given cortical area is.
 - What mechanisms underlie interactive specialization?
 - Perhaps the loss of synapses and circuits during postnatal development increases the specificity of neural and cognitive functioning.
-- Parcellation: the increasing encapsulation (information isolation) of neural circuits due to the loss of synaptic contacts and circuits.
+- *Parcellation*: the increasing encapsulation (information isolation) of neural circuits due to the loss of synaptic contacts and circuits.
 - Parcellation results in a reduction of interference and a reduction in exchange of information between different neural systems.
 - While large-scale regions of cerebral cortex show graded differential patterns of gene expression, many of the small-scale functional areas require activity-dependent processes for their specialization.
 ![Table 13.1](table13-1.png)
@@ -422,12 +422,12 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
 - So, the same behavior could potentially be supported by different neural substrates at different ages during development.
 - The competitive specialization of regions during development.
 - Plasticity from the three viewpoints
-    - Maturational: is a specialized mechanism that’s activated following brain injury.
-    - IS: when a region’s function isn’t fully specialized yet (increasing restriction of fate).
-    - Skill learning: the result of specific circuitry that remains in place throughout the life span.
+    - *Maturational*: is a specialized mechanism that’s activated following brain injury.
+    - *IS*: when a region’s function isn’t fully specialized yet (increasing restriction of fate).
+    - *Skill learning*: the result of specific circuitry that remains in place throughout the life span.
 - IS address two fundamental issues in cognitive neuroscience: localization and specialization.
-- Localization: associating a function to a region of cortex.
-- Specialization: the degree of specificity of function of a given region of cortex.
+- *Localization*: associating a function to a region of cortex.
+- *Specialization*: the degree of specificity of function of a given region of cortex.
 - According to the IS view, localization and specialization are two sides of the same coin and are both consequences of the same common underlying mechanisms.
 - IS summary
     - Early in human postnatal development, many cortical areas begin with poorly defined functions and thus can be partially activated by a wide variety of different sensory inputs and tasks.
@@ -441,14 +441,14 @@ excerpt: "An introduction to the field of developmental cognitive neuroscience. 
         - The information within sensory inputs.
         - Competitive interactions with neighboring regions.
 - There’s a postnatal loss of synaptic contacts in the cerebral cortex.
-- Selective stabilization: when synapses either stabilize or regress depending on the total activity of the postsynaptic cell.
+- *Selective stabilization*: when synapses either stabilize or regress depending on the total activity of the postsynaptic cell.
 - Selective stabilization suggests that “to learn is to eliminate” as opposed to learning taking place by instruction or new growth.
 - The Darwinian version of selectionism proposes two stages
     1. A constructive process that generates a range of possible options.
     2. A mechanism for selecting among these options.
 - Another possibility is that while the timing and extent of loss of connections or neurons may be due to intrinsic factors, the specificity or pattern of loss is partly determined by interactions with the environment.
 - Selective loss is only one aspect of postnatal neural development.
-- Parcellation: processing in any given area becomes more separated from its neighboring regions.
+- *Parcellation*: processing in any given area becomes more separated from its neighboring regions.
 - The result of parcellation is the creation of informationally encapsulated processing streams and structures.
 - E.g. Ocular dominance columns and the separation of color- and motion-processing channels.
 - Evidence supporting parcellation

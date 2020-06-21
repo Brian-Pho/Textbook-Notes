@@ -11,14 +11,14 @@ excerpt: "An exploration of how cooking has affected humanity."
 
 - What made us human was our control of fire and the advent of cooked meals.
 - Cooking increases the value of our food by
-  - Making food safer
-  - Making it tastier
-  - Reducing spoilage
-  - Breaking down tough foods
+    - Making food safer
+    - Making it tastier
+    - Reducing spoilage
+    - Breaking down tough foods
 - Some think that the greatest change in evolution was the eating of meat.
 - Habilines, the missing link between apes and humans, shows that there were two changes in the path from ape to human
-  - One 2.5 million years ago.
-  - One between 1.9 and 1.8 million years ago.
+    - One 2.5 million years ago.
+    - One between 1.9 and 1.8 million years ago.
 - Meat eating accounts for the first transition.
 - The author believes cooking accounts for the second transition.
 - But the main advantage of cooking is that it increases the amount of energy our bodies obtain from our food.
@@ -46,20 +46,20 @@ excerpt: "An exploration of how cooking has affected humanity."
 - Similarly, our poor effectiveness at digesting raw food lets us process cooked foods much better.
 - E.g. We have smaller digestive systems compared to our cousin apes which allows them to process raw foods better at the cost of more energy.
 - Cooked food offers two advantages
-  - Spontaneous advantages that almost any species, when fed cooked food, can use by growing faster and more efficiently.
-  - Evolutionary benefits such as the smaller mouths, weaker jaws, smaller guts, etc. that use less energy when compared to apes.
+    - Spontaneous advantages that almost any species, when fed cooked food, can use by growing faster and more efficiently.
+    - Evolutionary benefits such as the smaller mouths, weaker jaws, smaller guts, etc. that use less energy when compared to apes.
 - It also seems like our digestive systems evolved around cooked food but is this the case?
 - Maybe our digestive system evolved to handle meat and handling cooked food was a byproduct.
 - Evidence suggests that we didn’t evolved to eat raw meat as our teeth aren't as sharp, compared to lions and dogs, and food passes our stomach too quickly.
-- Since cooking predictly destroys many toxins, we may have evolved a relatively sensitive palate.
+- Since cooking predictably destroys many toxins, we may have evolved a relatively sensitive palate.
 - We are cooks more than carnivores.
 
 ## Chapter 3: The Energy Theory of Cooking
 
 - Cooking increases the amount of energy we get from food by
-  - Gelantinizing starch
-  - Denaturing proteins
-  - Softening everything
+    - Gelantinizing starch
+    - Denaturing proteins
+    - Softening everything
 - Softer foods provide more energy because they are cheaper to digest.
 - The effects of grinding and cooking are independent as both methods can be used together to get even more energy out of food.
 
@@ -68,16 +68,16 @@ excerpt: "An exploration of how cooking has affected humanity."
 - While humans have been using fire for hundreds of thousands of years, archaeology doesn’t tell us when our ancestors began using fire.
 - With the inability to use archaeological evidence to tell us when humans started to control fire, we turn to biology.
 - There are two vital clues from biology
-  - The fossil record paints a clear picture of the changes in human anatomy over the past two million years.
-  - Our biology changes in response to our diet.
+    - The fossil record paints a clear picture of the changes in human anatomy over the past two million years.
+    - Our biology changes in response to our diet.
 - Chimpanzees, when presented with raw and cooked food, always pick the cooked over the raw.
 - Why do wild animals prefer cooked foods over raw foods?
 - This preference for cooked foods implies an innate mechanism for recognizing high-energy foods.
 - Cooked foods taste better by being sweeter and less bitter.
 - The species implicated with the start of cooking is Homo erectus at 1.8 million years ago.
 - There are two pieces of evidence that Homo erectus started cooking
-  - Anatomical changes related to diet.
-  - The loss of traits related to climbing.
+    - Anatomical changes related to diet.
+    - The loss of traits related to climbing.
 
 ## Chapter 5: Brain Foods
 

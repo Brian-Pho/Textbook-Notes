@@ -31,8 +31,8 @@ excerpt: "An amazing and scientific account of consciousness."
 - E.g. I sometimes feel conscious when I’m dreaming and vice versa, some people are awake but aren’t conscious.
 - Consciousness and emotion aren't separable.
 - Two types of consciousness
-    - Core consciousness (CC): a sense of self in the moment of now.
-    - Extended consciousness (EC): an elaborate sense of self that takes into account the past and future.
+    - *Core consciousness (CC)*: a sense of self in the moment of now.
+    - *Extended consciousness (EC)*: an elaborate sense of self that takes into account the past and future.
 - CC isn't exclusive to humans and is stable across a lifetime.
 - EC has several levels of organization and attains its highest peak in humans.
 - EC depends on CC but not the other way around as EC can be impaired without affecting CC.
@@ -75,17 +75,17 @@ excerpt: "An amazing and scientific account of consciousness."
 - E.g. We might recognize at some point that we're scared but the feeling of being scared didn't start when we noticed it. It started before we became aware of it.
 - It's the same distinction between knowing that a person is feeling something without actually feeling it.
 - Three stages of processing
-    - State of emotion: triggered and executed nonconsciously.
-    - State of feeling: represented nonconsciously.
-    - State of feeling made conscious: known to the organism having both emotion and feeling.
-- Homeostasis: the coordinated and mostly automated physiological reactions by the body to maintain a steady internal state in living organisms.
+    - *State of emotion*: triggered and executed nonconsciously.
+    - *State of feeling*: represented nonconsciously.
+    - *State of feeling made conscious*: known to the organism having both emotion and feeling.
+- *Homeostasis*: the coordinated and mostly automated physiological reactions by the body to maintain a steady internal state in living organisms.
 - View emotions as an embodiment of the logic of survival due to how they shape our risk assessment and decision making.
 - The brain knows more than the conscious mind reveals.
 - E.g. Cases of hemispatial neglect.
 - Emotions can be induced in a nonconscious manner and thus appear to the conscious self as coming from an unknown cause.
 - Because emotions come from the nonconscious, it is difficult to control emotions.
 - One partial exception to nonconscious control is breathing because autonomic respiration and voluntary vocalization both use the lungs.
-- Background emotion: nontraditional emotions that display themselves through subtle body positions, speed of movement, and movement of eyes.
+- *Background emotion*: nontraditional emotions that display themselves through subtle body positions, speed of movement, and movement of eyes.
 - Evidence suggests that emotional responses are a result of a long history of evolutionary fine-tuning.
 - There are two biological functions of emotion
     - The production of a specific reaction to a situation.
@@ -197,7 +197,7 @@ excerpt: "An amazing and scientific account of consciousness."
 - Its intriguing that the constancy that's essential to life (homeostasis) has the exact properties that we're searching for in consciousness. That is stability and a definition of self.
 - The urge to stay alive is present in most organisms, but the degree to which an organism knows about the urge differs between organisms.
 - Humans are keenly aware of this urge thanks to consciousness.
-- Homeostasis: the coordinated physiological reactions which maintain most of the steady states of the body and which are so peculiar to the living organism.
+- *Homeostasis*: the coordinated physiological reactions which maintain most of the steady states of the body and which are so peculiar to the living organism.
 - The description of a single cell parallels the the description of the brain.
     - To sense chemical imbalance is like perception.
     - To know how to fix the imbalance is like memory.
@@ -332,14 +332,14 @@ excerpt: "An amazing and scientific account of consciousness."
 - However, this doesn't explain why patients deny their condition when told so and when they can see it themselves.
 - The hypothesis is that the damage removes the highest level of integrated representation of the organism which means the protoself no longer has access to it.
 - This explains why patients are unaware of their impairment; its because they don't have the hardware anymore to even let the protoself know that it has a left side that it can control.
-- Asomatognosia: a condition where the patient lacks recognition of their body.
+- *Asomatognosia*: a condition where the patient lacks recognition of their body.
 - This occurred in a patient demonstrating how, in contrast to anosognosia, the patient still retained the idea that the body belonged to the self but that the body wasn't responding.
 - There are plenty of brain regions that aren't concerned with making CC.
 - The notion of two keeps appearing in the study of brains and minds. Two types of consciousness, two hemispheres, two systems.
 - Framework for the relation between mental images and the brain
-    - Image space: the space where images from all modalities occur.
-    - Dispositional space: a space where dispositional memories are contained.
-    - Convergence zones: dispositions that are held in neuron ensembles.
+    - *Image space*: the space where images from all modalities occur.
+    - *Dispositional space*: a space where dispositional memories are contained.
+    - *Convergence zones*: dispositions that are held in neuron ensembles.
 - The brain forms memories in a highly distributed manner. Reminds me of sparse representations.
 - The author proposes that the same system is used for storing our personal memories; our autobiographical memories.
 - The autobiographical self is a process of coordinated activation and display of personal memories based on a multi-site network.
@@ -370,7 +370,7 @@ excerpt: "An amazing and scientific account of consciousness."
     4. Bilateral damage to the hippocampus shouldn't impair CC but should impair the future development of EC.
     5. Bilateral damage to early sensory cortices shouldn't impair CC.
 - Coma is caused by damage to a small part of the brain stem.
-- Locked-in syndrome: when a patient cannot move anything but their eyes and to blink.
+- *Locked-in syndrome*: when a patient cannot move anything but their eyes and to blink.
 ![Figure 8.2](figure8-2.png)
 - The presence of consciousness depends on the integrity of the brain stem.
 - The reticular formation exerts a powerful influence over the cerebral cortex.

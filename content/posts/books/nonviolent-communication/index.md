@@ -9,7 +9,7 @@ excerpt: "How to communicate with people."
 
 ## Chapter 1: Giving From the Heart
 
-- Nonviolent Communication (NVC): a way of communicating that leads us to give from the heart.
+- *Nonviolent Communication (NVC)*: a way of communicating that leads us to give from the heart.
 - Instead of the habitual, automatic reactions, our words become conscious responses based on the awareness of what we're seeing, feeling, and wanting.
 - NVC is used to shine the light on places where we hope to find what we're seeking.
 - Four components of NVC
@@ -34,7 +34,7 @@ excerpt: "How to communicate with people."
 
 ## Chapter 2: Communication That Blocks Compassion
 
-- Life-alienating communication: forms of communication that are violent.
+- *Life-alienating communication*: forms of communication that are violent.
 - One example of life-alienating communication is the use of moralistic judgements.
 - E.g. She's lazy.
 - This form of communication classifies people into good and bad, smart and dumb, responsible and irresponsible.
@@ -149,7 +149,7 @@ excerpt: "How to communicate with people."
 ## Chapter 7: Receiving Empathically
 
 - We now turn to the second part of NVC, receiving empathically.
-- Empathy: emptying our mind and listening with our whole being. A respectful understanding of what others are experiencing.
+- *Empathy*: emptying our mind and listening with our whole being. A respectful understanding of what others are experiencing.
 - Check whether the speaker wants advice or reassurance.
 - Believing we have to fix situations and make others feel better prevents us from being present.
 - Don't just do something, stand there.
@@ -195,9 +195,9 @@ excerpt: "How to communicate with people."
 - E.g. Avoid "I should have known better" and "I shouldn't have done that".
 - The word "should" implies that there is no choice.
 - A basic idea of NVC is that whenever we imply that someone is wrong/bad, what we are really saying is that they aren't acting in harmony with our needs.
-- NVC mourning: connecting with the feelings and unmet needs stimulated by past actions we now regret.
+- *NVC mourning*: connecting with the feelings and unmet needs stimulated by past actions we now regret.
 - When we feel regret, ask ourselves "When I behaved in the way which I now regret, what need of mine was I trying to meet?"
-- NVC self-forgiveness: connecting with the need we were trying to meet when we took the action that we now regret.
+- *NVC self-forgiveness*: connecting with the need we were trying to meet when we took the action that we now regret.
 - An important part of self-compassion is to connect both parts of ourselves, the self that regrets the action and the self that took the action in the first place.
 - We're compassionate with ourselves when we are able to embrace all parts of ourselves and recognize the needs and values expressed by each part.
 - Replace language that implies lack of choice with language that acknowledges choice.

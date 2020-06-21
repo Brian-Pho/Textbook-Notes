@@ -7,7 +7,7 @@ categories:
 excerpt: "What I plan to read."
 ---
 
-Here's a list of the books that I plan to read. This list will change and be updated as my interests change.
+Here's a list of the books that I plan to read. This list will change and be updated as my interests change. Books that I plan to read this year are starred (*).
 
 ## Textbooks
 
@@ -27,7 +27,7 @@ Here's a list of the books that I plan to read. This list will change and be upd
 - The New Visual Neurosciences
 - Principles of Neural Science (5th Ed.)
 - Brain & Behavior - An Introduction to Behavioral Neuroscience (5th Ed.)
-- Explaining the Brain - Mechanisms and the Mosaic Unity of Neuroscience
+- *Explaining the Brain - Mechanisms and the Mosaic Unity of Neuroscience
 - Language in Our Brain - The Origins of a Uniquely Human Capacity
 - Open MIND - philosophy and the mind sciences in the 21st century
 - The Neurology of Consciousness (2nd Ed.)
@@ -49,6 +49,11 @@ Here's a list of the books that I plan to read. This list will change and be upd
 - Talking Nets - An Oral History of Neural Networks
 - The Handbook Of Brain Theory And Neural Networks (2nd Ed.)
 - Sparse Distributed Memory
+- The Deep Learning Revolution
+
+### Other
+
+- *Discovering Complexity - Decomposition and Localization as Strategies in Scientific Research
 
 ## Books
 
@@ -75,8 +80,7 @@ Here's a list of the books that I plan to read. This list will change and be upd
 
 ### Other
 
-- Thinking in Systems - A Primer
-- On Writing Well
+- *On Writing Well
 - Being Logical: A Guide to Good Thinking
 - The Great Unknown: Seven Journeys to the Frontiers of Science
 - Consider Phlebas

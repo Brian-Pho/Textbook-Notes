@@ -10,15 +10,15 @@ excerpt: "Living a meaningful life."
 ## Introduction
 
 - What is the meaning of existence?
-- How can I lead a meaningful life?
+- How can I live a meaningful life?
 - Psychologists help people overcome their demons, but it isn't the same as helping them live well.
 - Although it would be best to have both happiness and depth, we would give up some happiness in order to gain depth.
 - Nozick Matrix thought experiment.
 - There is more to life than feeling happy.
-- Hedonia vs Eudaimonia. Happiness VS meaning.
+- Hedonia vs eudaimonia. Happiness vs meaning.
 - Happiness as a positive mental and emotional state.
 - Feelings are fleeting.
-- Meaningful lives: they evaluate their lives as significant and worthwhile - as part of something bigger; they believe their lives make sense; and they feel their lives are driven by a sense of purpose.
+- *Meaningful lives*: they evaluate their lives as significant and worthwhile - as part of something bigger; they believe their lives make sense; and they feel their lives are driven by a sense of purpose.
 - Happy people are takers, meaningful people are givers.
 - They crafted lives that matter.
 
@@ -26,7 +26,7 @@ excerpt: "Living a meaningful life."
 
 - On the Meaning of Life by Durant
 - Wealthier nations had significantly higher suicide rates than poorer countries.
-- Happier and unhappiness did not predict suicide.
+- Happiness and unhappiness didn't predict suicide.
 - So what? Why?
 - With meaning no longer imposed on us from an outside source, we have the freedom to create it for ourselves.
 - When we devote ourselves to difficult but worthwhile tasks, our lives feel more significant.
@@ -78,11 +78,11 @@ excerpt: "Living a meaningful life."
 
 - A transcendent experience is one in which we feel that we have risen above the everyday world to experience a higher reality.
 - Mystical experiences share four qualities.
-  - Passive
-  - Transient
-  - Ineffable
-  - Noetic
-- Transcendence paradox: it simultaneously makes individuals feel insignificant and yet connected to something massive and meaningful.
+    - Passive
+    - Transient
+    - Ineffable
+    - Noetic
+- *Transcendence paradox*: it simultaneously makes individuals feel insignificant and yet connected to something massive and meaningful.
 - Transcendence causes people to feel more connected to the universe and not fear death.
 
 ## Chapter 6: Growth
@@ -90,27 +90,27 @@ excerpt: "Living a meaningful life."
 - To grow deeper and more meaningful lives through adversity.
 - After a traumatic experience, many people feel a strong drive to help those who have suffered as they have.
 - Five ways that people can grow after a crisis
-  - Their relationships strengthen
-  - They discover new paths and purposes in life
-  - The trauma allows them to find their inner strength
-  - Their spiritual life deepens
-  - They feel a renewed appreciation for life
+    - Their relationships strengthen
+    - They discover new paths and purposes in life
+    - The trauma allows them to find their inner strength
+    - Their spiritual life deepens
+    - They feel a renewed appreciation for life
 - Earthquake metaphor
 - Reflecting and introspection is the difference between growing after trauma and not growing
 - Write about the most upsetting experience in your life.
 - Expressive writing heals.
 - Writing helps forge meaning in several ways
-  - By probing into the causes and consequences of the adversity
-  - A shift in perspective
-  - Their ability to find positive meaning in their traumatic experience
+    - By probing into the causes and consequences of the adversity
+    - A shift in perspective
+    - Their ability to find positive meaning in their traumatic experience
 - Venting raw emotions does not lead to health benefits, but sustained and thoughtful writing does.
 - It helps us move beyond our initial emotional reactions to something deeper.
 - People who have endured traumas and emerged from them bent but not broken.
 - Ten characteristics that distinguish the resilient from the rest
-  - Purpose: having a worthy goal or mission in life
-  - Social support
-  - Transcendent sources of meaning
-  - Genetics
+    - *Purpose*: having a worthy goal or mission in life
+    - Social support
+    - Transcendent sources of meaning
+    - Genetics
 
 ## Chapter 7: Cultures of Meaning
 

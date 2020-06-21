@@ -13,19 +13,17 @@ excerpt: "Memorizing memory techniques."
 - Learning is the ability to acquire new information, and memory holds the new information in place over time.
 - You have to believe that you can improve your memory.
 - Four Cs
-  - Concentration.
-  - Create imagery.
-  - Connecting concepts.
-  - Continuous use.
+    - Concentration
+    - Create imagery
+    - Connecting concepts
+    - Continuous use
 - Where your attention goes, your energy flows.
 - If you believe your limits, your life will become limited.
 - We need why power, not willpower.
-
 - A belief is a sense of being certain and what you believe, you become.
 - There is no failure, only feedback.
 - We destroy our concentration by multitasking.
-- PIC: Purpose, Interest, Curiosity
-
+- *PIC*: Purpose, Interest, Curiosity
 - Apply the same reading method we do to novels (movies in our head) to textbooks.
 - Sound is limited as a memory because it doesn't attach easily to other memories and is also sequential unlike images.
 - Use your senses as those are the only five ways to get anything into your brain. (we have more than 5 senses though)

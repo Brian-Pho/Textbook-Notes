@@ -11,9 +11,9 @@ excerpt: "An exploration of how good ideas are formed."
 
 - The reef is the story of how Charles Darwin observes a coral reef.
 - The number of heartbeats per lifetime tends to be stable from species to species. Bigger animals just take longer to use their quota.
-- Kleiber's law: as life gets bigger, it gets slower.
+- *Kleiber's law*: as life gets bigger, it gets slower.
 - As cities get bigger, they get more innovative.
-- The 10/10 Rule: ten years to develop, ten years to find mass market.
+- *10/10 Rule*: ten years to develop, ten years to find mass market.
 - To understand where good ideas come from, we first have to understand the context that gave rise to them.
 - There are shared patterns that recur again and again to create these innovative ideas.
 - Each pattern is its own chapter.
@@ -27,7 +27,7 @@ excerpt: "An exploration of how good ideas are formed."
 - Good ideas don't come cleanly from a factory, they're cobbled together from spare parts in a garage.
 - Evolution does the same thing when innovating.
 - E.g. The kludge of the brain.
-- The adjacent possible: the area of possible innovations given the current area.
+- *Adjacent possible*: the area of possible innovations given the current area.
 - E.g. Going from electricity to the telegram, not the Internet.
 - You can't explore outside of that area and if you do, you're called ahead of your time.
 - The adjacent possible boundaries grow as we explore those boundaries.
@@ -113,7 +113,7 @@ excerpt: "An exploration of how good ideas are formed."
 
 ## Chapter 6: EXAPTATION
 
-- Exaptation: an organism develops a trait optimized for a single use but then the trait gets hijacked for a completely different function.
+- *Exaptation*: an organism develops a trait optimized for a single use but then the trait gets hijacked for a completely different function.
 - E.g. A feature adapted for warmth, such as feathers, is now exapted for flight.
 - It's using what you have in a new environment or way.
 - Collisions of different fields of expertise leads to creativity.

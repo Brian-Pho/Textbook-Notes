@@ -23,8 +23,8 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - *Behaviorism*: the belief that we should only study observable phenomena and measurable behavior. To link particular stimuli to particular responses.
 - The behaviorism paradigm was challenged by various types of behavior that couldn't be explained in terms of stimulus-response.
 - Behaviorism assumptions of learning
-  - All learning depends on conditioning.
-  - All conditioning depends on the processes of association/reinforcement.
+    - All learning depends on conditioning.
+    - All conditioning depends on the processes of association/reinforcement.
 - Association/Reinforcement → Conditioning → Learning
 - All learning is either associative learning (classical conditioning) or reinforcement learning.
 - A rat is rewarded when it performs the relevant behavior, so the reward reinforces the behavior.
@@ -48,12 +48,12 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 ### 1.3 Linguistics and the formal analysis of language
 
 - Two types of sentence structures
-  - *Deep structure*: how a sentence is made up of basic parts and basic rules (think context-free grammar and emergence).
-  - *Surface structure*: the actual organization of the words.
+    - *Deep structure*: how a sentence is made up of basic parts and basic rules (think context-free grammar and emergence).
+    - *Surface structure*: the actual organization of the words.
 - Languages are hierarchically organized.
 - Transformation grammar ideas
-  - Sophisticated, hierarchical, cognitive abilities (e.g. language) involved stored bodies of information.
-  - These bodies of information can be manipulated algorithmically.
+    - Sophisticated, hierarchical, cognitive abilities (e.g. language) involved stored bodies of information.
+    - These bodies of information can be manipulated algorithmically.
 
 ### 1.4 Information-processing models in psychology
 
@@ -88,8 +88,8 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Even very basic types of behavior (such as the behavior of rats in mazes) seems to involve storing and processing information about the environment.
 - Information relevant to cognition can take many forms. From information about the environment to information about how sentences can be constructed and transformed.
 - Perceptual systems can be viewed as information channels and we can study both the
-  - very general properties of those channels (e.g. their channel capacity)
-  - way in which information flows through those channels
+    - very general properties of those channels (e.g. their channel capacity)
+    - way in which information flows through those channels
 - Mathematical logic and theory of computation shows us how information processing can be mechanical and algorithmic.
 - Much of the information processing that goes on in the mind takes place below the threshold of awareness.
 
@@ -99,9 +99,9 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 - Language is more than a tool used for communication. It’s also a tool used for thinking.
 - Three reasons why SHRDLU (a program that can manipulate and answer questions about its environment) is important
-  - It shows how abstract rules and principles could be implemented.
-  - It shows the general approach of breaking down systems into distinct components.
-  - It shows how understanding language is an algorithmic process.
+    - It shows how abstract rules and principles could be implemented.
+    - It shows the general approach of breaking down systems into distinct components.
+    - It shows how understanding language is an algorithmic process.
 - Approach the understanding of systems by starting from the abstract/general and moving down towards the concrete/specific.
 
 ### 2.2 How do mental images represent?
@@ -114,14 +114,14 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - The larger the angle of rotation, the more time it takes to determine if the figures are the same.
 ![Figure 2.8](figure2-8.png)
 - Questions from the experiment
-  - What is the "mind’s eye"? And how did we obtain this skill?
-  - What cognitive machinery makes this possible?
-  - Why is the relationship linear?
-    - A linear relationship suggests that the rotation in our head is linear (aka at a constant rate).
-    - Why isn’t it say exponential or constant? Linear search time? Default assumption of the brain starts with zero rotation and slow rotates it?
-    - What about the case of going past 180 degrees? Does clockwise or counterclockwise matter?
-  - Why is it linear in both the 2D and 3D cases?
-  - How is information represented and how is it transformed?
+    - What is the "mind’s eye"? And how did we obtain this skill?
+    - What cognitive machinery makes this possible?
+    - Why is the relationship linear?
+        - A linear relationship suggests that the rotation in our head is linear (aka at a constant rate).
+        - Why isn’t it say exponential or constant? Linear search time? Default assumption of the brain starts with zero rotation and slow rotates it?
+        - What about the case of going past 180 degrees? Does clockwise or counterclockwise matter?
+    - Why is it linear in both the 2D and 3D cases?
+    - How is information represented and how is it transformed?
 - One feature of digitally encoded information is that the time it takes to process information is typically a function only of the quantity of information (number of bits). The quality of the information shouldn’t matter, only the quantity. Think Big-O.
 - However, the mental rotation experiment shows that it takes varying amounts of time to solve a problem even though the quantity of information remains the same. Is this true?
 - Personal hypothesis: People do a brute force "search" to see if the figures match. We do this by first having a base state, aka the left image, and then mentally rotating it by a few degrees and seeing if it matches. If it doesn’t, then rotate some more. Eventually, we either find a match or we exhaust all possible rotation degrees and we say that they don’t match.
@@ -138,19 +138,19 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
     2. *Algorithmic level*: how the system solves the problem and achieve its goals?
     3. *Implementation level*: how to find a physical realization for the algorithm?
 - Marr’s conclusions from Warrington’s work
-  - Information about the shape of an object must be processed separately from information about what the object is for and what it is called.
-  - The visual system can deliver a specification of the shape of an object even when the object isn’t recognized.
-  - The representation of a object should be object-centered rather than egocentric.
-  - E.g. If the viewer’s perspective changes or the object moves, we can still keep track of the object even though its representation changes. This means we have a viewer-independent representation of the object.
+    - Information about the shape of an object must be processed separately from information about what the object is for and what it is called.
+    - The visual system can deliver a specification of the shape of an object even when the object isn’t recognized.
+    - The representation of a object should be object-centered rather than egocentric.
+    - E.g. If the viewer’s perspective changes or the object moves, we can still keep track of the object even though its representation changes. This means we have a viewer-independent representation of the object.
 
 ### Summary
 
 - SHRDLU illustrated how abstract grammatical rules might be represented in a cognitive system.
 - The imagery debate is about whether the different effects revealed by experiments on mental imagery can or cannot be explained in terms of digital information processing models.
 - Marr identified three different levels for analyzing systems
-  - computational
-  - algorithmic
-  - implementational
+    - computational
+    - algorithmic
+    - implementational
 
 ## Chapter 3: The turn to the brain
 
@@ -183,17 +183,17 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 ### 3.3 Extending computational modeling to the brain
 
 - There are several reasons why we shouldn’t ignore the brain/hardware and abstract away the details
-  - The temporal dimension of cognition. The right answer is no use if it comes at the wrong time.
-  - The mind is realized by the brain.
-  - Cognitive abilities degrade gracefully - they aren’t all-or-nothing. This is due to how the brain is wired and the biochemistry of neurons.
-  - Hardware limitations translates to software limitations.
+    - The temporal dimension of cognition. The right answer is no use if it comes at the wrong time.
+    - The mind is realized by the brain.
+    - Cognitive abilities degrade gracefully - they aren’t all-or-nothing. This is due to how the brain is wired and the biochemistry of neurons.
+    - Hardware limitations translates to software limitations.
 - Artificial neural networks bridge algorithm and implementation.
 - ANN key features
-  - Parallel processing.
-  - Layers of neurons.
-  - What distinguishes one ANN from other is the pattern of weights between units.
-  - There are no intrinsic differences between one unit/neuron and another. The differences lie in the connections/weights.
-  - The hidden units are the key to the computational power of ANNs.
+    - Parallel processing.
+    - Layers of neurons.
+    - What distinguishes one ANN from other is the pattern of weights between units.
+    - There are no intrinsic differences between one unit/neuron and another. The differences lie in the connections/weights.
+    - The hidden units are the key to the computational power of ANNs.
 - ANNs learn by adjusting their weights.
 - ANNs have no memory, or rather the only traces of what happened exists in the weights of the network.
 
@@ -202,16 +202,16 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Understand complex systems by simplifying them.
 - PET measures the blood flow in the brain.
 - Two models for single-word processing
-  - neurological
-  - cognitive
+    - neurological
+    - cognitive
 - Neurological model
-  - Serial
-  - Word processing follows a single, invariant path.
-  - In order to access what the word means, the brain needs to know what the word sounds like.
-  - We can’t read a word and then pronounce it without invoking what the word means.
+    - Serial
+    - Word processing follows a single, invariant path.
+    - In order to access what the word means, the brain needs to know what the word sounds like.
+    - We can’t read a word and then pronounce it without invoking what the word means.
 - Cognitive model
-  - Parallel
-  - Speaking, reading, and understanding a word is separate and independent.
+    - Parallel
+    - Speaking, reading, and understanding a word is separate and independent.
 - Experiments using PET suggest the neurological model is inaccurate due to each function requiring a different area of activation.
 ![Figure 3.9](figure3-9.png)
 
@@ -230,8 +230,8 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - We should take both a top-down approach and a bottom-up approach.
 - Our theories of what the mind does has to co-evolve with our theories of how the brain works.
 - Two important themes of cognitive science
-  - Interdisciplinary. This reflects the different levels of organization at which the mind and brain can be studied.
-  - Information processing. This reflects our understanding of how we can model the mind as a digital computer.
+    - Interdisciplinary. This reflects the different levels of organization at which the mind and brain can be studied.
+    - Information processing. This reflects our understanding of how we can model the mind as a digital computer.
 ![Figure 4.1](figure4-1.png)
 - This hexagon isn’t a good model cognitive science because it doesn’t give any sense of a unified intellectual enterprise. The whole isn’t greater than the sum of its parts.
 - It also doesn’t take into account other relevant fields such as math (dynamical systems theory), ecology (cognition in other animals), political science (game theory)
@@ -250,16 +250,16 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 - *Integration challenge*: explaining how all of the different levels of explanation fit together.
 - The integration challenge arises because cognitive science has three dimensions of variation
-  - Varies according to the aspect of cognition being studied.
-  - Varies according to the level of organization at which that aspect is being studied.
-  - Varies according to the degree of resolution of the techniques and tools that are being used.
+    - Varies according to the aspect of cognition being studied.
+    - Varies according to the level of organization at which that aspect is being studied.
+    - Varies according to the degree of resolution of the techniques and tools that are being used.
 - We can map these three variables onto a three dimensional space.
 ![Figure 4.5](figure4-5.png)
 - One way of thinking about the ultimate goal for cognitive science is that it sets out to provided a unified account of cognition; a unified Theory of Cognition. Similar to the unified Theory of Everything in Physics.
 - However, some are skeptical of whether these unified theories are possible.
 - There are two strategies for approaching the integration challenge
-  - *Global strategies*: overarching models that explain how cognitive science as a whole fits together.
-  - *Local strategies*: integration across levels of organization and levels of explanation.
+    - *Global strategies*: overarching models that explain how cognitive science as a whole fits together.
+    - *Local strategies*: integration across levels of organization and levels of explanation.
 
 ### 4.4 Local integration I: Evolutionary psychology and the psychology of reasoning
 
@@ -273,11 +273,11 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - One theory on why we have domain-specific reasoning is that the mind has a dedicated module for the detection of cheaters. Aka a fairness or morals module.
 - How did cooperative behavior emerge?
 - The *TIT FOR TAT* heuristic strategy follows two rules
-  - Always cooperate in the first encounter.
-  - In any following encounter, do what your opponent did in the previous round.
+    - Always cooperate in the first encounter.
+    - In any following encounter, do what your opponent did in the previous round.
 - This strategy is powerful for the following reasons
-  - It’s simple.
-  - It follows the rule "you should do unto others as they do unto you".
+    - It’s simple.
+    - It follows the rule "you should do unto others as they do unto you".
 - The idea of a module to detect cheating is an example of local integration between cognitive psychology and evolutionary psychology.
 - We evolved this module in response to our environment and its effects are seen in the Watson card selection experiment.
 
@@ -300,9 +300,9 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 - Cognitive science is interdisciplinary.
 - Disciplines and sub-fields across cognitive science differ in three dimensions
-  - The type of cognitive activity
-  - The level they study it at
-  - The degree of resolution of the tools that they use
+    - The type of cognitive activity
+    - The level they study it at
+    - The degree of resolution of the tools that they use
 - The integration challenge is the challenge of providing a unified theoretical framework for studying cognition.
 - Abilities in conditional reasoning are highly context-sensitive.
 - It’s hypothesized that we have evolved a specific module dedicated to the detection of cheaters/free riders which explains why reasoning is context-sensitive.
@@ -319,12 +319,12 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - How do the non-fundamental scientific disciplines relate to the most fundamental one?
 - The relationship between non-fundamental and fundamental could be reductionism, emergence, something else?
 - Conditions of reduction
-  - The two theories must have a shared vocabulary that can be used to translate between the theories.
-  - One theory must explain how the other theory can be derived from itself.
+    - The two theories must have a shared vocabulary that can be used to translate between the theories.
+    - One theory must explain how the other theory can be derived from itself.
 - E.g. Thermodynamics can be reduced to the theory of statistical mechanics. An example of a bridge between the two is that temperature is the mean molecular kinetic energy.
 - Problems with applying intertheoretic reduction to cognitive science
-  - Few laws in cognitive science
-  - Lack of a formal description that could be used to translate
+    - Few laws in cognitive science
+    - Lack of a formal description that could be used to translate
 - *Functional decomposition*: the process of explaining a cognitive capacity by breaking it down into sub-capacities that can be separately and tractably treated. We can keep breaking down until we reach a level of "axioms".
 - E.g. Memory can be broken down (by function) into three functions of registering, storing, and retrieving. Storing can then be broken down into short-term memory and long-term memory.
 ![Figure 5.3](figure5-3.png)
@@ -340,15 +340,15 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - The implementational level specifies how the algorithm is run or carried out.
 - The three levels are distinct but not independent as it depends on the lower level to implement and explain the higher level. There’s a dependency.
 - Problems with applying the tri-level hypothesis to cognitive science
-  - Applicable to only a limited and precisely identifiable type of cognitive system. Cannot generalize.
-  - Doesn’t work well for non-modular cognitive systems
+    - Applicable to only a limited and precisely identifiable type of cognitive system. Cannot generalize.
+    - Doesn’t work well for non-modular cognitive systems
 - Modular cognitive systems have the following characteristics
-  - Domain-specificity
-  - Informational encapsulation
-  - Mandatory application
-  - Fast
-  - Fixed neural architecture
-  - Specific breakdown patterns
+    - Domain-specificity
+    - Informational encapsulation
+    - Mandatory application
+    - Fast
+    - Fixed neural architecture
+    - Specific breakdown patterns
 - There seems to be a close relation between cognitive systems being modular and it being susceptible to Marr’s top-down analysis.
 - *Frame problem*: how to build a system that will correctly identify what information and which inferences should be pursued in a given situation.
 
@@ -359,9 +359,9 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - The basic assumption is that cognition is information processing. Information is the currency of cognitive science.
 - The "information" in cognitive science has little to do with Shannon’s mathematical theory of information; the formal specification for information.
 - Important questions regarding the basic assumption (only applicable to individual cognitive systems)
-  - In what format does a particular cognitive system carry information?
-  - How does that cognitive system transform information?
-  - How is the mind organized so that it can function as an information processor?
+    - In what format does a particular cognitive system carry information?
+    - How does that cognitive system transform information?
+    - How is the mind organized so that it can function as an information processor?
 - A mental architecture is a set of answers to these three questions.
 - We don’t want to assume that all cognitive systems carry and transform information in the same way, hence why we say "individual cognitive system".
 - E.g. pictures and text. Even though they are both represented by zeros and ones, the information doesn’t represent the same thing.
@@ -384,19 +384,19 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 - *Physical symbol system hypothesis*: A physical symbol system has the necessary and sufficient means for general intelligent action.
 - There are two claims here
-  - One, that nothing can be capable of intelligent action unless it’s a physical symbol system.
-  - Two, there isn’t any obstacle to constructing AI provided that it tackles the problem by constructing a physical symbol system.
+    - One, that nothing can be capable of intelligent action unless it’s a physical symbol system.
+    - Two, there isn’t any obstacle to constructing AI provided that it tackles the problem by constructing a physical symbol system.
 - The hypothesis reduces intelligence down to symbol processing.
 - *Physical symbol systems* definition
-  - Symbols are physical patterns.
-  - Symbols can be combined to form more complex symbol structures.
-  - Physical symbol systems contains processes for manipulating complex symbol structures.
-  - The processes for generating and transforming complex symbol structures can themselves be represented by symbols and symbol structures.
+    - Symbols are physical patterns.
+    - Symbols can be combined to form more complex symbol structures.
+    - Physical symbol systems contains processes for manipulating complex symbol structures.
+    - The processes for generating and transforming complex symbol structures can themselves be represented by symbols and symbol structures.
 - E.g. A Turing machine.
-  - The symbols are the zeros and ones which represent on/off in electrical signals.
-  - The zeros and ones can be combined to form words and instructions.
-  - The Turing machine contains a table of instructions for processing zeros/ones that it sees.
-  - The table of instructions can be encoded as zeros and ones.
+    - The symbols are the zeros and ones which represent on/off in electrical signals.
+    - The zeros and ones can be combined to form words and instructions.
+    - The Turing machine contains a table of instructions for processing zeros/ones that it sees.
+    - The table of instructions can be encoded as zeros and ones.
 - An implication from the physical symbol system hypothesis is that thinking is the transformation of symbol structures according to rules.
 - Problem solving can be thought (abstractly) as a process of searching through a search-space for a solution.
 - Means-end analysis
@@ -406,14 +406,14 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
        1. If it can be applied, then apply it and go back to step (i)
        2. Else go back to step (ii)
 - Means-end analysis is a general problem solving technique that shows up in many places. For example
-  - The back propagation algorithm
-    - Calculate error
-    - Calculate how to transform the weights via derivatives and chain rule
-    - Update the weights
-  - The quest for AI
-    - Calculate the difference by the games that an AI can beat humans at
-    - Apply research to game-playing AI
-    - Learn from failures, proceed with successes
+    - The back propagation algorithm
+        - Calculate error
+        - Calculate how to transform the weights via derivatives and chain rule
+        - Update the weights
+    - The quest for AI
+        - Calculate the difference by the games that an AI can beat humans at
+        - Apply research to game-playing AI
+        - Learn from failures, proceed with successes
 
 ### 6.2 From physical symbol systems to the language of thought
 
@@ -428,18 +428,18 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - *Semantic properties*: the properties by virtue of which representations represent.
 - E.g. The word "cat" represents a furry and cute animal, certain combinations of zeros and ones represent text while others represent images.
 - This gives us another way of putting our problem.
-  - How can the brain be an information processing machine if it is blind to the semantic properties of representations?
-  - How can the brain be an information processing machine if all it can process are the formal properties of representations?
+    - How can the brain be an information processing machine if it is blind to the semantic properties of representations?
+    - How can the brain be an information processing machine if all it can process are the formal properties of representations?
 - A computer can be programmed to manipulate strings of 0s and 1s in certain ways that yield the right result relative to the interpretation that is intended, even though the computer is blind to that interpretation.
 - The manipulation of the strings is mechanical, only operating on its formal properties, but the manipulation does this in a way that respects the semantic properties.
 - So, computers manipulate symbols in a way that is sensitive only to their formal properties while respecting their semantic properties.
 - The analogy to the brain is that the brain manipulates the formal properties of mental representations while respecting the semantic properties of mental representations.
 - Since brains and computers have to solve the same problem, and we understand how computers solve it, the easiest way to understand how brains solve it is to think of the brain as a kind of computer.
-  - Is this an artifact due to inventing computers before brains? What if we had neuroscience knowledge before computer science? Is it a coincidence that AI, computer science, and cognitive science got started at around the same time?
+    - Is this an artifact due to inventing computers before brains? What if we had neuroscience knowledge before computer science? Is it a coincidence that AI, computer science, and cognitive science got started at around the same time?
 - Fodor’s claim of the computer model of the mind
-  - Causation though content is ultimately a matter of casual interactions between physical states.
-  - These physical states have the structure of sentences and their sentence-like structure determines how they are made up and how they interact with each other.
-  - Causal transitions between sentences in the language of thought respect the rational relations between the contents of those sentences in the language of thought.
+    - Causation though content is ultimately a matter of casual interactions between physical states.
+    - These physical states have the structure of sentences and their sentence-like structure determines how they are made up and how they interact with each other.
+    - Causal transitions between sentences in the language of thought respect the rational relations between the contents of those sentences in the language of thought.
 - The medium of cognition is the language of thought. The language of thought is closer to logical languages than natural languages.
 - The analogy between the language of thought and logical languages is at the heart of Fodor’s solution to the problem of causation by content.
 - To provide a semantics for a language is to give an interpretation to the symbols it contains - to turn it from a collection of meaningless symbols into a representational system.
@@ -454,12 +454,12 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 - John Searle challenges the claim that manipulating symbols is sufficient to produce intelligence behavior.
 - Chinese room thought experiment
-  - Imagine a person in a room
-  - The person receives pieces of paper through one window and passes papers through another window
-  - The given paper has questions in Chinese
-  - The person has to answer those questions also in Chinese
-  - The person has a book that matches the question to an answer
-  - The person outputs the answer given by the book
+    - Imagine a person in a room
+    - The person receives pieces of paper through one window and passes papers through another window
+    - The given paper has questions in Chinese
+    - The person has to answer those questions also in Chinese
+    - The person has a book that matches the question to an answer
+    - The person outputs the answer given by the book
 - Searle argues that the Chinese room doesn’t understand Chinese. I disagree. Suppose instead of the room it were a living person that I was asking the questions to. If they provided reasonable responses to my questions, then I would confidently say that they know Chinese regardless of what happens internally.
 - My main issue with the argument is who wrote the book that matches questions to answers? They must know and understand Chinese to have written it so thus the room acts as a proxy for them.
 - Searle uses the example of the Chinese room to argue that there is a huge and impassable gap between formal symbol manipulation, on the one hand, and genuine thought an understanding on the other.
@@ -615,21 +615,21 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 ![Figure 8.10](figure8-10.png)
 - *Backpropagation algorithm*: the error is propagated backwards through the network from the output units to the hidden units.
 - The backprop algorithm finds a way of calculating the error for a given hidden unit by using the following ideas
-  - Each hidden unit connected to an output unit bears a certain degree of responsibility for the error of that output unit.
-  - E.g. If the output is too low, then this was caused by a connected hidden unit whose output was too low.
-  - This gives us a way of assigning error to each hidden unit.
-  - Once we assign the degree of responsibility to a hidden unit, then we can modify the weights between that unit and the output unit to decrease the error.
+    - Each hidden unit connected to an output unit bears a certain degree of responsibility for the error of that output unit.
+    - E.g. If the output is too low, then this was caused by a connected hidden unit whose output was too low.
+    - This gives us a way of assigning error to each hidden unit.
+    - Once we assign the degree of responsibility to a hidden unit, then we can modify the weights between that unit and the output unit to decrease the error.
 - The error is propagated back through the network until the input layer is reached.
 - It's very important to remember that activation and error travel through the network in opposite directions. Activation spreads forwards through the network (at least in feed forward networks), while error is propagated backwards.
 - How biologically plausible are neural networks? Here are some differences
-  - ANN units are all the same while the brain has many different types of neurons.
-  - Brains aren’t as parallel as ANNs.
-  - The scale of ANNs doesn’t compare with the brain. A single cortical column can contain 200,000 neurons whereas ANNs don’t have more than 5,000 neurons.
-  - There is no evidence that anything like the backpropagation of error takes place in the brain. Backprop is powerful because it can transmit the error information using "action at a distance" which doesn’t seem to happen in the brain.
+    - ANN units are all the same while the brain has many different types of neurons.
+    - Brains aren’t as parallel as ANNs.
+    - The scale of ANNs doesn’t compare with the brain. A single cortical column can contain 200,000 neurons whereas ANNs don’t have more than 5,000 neurons.
+    - There is no evidence that anything like the backpropagation of error takes place in the brain. Backprop is powerful because it can transmit the error information using "action at a distance" which doesn’t seem to happen in the brain.
 - *Local learning algorithms*: biologically plausible learning algorithms.
-  - A unit’s weight changes directly as a function of the inputs and outputs of the unit.
-  - In terms of biological neurons, the information for changing the weight of a synaptic connection is directly available to the presynaptic axon and postsynaptic dendrite.
-  - E.g. Hebbian learning rule
+    - A unit’s weight changes directly as a function of the inputs and outputs of the unit.
+    - In terms of biological neurons, the information for changing the weight of a synaptic connection is directly available to the presynaptic axon and postsynaptic dendrite.
+    - E.g. Hebbian learning rule
 - *Competitive networks*: neural networks that don’t require any feedback. Aka unsupervised learning.
 - The key to competitive networks is that the output layer has inhibitory connections within its own layer. This allows the output units to compete with each other with the winner being rewarded by having its weights increased.
 - This contrasts with feedforward networks because there aren’t connections within a layer (between units in the same layer).
@@ -657,9 +657,9 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - The backpropagation isn’t biologically plausible as error isn’t propagated backwards in the brain.
 - Competitive networks are a form of unsupervised learning that learns only from its inputs and outputs.
 - ANN key features
-  - Distributed representations (across units and weights)
-  - No clear distinction between information storage and information processing
-  - The ability to learn from experience
+    - Distributed representations (across units and weights)
+    - No clear distinction between information storage and information processing
+    - The ability to learn from experience
 
 ## Chapter 9: Neural network models of cognitive processes
 
@@ -670,8 +670,8 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - This section focuses on how the physical symbol system hypothesis is the only way of making sense of language.
 - What is it to understand a language?
 - There are two different dimension of linguistic comprehension
-  - Understanding what words mean
-  - Understanding the rules by which words are combined into sentences
+    - Understanding what words mean
+    - Understanding the rules by which words are combined into sentences
 - The basic unit of communication isn't the word, but rather the sentence.
 - The default hypothesis is that understanding a language is  fundamentally a matter of mastering rules.
 - E.g. Mastery of the rule that governs a word’s application such as only using "cat" to refer to a four-legged animal that’s fluffy.
@@ -694,16 +694,16 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - *Irregular verbs*: verbs that aren’t regular. E.g. take/took, bring/brought.
 - When children learn these verbs, they go through three principle stages.
 - First stage
-  - Small number of common but irregular verbs
-  - Learnt through role memorization
-  - Not able to generalize
-  - They can’t do much, but what they do, they do well.
+    - Small number of common but irregular verbs
+    - Learnt through role memorization
+    - Not able to generalize
+    - They can’t do much, but what they do, they do well.
 - Second stage
-  - Greater number of verbs (most of which are regular)
-  - Surprising that children take a step backwards. They commit *over-regularization* error such as "gived" instead of "gave".
+    - Greater number of verbs (most of which are regular)
+    - Surprising that children take a step backwards. They commit *over-regularization* error such as "gived" instead of "gave".
 - Third stage
-  - Cease to make over-regularization errors
-  - Still improve their command of regular verbs
+    - Cease to make over-regularization errors
+    - Still improve their command of regular verbs
 ![Table 9.1](table9-1.png)
 - The theory (using physical symbol hypothesis) is that the second stage learning of regular verbs overrides the previously learnt rules on the irregular verbs.
 ![Figure 9.1](figure9-1.png)
@@ -728,14 +728,14 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - When do children learn object permanence?
 - This experiment and others seems to suggest that very young infants have an understanding of the basic principles governing how physical objects behave and interact.
 - The four basic principles of physical reasoning
-  - *Principle of cohesion*: surfaces that are touching are one object
+    - *Principle of cohesion*: surfaces that are touching are one object
 ![Figure 9.7](figure9-7.png)
-  - Infants show more surprise when the object comes apart, even if the object looks uniform.
-  - *Principle of contact*: only surfaces that are in contact can move together
+    - Infants show more surprise when the object comes apart, even if the object looks uniform.
+    - *Principle of contact*: only surfaces that are in contact can move together
 ![Figure 9.8](figure9-8.png)
-  - Infants show more surprise when both objects are moving but aren’t in contact with the each other
-  - *Principle of solidity*: two or more objects cannot occupy the same space and time
-  - *Principle of continuity*: objects don’t disappear
+    - Infants show more surprise when both objects are moving but aren’t in contact with the each other
+    - *Principle of solidity*: two or more objects cannot occupy the same space and time
+    - *Principle of continuity*: objects don’t disappear
 ![Figure 9.9](figure9-9.png)
 - These experiments show that infants have these principles on how objects behave and use these principles to make predictions. They show surprise when the prediction isn’t what happens.
 - In a way, infants act like scientists in that they make inferences about things that they cannot see on the basis of the effects that they can see.
@@ -761,8 +761,8 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - One kind of neural network that can solve this is a recurrent neural network.
 - *Recurrent neural network*: ANNs that have a feedback loop that transmits activation from the hidden units back to themselves. This transmission works before the learning rule is applied, thus the loop acts as a sort of memory for the ANN.
 - The level of activation at any given temporal stage is determined by two factors
-  - The pattern of activation in the input units.
-  - The pattern of activation in the hidden units at a previous temporal stage.
+    - The pattern of activation in the input units.
+    - The pattern of activation in the hidden units at a previous temporal stage.
 - The second factor is crucial for learning object permanence.
 - Learning is done using the backprop algorithm. The error is calculated by determining the difference between the actual input and the predicted input.
 ![Figure 9.11](figure9-11.png)
@@ -775,18 +775,18 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - What needs to be worked out is how different forces will interact.
 - When children are shown this problem, they tackle it in four stages (similar to learning past tense of verbs.
 - First stage
-  - The side with the greatest number of weights will go down regardless of how they’re arranged.
-  - Only accounting for number of weights.
+    - The side with the greatest number of weights will go down regardless of how they’re arranged.
+    - Only accounting for number of weights.
 - Second stage
-  - if both sides have equal number of weights, then the side with weights furthest from the center will go down.
-  - If not equal number of weights, then use the first rule or guess.
-  - Only using distance in specific case.
+    - if both sides have equal number of weights, then the side with weights furthest from the center will go down.
+    - If not equal number of weights, then use the first rule or guess.
+    - Only using distance in specific case.
 - Third stage
-  - Uses the correct rule that downwards force is a function of both weight and distance from the center.
-  - However, children can only apply this when the two sides differ in respect to either the weight or distance, but not to both.
+    - Uses the correct rule that downwards force is a function of both weight and distance from the center.
+    - However, children can only apply this when the two sides differ in respect to either the weight or distance, but not to both.
 - Fourth stage
-  - Usually not until adolescence that children gain a general competence for balance beam problems.
-  - Even then not all of them do.
+    - Usually not until adolescence that children gain a general competence for balance beam problems.
+    - Even then not all of them do.
 - It’s plausible to model the child’s learning using the physical symbol hypothesis, but also the ANN model.
 - Even though children progress through a series of stages and their performance can be characterized in terms of progression of rules, it doesn’t follow that the cognition systems behind the processing takes the form of a rule-based architecture.
 - E.g. ANN to solve this problem
@@ -834,9 +834,9 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - E.g. A robotic agent like SHAKEY
 - *Agent architecture*: a blueprint that shows the different components that make up an agent and how those components are organized.
 - Three different types of agent architectures
-  - Simple reflex agent
-  - Goal-based agent
-  - Learning agent
+    - Simple reflex agent
+    - Goal-based agent
+    - Learning agent
 - What distinguishes different types of agents is the complexity between its sensory systems and its effector systems.
 - *Simple reflex agent*: there are direct links between the sensory and effector systems.
 ![Figure 10.1](figure10-1.png)
@@ -848,9 +848,9 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - *Learning agent*: an agent that learns from experience
 ![Figure 10.3](figure10-3.png)
 - Questions regarding modules
-  - How can we identify and distinguish modules?
-  - Do all of the modules process information in the same way? Do they all have the same representations?
-  - How "autonomous" and "insulated" are the different modules?
+    - How can we identify and distinguish modules?
+    - Do all of the modules process information in the same way? Do they all have the same representations?
+    - How "autonomous" and "insulated" are the different modules?
 
 ### 10.2 Fodor on the modularity of mind
 
@@ -865,24 +865,24 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Vertical cognitive faculties are also information encapsulated meaning they only use a limited range of information.
 - Cognitive modules = vertical cognitive faculties
 - Cognitive modules have four main characteristics
-  - *Domain-specificity*: highly specialized mechanisms that carry out very specific tasks
-  - *Informational encapsulation*: processing is unaffected by other parts of the mind and cannot be infiltrated by background knowledge
-  - *Mandatory application*: response is automatic and cannot be under executive control
-  - *Speed*: transforms input to output quickly and efficiently
+    - *Domain-specificity*: highly specialized mechanisms that carry out very specific tasks
+    - *Informational encapsulation*: processing is unaffected by other parts of the mind and cannot be infiltrated by background knowledge
+    - *Mandatory application*: response is automatic and cannot be under executive control
+    - *Speed*: transforms input to output quickly and efficiently
 - Two further features
-  - *Fixed neural architecture*: there’s a corresponding brain area associated with the module
-  - *Specific breakdown patterns*: processing failures are highly determinable and predictable
+    - *Fixed neural architecture*: there’s a corresponding brain area associated with the module
+    - *Specific breakdown patterns*: processing failures are highly determinable and predictable
 - These two features are separate because they deal with how a cognitive module maps onto a specific part of the brain. This may or may not be true.
 - Central processing how two distinguishing features
-  - *Quinean*: aims at certain knowledge properties that are defined over the propositional attitude system as a whole.
-  - *Isotropic*: not informationally encapsulated.
+    - *Quinean*: aims at certain knowledge properties that are defined over the propositional attitude system as a whole.
+    - *Isotropic*: not informationally encapsulated.
 - E.g. Problem solving, understanding jokes, creativity.
 - *Fodor’s First Law of the Nonexistence of Cognitive Science*: the more global a cognitive process is, the less anybody understands it.
 ![Table 10.1](table10-1.png)
 - Arguments against Fodor’s claim
-  - Reject that the language of thought model is the best model for understanding information processing. We have ANN models that do just as well
-  - Reject that there are domain-general forms of information processing
-  - Reject that central processing exists and replace it with the massive modularity hypothesis
+    - Reject that the language of thought model is the best model for understanding information processing. We have ANN models that do just as well
+    - Reject that there are domain-general forms of information processing
+    - Reject that central processing exists and replace it with the massive modularity hypothesis
 - I think that both modularity and central processing exist. Modules exist because we have different parts of the brain devoted to different functions. Central processing exists because different sense can use the same knowledge gained from a different sense.
 - E.g. Memory, learning, and eye-hand coordination is general. The difficultly of AI is related to this.
 
@@ -896,14 +896,14 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - *Prosopagnosia*: face blindness, can’t recognize faces.
 - Prosopagnosia is an example of cognitive module.
 - Two arguments by Cosmides and Tooby against central processing
-  - Argument from error
-  - Argument from statistics and learning
+    - Argument from error
+    - Argument from statistics and learning
 - *Argument from error*: domain-general cognitive modules couldn’t have been select by natural selection because they would have make too many mistakes. And they would’ve made too many mistakes because there isn’t an obvious error signal for a general module.
 - *Argument from statistics and learning*: domain-general architectures are limited in the conclusions that they can reach. They are limited because domain-general modules couldn’t pick up on statistical generalizations such as Hamilton’s kin selection law.
 - *Poverty of the stimulus argument*: certain types of knowledge must be innate because the stimuli that we encounter are too impoverished to allow us to acquire that knowledge.
 - Arguments against the massive modularity hypothesis
-  - The input to a module must be filtered, and if this filtering is done by a module, then what is being inputted into the module? At some point, the input must be domain-general information thus not modular.
-  - How to combine the outputs of different modules?
+    - The input to a module must be filtered, and if this filtering is done by a module, then what is being inputted into the module? At some point, the input must be domain-general information thus not modular.
+    - How to combine the outputs of different modules?
 
 ### 10.4 Hybrid architectures
 
@@ -919,34 +919,34 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - So far, this shows how ACT-R/PM is a physical symbol system, but the hybrid part is that there isn’t any central processing nor is it massively modular.
 - The sub-symbolic part of ACT-R/PM is that the selection of which production rule is active depends upon a pattern-matching module. And this module chooses the production rule based on which rule has the highest utility at the moment.
 - Utility is calculated by
-  - How likely the system is to achieve its current goal if the rule is activated
-  - The cost of activating the rule
+    - How likely the system is to achieve its current goal if the rule is activated
+    - The cost of activating the rule
 - The calculation of utility is sub-symbolic because they don’t reflect the symbolic structure of the production rule.
 - Not all memories are created equal. Some memories are more easily retrievable.
 ![Table 10.2](table10-2.png)
 - Knowledge in ACT-R/PM is represented in physical symbol structures (chunks/rules), but the processes that choose when that knowledge is used is by ranking of utility.
 - Sub-symbolic processing contains more than only ANNs.
 - Lessons from ACT-R/PM
-  - Organization of the mind is closely related to the nature of information processing.
-  - Different parts of a mental architecture might exploit different models of information processing.
+    - Organization of the mind is closely related to the nature of information processing.
+    - Different parts of a mental architecture might exploit different models of information processing.
 
 ### Summary
 
 - There are three different types of agents
-  - Simple reflex
-  - Goal-based
-  - Learning
+    - Simple reflex
+    - Goal-based
+    - Learning
 - The way these agents are constructed asks what roles modules play in understanding mental architectures.
 - Modules have certain properties
-  - Domain-specific
-  - Information encapsulated
-  - Mandatory
-  - Fast
+    - Domain-specific
+    - Information encapsulated
+    - Mandatory
+    - Fast
 - Central processing is the opposite of modules. It generalizes modules.
 - The massive modularity hypothesis competes against central processing.
 - It believes that everything is a module. However, modules fall apart in two arguments
-  - The filtered inputs to modules must be done by some general module.
-  - The outputs of modules must be reconciled somehow.
+    - The filtered inputs to modules must be done by some general module.
+    - The outputs of modules must be reconciled somehow.
 - A hybrid architecture that combines physical symbol system hypothesis and sub-symbolic processing is demonstrated in ACT-R/PM.
 
 ## Chapter 11: Strategies for brain mapping
@@ -963,9 +963,9 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 ![Figure 11.4](figure11-4.png)
 - We assume that information can only travel from one brain region to another if there’s a neural pathway connecting them.
 - Limitations of anatomical connectivity
-  - Most data is from animal brains but we want to study human brains
-  - Wiring diagrams don’t say the direction of information flow
-  - Diagrams are studied independently from cognitive functions
+    - Most data is from animal brains but we want to study human brains
+    - Wiring diagrams don’t say the direction of information flow
+    - Diagrams are studied independently from cognitive functions
 - There’s at least as many feedback connections as there are feedforward connections.
 
 ### 11.2 Studying cognitive functioning: Techniques from neuroscience
@@ -998,14 +998,14 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 ### 11.4 Combining resources II: Networks for attention
 
 - Important questions related to attention
-  - Which brain areas are involved in attention?
-  - How is attention related to other cognitive processes?
-  - How does the brain direct attention to objects and places?
+    - Which brain areas are involved in attention?
+    - How is attention related to other cognitive processes?
+    - How does the brain direct attention to objects and places?
 - *Spatially selective attention*: focusing on a particular location instead of say a feature.
 - The brain areas that appear to be involved with conscious attention are in the parietal and frontal areas.
 - There are two hypotheses (non-exclusive) about how visuospatial attention works.
-  - That attention exploits certain memory mechanisms since to attend to a specific location requires remembering that location.
-  - That attention is linked to preparatory motor signals since to attend presumes the intention to move the eyes towards the area of focus.
+    - That attention exploits certain memory mechanisms since to attend to a specific location requires remembering that location.
+    - That attention is linked to preparatory motor signals since to attend presumes the intention to move the eyes towards the area of focus.
 - Both hypotheses are supported by evidence.
 ![Figure 11.10](figure11-10.png)
 - Once again, the lesson here is that while we can’t directly measure attention, we can indirectly measure it by combining techniques and technologies.
@@ -1030,8 +1030,8 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 ### Summary
 
 - Two questions about cognitive sub-systems
-  - How do the individual cognitive sub-systems work?
-  - How are they connected?
+    - How do the individual cognitive sub-systems work?
+    - How are they connected?
 - This chapter focuses on the second question. In other words, we’re looking for a cognitive wiring diagram, not an anatomical one.
 - We can’t assume that cognitive functions map cleanly onto the brain.
 - *Principle of segregation*: that the cerebral cortex is divided into segregated areas with distinct neuronal populations.
@@ -1044,21 +1044,21 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 - Children start to engage in pretend play between 13-24 months.
 - Types of pretend play
-  - *Self-directed*: pretending to carry out a familiar activity.
-  - E.g. Drinking from an empty cup, eating from an empty spoon
-  - *Other-directed*: pretending that an object has properties that it doesn’t.
-  - E.g. Toy car make sounds, dolls talking
-  - *Object substitution*: pretending that an object is a different object.
-  - E.g. Banana is a phone, box is a house, imaginary friends
+    - *Self-directed*: pretending to carry out a familiar activity.
+    - E.g. Drinking from an empty cup, eating from an empty spoon
+    - *Other-directed*: pretending that an object has properties that it doesn’t.
+    - E.g. Toy car make sounds, dolls talking
+    - *Object substitution*: pretending that an object is a different object.
+    - E.g. Banana is a phone, box is a house, imaginary friends
 - A common feature in all instances of pretend play is that the child is able to represent objects and properties that aren’t perceptible.
 - *Primary representations*: a child’s basic representations (what’s seen and what’s stored) of the environment.
 - Three basic observations about pretend play.
-  1. Pretend play depends on how the child’s primary representations.
+    1. Pretend play depends on how the child’s primary representations.
      - E.g. To use a banana as a phone, the child must first represent the banana.
-  2. We can’t explain what goes on in pretend play by only using the child’s primary representations.
+    2. We can’t explain what goes on in pretend play by only using the child’s primary representations.
      - There must be some pretend representation happening that contradicts the primary representation.
      - E.g. To use a banana as a phone, there must be a phone representation.
-  3. The pretend representations must preserve their ordinary meanings in pretend play.
+    3. The pretend representations must preserve their ordinary meanings in pretend play.
      - E.g. The banana is still a banana and the child must understand that regardless of it’s pretend phone properties.
 - With these three observations, pretend representations must somehow be separated/quarantined from the ordinary primary representation.
 - It must be separate because if it weren’t, then it would not make sense due to the contradictions.
@@ -1067,10 +1067,10 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 ![Figure 12.1](figure12-1.png)
 - It’s argued that the same mechanisms that separate representations in pretend play are the same in mind reading.
 - Two components of primary representations
-  1. There must be a way of marking a representation as a separate representation.
-  - E.g. Use of quotations such as Sarah said "The world is flat."
-  1. There must be a way of interpreting those markings that exist in the primary representation.
-  - E.g. Some device must know that quotes are used for separate representations.
+    1. There must be a way of marking a representation as a separate representation.
+    - E.g. Use of quotations such as Sarah said "The world is flat."
+    1. There must be a way of interpreting those markings that exist in the primary representation.
+    - E.g. Some device must know that quotes are used for separate representations.
 - Understanding that other people are pretending is itself a form of mindreading.
 - Pretending is just the start of developing decoupled representations.
 - How is this related to empathy? What about Josh Tenenbaum’s intuitive psychology?
@@ -1104,8 +1104,8 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 ### 12.4 Understanding false belief
 
 - The answer is that there are two different attributes to pass the false belief test.
-  - The ability to attribute true beliefs to someone else
-  - The ability to attribute false beliefs to someone else
+    - The ability to attribute true beliefs to someone else
+    - The ability to attribute false beliefs to someone else
 - These two abilities emerge at different times in development.
 - The default is to attribute true belief which is why children cannot pass the false belief test until they learn to switch it off.
 - The switching requires the development of a new mechanism, the selection processor.
@@ -1118,8 +1118,8 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Primary representations can be decoupled from reality but that doesn’t mean that metarepresentation is happening. This is often called counterfactual thinking.
 - *Counterfactual thinking*: thinking about how things might be instead of how they are.
 - The distinction
-  - Metarepresention is thinking *about* decoupled representations
-  - Counterfactual thinking is thinking *with* decoupled representations
+    - Metarepresention is thinking *about* decoupled representations
+    - Counterfactual thinking is thinking *with* decoupled representations
 
 ### 12.5 Mindreading as simulation
 
@@ -1128,8 +1128,8 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Two ways of developing this idea.
 - *Standard simulationism*: starts with the explicit attribution of beliefs and desires of the person being simulated. This is then inputted into a decision making system that outputs the simulated responses.
 - We get the input through two principles
-  - We understand the psychological states of others by analogy with our own psychological states (comparison).
-  - We have a special self-monitoring mechanism for keeping track of our own psychological states (introspection).
+    - We understand the psychological states of others by analogy with our own psychological states (comparison).
+    - We have a special self-monitoring mechanism for keeping track of our own psychological states (introspection).
 - *Radical simulationism*: thinking about the world from the perspective of the person being simulated rather than thinking about their beliefs, desires, and psychological states.
 - Since radical simulationism is world-directed rather than mind-directed, it explains mindreading without invoking metarepresentation.
 
@@ -1179,10 +1179,10 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - One way of framing what cognitive scientists do is that they’re trying to reverse engineer the mind.
 - However, the information processing paradigm isn’t the only way to tackle this problem.
 - Four features of a dynamical feedback system
-  - *Dynamical system*: can model the system using an equation
-  - *Time-sensitivity*: fluctuations are almost instantly corrected
-  - *Coupling*: every variable is linked in a chain to form a feedback loop
-  - *Attractor dynamics*: there’s a point in the state space which many different trajectories will converge
+    - *Dynamical system*: can model the system using an equation
+    - *Time-sensitivity*: fluctuations are almost instantly corrected
+    - *Coupling*: every variable is linked in a chain to form a feedback loop
+    - *Attractor dynamics*: there’s a point in the state space which many different trajectories will converge
 - Dynamical systems could be used to model the mind as it an alternative to the algorithmic approach.
 - Maybe homeostasis is an attractor state?
 
@@ -1199,14 +1199,14 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 ![Figure 13.5](figure13-5.png)
 - Cognitive interpretations of the A-not-B task fail when the task is slightly modified.
 - E.g. Any of the follow modifications allow for successful completion of the task
-  - Allow for search after hiding the ball
-  - Drawing attention to the side of the box with the ball
-  - Changing the child’s posture
+    - Allow for search after hiding the ball
+    - Drawing attention to the side of the box with the ball
+    - Changing the child’s posture
 - If the A-not-B error is primarily a cognitive phenomenon, then we wouldn’t expect the performance to vary based on simple modifications.
 - The A-not-B task can be modeled using a dynamical mode that has variables for
-  - *Environmental*: distance to containers, visual landmarks
-  - *Task-specific*: the specific demands placed upon the infants
-  - *Memory*: a function of the infant’s previous reaching behavior
+    - *Environmental*: distance to containers, visual landmarks
+    - *Task-specific*: the specific demands placed upon the infants
+    - *Memory*: a function of the infant’s previous reaching behavior
 - The changing of these variables affects the outcome which explains why changing the child’s posture might affect it’s environment and thus improving performance.
 - This model doesn’t invoke cortical maturation, executive control, or the infant’s representational capacities.
 - Dynamical systems models are perfectly compatible with information processing models of cognition.
@@ -1234,9 +1234,9 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Subsumption architectures are built to mimic how evolution might work. New systems are grafted on in layers that typically don’t change the design of the existing systems.
 - The higher layers subsume (include/absorb) the lower layers.
 - Three basic features of subsumption architectures
-  - *Incremental design*: new sub-systems are added onto previous layers
-  - *Semi-autonomous sub-systems*: most sub-systems are independent except some are set up to override others
-  - *Direct perception-action links*: real-time control of action based on sensory input
+    - *Incremental design*: new sub-systems are added onto previous layers
+    - *Semi-autonomous sub-systems*: most sub-systems are independent except some are set up to override others
+    - *Direct perception-action links*: real-time control of action based on sensory input
 - Subsumption architectures are more similar to reactive systems rather than cognitive systems.
 - They don’t have any decision-making processes built into them.
 - Situated cognition theorists like to think of sophisticated cognitive systems as scaled-up insects, whereas GOFAI theorists think of them as scaled-down supercomputers.
@@ -1244,9 +1244,9 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - *Behavior-based architectures*: designed to be capable of representing the environment and planning complex actions.
 - Unlike simple reactive systems (subsumption architectures), behavior-based architectures can exhibit complex behaviors due to the interaction of lower-level behaviors (emergence).
 - Additional features of behavior-based systems
-  - Distributed representations
-  - Real-time functioning
-  - Distinction between reactive rules and behaviors
+    - Distributed representations
+    - Real-time functioning
+    - Distinction between reactive rules and behaviors
 - *Behavior*: a control law that satisfies a set of constraints to achieve and maintain a particular goal.
 - Multi-agent programming is computationally demanding due to needing to keep track of all individuals and due to the large degrees of freedom.
 - Emergence seems to use the combinatorial explosion against itself by having simple rules generate complex behavior.
@@ -1286,8 +1286,8 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Tackle consciousness by thinking about it in terms of a function.
 - Compare the information processing that happens when conscious versus unconscious to learn the differences.
 - Two sources of data
-  - *Priming experiments*: expose subjects to a stimulus that’s too quick to be consciously registered and see what happens
-  - *Double dissociation*: if the impairment of one cognitive function doesn’t lead to the impairment of another and vice versa, then we can conclude that the two functions are independent.
+    - *Priming experiments*: expose subjects to a stimulus that’s too quick to be consciously registered and see what happens
+    - *Double dissociation*: if the impairment of one cognitive function doesn’t lead to the impairment of another and vice versa, then we can conclude that the two functions are independent.
 - In one priming experiment, if the subject is unconsciously flashed a related image, they’re able to identify the proceeding image faster.
 - Priming suggests that non-conscious information processing occurs.
 - Semantic priming suggests that high-level information processing, such as meaning, take place below the threshold of consciousness.
@@ -1333,9 +1333,9 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - The global workspace theory is a theory of how information is made available for high-level cognition.
 - Attention serves as a gatekeeper for what crosses the threshold of conscious awareness.
 - Three possible functions that consciousness makes possible
-  - Intentional control of action
-  - Durable and explicit information maintenance
-  - Ability to plan new tasks
+    - Intentional control of action
+    - Durable and explicit information maintenance
+    - Ability to plan new tasks
 - The global workspace theory can also be thought of as a domain-general type of information processing that’s distributed over the brain; selecting among competing modular inputs.
 - Consciousness is restricted to information within the global workspace.
 - How does information become available in the global workspace? Attention.
@@ -1345,8 +1345,8 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 ### 14.7 Conclusion
 
 - There have been two approaches to the study of consciousness
-  - Mysterians who don’t believe that the hard problem of consciousness can be studied
-  - Scientists who believe that consciousness can be fully explained
+    - Mysterians who don’t believe that the hard problem of consciousness can be studied
+    - Scientists who believe that consciousness can be fully explained
 - The problem consciousness faces now is similar to the problem of vitalism in biology.
 
 ### Summary
@@ -1357,21 +1357,19 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Is information processing sufficient for cognition? If we understand the mind as an information processing machine, then is there something missing?
 - Cases of brain damage and priming indicate that a good deal of information processing occurs below the threshold of consciousness. Why?
 - The functions of consciousness
-  - Planning and starting actions
-  - Storing memories for long term
+    - Planning and starting actions
+    - Storing memories for long term
 
 ## Chapter 15: Looking ahead: Challenges and applications
 
-### 15.1 Exploring the connectivity of the brain: The connectome and the BRAIN
-### initiative
+### 15.1 Exploring the connectivity of the brain: The connectome and the BRAIN initiative
 
 - The cognitive science equivalent of the Human Genome Project is the Human Connectome Project (HCP).
 - The goal of HCP is to develop and share knowledge about the structural and functional connectivity of the brain.
 - To create a wiring diagram of the brain.
 - The BRAIN initiative aims to produce real-time pictures of complex neural circuits and to visualize the firing of cells.
 
-### 15.2 Understanding what the brain is doing when it appears not to be doing
-### anything
+### 15.2 Understanding what the brain is doing when it appears not to be doing anything
 
 - There is a large amount of activity that goes on in the when subjects aren’t doing anything or just passively looking.
 - This is called the default mode of the brain.
@@ -1397,8 +1395,8 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - The foundation assumption is that the mind is an information processor.
 - The information processing paradigm arose due to its parallel to how computers work.
 - There are two competing approaches to the paradigm
-  - Physical symbol system hypothesis
-  - Artificial neural networks
+    - Physical symbol system hypothesis
+    - Artificial neural networks
 - New approaches
-  - Dynamical systems theory
-  - Embodied/situated cognition
+    - Dynamical systems theory
+    - Embodied/situated cognition

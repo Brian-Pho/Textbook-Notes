@@ -6,7 +6,7 @@ categories:
   - Textbooks
 book: "principles-of-neural-design"
 book_authors: "Peter Sterling, Simon Laughlin"
-excerpt: "Common themes across the scales of neuroscience."
+excerpt: "Common themes across various scales of neuroscience from chemistry to neurons to behavior."
 ---
 
 <blockquote class="blockquote">
@@ -107,7 +107,7 @@ excerpt: "Common themes across the scales of neuroscience."
 - Brains and neurons satisfy this demand of coordination and communication.
 - In the organism C. elegans, nearly 40% of its cells are used for neurons and glial cells.
 - What advantage do this cells provide to justify their immense investment?
-- Embodied computation: using the body to compute instead of neurons.
+- *Embodied computation*: using the body to compute instead of neurons.
 - E.g. How C. elegans uses its body and a cross-inhibitory circuit to generate a traveling wave pattern to move.
 - Embodied computation is efficient as it doesn’t require the use of neurons in a central pattern generator and it uses the preexisting body for computation.
 - A brain with a lot of neurons can generate richer behavior because it can form more connections and thus make more circuits.
@@ -157,7 +157,7 @@ excerpt: "Common themes across the scales of neuroscience."
     - Trade between systems.
 - Predictive regulation versus self-regulation by feedback.
 - The fundamental constraint on brain design is the law governing the costs of capturing, sending, and storing information.
-- Information: the reduction of uncertainty about some situation X associated with observing any variable Y that is causally correlated with X.
+- *Information*: the reduction of uncertainty about some situation X associated with observing any variable Y that is causally correlated with X.
 - Reduction of uncertainty succinctly describes the brain’s purpose.
 - To convey information, a neuron must causally related its input and output.
 - Thus, a neuron’s information transmission capacity is limited by the number of distinct outputs that it can generate.
@@ -215,8 +215,8 @@ excerpt: "Common themes across the scales of neuroscience."
 - E.g. For audio, axons used for the highest input frequency fire at higher rates and are thus nearly three times thicker than the axons used for the lowest input frequency.
 - Motorizing sensors allows for a smaller sensor array to use less energy and need less processing but this also raises two issues.
 - Mobile sensor issues
-  1. How to point the sensor to where it’s needed.
-  2. How to tell the brain that the sensor is being pointed.
+    1. How to point the sensor to where it’s needed.
+    2. How to tell the brain that the sensor is being pointed.
 - The region dealing with the first problem is the superior colliculus. This region contains a map between each retinal point and a motor map so that exciting the retinal point causes the eye to move towards that location.
 - The point can be excited by movement, flashes, color, etc.
 - The second problem is addressed by a signal sent by the superior colliculus called a corollary discharge.
@@ -240,11 +240,11 @@ excerpt: "Common themes across the scales of neuroscience."
 - Wiring is saved by locating areas using the same data together.
 - E.g. Sending face information to temporal lobe which also processes facial expressions. Sending grasping information to parietal love which also processes motor commands.
 - Different types of learning used by the brain
-    - Intention learning: comparing intended action to the actual action.
-    - Reward-prediction learning: comparing expected payoff to actual gain.
+    - *Intention learning*: comparing intended action to the actual action.
+    - *Reward-prediction learning*: comparing expected payoff to actual gain.
 - The region for intention learning is the cerebellum, the region for reward-prediction is the striatum.
 ![Figure 4.12](figure4-12.png)
-- Olfaction processing: Receptor neurons → Glomeruli → Mushroom body
+- *Olfaction processing*: Receptor neurons → Glomeruli → Mushroom body
 - Olfaction uses two processing stages, compared to the four for vision because, unlike vision, there are no local/spatial features.
 - Since each odor stimulates several receptors, and each receptor contributes to the coding of various odorants, the job of the mushroom body is to find correlations or the pattern between receptor inputs.
 - To summarize, there are significant differences across sensory systems within an animal, but there are also significant similarities for a given sensory system across animals.
@@ -268,9 +268,9 @@ excerpt: "Common themes across the scales of neuroscience."
 - The processing of information occurs at the scale of molecules via chemical reactions.
 - Most transfers of information from a source neuron to a receiver neuron occurs via chemistry (concentrations, binding reactions) and physics (changes in molecular structure).
 - Using Shannon’s formulas, we can explain
-  1. What constrains information processing by signals.
-  2. What reduces their information.
-  3. Why higher information rates are more expensive.
+    1. What constrains information processing by signals.
+    2. What reduces their information.
+    3. Why higher information rates are more expensive.
 - The number of bits needed to identify the state of an information source is given by $$I = log_2(U)$$ bits, where U is the number of equally likely states and I is the number of bits needed.
 - However, if the states are not equally likely, we can use that information to design a more efficient code.
 - E.g. If the probability distribution of four states is A (0.125), B (0.5), C (0.25), and D (0.125), then we can use a 3-bit code instead of a 2-bit code to be more efficient.
@@ -289,8 +289,8 @@ excerpt: "Common themes across the scales of neuroscience."
 - It was proved by Shannon that entropy equate across formats and thus can be used as a common currency for comparison.
 - E.g. An analogy is like converting currencies into US dollars to compare them since US dollars is a standard business currency.
 - Information entropy sets the upper boundary for a system’s information capacity but this is a theoretical boundary since real signals have noise (useless information) and redundancy (repeated information).
-- Noise: random fluctuations that don’t correlate with changes in signal state.
-- Redundancy: signal state that represents something already known.
+- *Noise*: random fluctuations that don’t correlate with changes in signal state.
+- *Redundancy*: signal state that represents something already known.
 - Noise destroys information by introducing uncertainty.
 - E.g. At a party, it becomes more difficult to hear someone if there’s loud music playing. The music isn’t correlated with the person talking to you and the louder it is, the harder it is to hear the other person.
 - Information increases as the logarithm of the ratio between signal and noise, $$log_2(S/N)$$. This is important because it’s a ratio (division), not say a difference (subtraction), and this means changes in one results in large changes.
@@ -309,7 +309,7 @@ excerpt: "Common themes across the scales of neuroscience."
 - To implement this information system, the brain uses signaling proteins to process information.
 - Information transfers when a change at the receiver can be associated with the state of the source.
 - Chemical binding satisfies this requirement as proteins only bind to a specific set of molecules. This binding specificity enables information transfer.
-- Allostery: a protein’s ability to respond to a specific input by switching to a new state.
+- *Allostery*: a protein’s ability to respond to a specific input by switching to a new state.
 - Allostery enables proteins to change depending on different chemical and physical inputs, thus this enables proteins to process information.
 ![Figure 5.4](figure5-4.png)
 - In this way, proteins act as finite-state machines via allostery and thus enables proteins to compute.
@@ -323,10 +323,10 @@ excerpt: "Common themes across the scales of neuroscience."
 
 - While protein circuits can amplify and perform logic, this isn’t enough as the brain needs to do a lot more math such as arithmetic operations and nonlinear operations.
 - It also needs to perform
-    - Switches: input causes a step change in output.
-    - Filters: removing certain frequencies.
-    - Correlators: associating events.
-- Cooperative binding: requiring that several binding sites are activated to generate the output.
+    - *Switches*: input causes a step change in output.
+    - *Filters*: removing certain frequencies.
+    - *Correlators*: associating events.
+- *Cooperative binding*: requiring that several binding sites are activated to generate the output.
 - Cooperative binding increases the temporal precision of the output.
 - Chemical circuits support Turing’s Universal Computation which means they can be configured to compute any function. Whether the brain uses this function is an open question.
 - However, we do know that chemistry enables the behavior observed over a range of timescales such as phototransduction in milliseconds, circadian rhythms in days, and long-term memory via chemical synthesis.
@@ -336,7 +336,7 @@ excerpt: "Common themes across the scales of neuroscience."
 - Another way to manage noise is to replicate a signal through multiple components and then sum their outputs.
 - Since the amplitude of the transmitted signal increases linearly and the amplitude of the noise increases as a square root, the signal-to-noise ratio increases as linear functions grow faster than square root functions (power of one versus power of one-half).
 - However, this is costs a lot of energy as the signal must be duplicated.
-- Symmorphosis: capacities match within a system to avoid waste.
+- *Symmorphosis*: capacities match within a system to avoid waste.
 - E.g. Oxygen flow in the lungs, heart, vessels, and muscle.
 - Despite the advantages of chemical computing, it is slow for signals traveling beyond a few microns. Thus the need for speed forces a more expensive option, protein circuits that process information electrically.
 - Electrical current is carried by electrons in silicon but is carried by ions in biology.
@@ -354,14 +354,14 @@ excerpt: "Common themes across the scales of neuroscience."
 - Since APs are brief, their timing precision is high which increases the number of bits carried by them.
 - How does the information carried by APs drive a chemical circuit? The connection is the voltage-gated channel with a chemical output, the calcium channel.
 - Three factors limit the performance of circuits formed by ion channels
-  1. High electrical resistance of channels
-  2. Membrane capacitance
-  3. Noise from thermal fluctuations
+    1. High electrical resistance of channels
+    2. Membrane capacitance
+    3. Noise from thermal fluctuations
 - One solution for all three limitations is to open more channels however, this decrease efficiency.
 - What limits the number of channels in a circuit?
-  1. Membrane space
-  2. Energy cost
-  3. ATP production
+    1. Membrane space
+    2. Energy cost
+    3. ATP production
 - Even if a neuron could fully pack it’s membrane with ion channels and ion pumps, there isn’t enough space within a neuron to power those pumps as mitochondria take up space too.
 - The molecular power transistor (ion channel), its molecular battery charger (ion pump), and its intracellular power station (mitochondria), prevent the brain from reaping a major benefit of irreducibly small molecular components, high-density computing.
 - So, unlike conventional engineering design, neural design must maximize performance at low-power density.
@@ -470,7 +470,7 @@ excerpt: "Common themes across the scales of neuroscience."
 - It uses faster phototransduction because fast moving images require it. Similar to how higher frame rates are needed to capture more smooth motion at faster speeds.
 - This also explains why fast moving images are blurred in mammals because of our slower mechanism for phototransduction.
 - Both fly and cone photoreceptors use the same coding strategy of intensity contrast.
-- Contrast: the difference between the intensity at the receptor and the local mean ($$\Delta I/I$$).
+- *Contrast*: the difference between the intensity at the receptor and the local mean ($$\Delta I/I$$).
 - Coding contrast simplifies visual processing in two ways
     - Dividing by the mean reduces the range of light intensities which better matches a neuron’s limited response range.
     - Helps to identify the same object under different light conditions.
@@ -494,13 +494,13 @@ excerpt: "Common themes across the scales of neuroscience."
     - It maintains temporal bandwidth by transmitting analog signals across fast synapses and by keeping wires short.
     - It maintains the signal-to-noise ratio by using high-gain synapses that amplify the signal and average out noise.
 - Precise wiring (retinotopic project) preserves spatial information in two ways
-  1. Giving each pixel its own set of neurons maintains spatial resolution.
-  2. A retinotopic project maintains spatial continuity/relationships of objects.
+    1. Giving each pixel its own set of neurons maintains spatial resolution.
+    2. A retinotopic project maintains spatial continuity/relationships of objects.
 - This also minimizes wiring by reducing the length and complexity of neural connections that are used to compute the spatial and temporal relationships that define objects.
 ![Figure 9.1](figure9-1.png)
 - There are two approaches to wiring compound eyes
-    - Apposition: each photoreceptor acts independently.
-    - Superposition: photoreceptors cooperate.
+    - *Apposition*: each photoreceptor acts independently.
+    - *Superposition*: photoreceptors cooperate.
 - The neural superposition of signals uses axons that cross over to form complicated minichiasms to resolve each object but it’s worth the effort.
 - It restores spatial acuity at the cost of more wiring and accurate wiring.
 - Any wiring mistakes destroys spatial information so it’s crucial that developmental mechanism deliver.
@@ -522,8 +522,8 @@ excerpt: "Common themes across the scales of neuroscience."
 - Certain sensors recode directly to APs while others require prior synaptic processing.
 - Olfactory sensors and many skin sensor recode directly to spikes, while photosensors use two synaptic stages.
 - Photosensor two stages
-  1. Recode to synaptic vesicles that change a graded voltage in a second-order neuron.
-  2. Recode to APs in third-order neuron.
+    1. Recode to synaptic vesicles that change a graded voltage in a second-order neuron.
+    2. Recode to APs in third-order neuron.
 ![Figure 10.1](figure10-1.png)
 - To recode analog voltages carrying more than 100 bits/s, we require APs with high firing rates.
 - E.g. 100 bits/s → 30 AP/s
@@ -540,9 +540,9 @@ excerpt: "Common themes across the scales of neuroscience."
 - To do so, auditory neurons, also called hair cells, must amplify the signals they receive.
 - Given how fast some auditory frequencies are, hair cells encode information at the synapse before encoding information into a spike train.
 - Synapse encoding goals
-  1. Recode the fast changing analog voltage into a precisely timed pattern of vesicle release.
-  2. Remove redundancy.
-  3. Recode each vesicle to a spike.
+    1. Recode the fast changing analog voltage into a precisely timed pattern of vesicle release.
+    2. Remove redundancy.
+    3. Recode each vesicle to a spike.
 ![Figure 10.4](figure10-4.png)
 - A hair cell’s full analog message is custom filtered and converted to APs by about 20-30 axons whose total rate is around 800-1200 Hz.
 - This shows that a neuron can encode so much information in analog that it requires a cable of thick, power-hungry axons to send it by pulses.
@@ -645,8 +645,8 @@ excerpt: "Common themes across the scales of neuroscience."
 - E.g. Color, direction, slow intensity changes, fast intensity changes, local contrast.
 ![Figure 12.1](figure12-1.png)
 - Two facts about the visual system
-  1. The signal-to-noise ratio of a single spike from the retina is not degraded as it moves along the central visual pathways.
-  2. Perceptual decisions must be near noiseless since they match the efficiency of a noiseless discriminator.
+    1. The signal-to-noise ratio of a single spike from the retina is not degraded as it moves along the central visual pathways.
+    2. Perceptual decisions must be near noiseless since they match the efficiency of a noiseless discriminator.
 - Following the principle that sensing should guide behavior at the lowest possible level, some functions need little processing beyond what was achieved in the retina.
 - E.g. Information on slow changes in light intensity are sent directly to the SCN that control the central circadian clock.
 - E.g. Information on fast changes in light intensity are sent directly to the central clusters that control pupil diameter.
@@ -682,8 +682,8 @@ excerpt: "Common themes across the scales of neuroscience."
 - V1 restricts each category of pattern coding (space, motion, color, and dept) to one serial mechanism and devotes space and energy to information that uses a higher spike rate.
 - E.g. High-rate neurons terminate in upper layer 4, medium-rate neurons terminate in lower layer 4, and low-rate neurons terminate in layers 1-3.
 ![Figure 12.6](figure12-6.png)
-- Gabor filter: a weighting function that optimally represents spatial position and spatial frequency.
-- Simple cell: a cortical neuron that integrates inputs from a line of thalamic relay cells.
+- *Gabor filter*: a weighting function that optimally represents spatial position and spatial frequency.
+- *Simple cell*: a cortical neuron that integrates inputs from a line of thalamic relay cells.
 - A simple cell doesn’t respond to the isolated firing of a single relay cell and only fires when a line of relay cells fire together. This way, the simple cell reports a linear feature in the scene.
 - The Gabor filter function is computed, like the difference-of-Gaussians function of retinal ganglion cells, by using a clever balancing of excitatory and inhibitory weights.
 ![Figure 12.7](figure12-7.png)
@@ -709,7 +709,7 @@ excerpt: "Common themes across the scales of neuroscience."
 - However, this is also puzzling since sparsifying reduces energy cost at the expense of space, but space is at a premium in the skull.
 - V1 simple cells aren’t static filters, but adapt to match their coding context to improve efficiency.
 - The adaptation is done by inhibitory interneurons that encode the weighted mean of the activity of the local population of simple cells and makes inhibitory synapses on the simple cell’s soma.
-- Divisive normalization (DN): scaling the output with respect to the local mean.
+- *Divisive normalization (DN)*: scaling the output with respect to the local mean.
 - The inhibitory synapses reduce the simple cell’s input resistance and shunt its response by a constant proportion to perform divisive normalization.
 - DN increases efficiency by
     - Matching coding to the input distribution.
@@ -751,10 +751,10 @@ excerpt: "Common themes across the scales of neuroscience."
     - Log-normal distribution of spike rates
     - Mean rates of a few spikes per second
 - General computations of the sensory cortices
-  1. Find correlations in the natural environment.
-  2. Segment the bandwidth to send at the lowest acceptable rate.
-  3. Encode with optimal weighting functions such as Gabor filters.
-  4. Regroup segments according to Gestalt rules.
+    1. Find correlations in the natural environment.
+    2. Segment the bandwidth to send at the lowest acceptable rate.
+    3. Encode with optimal weighting functions such as Gabor filters.
+    4. Regroup segments according to Gestalt rules.
 - The theme for neural investment, up until now, has been to match neural resources to the physical distribution of information.
 - Examples from the visual system
     - Because nature has more negative contrasts than positive, invest in more OFF responses than ON.
@@ -810,9 +810,9 @@ excerpt: "Common themes across the scales of neuroscience."
 - It appears the optimal wiring fraction (dendrites and axons) is about 3/5 or 60%.
 - The same constraint also applies to synapses.
 - Three connection tasks and the optimal layout for each
-  1. Connect a dense array to a sparse array with modest divergence and convergence.
-  2. Connect a dense array to a sparse array with extreme divergence and convergence.
-  3. Connect many dense arrays to many other dense arrays with moderate divergence and convergence, preserving a high ratio of potential to actual synapses.
+    1. Connect a dense array to a sparse array with modest divergence and convergence.
+    2. Connect a dense array to a sparse array with extreme divergence and convergence.
+    3. Connect many dense arrays to many other dense arrays with moderate divergence and convergence, preserving a high ratio of potential to actual synapses.
 - For the first task
 ![Figure 13.4](figure13-4.png)
     - It’s more efficient for the sender/receiver to have a shared output/input line than to have individual lines.
@@ -847,11 +847,11 @@ excerpt: "Common themes across the scales of neuroscience."
 - Why subdivide the cerebral cortex into many distinct areas, rather than go with one super-area?
 - To prevent wires from different circuits from interfering with each other as this increases noise and wiring.
 - Wire minimization explains
-  1. Why cortical areas exist.
-  2. Why they contain smooth maps.
-  3. Why related areas arrange themselves in particular patterns.
-  4. Why cortical columns exist.
-  5. Why ocular dominance columns exist.
+    1. Why cortical areas exist.
+    2. Why they contain smooth maps.
+    3. Why related areas arrange themselves in particular patterns.
+    4. Why cortical columns exist.
+    5. Why ocular dominance columns exist.
 - Specialized computations are lateralized not only in large brains but also in the small brains of songbirds.
 - Clustering areas for specialized processing minimizes wiring and reduces computing delays. The results can then be communicated between hemispheres by extremely thin axons.
 - This is the small-world network of connectivity.
@@ -892,12 +892,12 @@ excerpt: "Common themes across the scales of neuroscience."
 - Learning, besides being a design principle, is also a neural function.
 - An important constraint on learning is space. The adult brain resides within an enclosed skull so it can’t expand.
 - So learning must conserve space with a design that
-  1. Is spatially specific.
-  2. Stores only what’s needed.
-  3. Stores only for as long as needed.
-  4. Stores and retrieves information at the site where it’s processed.
-  5. Optimizes the units of storage.
-  6. Optimizes a teaching signal for the real world.
+    1. Is spatially specific.
+    2. Stores only what’s needed.
+    3. Stores only for as long as needed.
+    4. Stores and retrieves information at the site where it’s processed.
+    5. Optimizes the units of storage.
+    6. Optimizes a teaching signal for the real world.
 - A design that expands a neural circuit following practice should also shrink the circuit when it’s persistently unused.
 - Evidence for this comes from retired taxi drivers that have a normal hippocampus size.
 - In practicing one skill over years, we neglect other skills. Time restricts us.
@@ -943,9 +943,9 @@ excerpt: "Common themes across the scales of neuroscience."
     - The costs of learning aren’t confined to the initial synapse, but also propagate through the system.
     - It’s more efficient to have many smaller, noisy synapses than few large synapses.
 - Synaptic weight is limited by three mechanisms
-  1. Synapses are physically constrained from expanding as the space is already occupied.
-  2. Hebbian synapses increase weight with correlated activations.
-  3. Synaptic plasticity is regulated homeostatically.
+    1. Synapses are physically constrained from expanding as the space is already occupied.
+    2. Hebbian synapses increase weight with correlated activations.
+    3. Synaptic plasticity is regulated homeostatically.
 - Review of Hebbian learning and reinforcement learning.
 - Storage in many areas is driven directly by dopamine input.
 - What is rewarded will be repeated.
@@ -1034,7 +1034,7 @@ excerpt: "Common themes across the scales of neuroscience."
 - Small diameter allows few bits per second.
 - Slowest signals can use zero wire (neuromodulators, hormones).
 - Shorter wires reduce processing time.
-- To shorten wire:
+- To shorten wire
     - Organize neurons in maps;
     - Within a map segregate computations in parallel circuits.
     - Separate circuits in layers, columns, stripes, barrels.

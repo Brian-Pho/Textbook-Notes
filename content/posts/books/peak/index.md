@@ -17,7 +17,7 @@ excerpt: "Reaching expertise and mastery."
 
 ## Chapter 1: The Power of Purposeful Practice
 
-**Usual Practice**
+### Usual Practice
 
 - You've mastered the easy stuff.
 - There are weaknesses that don't disappear.
@@ -27,7 +27,7 @@ excerpt: "Reaching expertise and mastery."
 - People often misunderstand this because they assume that continued experience and practice means they're better.
 - Once a person reaches that level of "acceptable" performance and automaticity, the additional years of "practice" don't lead to improvement.
 
-**Purposeful Practice**
+### Purposeful Practice
 
 - Isn't always successful but it's more effective.
 - Has well defined, specific goals.
@@ -43,9 +43,9 @@ excerpt: "Reaching expertise and mastery."
 - It's always possible to keep going and keep improving, however, it's not always going to be easy.
 - Meaningful positive feedback is a crucial factor in maintaining motivation.
 - Limitations of purposeful practice
-  - Trying hard isn't enough.
-  - Pushing yourself to your limits isn't enough.
-  - There are other, equally important aspects, to practice and training that are often overlooked.
+    - Trying hard isn't enough.
+    - Pushing yourself to your limits isn't enough.
+    - There are other, equally important aspects, to practice and training that are often overlooked.
 
 ## Chapter 2: Harnessing Adaptability
 
@@ -62,9 +62,9 @@ excerpt: "Reaching expertise and mastery."
 - Paper on how the brain changes: [Increased Cortical Representation of the Fingers of the Left Hand in String Players](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.468.880&rep=rep1&type=pdf).
 - The most effective forms of practice are doing more than helping you learn to play a musical instrument; they're actually increasing your ability to play.
 - Regular training leads to changes in the parts of the brain that are challenged by the training. The brain adapts to these challenges by rewiring itself in ways that increase its ability to carry out the functions required by the challenges. There are a few additional details.
-  - One, younger brains are more adaptable. Small changes in the beginning lead to bigger changes later. Think chaos theory, butterfly effect, compound interest.
-  - Two, developing certain parts of the brain through prolonged training can come at a cost. In many cases, people who have developed one skill or ability to an extraordinary degree seem to have regressed in another area. Think tradeoff, finite brain size.
-  - Third, cognitive and physical changes caused by training require upkeep. Think don't use it lose it, homeostasis acts against us in this case.
+    - One, younger brains are more adaptable. Small changes in the beginning lead to bigger changes later. Think chaos theory, butterfly effect, compound interest.
+    - Two, developing certain parts of the brain through prolonged training can come at a cost. In many cases, people who have developed one skill or ability to an extraordinary degree seem to have regressed in another area. Think tradeoff, finite brain size.
+    - Third, cognitive and physical changes caused by training require upkeep. Think don't use it lose it, homeostasis acts against us in this case.
 - People don't possess these extraordinary capabilities isn't because they don't have the capacity for them, but rather its because they're satisfied to live in the comfort of homeostasis and never do the work required to get out of it. They live in the world of "good enough". Think of Wade in Three Body, we must keep advancing.
 - It's ok to be good enough, but it's important to remember that the option exists. If you wish to become significantly better at something, you can.
 - It isn't about reaching your potential but building it.
@@ -78,8 +78,8 @@ excerpt: "Reaching expertise and mastery."
 - Memory chunks are organized in a hierarchy with more abstract chunks at the top.
 - Memory representations allow for efficient encoding of the data rather than remembering the raw details.
 - Two other features of mental representations.
-  - One, mental representations are more than just ways of encoding data. They allow meaning and conclusions to be drawn.
-  - Two, while mental representations give masters a view of the forest that novices lack, they also allow masters to zero in on the trees when necessary.
+    - One, mental representations are more than just ways of encoding data. They allow meaning and conclusions to be drawn.
+    - Two, while mental representations give masters a view of the forest that novices lack, they also allow masters to zero in on the trees when necessary.
 - A mental representation is a mental structure that corresponds to an object, idea, collection of information, or anything else, concrete or abstract.
 - E.g. Mona Lisa
 - Much of deliberate practice involves developing ever more efficient mental representations that you can use in whatever activity you are practicing.
@@ -90,72 +90,72 @@ excerpt: "Reaching expertise and mastery."
 - What sets expert performers apart is the quality and quantity of their mental representations.
 - The main thing that sets experts apart (and answers the question from the previous chapter) is that they produce highly specialized mental representations which makes it possible their incredible memory, pattern recognition, problem solving, and other sorts of advanced abilities.
 
-**Recognizing and Responding to Patterns**
+### Recognizing and Responding to Patterns
 
 - Experts see the forest when everyone else sees only trees. Sounds like AlphaGo. Think big picture.
 - The advantage better Chess players had in predicting future events was related to their ability to envision more possible outcomes and quickly soft through them and come up with the most promising action.
 - In other words, the better players had a more highly developed ability to interpret the pattern of action on the field.
 - Better mental representations lead to better performance.
 
-**Making Sense of Information**
+### Making Sense of Information
 
 - The key factor determining a person's comprehension of a story is how much that person already understands about the story.
 
-**Finding an Answer**
+### Finding an Answer
 
 - The major advantage of developed mental representations is that you can assimilate and consider a great deal more information at once.
 - This ability to generate a number of likely diagnoses and carefully reason through them distinguishes expert diagnostician from the rest. Think heuristic brute forcing and the simulation as the basis for intelligence.
 - The superior organization of information is a theme that appears over and over again in the study of expert performers.
 
-**Planning**
+### Planning
 
 - To write well, develop a mental representation ahead of time to guide your efforts, then monitor and evaluate your efforts and be ready to modify that representation as necessary. Positive feedback loop.
 
-**Mental Representations in Learning**
+### Mental Representations in Learning
 
 - The differences lay in how well the students were able to detect their mistakes, in essence how effective their mental representations were.
 - The relationship between skill and mental representations is a virtuous circle: the more skilled you become, the better the mental representations are, and the better your mental representations are, the more effectively you can practice to hone your skill.
 
-**Physical Activities are Mental Too**
+### Physical Activities are Mental Too
 
 - As you push yourself to do something new, you are also expanding and sharpening your mental representations, which will in turn make it possible for you to do more than you could before.
 
 ## Chapter 4: The Gold Standard
 
-**A Highly Developed Field**
+### A Highly Developed Field
 
 - Some fields like math and music are blessed with highly developed, broadly accepted training methods.
 - Common characteristics
-  - First, there are always objective ways or at least semi-objective ways to measure performance.
-  - Second, these fields tend to be competitive enough that performers have strong incentive to practice and improve.
-  - Third, these fields are generally well established, with the relevant skills having been developed over time.
-  - Fourth, a subset of people in that field are teachers with sophisticated set of training techniques.
+    - First, there are always objective ways or at least semi-objective ways to measure performance.
+    - Second, these fields tend to be competitive enough that performers have strong incentive to practice and improve.
+    - Third, these fields are generally well established, with the relevant skills having been developed over time.
+    - Fourth, a subset of people in that field are teachers with sophisticated set of training techniques.
 
-**Good versus Better versus Best**
+### Good versus Better versus Best
 
 - We found no shortcuts and no prodigies who reached an expert level with relatively little practice.
 - Expert performers spent significantly more time practicing than those who had spent less time practicing. Time tradeoff.
 - You find that the top performers have devoted a tremendous amount of time to developing their abilities.
 
-**The Principles of Deliberate Practice**
+### The Principles of Deliberate Practice
 
 - Level of performance in established areas have increased greatly over time and as individuals have developed greater and more complex skills and performance.
 - The improvement in performance generally has gone hand-in-hand with the development of teaching methods.
 - Deliberate practice is different from purposeful practice in two important ways:
-  1. It requires a field that is already reasonably well developed. That is, a field in which the best performers have attained a level of performance that clearly sets them apart from people who are just entering the field. What areas don't qualify? Areas with little or no direct competition. (Manager, teacher, electrician, engineer). There isn't an objective criteria for superior performance.
-  2. It requires a teacher who can provide practice activities designed to help a student improve his or her performance.
+    1. It requires a field that is already reasonably well developed. That is, a field in which the best performers have attained a level of performance that clearly sets them apart from people who are just entering the field. What areas don't qualify? Areas with little or no direct competition. (Manager, teacher, electrician, engineer). There isn't an objective criteria for superior performance.
+    2. It requires a teacher who can provide practice activities designed to help a student improve his or her performance.
 - The clear distinction is practice that is not only purposeful but also informed.
 - Deliberate practice is purposeful practice that knows where it's going and how to get there.
 - Deliberate practice traits
-  - Develops skills that people have figured out and know how to teach
-  - Outside comfort zone
-  - Well defined, specific goals
-  - Requires full attention and conscious actions
-  - Feedback and modification of efforts in response to that feedback
-  - Produces and depends on mental representations
-  - Building and modifying previously acquired skills
+    - Develops skills that people have figured out and know how to teach
+    - Outside comfort zone
+    - Well defined, specific goals
+    - Requires full attention and conscious actions
+    - Feedback and modification of efforts in response to that feedback
+    - Produces and depends on mental representations
+    - Building and modifying previously acquired skills
 
-**Applying the Principles of Deliberate Practice**
+### Applying the Principles of Deliberate Practice
 
 - Deliberate practice is a specialized form of practice.
 - This is the basic blueprint for getting better in any pursuit; get as close to deliberate practice as possible.
@@ -165,7 +165,7 @@ excerpt: "Reaching expertise and mastery."
 - Once you've identified the expert performers in a field, the next step is to figure out specifically what they do that separates them from other, less accomplished people in the same field and what training methods helped them get there.
 - Once you've identified an expert, identify what this person does differently from others that could explain the superior performance.
 
-**No, the ten thousand hour rule isn't really a rule**
+### No, the ten thousand hour rule isn't really a rule
 
 - It's an arbitrary number.
 - The number varies from field to field.
@@ -179,12 +179,12 @@ excerpt: "Reaching expertise and mastery."
 ## Chapter 5: Principles of Deliberate Practice on the Job
 
 - Improvement requires rejecting three beliefs:
-  - That one's abilities are limited by one's genetics.
-  - That if you do something for long enough, you're bound to get better at it.
-  - That all it takes to improve is effort.
+    - That one's abilities are limited by one's genetics.
+    - That if you do something for long enough, you're bound to get better at it.
+    - That all it takes to improve is effort.
 - Similar to supervised learning. Given feedback, you learn much quicker.
 
-**Knowledge versus Skills**
+### Knowledge versus Skills
 
 - Learn by doing.
 - See one, do one, teach one.
@@ -221,7 +221,7 @@ excerpt: "Reaching expertise and mastery."
 - Three common stages.
 - Steps like Mastery.
 
-**Starting Out**
+### Starting Out
 
 - In the first stage, children are introduced in a playful way to what will eventually become their field of interest.
 - The parents shaped the interests of their children.
@@ -229,18 +229,18 @@ excerpt: "Reaching expertise and mastery."
 - It's generally the younger sibling who reached greater heights.
 - Slightly different pattern for mathematicians and neurologists. Parents introduced their child to the appeal of intellectual pursuits in general.
 
-**Becoming Serious**
+### Becoming Serious
 
 - Perhaps the most important factor in the early days of an expert's development: maintaining that interest and motivation while the skills and habits are being built.
 - The motivation must ultimately be something that comes from within the child or else it won't endure.
 - As the students continued to improve, they started to seek out better qualified teachers and coaches.
 - They started to identify with their skills such as scientist, mathematician, swimmer.
 
-**Commitment**
+### Commitment
 
 - They make a major commitment to becoming the best that they can be.
 
-**The Benefits of Starting Young**
+### The Benefits of Starting Young
 
 - Expertise in some fields is simply unattainable for anyone who doesn't start training as a child.
 - Performance issues that involve physical abilities that peak at around 20.
@@ -273,9 +273,9 @@ excerpt: "Reaching expertise and mastery."
 
 - Experiment on deliberate practice.
 - The non control group had to
-  - Before class they had to read assigned sections ann then complete a short quiz about the reading.
-  - They had discussions.
-  - Think of Make It Stick
+    - Before class they had to read assigned sections ann then complete a short quiz about the reading.
+    - They had discussions.
+    - Think of Make It Stick
 - You pick up the necessary knowledge in order to develop the skills; knowledge should never be an end in itself.
 - You don't build mental representations by thinking about something, you build them by trying to do something, failing, revising, and trying again, over and over.
 - Instead of planning for what a student should know, plan for what they should be able to do.

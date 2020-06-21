@@ -27,12 +27,12 @@ excerpt: "On the intuitive and the rational sides of the mind."
 - As you become skilled in a task, it's demand for energy diminishes.
 - "She did not forget about the meeting.She was completely focused on something else when the meeting was set and she just didn't hear you." You can't forget what you've never learnt.Like being drunk.
 - Self-control and deliberate thought apparently draw on the same limited budget of effort.
-- Flow: expending considerable effort for long periods of time without having to exert willpower.
+- *Flow*: expending considerable effort for long periods of time without having to exert willpower.
 - Two forms of effort: concentration on the task and the deliberate control of attention.
 - After exerting self-control in one task, you do not feel like making an effort in another unless necessary.
 - Glucose levels appear to affect the amount of willpower we can exert.Fits the theory that brains require a lot of energy.
 - System 1 automatically does association activation.
-- Embodied cognition: you think with your body, not only with your brain.
+- *Embodied cognition*: you think with your body, not only with your brain.
 - Priming happens by system 1.
 - You experience greater cognitive ease in perceiving a word you have already seen earlier.
 - A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from the truth.
@@ -48,7 +48,7 @@ excerpt: "On the intuitive and the rational sides of the mind."
 - A remarkable aspect of your mental life is that you are rarely stumped.
 - When asked a difficult question, system 1 answers an easier version of the question and uses intensity matching to translate the answer from the easy question to the hard question.
 - Intensity matching example: How much would you pay for a massage? Have to convert feeling to money but no common variable.
-- Mental shotgun: answering one question leads to answering another related question.Computes more than intended.
+- *Mental shotgun*: answering one question leads to answering another related question.Computes more than intended.
 
 ## Part 2: Heuristics and Biases
 
@@ -66,19 +66,19 @@ excerpt: "On the intuitive and the rational sides of the mind."
 - Protective actions are usually designed to be adequate to the worst disaster actually experienced but they don't expect a worse disaster to come.
 - People make judgments and decisions by consulting their emotions.People make choices that directly express their feelings without knowing they do so.
 - How do I feel about it VS what do I think about it.
-- Probability neglect: when assessing risk, we focus more on the numerator than the denominator.
+- *Probability neglect*: when assessing risk, we focus more on the numerator than the denominator.
 - Anchor your judgement of the probability of an outcome on a plausible base rate.
 - The most coherent stories are not necessarily the most probable, but they are plausible, and the notions of coherence, plausibility, and probability are easily confused.
 - Probable VS plausible
 - Subjects unwillingness to deduce the particular from the general was matched only by their willingness to infer the general from the particular.
-- Regression towards the mean: random events will tend towards the mean.
+- *Regression towards the mean*: random events will tend towards the mean.
 - We add unnecessary reasons to events because we want a story
 
 ## Part 3: Overconfidence
 
 - A compelling narrative fosters an illusion of inevitability.
 - Our comforting conviction that the world makes sense rests on a secure foundation: our almost unlimited ability to ignore our ignorance.
-- Be careful using the words *know, intuition, premonition.*
+- Be careful using the words know, intuition, premonition.
 - The mind that makes up narratives about the past is a sense-making organ.
 - A general limitation of the human mind is the imperfect ability to reconstruct past states of knowledge or beliefs that have changed.
 - The illusion that one has understood the past feeds the further illusion that one can predict and control the future.
@@ -95,9 +95,9 @@ excerpt: "On the intuitive and the rational sides of the mind."
 - Errors of prediction are inevitable because the world is unpredictable.
 - High subjective confidence is not to be trusted as an indicator of accuracy.
 - Expertise in a domain is not a single skill but rather a large collection of skills.
-- Two basic conditions for acquiring a skill:
-  - An environment that is sufficiently regular to be predictable
-  - An opportunity to learn these regularities through prolonged practice
+- Two basic conditions for acquiring a skill
+    - An environment that is sufficiently regular to be predictable
+    - An opportunity to learn these regularities through prolonged practice
 - When both of these conditions are satisfied, intuitions are likely to be skilled.
 - Intuition cannot be trusted in the absence of stable regularities in the environment.Is this how children develop "intuitive physics"?
 - Whether professionals have a chance to develop intuitive expertise depends essentially on the quality and speed of feedback, as well as on sufficient opportunity to practice.
@@ -108,7 +108,7 @@ excerpt: "On the intuitive and the rational sides of the mind."
 - We try to believe that the general case doesn't apply to our unique case but that isn't rational nor statistical.
 - An unbiased appreciation of uncertainty is a cornerstone of rationality, but it isn't what people want.
 - The main obstacle to overcoming overconfident optimism is that subjective confidence is determined by the coherence of the story one had constructed, not by the quality and amount of the information that supports it.
-- Premortem: "Imagine that we are a year into the future.We implemented the plan as it now exists.The outcome was a disaster.Please take 5 to 10 minutes to write a brief history of that disaster.
+- *Premortem*: "Imagine that we are a year into the future.We implemented the plan as it now exists.The outcome was a disaster.Please take 5 to 10 minutes to write a brief history of that disaster.
 - Don't neglect the competitor.
 
 ## Part 4: Choices

@@ -57,8 +57,8 @@ excerpt: "How to build good habits and to break bad habits."
     - *Identity (inner)*: changing beliefs
 - Outcomes are what you get, processes are about what you do, and identity is about what you believe.
 - The problem with building habits is the direction of change.
-- Outcome-based habits: outcomes -> processes -> identity. The focus is on what you want to achieve.
-- Identity-based habits: identity -> processes -> outcomes. The focus is on who you wish to be.
+- *Outcome-based habits*: outcomes -> processes -> identity. The focus is on what you want to achieve.
+- *Identity-based habits*: identity -> processes -> outcomes. The focus is on who you wish to be.
 - E.g. "No thanks for the cigarette. I'm trying to quit." versus "No thanks. I'm not a smoker."
 - Identity based habits are stronger.
 - Behind every system of actions are a system of beliefs.
@@ -122,7 +122,7 @@ excerpt: "How to build good habits and to break bad habits."
 
 ## Chapter 5: The Best Way to Start a New Habit
 
-- Implementation intention: how you intend to implement a particular habit.
+- *Implementation intention*: how you intend to implement a particular habit.
 - Time and location are two common cues.
 - "I will perform [BEHAVIOR] at [TIME] in [LOCATION]."
 - E.g. "I will study cognitive science at 8 PM every day in my room."
@@ -131,9 +131,9 @@ excerpt: "How to build good habits and to break bad habits."
 - There isn't a need for a decision, just follow the plan.
 - Being specific about what you want and how to achieve it helps prevent distractions and bad decisions.
 - When your dreams are vague, it's easy to rationalize small exceptions and to put it off.
-- The Diderot Effect: a domino effect occurs when one change leads to another.
+- *The Diderot Effect*: a domino effect occurs when one change leads to another.
 - You often decide what to do next based on what you just did.
-- Habit Stacking: identify a current habit and then stack a new behavior on top.
+- *Habit Stacking*: identify a current habit and then stack a new behavior on top.
 - Habit stacking is a special form of implementation intention in that rather than pairing the habit to a time and place, you pair the habit with a current one.
 - "After doing [CURRENT HABIT], I will do [NEW HABIT]."
 - E.g. "After reading my cognitive science textbook for one hour, I will read a different book for another hour."
@@ -234,7 +234,7 @@ excerpt: "How to build good habits and to break bad habits."
 
 ## Chapter 12: The Law of Least Effort
 
-- Law of Least Effort: when deciding between two similar options, people tend to pick the one that requires the least amount of work.
+- *Law of Least Effort*: when deciding between two similar options, people tend to pick the one that requires the least amount of work.
 - We are motivated to do what's easy.
 - The less energy a habit requires, the more likely it's to occur.
 - The goal isn't the habit, but what it delivers.
@@ -249,11 +249,11 @@ excerpt: "How to build good habits and to break bad habits."
 ## Chapter 13: How to Stop Procrastinating by Using the Two-Minute Rule
 
 - Habits are like the entrance ramp to a highway. And once you're on the highway, there's no stopping.
-- Decisive moments: moments that deliver a significant impact.
+- *Decisive moments*: moments that deliver a significant impact.
 - E.g. Starting your homework versus starting a video game.
 - We are limited by the choices we make.
 - Small choices over a day stack up that amount to significantly different days.
-- Two minute rule: when you start a new habit, it should take less than two minutes to do.
+- *Two minute rule*: when you start a new habit, it should take less than two minutes to do.
 - Easier habits are gateways to more challenging habits.
 - A habit must be established before it can be improved.
 
@@ -344,7 +344,7 @@ excerpt: "How to build good habits and to break bad habits."
 ## Chapter 19: The Goldilocks Rule: How to Stay Motivated in Life and Work
 
 - The brain loves a challenge but only if it's in an optimal zone of difficulty.
-- The Goldilocks Rule: that humans experience peak motivation when working on tasks that are right at the edge of their current abilities.
+- *The Goldilocks Rule*: that humans experience peak motivation when working on tasks that are right at the edge of their current abilities.
 - Improvement requires a delicate balance between challenges and progress.
 - Mastery requires practice, but that eventually becomes boring.
 - The greatest threat to success isn't failure but boredom.

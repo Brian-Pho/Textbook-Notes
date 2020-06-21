@@ -17,7 +17,7 @@ excerpt: "Insights on how to think about and analyze systems."
 - The answer lies within the Slinky itself.
 - The answer isn’t that the hand made the Slinky bounce, the hand only suppresses/releases some behavior that’s latent within the structure of the spring.
 - This is the central insight of systems theory. The insight that the behavior of a system is the result of some properties of the system, not the result of some outside event.
-- System: a set of things that’s interconnected in such a way that they produce their own pattern of behavior over time.
+- *System*: a set of things that’s interconnected in such a way that they produce their own pattern of behavior over time.
 - Systems, to a large extend, cause their own behaviors.
 - An outside event may unleash that behavior, but the same outside event applied to a different system is likely to create a different result.
 - E.g. Political leaders don’t cause recessions, they’re inherent in the structure of a market economy. Competitors don’t cause a company to lose market share, the losing company creates it losses through its own business policies.
@@ -77,21 +77,21 @@ excerpt: "Insights on how to think about and analyze systems."
 - Changing purposes usually has a profound effect on the system.
 - The elements of a system are often the least important in defining the unique characteristics of the system, unless changing the element also results in changing relationships or purpose.
 - E.g. CEO of a company, president of a country.
-- Stock: elements of a system that you can see, feel, count, or measure at any given time.
+- *Stock*: elements of a system that you can see, feel, count, or measure at any given time.
 - A stock is the memory of the history of changing flows within the system.
 - E.g. Water in a bathtub, books in a bookstore.
 - Stocks change over time through the action of a flow.
-- Flow: the input and output of a stock.
+- *Flow*: the input and output of a stock.
 ![Figure 1](figure1.png)
 - All system diagrams and descriptions are simplified versions of the real world.
-- Dynamic equilibrium: no change in stock.
+- *Dynamic equilibrium*: no change in stock.
 - Three important principles of stock and flow
     - If inflow > outflow, then stock rises.
     - If inflow < outflow, then stock falls.
     - If inflow = outflow, then stock is in dynamic equilibrium.
 - A stock can be increased in two ways
-  1. Increase the inflow rate
-  2. Decrease the outflow rate
+    1. Increase the inflow rate
+    2. Decrease the outflow rate
 - People often neglect the second method.
 - E.g. Increase oil stock by burning less oil. Build up a larger workforce by reducing the rates of quitting and firing.
 - A stock takes time to change because flows take time to flow.
@@ -101,19 +101,19 @@ excerpt: "Insights on how to think about and analyze systems."
 - Another important feature of stocks is that they allow inflows and outflows to be decoupled and to be independent.
 - E.g. Banks enable you temporarily to earn money at a rate that’s different from how you spend it. Batteries enable your phone to store energy even through your usage varies.
 
-**Feedback Loops**
+### Feedback Loops
 
 - Consistent behavior is likely created by a mechanism that operates through a feedback loop.
-- Feedback loop: when changes in a stock affect the flows into or out of that same stock.
+- *Feedback loop*: when changes in a stock affect the flows into or out of that same stock.
 - E.g. Money interest in a savings account. The interest changes depending on how much money is in the account. And the money in the account changes as it gains interest.
 - The flows into or out of the stock are adjusted because of changes in the stock itself.
 ![Figure 8](figure8.png)
 - Not all systems have feedback loops.
 
-**Balancing Loops**
+### Balancing Loops
 
 - The first type of feedback loops is the balancing loop.
-- Balancing loop: equilibrating or goal-seeking structures in systems that are both sources of stability and sources of resistance to change.
+- *Balancing loop*: equilibrating or goal-seeking structures in systems that are both sources of stability and sources of resistance to change.
 - E.g. The temperature of a coffee cup, whether hot or cold, will seek to balance itself with the temperature of the room.
 ![Figure 10](figure10.png)
 ![Figure 11](figure11.png)
@@ -122,11 +122,11 @@ excerpt: "Insights on how to think about and analyze systems."
 - A balancing feedback loop opposes whatever direction of change is imposed on the system.
 - A feedback mechanism may not work well as it may not be strong enough to bring the stock to the desired level.
 
-**Reinforcing Loop**
+### Reinforcing Loop
 
 - The second type of feedback loops is the reinforcing loop.
-- Reinforcing loop: a feedback loop that enhances whatever direction of change is imposed on it.
-- Reinforcing loop: self-enhancing feedback loops that lead to exponential grow or runaway collapse over time.
+- *Reinforcing loop*: a feedback loop that enhances whatever direction of change is imposed on it.
+- *Reinforcing loop*: self-enhancing feedback loops that lead to exponential grow or runaway collapse over time.
 - E.g. The more prices go up, the more money people will need to make. And the more money people make, the more money companies need to pay people. And to get more money, companies make prices go up.
 - E.g. Compound interest.
 - Reinforcing loops amplify and snowball, causing a vicious or virtuous cycle that can cause healthy growth or runaway destruction.
@@ -144,7 +144,7 @@ excerpt: "Insights on how to think about and analyze systems."
 - This chapter contains a collection, a zoo, of systems.
 - However, similar to a zoo, it has a large variety of systems that exist but it is far from a complete representation. It groups systems by family but this collection is too neat. The systems are shown independently but in reality they are connected.
 
-**One-Stock Systems**
+### One-Stock Systems
 
 - What happens to a system if there are two feedback loops, each trying to drag a stock toward two different goals?
 - E.g. Thermostat trying to drag the room temperature (stock) to match the desired temperature.
@@ -168,9 +168,9 @@ excerpt: "Insights on how to think about and analyze systems."
 - Dynamic system studies usually aren’t designed to predict what will happen. They’re designed to explore what would happen if a variable unfolded in different ways.
 - System dynamics models explore possible futures and ask “what if” questions.
 - Questions for testing the value of a model
-  1. Are the driving factors likely to unfold this way?
-  2. If they did, would the system react this way?
-  3. What is driving the driving factors?
+    1. Are the driving factors likely to unfold this way?
+    2. If they did, would the system react this way?
+    3. What is driving the driving factors?
 ![Figure 27](figure27.png)
 - Like a population, if the capital stock grows, more goods can be produced each year which means more capital stock.
 - However, capital stock also faces “death” in the form of depreciation. Goods break down and become obsolete.
@@ -181,7 +181,7 @@ excerpt: "Insights on how to think about and analyze systems."
 - To dampen the oscillations, increase the delay.
 - Changing the length of a delay may make a large change in the behavior of a system.
 
-**Two-Stock Systems**
+### Two-Stock Systems
 
 - The systems we’ve seen so far haven’t included constraints imposed by their surroundings.
 - E.g. Capital stock didn’t require raw materials, population didn’t need food, thermostat didn’t need fuel.
@@ -202,12 +202,12 @@ excerpt: "Insights on how to think about and analyze systems."
 - Nonrenewable resources are stock-limited. The entire stock is available at once and can be extracted at any rate. But the faster the extraction, the shorter the lifetime of the resource.
 - Renewable resources are flow-limited. The resource can support extraction indefinitely but for only as long as the outflow rate is equal to the regeneration rate.
 - Three possible outcomes of renewable resource systems
-  1. Overshoot and adjust to a sustainable equilibrium.
-  2. Overshoot beyond equilibrium followed by oscillations around it.
-  3. Overshoot followed by collapse of the resource and the systems that depend on it.
+    1. Overshoot and adjust to a sustainable equilibrium.
+    2. Overshoot beyond equilibrium followed by oscillations around it.
+    3. Overshoot followed by collapse of the resource and the systems that depend on it.
 - Which outcome occurs is dependent on two things
-  1. The critical threshold beyond which the resource’s ability to regenerate itself is damaged.
-  2. The rapidity and effectiveness of the balancing feedback loop.
+    1. The critical threshold beyond which the resource’s ability to regenerate itself is damaged.
+    2. The rapidity and effectiveness of the balancing feedback loop.
 - Neither nonrenewable nor renewable limits to growth allow a physical stock to grow forever, but the constraints they impose are different. The difference comes because of the difference between stocks and flows.
 - The trick, as with all complex systems, is to recognize what structures contain which latent behaviors, and what conditions release those behaviors.
 
@@ -219,11 +219,11 @@ excerpt: "Insights on how to think about and analyze systems."
 - If pushed too far, systems may fall apart or exhibit weird behavior.
 - But normally, systems manage to do as they’re expected. They can work so well.
 - Three properties of systems that work well
-  1. Resilience: a measure of a system’s ability to survive and persist within a changing environment.
-  2. Self-organization: the capacity of a system to make its own structure more complex.
-  3. Hierarchy: the arrangement of systems and subsystems.
+    1. Resilience: a measure of a system’s ability to survive and persist within a changing environment.
+    2. Self-organization: the capacity of a system to make its own structure more complex.
+    3. Hierarchy: the arrangement of systems and subsystems.
 
-**Resilience**
+### Resilience
 
 - Resilience emerges from a rich structure of many feedback loops that work in different ways to restore a system after a large perturbation.
 - There’s also meta-resilience, a set of feedback loops that can restore/rebuild feedback loops.
@@ -238,7 +238,7 @@ excerpt: "Insights on how to think about and analyze systems."
 - Systems need to be managed not only for productivity or stability, they also need to be managed for resilience, the ability to recover from perturbation, the ability to restore and repair themselves.
 - Loss of resilience can come as a surprise, because the system usually is more focused on playing rather than its playing space.
 
-**Self-organization**
+### Self-organization
 
 - Self-organization is such a common property that we take it for granted.
 - E.g. Creating an organism from a single cell, taking ideas of burning coal into building a city.
@@ -250,7 +250,7 @@ excerpt: "Insights on how to think about and analyze systems."
 - Out of simple rules of self-organization can grow enormous, complex systems.
 - Science itself is a self-organizing system, believing that all of the complexity of the world must arise from simple rules.
 
-**Hierarchy**
+### Hierarchy
 
 - In the process of creating new structures of increasing complexity, one property that a self-organizing system often generates is hierarchy.
 - Complex systems can evolve from simple systems only if there are stable intermediate forms.
@@ -266,7 +266,7 @@ excerpt: "Insights on how to think about and analyze systems."
 - The original purpose of a hierarchy is always to help its originating subsystems do their jobs better.
 - Often, we forget this purpose of hierarchy.
 - E.g. A team member being more interested in personal glory than in the team winning. A cell desiring more replication and thus becoming cancer. A brain area invading another area.
-- Suboptimization: when a subsystem’s goals dominate at the expense of the total system’s goals.
+- *Suboptimization*: when a subsystem’s goals dominate at the expense of the total system’s goals.
 - The reverse is also a problem when the top of hierarchy exerts too much control.
 - E.g. Micromanaging bosses, communism, extreme bureaucracy.
 - To be highly functional, hierarchies must balance the autonomy of subsystems and the central control of the total system.
@@ -277,9 +277,9 @@ excerpt: "Insights on how to think about and analyze systems."
 - The acquisition of knowledge always involves the revelation of ignorance.
 - Our knowledge of the world instructs us first of all that the world is greater than our knowledge of it.
 - Systems thinking reminds us of three truths
-  1. Everything we think we know about the world is a model.
-  2. Our models usually have a strong match with the world.
-  3. Our models fall far short of representing the world fully.
+    1. Everything we think we know about the world is a model.
+    2. Our models usually have a strong match with the world.
+    3. Our models fall far short of representing the world fully.
 - This book is on a duality between knowing enough about how the world works, but not nearly enough.
 - Systems fool us by presenting themselves (or we fool ourselves) as a series of events.
 - Events are like the tip of an iceberg, the most visible but not the most important.
@@ -297,9 +297,9 @@ excerpt: "Insights on how to think about and analyze systems."
 - Flows don’t change in response to other flows, flows change in response to stocks.
 - This is the same case in The Book of Why called mediation. Two variables may be correlated to each other because of a mediating third variable.
 - E.g. The relationship between how much heat a furnace outputs and the outside temperature may hold in the short-term. But the relationship doesn’t take into account the room temperature that is affected by both.
-- Linear relationship: an increase in input is matched with the same increase in output.
+- *Linear relationship*: an increase in input is matched with the same increase in output.
 - E.g. Putting in 10 pounds of fertilizer increases yield by 2 bushels. Putting in 20 pounds of fertilizer increases yield by 4 bushels. Putting in 30 pounds of fertilizer increase yield by 6 bushels. Increasing fertilizer by 10 pounds is always matched by an increase of 2 bushels.
-- Nonlinear relationship: an increase in input isn’t matched with the same increase in output.
+- *Nonlinear relationship*: an increase in input isn’t matched with the same increase in output.
 - E.g. Putting 100 pounds of fertilizer increase yield by 10 bushels. Putting 200 pounds of fertilizer doesn’t increase yield. Putting 300 pounds of fertilizer decreases yield. Add too much of a good thing has damaged the soil.
 - The world is full of nonlinearities.
 - Nonlinearities are important not only because they confound our expectations, but also because they change the relative strengths of feedback loops.
@@ -318,7 +318,7 @@ excerpt: "Insights on how to think about and analyze systems."
     - Rich and poor
     - People alive now and people who will come in the future
 - Remember that boundaries are of our own making, and that they can and should be reconsidered for each new discussion, problem, or purpose.
-- Limiting factor: the bottleneck of a system, what prevents it from changing faster.
+- *Limiting factor*: the bottleneck of a system, what prevents it from changing faster.
 - The most important input to a system is the one that’s most limiting.
 - Insight comes from not only recognizing which factor is limiting, but from also seeing that growth itself depletes or enhances limits, and therefore changes what’s limiting.
 - Perpetual growth is impossible. Ultimately, the choice isn’t to grow forever, but to decide what limits to live within.
@@ -329,7 +329,7 @@ excerpt: "Insights on how to think about and analyze systems."
 - Delays determine how fast systems can react.
 - Overshoots, oscillations, and collapses are always caused by delays.
 - When there are long delays in feedback loops. some sort of foresight is essential. To act only when a problem becomes obvious is to miss an important opportunity to solve the problem.
-- Bounded rationality: people make reasonable decisions based on the information they have.
+- *Bounded rationality*: people make reasonable decisions based on the information they have.
 - People don't have perfect information such as information on the more distant parts of the system.
 - E.g. Environmentalists don't deal with the pressure that oil-company managers face. Fishermen don't know how many fish are caught by other fishermen.
 - Seeing how individual decisions are rational within the bounds of the information available doesn't provide an excuse for narrow-minded behavior.
@@ -341,12 +341,12 @@ excerpt: "Insights on how to think about and analyze systems."
 ## Chapter 5: System Traps … and Opportunities
 
 - Being less surprised by complex systems is a matter of learning to expect, appreciate, and use the world’s complexity.
-- Archetypes: system structures that produce common patterns of problematic behavior.
+- *Archetypes*: system structures that produce common patterns of problematic behavior.
 - E.g. Addiction, escalation, drift to low performance.
 - System traps can be escaped by recognizing and avoiding them in advance or by altering their structure.
 - System traps are opportunities for improvement.
 
-**Policy Resistance**
+### Policy Resistance
 
 - Fixes that fail to achieve their goal.
 - E.g. The war on drugs, job creation policies, healthcare cost reduction policies.
@@ -361,7 +361,7 @@ excerpt: "Insights on how to think about and analyze systems."
     - Find a way of aligning the various goals of the subsystems.
         - E.g. Sweden’s approach to increasing their population. They realized that the goal isn’t to have more children like in Romania or Hungary, the goal is to ensure that every child is wanted. Sweden make contraceptives and abortion free and make it easier to divorce.
 
-**Tragedy of the Commons**
+### Tragedy of the Commons
 
 - When there’s a commonly shared resource that every use benefits from but shares the cost of its abuse with everyone else.
 - Each individual only seeks to maximize their gain but doesn’t take into account the condition of the common resource.
@@ -378,7 +378,7 @@ excerpt: "Insights on how to think about and analyze systems."
 - The third solution is quite common in everyday life.
 - E.g. Traffic lights, parking spaces, radio spectrum bands.
 
-**Drift to Low Performance**
+### Drift to Low Performance
 
 - Some systems not only resist policy and stay in a normal bad state, they keep getting worse.
 - E.g. Falling market share of a business, doctors after they’ve been out of school.
@@ -392,7 +392,7 @@ excerpt: "Insights on how to think about and analyze systems."
     - Make goals sensitive to the best performances of the past, instead of the worst.
 - The reinforcing loop going downwards, “the worse things gets, the worse I’m going to let them get” becomes a loop going upwards, “the better things get, the harder I’m going to work to make them even better”.
 
-**Escalation**
+### Escalation
 
 - Escalation comes from a reinforcing loop set up by competing actors trying to get ahead of each other.
 - Escalation isn’t necessarily a bad thing.
@@ -408,7 +408,7 @@ excerpt: "Insights on how to think about and analyze systems."
     - Negotiate a disarmament to introduce balancing loops.
     - Avoiding it in the first place.
 
-**Competitive Exclusion**
+### Competitive Exclusion
 
 - Also called “success to the successful”.
 - This trap is found when winners of a competition receives, as part of the reward, the means to compete even more effectively in the future.
@@ -423,7 +423,7 @@ excerpt: "Insights on how to think about and analyze systems."
     - Leveling the playing fields.
         - E.g. Restarting the game of Monopoly.
 
-**Addiction**
+### Addiction
 
 - Most people are familiar with addictive substances such as alcohol, drugs, sugar, and caffeine.
 - However, not everyone recognizes the addiction that appears in larger systems.
@@ -432,15 +432,15 @@ excerpt: "Insights on how to think about and analyze systems."
 - Addiction can be avoided by strengthening the ability of the system to shoulder its own burdens.
 - Take the focus off short-term relief and put it on long-term restructuring.
 
-**Rule Beating**
+### Rule Beating
 
-- Rule beating: evasive action to get around the intent of a system’s rules.
+- *Rule beating*: evasive action to get around the intent of a system’s rules.
 - E.g. Organizations spending pointless money at the end of the year to use their entire budget.
 - Rule beating produces the appearance of following the rules but doesn’t follow the intention behind the rule.
 - One solution is to use the feedback from rule beating to revise, improve, rescind, or better explain the rules.
 - This is the same problem encountered by AI ethic researchers. Sometimes what we say isn’t what we want.
 
-**Seeking the Wrong Goal**
+### Seeking the Wrong Goal
 
 - Systems have a tendency to product exactly and only what you ask them to produce.
 - Be careful of what you ask for.
@@ -455,43 +455,43 @@ excerpt: "Insights on how to think about and analyze systems."
 
 ## Chapter 6: Leverage Points - Places to Intervene in a System
 
-- Leverage points: places in the system where a small change could lead to a large shift in behavior.
+- *Leverage points*: places in the system where a small change could lead to a large shift in behavior.
 - Leverage points are points of power and are embedded in our culture.
 - E.g. The silver bullet, miracle cure, secret passage, magic password, hero.
 - While people deeply involved in a system often intuitively know where to find leverage points, they often push the change in the wrong direction.
 - Leverage points are counterintuitive.
 - A list of leverage points to look for in increasing leverage/power.
-  1. Numbers
+    1. Numbers
           - Changing variables rarely changes the behavior of the national economy system.
           - Numbers aren’t boundaries of good and bad. Often there is a gray area that benefits all parties.
-  2. Buffers
+    2. Buffers
        - Stocks that are big, relative to their flows, are more stable than small ones.
        - E.g. Lake vs river flood, bank account balance.
        - You can stabilize a system by increasing it’s buffer. But if the buffer’s too big, the system gets inflexible and reacts slowly.
-  3. Stock-and-Flow Structures
+    3. Stock-and-Flow Structures
        - Physical structure is crucial in a system but is rarely a leverage point.
        - The leverage point is in proper design in the first place.
-  4. Delays
+    4. Delays
        - The lengths of time relative to the rates of system change.
        - A system just can’t respond to short-term changes when it has long-term delays.
        - A delay in the feedback process is critical relative to rates of change in the stocks that the feedback loop is trying to control.
        - Delays that are too short cause large oscillations while delays that are too long cause damped, sustained oscillations.
-  5. Balancing Feedback Loops
+    5. Balancing Feedback Loops
        - Now we’re moving from the physical parts of a system to the information and control parts, where more leverage can be found.
        - Balancing feedback loops are used to keep important stocks within safe bounds.
        - Some loops are inactive most of the time, but their presence is critical to the long-term welfare of the system.
        - E.g. Sweating, emergency cooling system, fire hydrants.
        - The strength of a balancing feedback loop is important relative to the impact it’s designed to correct.
        - E.g. If the impact gets bigger, the feedback loop should also get bigger.
-  6. Reinforcing Feedback Loops
+    6. Reinforcing Feedback Loops
        - A balancing feedback loop is self-correcting, a reinforcing feedback loop is self-reinforcing.
        - Reducing the growth around a reinforcing loop is usually a more powerful leverage point than strengthening balancing loops.
-  7. Information Flows
+    7. Information Flows
        - The structure of who does and who doesn’t have access to information.
        - Information flows are usually cheaper to implement than physical flows.
        - E.g. Putting a city’s water intake pipe downstream from it’s wastewater outflow pipe. Having the politicians who declare war to also be on the front lines of that war.
        - There’s a systematic tendency of people to avoid accountability for their own decisions.
-  8. Rules
+    8. Rules
        - Incentives, punishments, constraints.
        - Constitutions are the strongest examples of social rules.
        - Physical laws are absolute rules, whether we understand them or not, or like them or not.
@@ -499,7 +499,7 @@ excerpt: "Insights on how to think about and analyze systems."
        - To show the power of rules, imagine different ones.
        - E.g. Suppose you can to college when you wanted to learn something, and you leave when you’ve learned it. Suppose tenure was awarded to professors according to their ability to solve real-world problems, rather than to publish academic papers. Suppose a class got graded as a group, instead of as individuals.
        - As we try to image restructured rules and what our behavior would be under them, we come to understand the power of rules.
-  9. Self-Organization
+    9. Self-Organization
        - The power to add, change, or evolve system structure.
        - Is done by adding completely new physical structures or by adding new balancing/reinforcing loops.
        - E.g. Adding a brain, wings, or computers.
@@ -511,15 +511,15 @@ excerpt: "Insights on how to think about and analyze systems."
        - E.g. For biological evolution, the raw material is DNA, changes occur through spontaneous mutation, and testing is done through changing environments in which some individuals don’t survive to reproduce.
        - E.g. For technology, the raw material is the body of accumulated science, changes occur through human creativity, and testing is done through market reward or government funding or whatever meets human needs.
        - E.g. For culture, the raw material is the meme, changes occur through human creativity, and testing is done through internet points or fame or some other reward.
-  10. Goals
+    10. Goals
        - The purpose or function of the system.
        - Goals are stronger than any leverage point in the above list as they control almost all parts of the system.
-  11. Paradigms
+    11. Paradigms
        - The mind-set out of which the system, its goals, structure, rules, delays, and parameters, arise.
        - E.g. That money holds value, that nature is a stock of resources, that we can own land.
        - People who’ve managed to intervene in systems at the level of paradigm have hit a leverage point that totally transforms and creates systems.
        - E.g. Copernicus with heliocentrism, Einstein with relativity, Smith with the wealth of nations.
-  12. Transcending Paradigms
+    12. Transcending Paradigms
        - To realize that no paradigm is true.
        - The intuition that paradigms have paradigms.
 - There are exceptions to every item in this list and the order is flexible.

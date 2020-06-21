@@ -17,24 +17,24 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 ## Chapter 1: The Science of Cognition
 
 - The first cognitive systems such as GPS and ACT-R relied on production rules.
-- Production rule: an if-then statement.
+- *Production rule*: an if-then statement.
 - E.g. IF variable has value 5, THEN set the value to 10.
 - There’s a gap in our understanding of real cognitive systems where we’ve built fast and dynamic systems but they don’t fit well into our evidence of higher-level cognition.
 - E.g. Using math and physics to calculate arm movements but we know the brain doesn’t compute movements like that.
-- Cognitive system: a system that integrates all aspects of sophisticated behavior.
+- *Cognitive system*: a system that integrates all aspects of sophisticated behavior.
 - E.g. Planning, reasoning, motor control.
-- Cognitive architecture: a general proposal about the representations and processes that produce intelligent thought.
+- *Cognitive architecture*: a general proposal about the representations and processes that produce intelligent thought.
 - Three major approaches to the nature of cognition
-    - Symbolic approach (GOFAI): mind as computer.
-    - Connectionism (PDP): mind as brain.
-    - Dynamicism (embodied): mind as continuously coupled, nonlinear, dynamical systems.
+    - *Symbolic approach (GOFAI)*: mind as computer.
+    - *Connectionism (PDP)*: mind as brain.
+    - *Dynamicism (embodied)*: mind as continuously coupled, nonlinear, dynamical systems.
 - Another approach not discussed much in this book
-    - Bayesian: the rational analysis of human behavior using probabilistic inference.
+    - *Bayesian*: the rational analysis of human behavior using probabilistic inference.
 - However, the Bayesian approach is mostly phenomenological as in it captures phenomena but not mechanisms; gets the “what” but not the “how/why”.
 - Metaphors for each approach
-    - Symbolic: Turing machine.
-    - Connectionists: Mental representations.
-    - Dynamicists: Watt Governor.
+    - *Symbolic*: Turing machine.
+    - *Connectionists*: Mental representations.
+    - *Dynamicists*: Watt Governor.
 ![Figure 1.2](figure1-2.png)
 - The author argues that we need to move beyond metaphors because they constrain our hypotheses.
 - E.g. Light as a wave and light as a particle constrained the idea that light is both a wave and particle under wave-particle duality.
@@ -69,9 +69,9 @@ excerpt: "An introduction to a biologically plausible model of the brain."
     2. How is the syntactic structure encoded and manipulated by the system?
     3. How is the flow of information flexibly controlled in response to task demands?
     4. How are memory and learning employed in the system?
-- Symbol grounding problem: how symbols are mapped to concepts.
+- *Symbol grounding problem*: how symbols are mapped to concepts.
 - E.g. How the word “dog” is mapped to a real dog and to the concept of a dog.
-- Semantic pointer: a neural representation that carries partial semantic content and can be composed into representational structures.
+- *Semantic pointer*: a neural representation that carries partial semantic content and can be composed into representational structures.
 - Semantic pointers bear systematic relations to what they point to unlike computer pointers.
 - E.g. A “cat” semantic pointer points to the semantic pointers for “whiskers”, “four legs”, “fur”, etc.
 - The relationship between a semantic pointer and what it points to can be thought of as compression.
@@ -82,31 +82,31 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - Dereferencing is the same as decompressing or running the system backwards.
 - The basal ganglia seems to play a role in action selection and selecting semantic pointers.
 - Attention seems to be an example of information routing in the brain.
-- Semantic Pointer Architecture (SPA): the idea that the higher-level cognitive functions are made possible by semantic pointers.
-- Semantic Pointer Architecture Unified Network (SPAUN): a system that integrates many different functions to reproduce a subset of human behaviors.
+- *Semantic Pointer Architecture (SPA)*: the idea that the higher-level cognitive functions are made possible by semantic pointers.
+- *Semantic Pointer Architecture Unified Network (SPAUN)*: a system that integrates many different functions to reproduce a subset of human behaviors.
 - SPA isn’t based in metaphors because it bottoms out at the level of neurons. SPA is based in neurons.
 ![Table 1.2](table1-2.png)
 - "Creating” a system amounts to creating “simulations” of the underlying mechanisms in detail.
-- Nengo (Neural ENGineering Objects): a graphical neural simulation environment that’s used in the book’s tutorials.
+- *Nengo (Neural ENGineering Objects)*: a graphical neural simulation environment that’s used in the book’s tutorials.
 
 # Part I: How to Build a Brain
 
 ## Chapter 2: An Introduction to Brain Building
 
-- Neural Engineering Framework (NEF): methods for constructing large-scale, neurally realistic models of the brain.
+- *Neural Engineering Framework (NEF)*: methods for constructing large-scale, neurally realistic models of the brain.
 - Brains provide animals with behavioral flexibility and they control the four Fs of living (feeding, fleeing, fighting, and fucking).
 ![Figure 2.1](figure2-1.png)
 - Neurons are specialized for communication.
 ![Figure 2.2](figure2-2.png)
 - The brain is complex due to the variability found in neurons, synapses, and neurotransmitters.
-- Tuning curve: the frequency of spiking of a neuron in response to a given input stimulus.
+- *Tuning curve*: the frequency of spiking of a neuron in response to a given input stimulus.
 - Tuning curves and response functions are not the same. Tuning curves vary but response functions are more consistent.
 - Tuning curves help to identify what information a neuron carries.
 ![Figure 2.5](figure2-5.png)
 - For the rest of this book, a tuning curve includes the information about the cell’s receptive field although this isn’t exactly the case for real neurons.
 - Response functions depend on a cell’s intrinsic properties while tuning curves depend on a cell’s extrinsic properties.
 - Intrinsic heterogeneity can be captured by the variability of individual cells while extrinsic heterogeneity is a result of where a cell sits in the network.
-- Dale’s principle: how a given neuron isn’t both excitatory and inhibitory; it must be one or the other.
+- *Dale’s principle*: how a given neuron isn’t both excitatory and inhibitory; it must be one or the other.
 - The NEF is a framework about how brains compute, not what they compute.
 - Three core principles of NEF
     1. Neural representations are defined by the combination of nonlinear encoding and weighted linear decoding.
@@ -120,14 +120,14 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - NEF analyzes the brain using populations of neurons rather than single neurons.
 ![Figure 2.6](figure2-6.png)
 - NEF suggests that we should use codes to understand representations in neural systems.
-- Codes: complimentary encoding and decoding procedures between two alphabets.
+- *Codes*: complimentary encoding and decoding procedures between two alphabets.
 - E.g. Morse codes maps the English alphabet to a set of dashes and dots.
 - The encoding procedure in neural systems is done using spikes.
-- Spike raster: a neuron’s firing pattern.
+- *Spike raster*: a neuron’s firing pattern.
 ![Figure 2.7](figure2-7.png)
 - Two aspects of decoding a neural response
-    - Population decoding: weighting each neuron by how useful it is for carrying information about the stimulus.
-    - Temporal decoding: neurons respond in time to a changing stimulus.
+    - *Population decoding*: weighting each neuron by how useful it is for carrying information about the stimulus.
+    - *Temporal decoding*: neurons respond in time to a changing stimulus.
 ![Figure 2.8](figure2-8.png)
 - Inputs typically change over time so decoding must also decode over time.
 - Adding more neurons improves both decoding mechanisms in two ways
@@ -164,8 +164,8 @@ excerpt: "An introduction to a biologically plausible model of the brain."
     - The kinds of spiking need the single cell model and the tuning curves.
     - Transformational decoders and dynamics need a high-level system goal.
 - There are two distinct types of “levels”
-    - Levels of scale: where a property fits on a physical scale.
-    - Levels of abstraction: where an idea fits on a “detail” scale.
+    - *Levels of scale*: where a property fits on a physical scale.
+    - *Levels of abstraction*: where an idea fits on a “detail” scale.
 ![Table 2.1](table2-1.png)
 - A population of neurons acts together like a variable unlike traditional connectionist ANNs where the network represents a concept. Different activations of the population represent different concepts.
 
@@ -173,7 +173,7 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 
 - Biological systems can perform many different tasks without being “reprogrammed”. The same can’t be said for most cognitive models.
 - E.g. Catastrophic forgetting in ANNs.
-- Semantic pointer: a neural representation that carries partial semantic content and is composable into representational structures used in cognition.
+- *Semantic pointer*: a neural representation that carries partial semantic content and is composable into representational structures used in cognition.
 - Semantic pointers are described by vectors in a high-dimensional space where each point in the space represents a concept.
 ![Figure 3.1](figure3-1.png)
 - Similar concepts are closer in the state space compared to concepts that aren’t similar.
@@ -201,11 +201,11 @@ excerpt: "An introduction to a biologically plausible model of the brain."
     1. High-dimensional vectors.
     2. Observable activity in a biological neural network.
     3. Compressed representations.
-- Dual-Coding theory: the idea that two levels of information processing occur in the brain.
+- *Dual-Coding theory*: the idea that two levels of information processing occur in the brain.
 - There seems to be two levels of semantic processing
-    - Shallow processing: only comparing the lexical/word without meaning.
+    - *Shallow processing*: only comparing the lexical/word without meaning.
         - E.g. Comparing if “cherry” and “card” are related. Nope.
-    - Deep processing: comparing the meaning of words.
+    - *Deep processing*: comparing the meaning of words.
         - E.g. Comparing if “monkey” and “banana” are related. Yes.
 - This difference seems to be due to deep processing engaging a kind of “simulation” of the circumstances described by the words.
 - E.g. Reading the word “water” and associating it with blue, wet, and thirst instead of it being just a word.
@@ -217,7 +217,7 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - SPA is an attempt to account for the computational process underlying the Dual-Coding theory.
 - The key of SPA is that semantic pointers only carry partial semantic information which accounts for shallow processing. Deep processing requires dereferencing the pointer to get at the richer semantic concept.
 - Semantic pointers perform lossy compression by using a parameterized model.
-- Parameterized model: a model that depends on a small number of parameters to approximate the model.
+- *Parameterized model*: a model that depends on a small number of parameters to approximate the model.
 - By using parameters, we’re able to compress input data into equations with minimal loss.
 - E.g. Using the Bell curve equation to characterize a model instead of the raw data points.
 - We can further constrain parameterized models by using what we know about the brain and its use of hierarchical models.
@@ -232,7 +232,7 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - It’s a mistake to think that the flow of information in the brain is only up or down the hierarchy as there are recurrent connections and connections that skip levels.
 - The connections must be bidirectional to allow for dereferencing of the high-level semantic pointer while also allowing for the referencing of low-level semantic pointers.
 - Also, the high-levels of both hierarchies (visual and motor) must account for the statistics and dynamics of the levels below them.
-- Synergies: sets of movements that are often activated together.
+- *Synergies*: sets of movements that are often activated together.
 - E.g. The “move finger down while moving arm down” synergy used to press a button.
 - Perception and action have dual descriptions in which semantic pointers can play the same role in both systems. That of encoding perceptual information and of decoding motor goals.
 ![Figure 3.11](figure3-11.png)
@@ -255,9 +255,9 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - E.g. $$b \cdot dog = agent$$.
 - This means that the binding is reversible which is important because we want to unbind relationships for use in dereferencing.
 - The tensor product representations don’t scale well because each result will grow at the rate of its parts.
-- Vector Symbolic Architectures (VSA): a class of closely related approaches to encoding structure using distributed representations.
+- *Vector Symbolic Architectures (VSA)*: a class of closely related approaches to encoding structure using distributed representations.
 - VSAs don’t change the dimensionality of representations when encoding a structure but the tradeoff is degradation of the structured representations which acts sort of like compression.
-- Reduced representations: representations that slowly lose information as more is added to that representation.
+- *Reduced representations*: representations that slowly lose information as more is added to that representation.
 - The capacity for error in VSA and thus SPA makes SPA psychologically plausible since actual biological systems are error prone and display graceful degradation aka reduced representations.
 - When modeling our cognition, it’s important to not only capture the successes of cognition, but to also capture the failures of our cognition.
 - E.g. To capture both our reasoning abilities and our logical fallacies.
@@ -286,7 +286,7 @@ excerpt: "An introduction to a biologically plausible model of the brain."
     - How to map language to VSA.
     - How to map questions to transformations.
 - NEF doesn’t rely on learning to construct model networks but learning is a property of cognition.
-- Induction: generating new rules from a few examples.
+- *Induction*: generating new rules from a few examples.
 - E.g. Since the Sun has risen every day for all of my life, I infer that the Sun will rise tomorrow.
 - In SPA, induction is the same as finding a transformation that works for several examples.
 - One way of finding a transformation is to use a set of example transformations and then apply them to the examples. Then minimize the error between the examples and the transformations.
@@ -308,12 +308,12 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - Scaling this clean-up procedure puts a limit on the dimensions of semantic pointers to around 500 dimensions.
 - Binding and clean-up networks allow SPA to gracefully degrade in performance thus matching biological data.
 - Going back to the problem of induction.
-- Raven’s Progressive Matrices (RPM): a set of images that tests induction.
+- *Raven’s Progressive Matrices (RPM)*: a set of images that tests induction.
 ![Figure 4.8](figure4-8.png)
 ![Figure 4.9](figure4-9.png)
 - SPA using the induction rule is able to perform at human level in the RPM task.
 - Another important feature is that the same network can be used to perform deduction and abduction.
-- Syntactic generalization: content-insensitive generalization.
+- *Syntactic generalization*: content-insensitive generalization.
 - The network is able to learn despite no connection weight changes in the model.
 - An important note is that circular convolution is a compression operation.
 - One interesting feature of SPA is that transformations of semantic pointers are themselves semantic pointers.
@@ -341,7 +341,7 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - The process of control can be broken down into two parts
     - Determining an appropriate control signal.
     - Applying that control signal.
-- Basal ganglia (BG): an interconnected cluster of brain areas under the neocortex and close to the thalamus.
+- *Basal ganglia (BG)*: an interconnected cluster of brain areas under the neocortex and close to the thalamus.
 ![Figure 5.1](figure5-1.png)
 - The BG is implicated in action selection or choosing between alternative courses of action.
 - The BG selects an action by inhibiting the corresponding output.
@@ -355,10 +355,10 @@ excerpt: "An introduction to a biologically plausible model of the brain."
     - Multiplication
     - Dot product
     - Superposition
-- Attention: routing information flexibly through the brain.
+- *Attention*: routing information flexibly through the brain.
 - Two main functions of visuo-spatial attention
-    - Selection: identifying the appropriate targets of the system given current task demands.
-    - Routing: when a target is selected, how a system can take the selected information and direct additional resources towards it.
+    - *Selection*: identifying the appropriate targets of the system given current task demands.
+    - *Routing*: when a target is selected, how a system can take the selected information and direct additional resources towards it.
 - One way of implementing a control signal for the flow of information is through the use of inhibitory neurons and hierarchy.
 - Neurons at the top of the hierarchy send a signal down that blocks neurons from sending information, acting as a gate.
 - The control neurons determine which lower-level neurons are allowed to project their information to the higher-level neurons.
@@ -389,16 +389,16 @@ excerpt: "An introduction to a biologically plausible model of the brain."
     - Procedural
     - Implicit
 - The timescales used to identify different kinds of memory seem to use more than one neural mechanism.
-- Serial working memory: the ability to store and recall items in order.
+- *Serial working memory*: the ability to store and recall items in order.
 - E.g. A phone number such as 432-234-7654.
 - Two properties of serial working memory have been observed
-    - Primacy: that items appearing earlier in the list have a greater chance of being accurately recalled.
-    - Recency: that items recently presented have a greater chance of being accurately recalled.
+    - *Primacy*: that items appearing earlier in the list have a greater chance of being accurately recalled.
+    - *Recency*: that items recently presented have a greater chance of being accurately recalled.
 - Both primacy and recency together account for a U-shaped response probability curve seen in serial working memory tasks.
 ![Figure 6.1](figure6-1.png)
 - Interestingly, the same U-shape curve is seen in free recall tasks, tasks without ordering, so it seems likely that both tasks use the same underlying mechanism for memory.
 - So serial working memory is more fundamental when considering human cognition because it can account for both serial and non-serial data.
-- Ordinal serial encoding (OSE): a model of serial working memory in SPA.
+- *Ordinal serial encoding (OSE)*: a model of serial working memory in SPA.
 ![Figure 6.2](figure6-2.png)
 - The OSE memorizes semantic pointers by binding the item vector to a position vector and adding it to the overall representation store.
 - Overall, the OSE don’t use any new idea but rather combines the concepts of SPA to create the function of memory.
@@ -412,16 +412,16 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 ![Figure 6.7](figure6-7.png)
 - It’s difficult to specify what counts as a “biologically plausible” learning rule because there are many mechanisms of synaptic modifications in the brain.
 - Introduction of Hebb rule and STDP but both depend on information that’s directly available to the cell whose weight is changed.
-- Homeostatic, prescribed error sensitivity (hPES): a learning rule developed for SPA.
+- *Homeostatic, prescribed error sensitivity (hPES)*: a learning rule developed for SPA.
 - How is binding (circular convolution) learnt?
 - Binding can be learnt using the hPES but the time increases as the dimensionality of the semantic pointer increases. It’s an open question but not biologically implausible since it also takes humans a long time to develop certain cognitive functions.
 - The hPES is also able to model reinforcement learning and fits both behavioral and neural data for a specific task.
 - In the Wason card selection task, structurally identical tasks with different contents lead to different performance.
 - E.g. Abstract version with vowels verses underage drinking version.
-- Social contract theory (SCT): a theory proposed to explain the underage drinking version of Wason’s card selection task. The theory proposes that natural selection has produced special-purpose, domain-specific mental algorithms for solving important, recurring, adaptive problems.
-- Pragmatic reasoning schemas (PRS): an alternative theory to SCT that says the source of the rules is induced through experience while SCT says the source is genetic.
+- *Social contract theory (SCT)*: a theory proposed to explain the underage drinking version of Wason’s card selection task. The theory proposes that natural selection has produced special-purpose, domain-specific mental algorithms for solving important, recurring, adaptive problems.
+- *Pragmatic reasoning schemas (PRS)*: an alternative theory to SCT that says the source of the rules is induced through experience while SCT says the source is genetic.
 ![Figure 6.16](figure6-16.png)
-- Ventromedial Prefrontal Cortex (VMPFC): the bottom area of the prefrontal cortex.
+- *Ventromedial Prefrontal Cortex (VMPFC)*: the bottom area of the prefrontal cortex.
 - Interestingly, this model predicts that the VMPFC is where the difference between the abstract and content facilitated version is determined.
 - This contrasts with SCT because this doesn’t mean that there’s an evolutionary distinct reasoning mechanism, this means that the same reasoning mechanism is used but with different parameters/contexts.
 
@@ -429,7 +429,7 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 
 - This chapter tackles the unification of the previous parts of SPA and combines them into a single model.
 ![Figure 7.1](figure7-1.png)
-- SPA Unified Network (Spaun): a unified model of different SPA modules that is designed to solve eight different tasks in a limited domain.
+- *SPA Unified Network (Spaun)*: a unified model of different SPA modules that is designed to solve eight different tasks in a limited domain.
 - The input domain consists of numbers zero to nine plus some additional task-control symbols.
 - The output domain consists of a two-jointed arm that Spaun can use to draw its response.
 ![Figure 7.3](figure7-3.png)
