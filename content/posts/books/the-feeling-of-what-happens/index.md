@@ -16,14 +16,14 @@ excerpt: "An amazing and scientific account of consciousness."
 - How does a person come to know what they're feeling?
 - There must be a sense of self. A notion of identity.
 - Three levels of knowing
-  - An emotion.
-  - The feeling of that emotion.
-  - Knowing that we have a feeling of that emotion.
+    - An emotion.
+    - The feeling of that emotion.
+    - Knowing that we have a feeling of that emotion.
 - The two problems of consciousness
-  - How we get a "movie-in-the-brain".
-  - How the brain creates a sense of self in parallel with experiencing.
-  - How the "movie-in-the-brain" is generated.
-  - How the brain also generates the sense that there is an owner and observer for that movie.
+    - How we get a "movie-in-the-brain".
+    - How the brain creates a sense of self in parallel with experiencing.
+    - How the "movie-in-the-brain" is generated.
+    - How the brain also generates the sense that there is an owner and observer for that movie.
 - The sense of self in the act of knowing.
 - The second problem is nested in the first problem as the brain generates the appearance of an owner and observer for the movie within the movie.
 - Mind, behavior, and brain are closely correlated.
@@ -31,17 +31,17 @@ excerpt: "An amazing and scientific account of consciousness."
 - E.g. I sometimes feel conscious when I’m dreaming and vice versa, some people are awake but aren’t conscious.
 - Consciousness and emotion aren't separable.
 - Two types of consciousness
-  - Core consciousness (CC): a sense of self in the moment of now.
-  - Extended consciousness (EC): an elaborate sense of self that takes into account the past and future.
+    - Core consciousness (CC): a sense of self in the moment of now.
+    - Extended consciousness (EC): an elaborate sense of self that takes into account the past and future.
 - CC isn't exclusive to humans and is stable across a lifetime.
 - EC has several levels of organization and attains its highest peak in humans.
 - EC depends on CC but not the other way around as EC can be impaired without affecting CC.
 - There are two key players in consciousness
-  - The organism
-  - The object
+    - The organism
+    - The object
 - Consciousness consists of constructing knowledge about two facts
-  - The organism is involved in relating to some object.
-  - The object in the relation causes a change in the organism.
+    - The organism is involved in relating to some object.
+    - The object in the relation causes a change in the organism.
 - The biology of consciousness is about discovering how the brain maps both players and the relationships they hold.
 - A representation is the same as an object proxy.
 - A quick experiment is to turn around and focus on an object behind you and then return to these notes.
@@ -75,9 +75,9 @@ excerpt: "An amazing and scientific account of consciousness."
 - E.g. We might recognize at some point that we're scared but the feeling of being scared didn't start when we noticed it. It started before we became aware of it.
 - It's the same distinction between knowing that a person is feeling something without actually feeling it.
 - Three stages of processing
-  - State of emotion: triggered and executed nonconsciously.
-  - State of feeling: represented nonconsciously.
-  - State of feeling made conscious: known to the organism having both emotion and feeling.
+    - State of emotion: triggered and executed nonconsciously.
+    - State of feeling: represented nonconsciously.
+    - State of feeling made conscious: known to the organism having both emotion and feeling.
 - Homeostasis: the coordinated and mostly automated physiological reactions by the body to maintain a steady internal state in living organisms.
 - View emotions as an embodiment of the logic of survival due to how they shape our risk assessment and decision making.
 - The brain knows more than the conscious mind reveals.
@@ -88,8 +88,8 @@ excerpt: "An amazing and scientific account of consciousness."
 - Background emotion: nontraditional emotions that display themselves through subtle body positions, speed of movement, and movement of eyes.
 - Evidence suggests that emotional responses are a result of a long history of evolutionary fine-tuning.
 - There are two biological functions of emotion
-  - The production of a specific reaction to a situation.
-  - The regulation of the internal state of the organism so that it can be prepared for the specific reaction.
+    - The production of a specific reaction to a situation.
+    - The regulation of the internal state of the organism so that it can be prepared for the specific reaction.
 - E.g. Increasing the heart rate when scared in anticipation of running or fighting.
 - Emotions lie between automatic homeostatic processes like pH balance and higher level reasoning.
 - Emotions are relevant to the study of consciousness because they provide organisms with automatic, survival-oriented behaviors.
@@ -131,18 +131,18 @@ excerpt: "An amazing and scientific account of consciousness."
 - Emotion and CC tend to go together.
 - What about being drunk?
 - Alzheimer's disease is often described without mentioning this symptom.
-  - That the decline first affects EC by narrowing its scope progressively until all semblance of autobiographical self disappears.
+    - That the decline first affects EC by narrowing its scope progressively until all semblance of autobiographical self disappears.
 - Neurological diseases act like a scalpel by separating mental functions.
 - Facts we've learnt from Alzheimer's
-  - There's a separation between wakefulness, low-level attention and behaviors with emotions.
-  - The defect of knowing and self goes hand in hand with defects in planning, high-level attention, and sustained behaviors.
+    - There's a separation between wakefulness, low-level attention and behaviors with emotions.
+    - The defect of knowing and self goes hand in hand with defects in planning, high-level attention, and sustained behaviors.
 - Classification of disruptions in CC
-  - Disrupted CC with preserved wakefulness and preserved minimal attention/behavior.
-  - E.g. Akinetic mutisms and epileptic automatisms.
-  - Disrupted CC with preserved wakefulness but without preserved minimal attention/behavior.
-  - E.g. Absence seizures and persistent vegetative state.
-  - Disrupted CC without wakefulness.
-  - E.g Coma.
+    - Disrupted CC with preserved wakefulness and preserved minimal attention/behavior.
+    - E.g. Akinetic mutisms and epileptic automatisms.
+    - Disrupted CC with preserved wakefulness but without preserved minimal attention/behavior.
+    - E.g. Absence seizures and persistent vegetative state.
+    - Disrupted CC without wakefulness.
+    - E.g Coma.
 - The difference between vegetative state and coma is that vegetative people have sleep/wake cycles.
 - Nearly all sites of brain damage associated with significant disruption of CC share one important trait, that they are located near the brain's midline.
 - This seems related to cutting the corpus callosum and how split-brain patients are created.
@@ -161,15 +161,15 @@ excerpt: "An amazing and scientific account of consciousness."
 ![Figure 4.2](figure4-2.png)
 - High-level awareness of social situations is built on a vast knowledge of specific social situations.
 - The case of David supports two results
-  - That factual knowledge at a unique and specific level isn't a prerequisite for CC.
-  - CC doesn't depend on the brains regions that are damaged in David such as both temporal lobes.
+    - That factual knowledge at a unique and specific level isn't a prerequisite for CC.
+    - CC doesn't depend on the brains regions that are damaged in David such as both temporal lobes.
 - Preliminary facts about consciousness
-  - Consciousness isn't a monolith. There are two types of consciousness: core and extended. When CC fails, EC also fails.
-  - We can separate consciousness from functions such as wakefulness and low-level attention, memory, language, and reasoning
-  - EC depends on working memory but CC doesn't.
-  - CC isn't equal to manipulating an image intelligently.
-  - Emotion and CC are associated suggesting they depend on the same neural devices.
-  - Disturbances of CC target the entire realm of mental activity as well as all of the sensory modalities.
+    - Consciousness isn't a monolith. There are two types of consciousness: core and extended. When CC fails, EC also fails.
+    - We can separate consciousness from functions such as wakefulness and low-level attention, memory, language, and reasoning
+    - EC depends on working memory but CC doesn't.
+    - CC isn't equal to manipulating an image intelligently.
+    - Emotion and CC are associated suggesting they depend on the same neural devices.
+    - Disturbances of CC target the entire realm of mental activity as well as all of the sensory modalities.
 - CC is the very evidence, the unvarnished sense, of our individual organism in the act of knowing.
 - It takes time for the brain and consciousness to establish the link between the image of an object and its possession by you.
 - The time delay is about 500 milliseconds.
@@ -180,12 +180,12 @@ excerpt: "An amazing and scientific account of consciousness."
 ## Chapter 5: The Organism and the Object
 
 - We can better understand consciousness of we put it in terms of
-  - The organism
-  - The object
-  - The relationship between the two
+    - The organism
+    - The object
+    - The relationship between the two
 - Consciousness constructs knowledge about two facts
-  - That the organism is involved in relating to some object.
-  - That the object in the relation is causing a change in the organism.
+    - That the organism is involved in relating to some object.
+    - That the object in the relation is causing a change in the organism.
 - CC and EC share the property of stability.
 - We don't mean that the self doesn't change but rather it must possess a degree of structural invariance so that the self can be referred back to over long periods of time.
 - This is similar to the idea of personality or consistent behavioral traits.
@@ -199,9 +199,9 @@ excerpt: "An amazing and scientific account of consciousness."
 - Humans are keenly aware of this urge thanks to consciousness.
 - Homeostasis: the coordinated physiological reactions which maintain most of the steady states of the body and which are so peculiar to the living organism.
 - The description of a single cell parallels the the description of the brain.
-  - To sense chemical imbalance is like perception.
-  - To know how to fix the imbalance is like memory.
-  - To perform a preemptive or corrective action is like skills.
+    - To sense chemical imbalance is like perception.
+    - To know how to fix the imbalance is like memory.
+    - To perform a preemptive or corrective action is like skills.
 - Brains permit the life urge to be regulated ever so effectively and, at some point in evolution, knowingly.
 - The management of life is dependent upon the complex of the environment that it's in.
 - E.g. More complex environments require more rules to be memorized and more skills to be developed such as planning and reasoning to exploit the environment. Science can be thought like that.
@@ -218,9 +218,9 @@ excerpt: "An amazing and scientific account of consciousness."
 - The memories we hold include the motor adjustments we made to obtain those memories and also include the emotional reactions we had then.
 - They are all co-registered in memory.
 - The three divisions of the somatosensory system
-  - Internal milieu and visceral
-  - Vestibular and musculoskeletal
-  - Fine-touch
+    - Internal milieu and visceral
+    - Vestibular and musculoskeletal
+    - Fine-touch
 - All three divisions can collaborate or work independently.
 - The first division is permanently active and the brain always knows about its status.
 - The brain is truly the body's captive audience.
@@ -230,22 +230,22 @@ excerpt: "An amazing and scientific account of consciousness."
 - The protoself isn't to be confused with consciousness as we aren't conscious of the protoself.
 - The protoself isn't located in any brain region but is rather a product of the interactions among a set of regions.
 - Brain structures required to implement the protoself
-  - Brain-stem nuclei
-  - Hypothalamus
-  - Basal forebrain
-  - Insular cortex, S2, medial parietal cortices
+    - Brain-stem nuclei
+    - Hypothalamus
+    - Basal forebrain
+    - Insular cortex, S2, medial parietal cortices
 - We know that the same region supports image making for both perception and for recall.
 - When we recall an object, we recall not just sensory characteristics of the object but the past reactions of the organism to that object.
 - Agnosia is the condition that provides us evidence of the "something-to-be-known" region of the brain.
 - Agnosia prevents patients from connecting an object with its meaning.
 - Emily case study
-  - Facial Agnosia meaning she can't identify faces, even her own.
-  - But she can identify herself in other modalities such as speech.
-  - She can still tell the emotion of a face and its features such as age.
-  - She has fully functional CC as demonstrated by sustained attention, planning, wakefulness, and emotions.
-  - She's conscious of what she doesn't know.
-  - Face agnosia isn't a problem of consciousness but of memory.
-  - Emily can't remember any knowledge useful to recognize her close friend.
+    - Facial Agnosia meaning she can't identify faces, even her own.
+    - But she can identify herself in other modalities such as speech.
+    - She can still tell the emotion of a face and its features such as age.
+    - She has fully functional CC as demonstrated by sustained attention, planning, wakefulness, and emotions.
+    - She's conscious of what she doesn't know.
+    - Face agnosia isn't a problem of consciousness but of memory.
+    - Emily can't remember any knowledge useful to recognize her close friend.
 - It's precisely because normal CC is present that the recognition void comes to be known and acknowledged.
 - The fusiform gyrus was damaged in Emily which is also known as the face recognition region.
 - While the region processes faces, the process that generates the sense of knowing that face and that drives attention to the pattern is occurring elsewhere, in other components of the system.
@@ -269,14 +269,14 @@ excerpt: "An amazing and scientific account of consciousness."
 - E.g. In patients with epileptic automatism, they can't access their autobiographical memory yet the memories aren't destroyed. This suggests that the autobiographical self depends on CC to come alive.
 - The second-order neural pattern is implemented in more than one brain region.
 - Requirements for a second-order region
-  - Must receive signals from whole-organism maps and object-maps.
-  - Must be able to exert influence on first-order maps so that enhancement and coherence of object images can occur.
+    - Must receive signals from whole-organism maps and object-maps.
+    - Must be able to exert influence on first-order maps so that enhancement and coherence of object images can occur.
 ![Figure 6.2](figure6-2.png)
 - Contenders for second-order structures
-  - Superior colliculi
-  - Cingulate cortex
-  - Thalamus
-  - Some prefrontal areas
+    - Superior colliculi
+    - Cingulate cortex
+    - Thalamus
+    - Some prefrontal areas
 - All of thee contenders play some role in consciousness but none of them act alone.
 - The notion of interaction among such structures is critical to the hypothesis.
 - Consciousness results in enhanced wakefulness and focused attention.
@@ -299,11 +299,11 @@ excerpt: "An amazing and scientific account of consciousness."
 - EC goes beyond the limits of CC into the lived past and anticipated future.
 - The secret of EC is that it treats autobiographical memories as objects and allows each of them to generate a pulse of CC.
 - EC is a consequence of two enabling contributions
-  - The ability to learn.
-  - The ability to reactivate those records to generate a sense of self knowing.
+    - The ability to learn.
+    - The ability to reactivate those records to generate a sense of self knowing.
 - Specifically
-  - The build up of autobiographical memories that can be treated as objects.
-  - The holding active, simultaneously and for a substantial amount of time, the many images of the autobiographical self.
+    - The build up of autobiographical memories that can be treated as objects.
+    - The holding active, simultaneously and for a substantial amount of time, the many images of the autobiographical self.
 - EC (EC) is the capacity to be aware of a large compass of entities and events greater than CC.
 - Thus EC only occurs in organisms with substantial memory capacity and reasoning ability but doesn't require language.
 - EC isn't the same as intelligence as EC is making the organism aware of the largest possible compass of knowledge while intelligence is the ability to manipulate knowledge so that new responses can be planned and executed.
@@ -324,10 +324,10 @@ excerpt: "An amazing and scientific account of consciousness."
 - E.g. A stroke victim being entirely paralyzed on their left side and not knowing.
 - Anosognosia occurs only with right hemisphere damage at a very specific region.
 - The specific regions are
-  - Right hemisphere
-  - Cortices in the insula
-  - Cytoarchitectonic areas 3, 1, 2
-  - Area S2
+    - Right hemisphere
+    - Cortices in the insula
+    - Cytoarchitectonic areas 3, 1, 2
+    - Area S2
 - Anosognosia results from an inability to represent current body states automatically and through the appropriate signaling channels.
 - However, this doesn't explain why patients deny their condition when told so and when they can see it themselves.
 - The hypothesis is that the damage removes the highest level of integrated representation of the organism which means the protoself no longer has access to it.
@@ -337,9 +337,9 @@ excerpt: "An amazing and scientific account of consciousness."
 - There are plenty of brain regions that aren't concerned with making CC.
 - The notion of two keeps appearing in the study of brains and minds. Two types of consciousness, two hemispheres, two systems.
 - Framework for the relation between mental images and the brain
-  - Image space: the space where images from all modalities occur.
-  - Dispositional space: a space where dispositional memories are contained.
-  - Convergence zones: dispositions that are held in neuron ensembles.
+    - Image space: the space where images from all modalities occur.
+    - Dispositional space: a space where dispositional memories are contained.
+    - Convergence zones: dispositions that are held in neuron ensembles.
 - The brain forms memories in a highly distributed manner. Reminds me of sparse representations.
 - The author proposes that the same system is used for storing our personal memories; our autobiographical memories.
 - The autobiographical self is a process of coordinated activation and display of personal memories based on a multi-site network.
@@ -349,26 +349,26 @@ excerpt: "An amazing and scientific account of consciousness."
 - People with multiple personalities are evidence when the brain mechanisms that shut down other identities is broken.
 - We aren't conscious of which memories we store, how we classify them, and how to control the strength of memories.
 - Out of the remarkable abilities granted by EC, two abilities stand out
-  - The ability to override the survival instinct.
-  - The ability to search for truth and build theories for behaviors and facts.
+    - The ability to override the survival instinct.
+    - The ability to search for truth and build theories for behaviors and facts.
 - The consciousness chain
-  - Neural signaling
-  - Protoself
-  - Core self
-  - CC
-  - Autobiographical self
-  - EC
-  - Conscience
+    - Neural signaling
+    - Protoself
+    - Core self
+    - CC
+    - Autobiographical self
+    - EC
+    - Conscience
 - Intriguingly, human history of the study of consciousness starts from the bottom and has been slowly working towards the top.
 
 ## Chapter 8: The Neurology of Consciousness
 
 - From all of the previous chapters, we can summarize statements about neuroanatomy that should be true.
-  1. Bilateral damage to maps of somatosensory information, which forms the neural basis for the protoself, should disrupt consciousness.
-  2. Bilateral damage to structures guessed to participate in second-order map construction should disrupt CC.
-  3. Bilateral damage to temporal cortices such as IT shouldn't impair CC but should impair autobiographical memories which impairs EC.
-  4. Bilateral damage to the hippocampus shouldn't impair CC but should impair the future development of EC.
-  5. Bilateral damage to early sensory cortices shouldn't impair CC.
+    1. Bilateral damage to maps of somatosensory information, which forms the neural basis for the protoself, should disrupt consciousness.
+    2. Bilateral damage to structures guessed to participate in second-order map construction should disrupt CC.
+    3. Bilateral damage to temporal cortices such as IT shouldn't impair CC but should impair autobiographical memories which impairs EC.
+    4. Bilateral damage to the hippocampus shouldn't impair CC but should impair the future development of EC.
+    5. Bilateral damage to early sensory cortices shouldn't impair CC.
 - Coma is caused by damage to a small part of the brain stem.
 - Locked-in syndrome: when a patient cannot move anything but their eyes and to blink.
 ![Figure 8.2](figure8-2.png)
@@ -386,13 +386,13 @@ excerpt: "An amazing and scientific account of consciousness."
 - A condition known as hindsight is when a patient is cortically blind and can't consciously see but can still recognize objects when asked to point to them.
 - This suggests that the information is not available to consciousness but it does exist in the brain.
 - Provisional conclusions
-  - Damage to brain regions suspected to support either the protoself or the second-order account of the organism-object relationship disrupts CC and EC.
-  - The regions that support either the protoself or the second-order maps have special anatomical characteristics
-    - They are older structures
-    - They are located near the midline
-    - None are located on the external surface of the cerebral cortex
-    - All are involved in some aspect of body regulation or representation
-  - Protoself and second-order structures are a general resource and damage to them causes general disruption.
+    - Damage to brain regions suspected to support either the protoself or the second-order account of the organism-object relationship disrupts CC and EC.
+    - The regions that support either the protoself or the second-order maps have special anatomical characteristics
+        - They are older structures
+        - They are located near the midline
+        - None are located on the external surface of the cerebral cortex
+        - All are involved in some aspect of body regulation or representation
+    - Protoself and second-order structures are a general resource and damage to them causes general disruption.
 - Consciousness doesn't emerge from a single structure but from the interaction of multiple structures.
 - Given how consciousness is rooted in ancient brain structures, then where does the human advantage lie?
 - It lies in our memory, autobiographical memory, fact memory, and working memory.
@@ -406,14 +406,14 @@ excerpt: "An amazing and scientific account of consciousness."
 - E.g of emotion induction sites include the hypothalamus, brain stem, basal forebrain, amygdala, and ventromedial prefrontal cortices.
 - E.g. of second-order structures include the thalamus and cingulate cortices.
 - The steps of feeling a feeling
-  1. Engagement of the organism by an induce of emotion.
-  2. Signals from processing the object activate neural sites that respond, the emotion-induction sites.
-  3. The emotion-induction sites trigger a cascade of responses from other brain sites that constitute emotion.
-  4. First-order neural maps represent the changes in body state, regardless of if they were achieved by "body loop" or "internal stimulation". Feelings emerge.
-  5. The pattern of neural activity at the emotion-induction sites are mapped to second order structures and so are the changes to the protoself.
+    1. Engagement of the organism by an induce of emotion.
+    2. Signals from processing the object activate neural sites that respond, the emotion-induction sites.
+    3. The emotion-induction sites trigger a cascade of responses from other brain sites that constitute emotion.
+    4. First-order neural maps represent the changes in body state, regardless of if they were achieved by "body loop" or "internal stimulation". Feelings emerge.
+    5. The pattern of neural activity at the emotion-induction sites are mapped to second order structures and so are the changes to the protoself.
 - Arguments
-  - Emotion precedes feeling.
-  - Having a feeling isn't the same as knowing a feeling.
+    - Emotion precedes feeling.
+    - Having a feeling isn't the same as knowing a feeling.
 - Maybe consciousness started as an organism needed to know how it felt but then got extended to all sensory events.
 - Maybe knowing that it feels was an evolutionary advantage.
 - As if versus as is.

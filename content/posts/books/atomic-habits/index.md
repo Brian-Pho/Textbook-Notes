@@ -23,13 +23,13 @@ excerpt: "How to build good habits and to break bad habits."
 - You should be more concerned about your current trajectory, not your current results.
 - Habits are a double-edged sword as they can compound for you or against you.
 - Examples of positive compounding
-  - Productivity
-  - Knowledge
-  - Relationships
+    - Productivity
+    - Knowledge
+    - Relationships
 - Examples of negative compounding
-  - Stress
-  - Negative thoughts
-  - Outrage
+    - Stress
+    - Negative thoughts
+    - Outrage
 - Habits appear to make no difference until you pass a critical threshold.
 - You have to persist long enough to get through the plateau of latent potential.
 - Progress isn't linear but exponential.
@@ -38,23 +38,23 @@ excerpt: "How to build good habits and to break bad habits."
 - If you completely ignored your goals and only focused on your systems, would you still succeed?
 - Goals are good for setting direction, systems are good for making progress.
 - Problems with goals
-  - Winners and loses have the same goal. Goals suffer from survivorship bias.
-  - Achieving a goal is only a momentary change. Fix the inputs and the outputs will fix themselves.
-  - Goals restrict your happiness. Fall in love with the process, not the product.
-  - Goals are at odds with long-term progress. Commitment to the process will determine your progress.
+    - Winners and loses have the same goal. Goals suffer from survivorship bias.
+    - Achieving a goal is only a momentary change. Fix the inputs and the outputs will fix themselves.
+    - Goals restrict your happiness. Fall in love with the process, not the product.
+    - Goals are at odds with long-term progress. Commitment to the process will determine your progress.
 - You don't rise to the level of your goals. You fall to the level of your systems.
 - Like how atoms are the building blocks of molecules, atomic habits are the building blocks of remarkable results.
 
 ## Chapter 2: How Your Habits Shape Your Identity (and Vice Versa)
 
 - Changing our habits is hard for two reasons
-  1. We try to change the wrong thing.
-  2. We try to change our habits the wrong way.
+    1. We try to change the wrong thing.
+    2. We try to change our habits the wrong way.
 - This chapter focuses on the first reason.
 - Three levels of change
-  - *Outcomes (outer)*: changing results
-  - *Processes (middle)*: changing habits and systems
-  - *Identity (inner)*: changing beliefs
+    - *Outcomes (outer)*: changing results
+    - *Processes (middle)*: changing habits and systems
+    - *Identity (inner)*: changing beliefs
 - Outcomes are what you get, processes are about what you do, and identity is about what you believe.
 - The problem with building habits is the direction of change.
 - Outcome-based habits: outcomes -> processes -> identity. The focus is on what you want to achieve.
@@ -68,8 +68,8 @@ excerpt: "How to build good habits and to break bad habits."
 - The process of building habits is the process of becoming yourself.
 - Every action you take is a vote for the type of person you wish to become.
 - Two step process on changing your identity
-  - Decide the type of person you want to be
-  - Prove it to yourself through small, repeated wins
+    - Decide the type of person you want to be
+    - Prove it to yourself through small, repeated wins
 - Habits matter not because they can get you results, but because they can get you to become who you want to be.
 
 ## Chapter 3: How to Build Better Habits in 4 Simple Steps
@@ -86,10 +86,10 @@ excerpt: "How to build good habits and to break bad habits."
 - The ultimate purpose of habits is to solve the problems of life with as little energy and effort as possible.
 - Habits create freedom by freeing up mental energy for thinking and creativity.
 - Four stages of building habits
-  1. Cue
-  2. Craving
-  3. Response
-  4. Reward
+    1. Cue
+    2. Craving
+    3. Response
+    4. Reward
 - The cue triggers the brain to initiate behavior.
 - The craving is the change in state that we desire.
 - The response is the actual habit.
@@ -97,16 +97,16 @@ excerpt: "How to build good habits and to break bad habits."
 - If any of the four steps fail, then the habit isn't created.
 - The four stages form a feedback loop known as the habit loop.
 - The Four Laws of Behavior Change
-  - How to create a good habit
-    - Make it obvious.
-    - Make it attractive.
-    - Make it easy.
-    - Make it satisfying.
-  - How to break a bad habit
-    - Make it invisible.
-    - Make it unattractive.
-    - Make it difficult.
-    - Make it unsatisfying.
+    - How to create a good habit
+        - Make it obvious.
+        - Make it attractive.
+        - Make it easy.
+        - Make it satisfying.
+    - How to break a bad habit
+        - Make it invisible.
+        - Make it unattractive.
+        - Make it difficult.
+        - Make it unsatisfying.
 
 # The 1st Law
 
@@ -293,9 +293,9 @@ excerpt: "How to build good habits and to break bad habits."
 - The most effective form of motivation is progress.
 - However, habit tracking is difficult because it forces you into two habits.
 - Tips to make tracking easier
-  - Automate it
-  - Track only important habits
-  - Record each measurement immediately after the habit occurs
+    - Automate it
+    - Track only important habits
+    - Record each measurement immediately after the habit occurs
 - "After [CURRENT HABIT], I will [TRACK MY HABIT]."
 - Don't break the chain. Try to keep your habit streak alive.
 - How to recover when your habits break down: never miss twice.
@@ -332,10 +332,10 @@ excerpt: "How to build good habits and to break bad habits."
 - Initially explore and then exploit the solutions you've found.
 - But don't stop exploring when you've found a field, just reduce the time spent exploring.
 - Questions to narrow down the field
-  - What feels like fun to me, but work to others.
-  - What makes me lose track of time.
-  - Where do I get greater returns than the average person.
-  - What comes naturally to me.
+    - What feels like fun to me, but work to others.
+    - What makes me lose track of time.
+    - Where do I get greater returns than the average person.
+    - What comes naturally to me.
 - Don't forget the role of luck. Of being in the right place at the right time with the right skills and right people.
 - When you can't win by being better, you can win by being different.
 - Play a game that favors your strengths. If no game exists, then create one.

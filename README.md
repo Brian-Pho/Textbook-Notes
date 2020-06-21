@@ -17,9 +17,8 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 - [ ] Clean up notes
 - [ ] Clean up grammar and spelling
 - [ ] Run notes through Grammarly
-- [ ] Add comments to codebase
 - [ ] Convert LaTeX course notes into Markdown using [Pandoc](https://pandoc.org/getting-started.html)
-- [ ] Fix three-depth bullet points (The Book of Why)
+- [ ] Add review section to all textbooks
 
 ## Favicon Generator
 
@@ -37,7 +36,7 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 ## Other Resources
 
 - <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
-- <https://github.com/DavidAnson/markdownlint/blob/v0.10.0/doc/Rules.md>
+- <https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md>
 - <https://github.github.com/gfm/>
 - <https://www.gatsbyjs.org/docs/gatsby-cli/>
 
@@ -45,15 +44,16 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 
 ### Style Guide
 
+- Parts use h1 (\#), chapters use h2 (\#\#), subsections use h3 (\#\#\#)
+- If a part/chapter/subsection has a subtitle, use italics (\*subtitle goes here\*)
 - Definitions are in italics, don't italicize the colon, end with a period.
 - E.g. *Algorithm*: a series of steps that completes a goal.
-
 - End bullet points with periods unless they have sub-bullet points.
 - E.g.
 - This sentence has no sub-bullets so it ends with a period.
 - This sentence has sub-bullets so it doesn't end with a period
-  - No period here
-  - Except when the inner points are full sentences or long.
+    - No period here
+    - Except when the inner points are full sentences or long.
 - No newline breaks except between sections within a chapter.
 - No colon “:” before nested list.
 - Parts are in roman numerals.
@@ -74,4 +74,4 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 10. Review and fix errors.
 
 - Replace "\. \n" with ".\n" and replace "\? \n" with "?\n" for notes written on mobile (it auto-adds space after period).
-- VS Code Replace "  - (.*[^*]):" with "  - *$1*:".
+- VS Code Replace "- (.*[^*]):" with "- *$1*:".

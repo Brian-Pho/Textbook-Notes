@@ -50,6 +50,7 @@
     "eslint": "^7.0.0",
     "eslint-plugin-react": "^7.20.0",
     "gh-pages": "^2.2.0",
+    "markdownlint": "^0.20.3",
     "prettier": "2.0.5",
     "typescript": "3.9.3"
   },

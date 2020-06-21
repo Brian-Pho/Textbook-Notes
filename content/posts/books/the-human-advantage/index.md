@@ -14,9 +14,9 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 - We are special because we hold the largest number of neurons in the cerebral cortex.
 - No other animal has as many neurons in the cerebral cortex as we do.
 - The human advantage lies in
-  - Being primates lets us economically scale neurons in a small volume.
-  - Cooking allows for a rapid increase in cortical neurons.
-  - Owning the largest number of neurons in the cerebral cortex.
+    - Being primates lets us economically scale neurons in a small volume.
+    - Cooking allows for a rapid increase in cortical neurons.
+    - Owning the largest number of neurons in the cerebral cortex.
 - The cerebral cortex is responsible for finding patterns, reasoning, developing technology, and more.
 - We're neither special nor extraordinary in terms of evolution, but we're remarkable in terms of our cognitive abilities.
 - Brain anatomy background
@@ -49,9 +49,9 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 - *Encephalization quotient (EQ)*: the ratio between the observed and predicted brain mass for an animal.
 - Humans have the highest EQ at seven compared to other primates with an EQ of two.
 - However, the problems with EQ are
-  - Since allometric relationships are done by curve fitting, there must be some data points above average and some below average.
-  - The circular assumption that EQ expressed intelligence wasn't founded on correlation with actual measures of cognition.
-  - The assumption that all brains are made the same way and have the same neuronal density.
+    - Since allometric relationships are done by curve fitting, there must be some data points above average and some below average.
+    - The circular assumption that EQ expressed intelligence wasn't founded on correlation with actual measures of cognition.
+    - The assumption that all brains are made the same way and have the same neuronal density.
 - The human brain is extraordinarily expensive in terms of energy.
 - E.g. 25% energy consumption for 2% body mass compared to a mouse's brain of 8% energy consumption for 1% body mass.
 - When human astrocytes were transplanted into a mouse brain, it learned faster.
@@ -103,9 +103,9 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 - Non-primates must have a mechanism that couples increases in the number of neurons in the cerebral cortex with increases in the average size of these neurons.
 - Interestingly, the mouse lemur sits at the intersection of primate and non-primate brains.
 - The implications of primate scaling
-  - Nature has more than one way to build a cortex.
-  - The cortex increases in volume by only as much as it gains neurons.
-  - Reduction in the increase of signal propagation time as the cortex gains neurons.
+    - Nature has more than one way to build a cortex.
+    - The cortex increases in volume by only as much as it gains neurons.
+    - Reduction in the increase of signal propagation time as the cortex gains neurons.
 - However, this raises a conundrum that even if the cortex gets bigger, it will take longer to transmit a signal yet the neurons remain the same.
 - The answer is that the average neuronal size stays the same which means that there's a trade-off.
 - When one neuron gets longer, another neuron must get shorter.
@@ -171,9 +171,9 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 - The number of neurons in the primate spinal cord seems to scale with body length.
 - Expecting the body-brain relationship that applies to non-primates to extend to primates is like expecting apples to be oranges on the inside.
 - The primate brain is unique compare to non-primate brains because of
-  - How many neurons fit in it
-  - How many neurons operate the body
-  - How many functions it performs
+    - How many neurons fit in it
+    - How many neurons operate the body
+    - How many functions it performs
 - Even though the average size of neurons in the rest of the brain is related to body mass, the number of neurons in the rest of the brain isn't.
 - However, this doesn't apply to the cerebral cortex nor the cerebellum.
 - Mosaic evolution applies to the brain.
@@ -206,8 +206,8 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 - *Biological constraint*: a constraint due to the limitation of the environment.
 - E.g. All life is DNA based, can’t get more sunlight than the Earth’s rotation and distance.
 - Two universal features of the brain's cellular composition
-  - The number of glia cells per unit of tissue mass.
-  - The relationship between glia/neuron ratio and the average size of neurons.
+    - The number of glia cells per unit of tissue mass.
+    - The relationship between glia/neuron ratio and the average size of neurons.
 - Glia cells are added in self-regulating numbers and only slightly variable cell size.
 - It's self-regulating because glia cells are added after neurons in development.
 - Depolarization is cost free as it's just like opening the gates of a dam.
@@ -227,11 +227,11 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 - *Sparse coding*: where only a small proportion of neurons fire at high frequencies at any moment.
 - Sparse coding may also be a direct consequence of the limited, size-invariant, fixed energy budget per neuron.
 - Maybe neurons get their properties due to this energy constraint
-  - *Synaptic homeostasis*: the adjustment in sensitivity of individual synapses in a neuron over time depending on their level of activity.
-    - Avoids runaway increases in excitatory synaptic activity and thus energy cost.
-  - *Synaptic plasticity*: the process of removing unused or nonfunctional synapses as new ones are added or strengthened.
-    - Keeps the total number of excitatory synapses and their energy cost in check.
-    - Trades synapses in one place for another. Like a zero-sum game.
+    - *Synaptic homeostasis*: the adjustment in sensitivity of individual synapses in a neuron over time depending on their level of activity.
+        - Avoids runaway increases in excitatory synaptic activity and thus energy cost.
+    - *Synaptic plasticity*: the process of removing unused or nonfunctional synapses as new ones are added or strengthened.
+        - Keeps the total number of excitatory synapses and their energy cost in check.
+        - Trades synapses in one place for another. Like a zero-sum game.
 - The human brain requires so much energy because it has a lot of neurons.
 - The human brain uses 25% of our total energy because we have more brain neurons per body mass.
 ![Figure 9.12](figure9-12.png)
@@ -256,10 +256,10 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 - Given that we shouldn't be viable, how did our ancestors manage to afford the increasing numbers of neurons?
 ![Figure 11.1](figure11-1.png)
 - There are four ways to deal with the energy constraint
-  - Decrease the size of the body
-  - Decrease the energy cost of the brain
-  - Get more energy by spending more time feeding
-  - Get more energy out of the food
+    - Decrease the size of the body
+    - Decrease the energy cost of the brain
+    - Get more energy by spending more time feeding
+    - Get more energy out of the food
 - It can't be one because our ancestors had smaller bodies than us.
 - It can't be two or three as we have the same neurons primates do and we don't spend 9.5 hours feeding and foraging.
 - So it must be four.
@@ -273,8 +273,8 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 - *Cooking hypothesis*: that the invention of cooking by our ancestors resulted in food that offered the large caloric intake that allows our brain to grow.
 - We never diverged from the linear relationship that applies to primates; we just kept pushing it.
 - Other indications of how we ate more calories
-  - Drastic reduction in tooth and cranial bone mass
-  - Loss of facial muscles for chewing
+    - Drastic reduction in tooth and cranial bone mass
+    - Loss of facial muscles for chewing
 - Cooking turns food smaller, softer, and more chewable.
 - Cooking yields 100% of the food’s caloric content compared to 33% when eaten raw.
 - Cooking increase the caloric yield while also decreasing the amount of time to obtain those calories. A double whammy benefit.
@@ -285,8 +285,8 @@ excerpt: "Questioning the basic assumptions of neuroscience and what makes us hu
 ## Chapter 12: … But Plenty of Neurons Aren’t Enough
 
 - If cooking is what made us who we are, then we still have these questions
-  - Why didn't the ancestors of modern great apes invent cooking as well?
-  - Couldn't a larger brain with more neurons have come first and that allowed our ancestors to invent cooking?
+    - Why didn't the ancestors of modern great apes invent cooking as well?
+    - Couldn't a larger brain with more neurons have come first and that allowed our ancestors to invent cooking?
 - Having enough neurons is a necessary condition for complex and flexible behaviors such as learning.
 - But it isn't a sufficient condition for behaviors to become more complex and flexible.
 - Having enough neurons endows a brain with the capabilities for complex cognition but turning those capabilities into actual abilities takes a long time.

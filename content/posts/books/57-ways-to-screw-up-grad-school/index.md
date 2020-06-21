@@ -10,9 +10,9 @@ excerpt: "How to do well in graduate school."
 ## Starting Out
 
 - Questions to ask yourself
-  - Why do you want to go to graduate school?
-  - What would you like to get out of the experience?
-  - What kinds of jobs can you get with your graduate degree?
+    - Why do you want to go to graduate school?
+    - What would you like to get out of the experience?
+    - What kinds of jobs can you get with your graduate degree?
 - Think in both the immediate term and the long term
 - Contact the graduate chairs of the programs you're interested in
 - It's preferable to not have all of your degrees at the same university
@@ -117,12 +117,12 @@ excerpt: "How to do well in graduate school."
 - Radical truth and radical openness
 - When in the graduate degree, reflect on your progress and your rate of progress to determine if you should continue
 - Red flags
-  - Not feeling motivated
-  - Being unable to write
-  - Missing deadlines
-  - Not keeping up with other students
-  - Avoiding your supervisor
-  - Failing to manage finances
+    - Not feeling motivated
+    - Being unable to write
+    - Missing deadlines
+    - Not keeping up with other students
+    - Avoiding your supervisor
+    - Failing to manage finances
 
 ## Final Thoughts
 

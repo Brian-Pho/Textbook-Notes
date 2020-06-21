@@ -39,9 +39,9 @@ excerpt: "An exploration of how good ideas are formed."
 - Ideas that jump passed closed doors are often short term failures.
 - E.g. Babbage's Analytical Engine. Right idea, wrong environment.
 - What kind of environment creates good ideas?
-  - Ones that help people explore their adjacent possible.
-  - Encouraging novel ways of using what we have.
-  - To push the adjacent possible. To advance. To explore.
+    - Ones that help people explore their adjacent possible.
+    - Encouraging novel ways of using what we have.
+    - To push the adjacent possible. To advance. To explore.
 - What tactics can we use to better explore the adjacent possible?
 - One tactic, the next pattern, is to have the adjacent possible expand itself.
 - E.g. Recursive self-improvement.
@@ -52,8 +52,8 @@ excerpt: "An exploration of how good ideas are formed."
 - There's a misconception that an idea is a single thing, it isn't, its a network.
 - Its a literal network in your brain, a new connection that's never formed before.
 - The network has two preconditions
-  - The sheer size of the network
-  - The network must be plastic and changeable
+    - The sheer size of the network
+    - The network must be plastic and changeable
 - To push the brain towards more creative networks, you have to place it into an environment that shares the same network signature.
 - Networks of ideas or people that mimic the neural networks of the mind exploring the boundaries of the adjacent possible.
 - The network in the brain is similar to a liquid, flexible enough to adapt but rigid enough to preserve.
@@ -78,9 +78,9 @@ excerpt: "An exploration of how good ideas are formed."
 - Sustaining the slow hunch is less a matter of perspiration than of cultivation.
 - Slow hunches mature slowly, in stealth and then fading into view.
 - Secrets of hunch cultivation
-  - Write it down because it won't last in memory.
-  - A system to capture the hunches, not categorize them.
-  - A space for slow hunches to grow.
+    - Write it down because it won't last in memory.
+    - A system to capture the hunches, not categorize them.
+    - A space for slow hunches to grow.
 
 ## Chapter 4: SERENDIPITY
 

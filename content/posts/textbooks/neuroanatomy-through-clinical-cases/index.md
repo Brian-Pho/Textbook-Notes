@@ -18,16 +18,16 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 
 - Textbook website: <http://neuroexam.com/>
 - History and Physical exam (H&P) format
-  - *Chief Complaint (CC)*: patient's age, sex, and presenting problem.
-  - *History of Present Illness (HPI)*: complete history of the current medical problem.
-  - *Past Medical History (PMH)*: prior medical problems not related to the HPI.
-  - *Review of Systems (ROS)*: a head-to-tow review of all medical systems.
-  - *Family History (FHx)*: all immediate relatives and familial illnesses.
-  - *Social and Environmental History (SocHx/EnvHx)*: patient's occupation, family situation, travel history, and habit.
-  - *Medications and Allergies*: all current medications and any general allergies.
-  - *Physical Exam*: examination of organs and vital signs.
-  - *Laboratory Data*: all diagnostic tests.
-  - *Assessment and Plan*: diagnosis and treatment.
+    - *Chief Complaint (CC)*: patient's age, sex, and presenting problem.
+    - *History of Present Illness (HPI)*: complete history of the current medical problem.
+    - *Past Medical History (PMH)*: prior medical problems not related to the HPI.
+    - *Review of Systems (ROS)*: a head-to-tow review of all medical systems.
+    - *Family History (FHx)*: all immediate relatives and familial illnesses.
+    - *Social and Environmental History (SocHx/EnvHx)*: patient's occupation, family situation, travel history, and habit.
+    - *Medications and Allergies*: all current medications and any general allergies.
+    - *Physical Exam*: examination of organs and vital signs.
+    - *Laboratory Data*: all diagnostic tests.
+    - *Assessment and Plan*: diagnosis and treatment.
 - *Differential diagnosis*: a list of alternative possible diagnoses.
 - The neurologic exam is part of the general physical exam.
 - The whole point of the H&P is to communicate.
@@ -35,9 +35,9 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 ## Chapter 2: Neuroanatomy Overview and Basic Definitions
 
 - The nervous system performs processing that's
-  - local and distributed,
-  - serial and parallel,
-  - hierarchical and global.
+    - local and distributed,
+    - serial and parallel,
+    - hierarchical and global.
 - Deciding to study neuroanatomy is like painting a large mural that you'll spend the rest of your life improving and refining.
 - While we're painting the details, we must not lose sight of the bigger picture.
 - The human nervous system can be divided into the central nervous system (CNS) and the peripheral nervous system (PNS).
@@ -48,8 +48,8 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 ![Figure 2.2](figure2-2.png)
 - The CNS is covered by three protective layers called meninges (pia, arachnoid, and dura).
 - There are two sets of orientation naming
-  - Ventral, dorsal, rostral, and caudal
-  - Anterior, posterior, superior, and inferior
+    - Ventral, dorsal, rostral, and caudal
+    - Anterior, posterior, superior, and inferior
 ![Figure 2.4](figure2-4.png)
 - The three anatomical planes are horizontal (cuts up/down), coronal (cuts front/back), and sagittal (cuts left/right).
 - Introduction to neurons, glia, axons, dendrites, synapses, APs, EPSPs, and IPSPs.
@@ -91,8 +91,8 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 - Lesions in the basal ganglia lead to hypo/hyperkinetic movement disorders where movements are either slow and rigid or dance-like, respectively.
 - Sensation from the body is conveyed by parallel pathways mediating different sensory modalities that travel to the central nervous system.
 - Two main pathways in the spinal cord for somatic sensation
-  - *Posterior column pathways*: convey proprioception, vibration, and fine touch.
-  - *Anterolateral pathways*: convey pain, temperature, and crude touch.
+    - *Posterior column pathways*: convey proprioception, vibration, and fine touch.
+    - *Anterolateral pathways*: convey pain, temperature, and crude touch.
 ![Figure 2.18](figure2-18.png)
 ![Figure 2.19](figure2-19.png)
 - Some aspects of touch are carried by both pathways. The main difference between the two pathways is where the primary sensory neuron synapses.
@@ -108,12 +108,12 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 ![Figure 2.22](figure2-22.png)
 - All signals passing between the cerebral hemispheres and the spinal cord must pass through the brainstem. So, lesions in the brainstem can have devastating effects.
 - Other functions of the brainstem
-  - Nausea and vomiting
-  - Neurotransmitter modulation
-  - Pain modulation
-  - Heart rate
-  - Respiration
-  - Level of Consciousness
+    - Nausea and vomiting
+    - Neurotransmitter modulation
+    - Pain modulation
+    - Heart rate
+    - Respiration
+    - Level of Consciousness
 - The bottom reticular formation in the medulla and lower pons tend to be involved mainly in motor and autonomic functions.
 - The top reticular formation in the upper pons and midbrain plays an important role in regulating the level of consciousness, influencing higher areas through modulation of thalamic and cortical activity.
 - Cortical, thalamic, and other forebrain networks also play an important role in maintaining consciousness.
@@ -121,8 +121,8 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 ![Figure 2.23](figure2-23.png)
 - *Limbic system*: located at the fringe of the cerebral cortex, this system performs a diverse set of functions such as regulating emotions, memory, appetite, and autonomic control.
 - The limbic system includes
-  - Hippocampal formation
-  - Amygdala
+    - Hippocampal formation
+    - Amygdala
 ![Figure 2.24](figure2-24.png)
 - *Fornix*: a paired, arch-shaped white matter structure connecting the hippocampal formation to the hypothalamus and septal nuclei.
 - Lesions in the limbic system can cause deficits in the consolidation of memories so patients have trouble forming new memories.
@@ -134,10 +134,10 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 - *Heteromodal association cortex*: higher-order processing that integrates multiple sensory/motor modalities.
 - Wernicke's (language comprehension) and Broca's area (language composition) lie in the unimodal association cortex.
 - *Gerstmann's syndrome*: a group of abnormalities due to lesions in the inferior parietal lobule including
-  - Difficultly with calculations
-  - Right-left confusion
-  - Finger agnosia
-  - Difficulty with written language
+    - Difficultly with calculations
+    - Right-left confusion
+    - Finger agnosia
+    - Difficulty with written language
 - Motor planning appears to be distributed in many different cortex areas.
 - *Apraxia*: abnormalities in motor conceptualization, planning, and execution.
 - Diffuse lesions of the cortex can produce apraxia.
@@ -150,16 +150,16 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 - E.g. Difficulty performing a sequence of actions repeatedly or to change from one activity to another.
 - *Perseverate*: repeating a single action over and over without moving onto the next action.
 - Patients with frontal lobe lesions tend to
-  - Perseverate
-  - Show impaired judgement
-  - Show disinhibited behaviors
-  - Stare passively
-  - Respond to commands only after a long delay
-  - Have unsteady magnetic gait (shuffling feet close to the floor)
+    - Perseverate
+    - Show impaired judgement
+    - Show disinhibited behaviors
+    - Stare passively
+    - Respond to commands only after a long delay
+    - Have unsteady magnetic gait (shuffling feet close to the floor)
 - Lesions in the visual association cortex can produce
-  - *Prosopagnosia*: inability to recognize faces
-  - *Achromatopsia*: inability to recognize colors
-  - *Palinopsia*: persistence or reappearance of an object viewed earlier
+    - *Prosopagnosia*: inability to recognize faces
+    - *Achromatopsia*: inability to recognize colors
+    - *Palinopsia*: persistence or reappearance of an object viewed earlier
 - Seizures in the visual association cortex can also cause elaborate visual hallucinations.
 - The brain is supplied by two pairs of arteries and one pair of draining veins.
 - The internal carotid artery, the vertebral artery, and the internal jugular vein.
@@ -167,8 +167,8 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 ## Chapter 3: The Neurologic Exam as a Lesson in Neuroanatomy
 
 - Goals for learning the neurologic exam
-  - Remainder of textbook is based on clinical cases
-  - Attain an overview of neuroanatomical function and clinical localization
+    - Remainder of textbook is based on clinical cases
+    - Attain an overview of neuroanatomical function and clinical localization
 - Neurologic exam format
     1. Mental status
     2. Cranial nerves
@@ -180,32 +180,32 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 - The neurologic exam tests for function unlike the H&P exam.
 - The neurologic exam is detailed in the chapter but I will only copy the interesting points.
 - Mental status
-  - It's striking how many patients appear to have a functioning, normal memory until they are explicitly tested.
-  - *Anterograde amnesia*: difficultly remembering new facts.
-  - *Retrograde amnesia*: difficultly remembering old facts.
-  - *Perseveration*: when a patient is unable to switch tasks due to damage to their frontal lobe.
+    - It's striking how many patients appear to have a functioning, normal memory until they are explicitly tested.
+    - *Anterograde amnesia*: difficultly remembering new facts.
+    - *Retrograde amnesia*: difficultly remembering old facts.
+    - *Perseveration*: when a patient is unable to switch tasks due to damage to their frontal lobe.
 - Cranial nerves
-  - Cranial nerve testing can raise red flags that suggest specific neurologic dysfunction rather than systemic disorder.
-  - Lesions in front of the optic chiasm affect one eye while lesions behind the optic chiasm affect both eyes.
+    - Cranial nerve testing can raise red flags that suggest specific neurologic dysfunction rather than systemic disorder.
+    - Lesions in front of the optic chiasm affect one eye while lesions behind the optic chiasm affect both eyes.
 - *Brain death*: irreversible lack of brain function.
 ![Table 3.10](table3-10.png)
 
 ## Chapter 4: Introduction to Clinical Neuroradiology
 
 - Introduction to three imaging modalities
-  - Computerized tomography (CT)
-  - Magnetic resonance imaging (MRI)
-  - Neuroangiography (ultrasound, etc)
+    - Computerized tomography (CT)
+    - Magnetic resonance imaging (MRI)
+    - Neuroangiography (ultrasound, etc)
 - Also three functional imaging modalities
-  - Positron emission tomography (PET)
-  - Single photon emission computerized tomography (SPECT)
-  - Functional MRI (fMRI)
+    - Positron emission tomography (PET)
+    - Single photon emission computerized tomography (SPECT)
+    - Functional MRI (fMRI)
 - CT is a modification of xrays and detects the density of the tissues.
 - Main drawbacks of MRI
-  - Time
-  - Cost
-  - Inferior performance in imaging a fresh hemorrhage and bony structures
-  - Can't be used on patients with metal in them (pacemaker)
+    - Time
+    - Cost
+    - Inferior performance in imaging a fresh hemorrhage and bony structures
+    - Can't be used on patients with metal in them (pacemaker)
 - T1-weighted images are often used for identifying anatomy while T2-weighted images are often used for detecting pathological changes.
 ![Table 4.3](table4-3.png)
 - Neuroangiography is used mainly to visualize lesions of the blood vessels themselves, rather than to provide indirect information about surrounding structures.
@@ -217,9 +217,9 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 - One of those layers is the skull, which has many holes to allow cranial nerves, the spinal cord, and blood vessels to escape and enter.
 ![Figure 5.4](figure5-4.png)
 - Three layers of meninges (PAD) from outside to inside
-  - Dura
-  - Arachnoid
-  - Pia
+    - Dura
+    - Arachnoid
+    - Pia
 - The blood-brain barrier prevents most substances from crossing except for lipid-soluble substances, oxygen, and carbon dioxide.
 - There are a few places where the blood-brain barrier has holes, such the circumventricular organs which monitor blood to send/receive hormonal signals.
 ![Figure 5.15](figure5-15.png)
@@ -232,9 +232,9 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 ## Chapter 6: Corticospinal Tract and Other Motor Pathways
 
 - There are three important motor and sensory long tracts in the nervous system.
-  - Lateral corticospinal tract (motor)
-  - Posterior columns (sensory - vibration, proprioception, fine touch)
-  - Anterolateral pathways (sensory - pain, temperature, crude touch)
+    - Lateral corticospinal tract (motor)
+    - Posterior columns (sensory - vibration, proprioception, fine touch)
+    - Anterolateral pathways (sensory - pain, temperature, crude touch)
 - Each tract/path crosses over to the opposite side at some point and knowledge of where they cross over is helpful for localizing lesions.
 - Lesions of the association cortex don't produce deficits in basic movements and sensations, but rather produce deficits in higher-order sensory analysis or motor planning.
 - Interestingly, there are reciprocal connections between the primary and association cortices, allowing for feedback and control.
@@ -262,8 +262,8 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 ## Chapter 7: Somatosensory Pathways
 
 - The main two somatosensory pathways
-  - Posterior column-medial lemniscal (proprioception, vibration, fine touch)
-  - Anterolateral systems (pain, temperature, crude touch)
+    - Posterior column-medial lemniscal (proprioception, vibration, fine touch)
+    - Anterolateral systems (pain, temperature, crude touch)
 - Like the corticospinal tract, these two pathways are also somatotopically organized.
 - *Somatosensory*: refers to bodily sensations of touch, pain, temperature, vibration, and proprioception.
 ![Figure 7.1](figure7-1.png)
@@ -302,15 +302,15 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 - Interestingly, even when one eye is closed, our visual analysis pathways appear to fill in the blind spot thus we aren't aware of it unless tested.
 ![Figure 11.1](figure11-1.png)
 - Two types of photoreceptors
-  - *Rods*: low spatial and temporal resolution and used in low light.
-  - *Cones*: high spatial and temporal resolution and used in normal light.
+    - *Rods*: low spatial and temporal resolution and used in low light.
+    - *Cones*: high spatial and temporal resolution and used in normal light.
 - In normal daylight, the response of most rods is saturated.
 ![Figure 11.4](figure11-4.png)
 - Photoreceptors and bipolar cells don't fire APs, instead they convey information by releasing neurotransmitters in a graded fashion that depends on the membrane potential.
 - Due to the lateral connections of horizontal and amacrine cells, bipolar and ganglion cells have receptive fields with a center-surround configuration.
 - Two types of center-surround cells
-  - *On-center*: cells excited by light in the center and inhibited by light in the surrounding.
-  - *Off-center*: cells inhibited by light in the center and excited by light in the surrounding.
+    - *On-center*: cells excited by light in the center and inhibited by light in the surrounding.
+    - *Off-center*: cells inhibited by light in the center and excited by light in the surrounding.
 ![Figure 11.5](figure11-5.png)
 - Retinal ganglion cells → Optic nerve → Optic chiasm → Left/Right optic tract
 - The nasal retinal fibers for each eye cross over in the optic chiasm, so each optic tract is responsible for only one visual field (left/right).
@@ -327,15 +327,15 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 ![Figure 11.10](figure11-10.png)
 - Multiple channels of information undergo parallel processing in the visual system.
 - The three best known channels
-  - Motion
-  - Form
-  - Color
+    - Motion
+    - Form
+    - Color
 - Some of the information for these channels is already segregated at the level of retinal ganglion cells and LGN.
 ![Figure 11.11](figure11-11.png)
 - All three channels project to different layers of the primary visual cortex
-  - Motion → Layer 4C$$\alpha$$ → Thick stripe
-  - Form → Layer 4C$$\beta$$ → Pale stripe
-  - Color → Layer 4C$$\beta$$ → Thin stripe
+    - Motion → Layer 4C$$\alpha$$ → Thick stripe
+    - Form → Layer 4C$$\beta$$ → Pale stripe
+    - Color → Layer 4C$$\beta$$ → Thin stripe
 - Dorsal pathway = Where (analysis of motion and spatial features), Ventral pathway = What (analysis of form and color)
 - The visual cortex is organized into ocular dominance columns, where inputs from each eye terminate in different alternating bands of cortex of 1mm.
 ![Figure 11.12](figure11-12.png)
@@ -353,12 +353,12 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 ## Chapter 12: Brainstem I: Surface Anatomy and Cranial Nerves
 
 - The brainstem isn't just a relay station for information between the brain and body. It also controls
-  - Cranial nerves
-  - Level of consciousness
-  - Muscle tone
-  - Posture
-  - Cardiac
-  - Respiratory
+    - Cranial nerves
+    - Level of consciousness
+    - Muscle tone
+    - Posture
+    - Cardiac
+    - Respiratory
 - If the brain were a city, then the brainstem would be both the Grand Central Station and Central Power Supply packaged into one location.
 ![Figure 12.1](figure12-1.png)
 - The cranial nerves are more akin to the spinal nerves due to having both sensory and motor functions.
@@ -386,13 +386,13 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 ![Figure 14.1](figure14-1.png)
 ![Table 14.1](table14-1.png)
 - Locked-in syndrome
-  - Patients with no motor function but have sensation and cognition.
-  - Usual cause is an infarct in the ventral pons affecting the bilateral corticospinal and corticobulbar tracts.
-  - Spinal cord and cranial nerves receive no input from the cortex and the patient is unable to move.
-  - However, the sensory pathways and the brainstem reticular activating systems are spared.
-  - Isn't the same as coma.
-  - Vertical eye movements are spared, since they depend on the tegmentum of the rostral midbrain, but horizontal eye movements aren't due to their dependence on pontine circuits.
-  - Other causes of locked-in condition can result from severe disorders of motor neurons, muscles, or the neuromuscular junction.
+    - Patients with no motor function but have sensation and cognition.
+    - Usual cause is an infarct in the ventral pons affecting the bilateral corticospinal and corticobulbar tracts.
+    - Spinal cord and cranial nerves receive no input from the cortex and the patient is unable to move.
+    - However, the sensory pathways and the brainstem reticular activating systems are spared.
+    - Isn't the same as coma.
+    - Vertical eye movements are spared, since they depend on the tegmentum of the rostral midbrain, but horizontal eye movements aren't due to their dependence on pontine circuits.
+    - Other causes of locked-in condition can result from severe disorders of motor neurons, muscles, or the neuromuscular junction.
 - *Reticular formation*: a central core of nuclei that runs through the entire length of the brainstem.
 - The rostral reticular formation functions to maintain an alert conscious state while the caudal reticular formation functions to carry out import motor, reflex, and autonomic functions.
 ![Figure 14.6](figure14-6.png)
@@ -401,42 +401,42 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 - We propose a new system to describe functions related to consciousness, the consciousness system.
 - The consciousness system is formed by the medial and lateral frontoparietal association cortex, arousal circuits in the upper brainstem, and diencephalon.
 - Consciousness can be divided into two parts
-  - *Content of consciousness*: systems mediating sensory, motor, memory, and emotional functions.
-  - *Level of consciousness*: alertness, attention, awareness (AAA).
+    - *Content of consciousness*: systems mediating sensory, motor, memory, and emotional functions.
+    - *Level of consciousness*: alertness, attention, awareness (AAA).
 - Alertness depends on the normal functioning of the brainstem and diencephalic arousal circuits and the cortex.
 - Attention depends on many of the circuits used by alertness along with with frontoparietal association cortex.
 - Awareness depends on our ability to combine various higher-order forms of sensory, motor, emotional, and mnemonic information from separate regions of the brain into a unified and efficient summary of mental activity.
 - This chapter will focus on alertness and leave attention and awareness for Chapter 19.
 - Experiments on animals and humans found that lesions in the rostral brainstem reticular formation and medial diencephalon can cause coma, while stimulation of the same regions can lead to behavioral and electrographic arousal from deep anesthesia.
 - Where in the brain can a lesion cause coma?
-  - Upper brainstem reticular formation and related structures
-  - Extensive bilateral regions of the cerebral cortex
+    - Upper brainstem reticular formation and related structures
+    - Extensive bilateral regions of the cerebral cortex
 - Lesions in other regions of the brainstem don't typically affect the level of consciousness.
 - E.g. Lesions located more caudally in the brainstem, such as in the lower pons or medula, don't affect consciousness.
 - E.g. Lesions of the ventral midbrain or pons that spare the reticular formation, such as in locked-in syndrome.
 - However, bilateral lesions of the thalamus can cause coma.
 - *Diffuse projection systems*: pathways that start from a single region to innervate many structures of the nervous system.
 - Neurotransmitters have two general functions
-  - *Neurotransmission*: mediate communication between neurons through fast excitatory/inhibitory postsynaptic potentials over the millisecond time range.
-    - E.g. Glutamate and GABA.
-  - *Neuromodulation*: involving signaling cascades that regulate synaptic transmission, neuronal growth, and other functions over a slower time range.
-    - E.g. Acetylcholine, dopamine, norepinephrine, serotonin, and histamine.
+    - *Neurotransmission*: mediate communication between neurons through fast excitatory/inhibitory postsynaptic potentials over the millisecond time range.
+        - E.g. Glutamate and GABA.
+    - *Neuromodulation*: involving signaling cascades that regulate synaptic transmission, neuronal growth, and other functions over a slower time range.
+        - E.g. Acetylcholine, dopamine, norepinephrine, serotonin, and histamine.
 - Note that lesions or pharmacological blockades of individual diffuse projection neurotransmitter systems don't result in coma.
 - Thus, it seems likely that maintenance of the normal awake state doesn't depend on a single system, but rather depends on multiple anatomical and neurotransmitter systems acting in parallel.
 - Skimming over an overview of each neurotransmitter system and the systems regulating sleep.
 - Levels of consciousness
-  - *Brain death*: an extreme and irreversible form of coma.
-  - *Coma*: unarousable and monotonous EEG.
-  - *Vegetative state*: coma but with sleep-wake cycles and reflexes.
-  - *Minimally conscious state*: some minimal degree of responsiveness such as saying single words or reaching for and holding objects.
-  - *Locked-in syndrome*: conscious but can't move except through vertical eye movements or blinks.
-  - *Sleep*: arousable and undergoes cyclical variations of state.
+    - *Brain death*: an extreme and irreversible form of coma.
+    - *Coma*: unarousable and monotonous EEG.
+    - *Vegetative state*: coma but with sleep-wake cycles and reflexes.
+    - *Minimally conscious state*: some minimal degree of responsiveness such as saying single words or reaching for and holding objects.
+    - *Locked-in syndrome*: conscious but can't move except through vertical eye movements or blinks.
+    - *Sleep*: arousable and undergoes cyclical variations of state.
 ![Figure 14.16](figure14-16.png)
 ![Table 14.3](table14-3.png)
 - Coma is generally not a permanent condition as within 2-4 weeks of onset, most patients either deteriorate or emerge into other states of less profoundly impaired arousal.
 - Several states of profound apathy can resemble coma
-  - *Akinetic mutism*: patient appears fully awake and can visually track people but don't respond to any commands.
-  - *Abulia*: patients usually sit passively and may respond after a long delay.
+    - *Akinetic mutism*: patient appears fully awake and can visually track people but don't respond to any commands.
+    - *Abulia*: patients usually sit passively and may respond after a long delay.
 - Automatic respiration is controlled by the medulla while voluntary respiration is controlled by the forebrain.
 
 ## Chapter 15: Cerebellum
@@ -450,13 +450,13 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 - The cerebellum is attached to the back of the pons and the medulla by three white matter tracts. It's split left-right by the midline vermis and is split front-back by the primary fissure.
 ![Figure 15.1](figure15-1.png)
 - The cerebellar cortex has three layers (from inside out)
-  1. Granule cell layer
-  2. Purkinje cell layer
-  3. Molecular layer
+    1. Granule cell layer
+    2. Purkinje cell layer
+    3. Molecular layer
 ![Figure 15.6](figure15-6.png)
 - There are two main kinds of synaptic input to the cerebellum
-  - Mossy fibers → Granule cells → Molecular layer → Purkinje cells → Cerebellar white matter
-  - Climbing fibers → Purkinje cells
+    - Mossy fibers → Granule cells → Molecular layer → Purkinje cells → Cerebellar white matter
+    - Climbing fibers → Purkinje cells
 - All output from the cerebellar cortex is carried by the axons of Purkinje cells into the cerebellar white matter.
 ![Figure 15.7](figure15-7.png)
 ![Figure 15.8](figure15-8.png)
@@ -467,11 +467,11 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 
 - The basal ganglia are a collection of gray matter nuclei located deep within the white matter of the cerebral hemispheres.
 - The main components of the basal ganglia are
-  - Caudate nucleus
-  - Putamen
-  - Globus pallidus
-  - Subthalamic nucleus
-  - Substantia nigra
+    - Caudate nucleus
+    - Putamen
+    - Globus pallidus
+    - Subthalamic nucleus
+    - Substantia nigra
 ![Figure 16.1](figure16-1.png)
 - The striatum refers to both the caudate and putamen.
 - The main input to the basal ganglia comes from massive projections from the entire cerebral cortex to the striatum.
@@ -482,27 +482,27 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 - The pituitary and hypothalamus are unique regions of the nervous system because they also communicate through hormones in addition to conventional synaptic transmission.
 - They form a link between the neural and endocrine systems and the hypothalamus is the central regulator of homeostasis.
 - The hypothalamus participates in
-  - Homeostatic mechanisms
-  - Endocrine
-  - Autonomic control
-  - Limbic mechanisms
+    - Homeostatic mechanisms
+    - Endocrine
+    - Autonomic control
+    - Limbic mechanisms
 ![Figure 17.2](figure17-2.png)
 - Functions controlled by the hypothalamus
-  - Circadian rhythm control
-  - Insomnia/hypersomnia
-  - Appetite
-  - Thirst
-  - Thermoregulation
-  - Sexual desire
+    - Circadian rhythm control
+    - Insomnia/hypersomnia
+    - Appetite
+    - Thirst
+    - Thermoregulation
+    - Sexual desire
 ![Figure 17.6](figure17-6.png)
 
 ## Chapter 18: Limbic System: Homeostasis, Olfaction, Memory, and Emotion
 
 - The limbic system regulates
-  - Olfaction
-  - Memory
-  - Emotions and drives
-  - Homeostasis
+    - Olfaction
+    - Memory
+    - Emotions and drives
+    - Homeostasis
 ![Figure 18.1](figure18-1.png)
 ![Table 18.2](table18-2.png)
 - The limbic cortex forms a ringlike limbic lobe around the edge of the cortical mantle.
@@ -511,8 +511,8 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 ![Table 18.3](table18-3.png)
 - The primary olfactory cortex is unique among sensory systems in that it receives direct input from secondary sensory neurons without going through the thalamus.
 - There appears to be two main regions critical for memory formation
-  - Medial temporal lobe (hippocampal formation and parahippocampal gyrus)
-  - Medial diencephalic memory areas (thalamic medio-dorsal nucleus, anterior nucleus of the thalamus, mammillary bodies, and other diencephalic nuclei lining the third ventricle)
+    - Medial temporal lobe (hippocampal formation and parahippocampal gyrus)
+    - Medial diencephalic memory areas (thalamic medio-dorsal nucleus, anterior nucleus of the thalamus, mammillary bodies, and other diencephalic nuclei lining the third ventricle)
 ![Figure 18.8](figure18-8.png)
 ![Figure 18.11](figure18-11.png)
 - The main input to the hippocampal formation is from the entorhinal cortex from association cortices in the frontal, parieto-occipital, and temporal lobes.
@@ -522,12 +522,12 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 - The mechanisms by which medial temporal structures induce storage, consolidation, and retrieval of memories in the association cortex are not currently known.
 - To summarize, the medial temporal lobe memory systems communicate with the association cortex mainly through bidirectional connections via the entorhinal cortex.
 - Patient H.M. case
-  - Removal of bilateral medial temporal lobes to control epileptic seizures.
-  - Had severe memory problems with no other significant deficits.
-  - Unable to learn new facts or recall new experiences.
-  - Could immediately recite back a list of words but couldn't after 5 minutes.
-  - Despite his profound memory deficit, his personality and general intelligence were normal.
-  - Could learn tasks that didn't require conscious recall.
+    - Removal of bilateral medial temporal lobes to control epileptic seizures.
+    - Had severe memory problems with no other significant deficits.
+    - Unable to learn new facts or recall new experiences.
+    - Could immediately recite back a list of words but couldn't after 5 minutes.
+    - Despite his profound memory deficit, his personality and general intelligence were normal.
+    - Could learn tasks that didn't require conscious recall.
 ![Figure 18.15](figure18-15.png)
 ![Figure 18.16](figure18-16.png)
 - Introduction of declarative and nondeclarative memory.
@@ -536,8 +536,8 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 - Unlike declarative memory, special lesions usually don't result in significant loss of nondeclarative memory. Learning of skills and of habits most likely involves plasticity in several regions such as the basal ganglia, cerebellum, and motor cortex.
 - Specifically, the caudate nucleus appears to be important for habit learning.
 - How are memories converted from short-term to long-term storage? There appears to be two classes of mechanisms.
-  - A variety of different cellular mechanisms store information in the nervous system on different time scales.
-  - A variety of different anatomical regions of the brain are important for storing memories at different times.
+    - A variety of different cellular mechanisms store information in the nervous system on different time scales.
+    - A variety of different anatomical regions of the brain are important for storing memories at different times.
 ![Table 18.6](table18-6.png)
 - Medial temporal and diencephalic structures appear to mediate a process by which declarative memories are gradually consolidated in the neocortex.
 - From there, recalling declarative memories from specific regions of the neocortex doesn't require the medial temporal or medial diencephalic areas.
@@ -554,15 +554,15 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 
 - In humans, the majority of the brain's surface is made up of the association cortex.
 - Functions of the association cortex
-  - Higher-order sensory processing
-  - Motor planning
-  - Language processing and production
-  - Visual-spatial orientation
-  - Determining socially appropriate behavior
+    - Higher-order sensory processing
+    - Motor planning
+    - Language processing and production
+    - Visual-spatial orientation
+    - Determining socially appropriate behavior
 - The association cortex can be divided into two subcortices
-  - Unimodal (modality-specific) association cortex
-    - E.g. somatosensory, visual, auditory, motor.
-  - Heteromodal (higher-order) association cortex
+    - Unimodal (modality-specific) association cortex
+        - E.g. somatosensory, visual, auditory, motor.
+    - Heteromodal (higher-order) association cortex
 ![Table 19.2](table19-2.png)
 ![Figure 19.1](figure19-1.png)
 - Unimodal sensory association cortex receives its predominant input from primary sensory cortex of a specific sensory modality and performs higher-order sensory processing for that modality.
@@ -587,16 +587,16 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 - The parietal association cortex is important for spatial analysis (location and movement of objects in space).
 - *Anosognosia*: lack of awareness of the illness.
 - Right hemisphere lesions may be associate with rare but interesting disorders such as
-  - *Capgras syndrome*: belief that friends/family have been replaced by identical-looking imposters.
-  - *Fregoli syndrome*: belief that different people are actually the same person who is in disguise.
-  - *Reduplicative paramnesia*: belief that a person, place, or object exists as two identical copies.
+    - *Capgras syndrome*: belief that friends/family have been replaced by identical-looking imposters.
+    - *Fregoli syndrome*: belief that different people are actually the same person who is in disguise.
+    - *Reduplicative paramnesia*: belief that a person, place, or object exists as two identical copies.
 ![Table 19.8](table19-8.png)
 ![Table 19.9](table19-9.png)
 - The frontal lobes enable us to function as effective and socially appropriate people, but they're also the most mysterious, contradictory, and difficult to study brain regions.
 - Frontal lobe function is best viewed as following three domains
-  - *Restraint*: inhibition of inappropriate behaviors.
-  - *Initiative*: motivation to pursue positive/productive activities.
-  - *Order*: the capacity to correctly perform tasks and other cognitive operations.
+    - *Restraint*: inhibition of inappropriate behaviors.
+    - *Initiative*: motivation to pursue positive/productive activities.
+    - *Order*: the capacity to correctly perform tasks and other cognitive operations.
 - The frontal lobes are the largest region of the brain, making up nearly one-third of the cerebral cortex.
 ![Figure 19.11](figure19-11.png)
 - Working memory activates the dorsolateral prefrontal cortex while selective attention activates the frontal lobes.
@@ -615,19 +615,19 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 - Achromatopsia is caused by lesions in bilateral inferior occipitotemporal cortex whereas color anomia is caused by lesions in the primary visual cortex.
 - *Color agnosia*: disorder of color perception where patients can't name or point to colors, but can match them.
 - Other visual disorders
-  - *Alice in Wonderland syndrome*: the changing of object size.
-  - *Visual reorientation*: environment appears tilted or inverted.
-  - *Simultanagnosia*: deficit in visual-spatial binding where patients can't perceive parts of a visual scene as a whole.
-  - *Optic ataxia*: inability to reach for a point in space under visual guidance.
-  - *Ocular apraxia*: difficulty in voluntarily directing one's gaze towards objects in the peripheral visual through saccades.
+    - *Alice in Wonderland syndrome*: the changing of object size.
+    - *Visual reorientation*: environment appears tilted or inverted.
+    - *Simultanagnosia*: deficit in visual-spatial binding where patients can't perceive parts of a visual scene as a whole.
+    - *Optic ataxia*: inability to reach for a point in space under visual guidance.
+    - *Ocular apraxia*: difficulty in voluntarily directing one's gaze towards objects in the peripheral visual through saccades.
 ![Figure 19.13](figure19-13.png)
 - Repeat of level of consciousness and the content of consciousness from Chapter 14.
 ![Figure 19.14](figure19-14.png)
 - Attention hasn't been clearly defined but we know of at least two major functions
-  - *Selective attention*: attention over an object/entity in space.
-    - E.g. Visual, tactile, auditory stimulus, color, shape, object, emotion, plan, concept.
-  - *Sustained attention*: attention over a period of time.
-    - E.g. Vigilance and concentration
+    - *Selective attention*: attention over an object/entity in space.
+        - E.g. Visual, tactile, auditory stimulus, color, shape, object, emotion, plan, concept.
+    - *Sustained attention*: attention over a period of time.
+        - E.g. Vigilance and concentration
 - The two major functions can be thought of attention over space and time, over location and duration.
 - Evidence of selective attention shows that attention is reflected in the activation of specific brain regions.
 - E.g. Attention to somatosensory stimulus activates the corresponding somatotopic region of the somatosensory cortex and attention to a visual stimulus activates the corresponding retinotopic region of the visual cortex.
@@ -646,15 +646,15 @@ excerpt: "An in-depth look into the anatomy of the human brain through how it go
 ## Epilogue: A Simple Working Model of the Mind
 
 - Where is the mind?
-  - The nervous system seems to be the most important.
-  - We know that changes to the brain cause changes to the mind.
+    - The nervous system seems to be the most important.
+    - We know that changes to the brain cause changes to the mind.
 - Why are there lingering doubts about the physical basis of the mind?
 - Functions of the mind seem to be unexplained but we are making progress.
 - We can define functions of the mind to include
-  - Memory
-  - Language
-  - Planning
-  - Attention
+    - Memory
+    - Language
+    - Planning
+    - Attention
 - We can start tackling the problem of the mind by starting with its inputs and outputs.
 - Information processing in sensory and motor systems is hierarchically organized.
 - E.g. Receptor cell → Primary somatosensory neuron → Brainstem → Thalamus → Primary somatosensory cortex → Unimodal association cortex → Heteromodal association cortex.

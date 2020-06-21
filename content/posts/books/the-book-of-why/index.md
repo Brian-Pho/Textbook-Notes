@@ -32,17 +32,17 @@ excerpt: "An introduction to the new science of causality."
 
 - The difference between a "what" question and a "why" question: what provides facts, why provides explanations.
 - Three implications of this distinction
-  - The world isn't made up of facts but of the cause-effect relationship between these facts.
-  - Causal explanations make up the bulk of our knowledge.
-  - The transition from processors of data to makers of explanations is not small.
+    - The world isn't made up of facts but of the cause-effect relationship between these facts.
+    - Causal explanations make up the bulk of our knowledge.
+    - The transition from processors of data to makers of explanations is not small.
 - How did we transition from data to explanations?
 - Evolution has endowed us with the ability to engineer our lives.
 - It's useless to ask for the causes of things unless you can imagine their consequences.
 - Causal imagination enables us to plan and to imagine, we must process, consult, and manipulate a mental model of reality.
 - Three distinct levels of cognitive ability
-  - Seeing
-  - Doing
-  - Imagining
+    - Seeing
+    - Doing
+    - Imagining
 - Seeing: detection of regularities/patterns in our environment.
 - Seeing is shared by many animals and humans.
 - E.g. Frog detecting the regular flight path of a fly to eat it.
@@ -118,19 +118,19 @@ excerpt: "An introduction to the new science of causality."
 - E.g. If Bob throws a ball at a window, the window will break. But if the window is broken, we need much more information to deduce the cause.
 - Bayes's rule is also a way to update our belief in a hypothesis. Future events rests on the frequency with which similar events have occurred in the past.
 - Three types of junctions in a Bayesian network
-  - A → B → C
-    - Chain junction.
-    - B is a mediator.
-    - E.g. Fire → Smoke → Alarm
-    - Although we call them fire alarms, they're really smoke alarms.
-  - A ← B → C
-    - Fork junction.
-    - B is a confounded.
-    - A confounded will make A and C statistically correlated even though there isn't a causal link between them.
-    - E.g. Shoe Size ← Age of Child → Reading Ability
-  - A → B ← C
-    - Collider junction.
-    - E.g. Talent → Celebrity ← Beauty.
+    - A → B → C
+        - Chain junction.
+        - B is a mediator.
+        - E.g. Fire → Smoke → Alarm
+        - Although we call them fire alarms, they're really smoke alarms.
+    - A ← B → C
+        - Fork junction.
+        - B is a confounded.
+        - A confounded will make A and C statistically correlated even though there isn't a causal link between them.
+        - E.g. Shoe Size ← Age of Child → Reading Ability
+    - A → B ← C
+        - Collider junction.
+        - E.g. Talent → Celebrity ← Beauty.
 - These three junctions are like keyholes through the door that separates the first and second levels of the Ladder of Causation.
 - We can use them to see the secrets of the causal process that generated the observed data.
 - Each junction stands for a distinct pattern of causal flow.
@@ -144,8 +144,8 @@ excerpt: "An introduction to the new science of causality."
 - The whole art and practice of scientific experimentation is comprised in the skillful interrogation of Nature.
 - Nature is like a genie that answers exactly the question we pose and not necessarily the one we intend to ask.
 - RCTs bring two benefits
-  - It eliminates confounded bias by asking Nature the right question.
-  - It enables researchers to quantify uncertainty.
+    - It eliminates confounded bias by asking Nature the right question.
+    - It enables researchers to quantify uncertainty.
 ![Figure 4.4](figure4-4.png)
 ![Figure 4.5](figure4-5.png)
 ![Figure 4.6](figure4-6.png)
@@ -192,15 +192,15 @@ excerpt: "An introduction to the new science of causality."
 
 - We can’t travel both roads and yet our brains are equipped to judge what would’ve happened if we had taken the other path. Evidence if this comes in the form of regret.
 - Summary of lessons from the second rung
-  - RCTs are the gold standard.
-  - If we can measure variables that block all the back-door paths, we can use the back-door adjustment formula.
-  - If we find a front-door path that's shielded from confounded, we can use the front-door adjustment.
-  - If we assume linearity or monotonicity, we can use instrumental variables.
+    - RCTs are the gold standard.
+    - If we can measure variables that block all the back-door paths, we can use the back-door adjustment formula.
+    - If we find a front-door path that's shielded from confounded, we can use the front-door adjustment.
+    - If we assume linearity or monotonicity, we can use instrumental variables.
 - Every creature can see what is. Our gift, or curse, is that we can see what could’ve been.
 - Three different types of causation
-  - Necessary causation
-  - Sufficient causation
-  - Necessary-and-sufficient causation
+    - Necessary causation
+    - Sufficient causation
+    - Necessary-and-sufficient causation
 - Counterfactual: if the first object had not been, the second had never existed.
 - Where regularities can only be observed, counterfactuals can only be imagined.
 - Humans make counterfactual judgments without much issue. We can even treat them as if they exist by envisioning possible worlds in which they are true.
@@ -209,28 +209,28 @@ excerpt: "An introduction to the new science of causality."
 ![Table 8.1](table8-1.png)
 - The goal is to fill in the “?” cells which ask if that person had a different level of education, what would their salary have been?
 - Model-free approaches
-  - Matching on experience and extrapolating
-  - Linear regression
+    - Matching on experience and extrapolating
+    - Linear regression
 - These approaches are flawed because they are data driven, not model driven.
 - No methods based only on data (rung one) can answer counterfactual questions (rung three).
 - Model-driven approach
-  - The first key point is that experience depends on education since time spent on education is time not spent gaining experience.
-  - The table doesn't capture this data so we start with a causal diagram.
+    - The first key point is that experience depends on education since time spent on education is time not spent gaining experience.
+    - The table doesn't capture this data so we start with a causal diagram.
 ![Figure 8.3](figure8-3.png)
-  - If experience was a cause of education, then experience would be a confounder and matching based on experience would be valid.
-  - But the diagram shows experience as a mediator so we must not adjust it.
-  - Don't mistake a mediator for a confounder.
+    - If experience was a cause of education, then experience would be a confounder and matching based on experience would be valid.
+    - But the diagram shows experience as a mediator so we must not adjust it.
+    - Don't mistake a mediator for a confounder.
 - Structural model
-  - Abduction: use the data to estimate the factors unique to each employee.
-  - Action: use the do operator to change the model to reflect the counterfactual assumption being made.
-  - Prediction: calculate the new salary using the modified model and the updated info about exogenous variables.
+    - Abduction: use the data to estimate the factors unique to each employee.
+    - Action: use the do operator to change the model to reflect the counterfactual assumption being made.
+    - Prediction: calculate the new salary using the modified model and the updated info about exogenous variables.
 
 ## Chapter 9: Mediation: The Search for a Mechanism
 
 - Mediation analysis: the study of whether mediators have a direct effect or an indirect effect.
 - The question "Why?" has at least two versions.
-  - One where you see an effect and you want to know the cause.
-  - One when you want to better understand the connection between a known cause and a known effect.
+    - One where you see an effect and you want to know the cause.
+    - One when you want to better understand the connection between a known cause and a known effect.
 - E.g. We know that citrus fruits prevent scurvy but we don't know why/how.
 - This chapter focuses on the second version.
 - The search for mechanisms is critical for science and living.

@@ -19,7 +19,7 @@ excerpt: "A thorough account of the history of AI. An ok book that was too detai
 ### Chapter 1: Dreams and Dreamers
 
 - "For seeing life is but a motion of limbs, the beginning whereof is in some principal part within, why may we not say that all automata have an artificial life? For what is the heart, but a spring; and the nerves, but so many strings; and the joints, but so many wheels, giving motion to the whole body."
-  - Thomas Hobbes in *Leviathan*
+    - Thomas Hobbes in *Leviathan*
 - The quest for artificial intelligence begins with dreams like these.
 - To turn these dreams into reality requires usable clues about how to proceed.
 
@@ -45,8 +45,8 @@ excerpt: "A thorough account of the history of AI. An ok book that was too detai
 - Cognitive science and artificial intelligence have been closely related ever since their beginnings.
 - Cognitive science has provided clues for AI researchers, and AI has helped cognitive science with newly invented concepts useful for understanding the workings of the mind.
 - That living things evolve gives us two more clues about how to build intelligent artifacts.
-  - First, the processes of evolution itself might be simulated on computers to produce the machines we dream about.
-  - Second, those paths that evolution followed in producing increasingly intelligent animals can be used as a guide for creating increasingly intelligent artifacts.
+    - First, the processes of evolution itself might be simulated on computers to produce the machines we dream about.
+    - Second, those paths that evolution followed in producing increasingly intelligent animals can be used as a guide for creating increasingly intelligent artifacts.
 - That each descendant machine differed little from its parent, whereas any helpful improvement would require a much larger step in the "space" of possible machines.
 - Researchers would come to recognize that all of these evolutionary methods were elaborations of a useful mathematical search strategy called "gradient ascent" or "hill climbing."
 - Start with a machine that is able to do what an infant can do, then design machines that can mimic the abilities of children at each rung of the ladder.
@@ -68,9 +68,9 @@ excerpt: "A thorough account of the history of AI. An ok book that was too detai
 
 - If machines are to become intelligent, they must be able to do the thinking-related things that humans can do.
 - The emergence of artificial intelligence as a full-fledged area of research coincided with three important meetings:
-  - one in 1955,
-  - one in 1956, and
-  - one in 1958.
+    - one in 1955,
+    - one in 1956, and
+    - one in 1958.
 - In 1955, a "Session on Learning Machines" was held in Los Angeles.
 - 1955: To "come to the same thing," these two approaches, neural modeling and symbol processing, must be recognized simply as different levels of description of what goes on in the brain. Different levels are appropriate for describing different kinds of mental phenomena.
 - In 1956 a "Summer Research Project on Artificial Intelligence" was convened at Dartmouth College.
@@ -212,9 +212,9 @@ excerpt: "A thorough account of the history of AI. An ok book that was too detai
 - As the field began to develop its techniques and methods, graduate courses in artificial intelligence were offered at some universities.
 - Each workshop resulted in a book with the title Machine Intelligence N, where N denotes the workshop and volume number. The last few volumes have been published online by the Electronic Transactions on Artificial Intelligence. These books contain some of the most cited and important papers in the early history of the field.
 - Lighthill's report somewhat idiosyncratically divided AI research into three categories:
-  - advanced automation,
-  - computer-based studies of the central nervous system, and
-  - the bridges in between.
+    - advanced automation,
+    - computer-based studies of the central nervous system, and
+    - the bridges in between.
 - He called these categories A, C, and B, respectively.
 - Although he came out in favor of continued work in categories A and C, he was quite critical of most AI basic research, including robotics and language processing, which he lumped into category B.
 - He wrote that "In no part of the field have the discoveries made so far produced the major impact that was then promised." He concluded that AI's existing search techniques would not scale to real problems because they would be stymied by the combinatorial explosion.
@@ -409,10 +409,10 @@ excerpt: "A thorough account of the history of AI. An ok book that was too detai
 - Parallelism can be accomplished by either actually having several hardware processors to which programs are farmed out for execution or by the simulation of parallel operation in which the programs are actually being executed in sequence.
 - The "reference model architecture" consists of multiple layers of "real-time control systems" developed earlier as components of a "theory of intelligence."
 - Each RCS partitions the control problem into four basic elements:
-  - behavior generation (or task decomposition),
-  - world modeling,
-  - sensory processing, and
-  - value judgment.
+    - behavior generation (or task decomposition),
+    - world modeling,
+    - sensory processing, and
+    - value judgment.
 - It clusters these elements into computational nodes that have responsibility for specific subsystems, and arranges these nodes in hierarchical layers such that each layer has characteristic functionality and timing.
 - There are two types of memory modules.
 - Declarative Memory consists of facts, such as "Washington, DC is the capital of the United States, France is a country in Europe, or 2 + 3 = 5."
@@ -468,11 +468,11 @@ excerpt: "A thorough account of the history of AI. An ok book that was too detai
 - I had in mind all kinds of jobs that humans get paid to perform - from skilled and unskilled labor to managerial and office work.
 - Even though we already have AI systems that can do some things better than humans can do them, there are still many, many human cognitive skills that we don't yet know how to automate.
 - I believe there are two reasons why AI researchers will continue to strive to automate these skills.
-  - One is economic: The prospect of someday being able to employ AI systems rather than more expensive humans will sustain a strong and irresistible urge to build artifacts that can do what we now pay humans to do.
-  - The other reason is scientific: In their attempts to understand how the human brain works, people will continue to build computational models of its many functions. Thus, I think achieving some version of HLAI will continue to be AI's long-term goal.
+    - One is economic: The prospect of someday being able to employ AI systems rather than more expensive humans will sustain a strong and irresistible urge to build artifacts that can do what we now pay humans to do.
+    - The other reason is scientific: In their attempts to understand how the human brain works, people will continue to build computational models of its many functions. Thus, I think achieving some version of HLAI will continue to be AI's long-term goal.
 - John McCarthy mentions two approaches toward achieving HLAI.
-  - One is to attempt to simulate how the human intellect works, but, as he wrote, "Understanding the human brain well enough to imitate its function requires theoretical and experimental success in psychology and neurophysiology."
-  - The other is to write programs that mimic human intelligent behavior, which is what AI researchers have largely been trying to do. McCarthy says that "It'sn't a question of deciding between them, because each should eventually succeed; it's more a race."
+    - One is to attempt to simulate how the human intellect works, but, as he wrote, "Understanding the human brain well enough to imitate its function requires theoretical and experimental success in psychology and neurophysiology."
+    - The other is to write programs that mimic human intelligent behavior, which is what AI researchers have largely been trying to do. McCarthy says that "It'sn't a question of deciding between them, because each should eventually succeed; it's more a race."
 - Minsky was right. We've been trying the alternatives of "advanced resources, given initially," and simulating "organic evolution." These approaches have produced smart tools and other useful programs but not HLAI yet. What about working on a "graded sequence of problems of growing difficulty"? This strategy has been suggested and deserves serious consideration.
 - In his 1950 paper, Alan Turing suggested that "Instead of trying to produce a programme to simulate the adult mind, why not rather try to produce one which simulates the child's? If this were then subjected to an appropriate course of education one would obtain the adult brain." The "appropriate course of education" would then correspond to Minsky's "graded sequence of problems."
 - "understanding the human brain well enough to imitate its function," there has been work on that problem too. Several computer scientists are attempting to use concepts familiar to AI people to explain the brain.

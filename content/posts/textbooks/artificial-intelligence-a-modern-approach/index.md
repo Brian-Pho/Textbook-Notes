@@ -23,8 +23,8 @@ excerpt: "The artificial intelligence textbook. I've dropped it due to not belie
 - The field of artificial intelligence isn’t just to understand intelligence, but to also build intelligent entities.
 - AI is relevant to any intellectual task; it’s truly a universal field.
 - There are two dimensions that we can define AI
-  - Thought processes and reasoning versus behavior
-  - Human performance versus ideal performance
+    - Thought processes and reasoning versus behavior
+    - Human performance versus ideal performance
 - Are you concerned with thinking or behavior? Do you want to model humans or work from an ideal standard?
 ![Figure 1.1](figure1-1.png)
 - This book views intelligence as rational action. An intelligent agent takes the best possible action in a situation.
@@ -47,17 +47,17 @@ excerpt: "The artificial intelligence textbook. I've dropped it due to not belie
 - A collection of simple cells can lead to thought, action, and consciousness. Brains cause minds.
 - Behaviorism was a response to the lack of objective evidence in psychology. Introspection wasn’t taken as reliable evidence.
 - Three key steps of a knowledge-based agent
-  - A stimulus is translated into an internal representation
-  - The representation is manipulated by cognitive processes to derive a new internal representation
-  - The new internal representation is retranslated back into action
+    - A stimulus is translated into an internal representation
+    - The representation is manipulated by cognitive processes to derive a new internal representation
+    - The new internal representation is retranslated back into action
 - For AI to succeed, we need two things, intelligence and an artifact. The computer has been the artifact of choice.
 - The development of computer hardware has slowed down due to power dissipation problems. So manufacturers started to increase the number of cores rather than clock speed.
 - It’s expected that future increases in computing power will come from massive parallelism, a curious convergence with the properties of the brain.
 - AI also owes a debt to the software side of computer science, which has supplied the operating systems, programming languages, and tools needed to write modern programs (and papers about them).
 - "The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it."
 - AI needed to become a separate field because
-  - It embraces the idea of duplicating human faculties
-  - It is a branch of computer science
+    - It embraces the idea of duplicating human faculties
+    - It is a branch of computer science
 - *Physical symbol system hypothesis*: any system exhibiting intelligence must operate by manipulating data structures composed of symbols.
 - The fact that a program can find a solution in principle does not mean that the program contains any of the mechanisms needed to find it in practice.
 - One might say that to solve a hard problem, you have to almost know the answer already.
@@ -76,25 +76,25 @@ excerpt: "The artificial intelligence textbook. I've dropped it due to not belie
 - Success must be an external measure or else the agent could delude itself into thinking that its performance was perfect.
 - As a general rule, it’s better to design performance measures according to what one actually wants in the environment, rather than according to how one thinks the agent should behave.
 - Rationality depends on four factors
-  - The performance measure that defines success
-  - The agent’s prior knowledge of the environment
-  - The agent’s actions
-  - The agent’s percept sequence
+    - The performance measure that defines success
+    - The agent’s prior knowledge of the environment
+    - The agent’s actions
+    - The agent’s percept sequence
 - Omniscience is different from rationality in that an omniscient agent knows the actual outcome of its actions while the rational agents knows the expected outcome of its actions.
 - Actions of a rational agent
-  - Gather information through observation and exploration
-  - Learn by adapting to new information
-  - Autonomous by compensating for partial or incorrect knowledge
+    - Gather information through observation and exploration
+    - Learn by adapting to new information
+    - Autonomous by compensating for partial or incorrect knowledge
 - This chapter shows why I disagree with the rational approach. It requires too much data and decision making that even people don’t/can’t do. We don’t need to make the best choices to be intelligent.
 - Types of environment
-  - Fully observable vs partially observable
-  - Single agent vs multiagent
-  - Competitive vs cooperative
-  - Deterministic vs stochastic
-  - Episodic vs sequential
-  - Static vs dynamic
-  - Discrete vs continuous
-  - Known vs unknown
+    - Fully observable vs partially observable
+    - Single agent vs multiagent
+    - Competitive vs cooperative
+    - Deterministic vs stochastic
+    - Episodic vs sequential
+    - Static vs dynamic
+    - Discrete vs continuous
+    - Known vs unknown
 - The hardest case is partially observable, multiagent, stochastic, sequential, dynamic, continuous, and unknown.
 - An agent is made up of its architecture (hardware) and its program (software).
 - The agent’s program could be table mapping inputs to outputs.
@@ -102,15 +102,15 @@ excerpt: "The artificial intelligence textbook. I've dropped it due to not belie
 - Instead of memorizing all of the possible actions from inputs to outputs, we can calculate the action at the time of need.
 - E.g. Huge paper tables of square roots vs five-line program for Newton’s method
 - Four basic kinds of agent programs
-  - *Simple reflex*: follows condition-action (if-then) rules
-  - *Model-based reflex*: maintains an internal state (model) of the environment
-  - *Goal-based*: has information that describes desirable environment states
-  - *Utility-based*: has an internal performance measure of how close it is to the goal
-  - *Learning*: the process of modifying the agent to improve its performance
+    - *Simple reflex*: follows condition-action (if-then) rules
+    - *Model-based reflex*: maintains an internal state (model) of the environment
+    - *Goal-based*: has information that describes desirable environment states
+    - *Utility-based*: has an internal performance measure of how close it is to the goal
+    - *Learning*: the process of modifying the agent to improve its performance
 - Three types of representations
-  - *Atomic*: each state is indivisible
-  - *Factored*: each state can be split into variables or attributes
-  - *Structured*: things are related to each other
+    - *Atomic*: each state is indivisible
+    - *Factored*: each state can be split into variables or attributes
+    - *Structured*: things are related to each other
 
 # Part II: Problem-solving
 
@@ -122,11 +122,11 @@ excerpt: "The artificial intelligence textbook. I've dropped it due to not belie
 - An agent with several immediate options of unknown value can decide what to do by first examining future actions that eventually lead to states of known value.
 - *Search*: looking for a sequence of actions that reaches the goal.
 - A problem can be defined by five components
-  - *Initial state*: the starting state
-  - *Actions*: what the agent can do
-  - *Transition model*: a description of each action
-  - *Goal test*: checks if a given state is the goal state
-  - *Path cost*: the numerical cost of each path
+    - *Initial state*: the starting state
+    - *Actions*: what the agent can do
+    - *Transition model*: a description of each action
+    - *Goal test*: checks if a given state is the goal state
+    - *Path cost*: the numerical cost of each path
 - A solution is a sequence of actions that leads from the initial state to the goal state.
 - An optimal solution is a sequence that has the lowest path cost among all solutions.
 - *Abstraction*: the removal of detail from a representation.
@@ -139,34 +139,34 @@ excerpt: "The artificial intelligence textbook. I've dropped it due to not belie
 - Algorithms that forget their history are doomed to repeat it.
 - To avoid redundant paths, remember where one’s been.
 - Evaluate an algorithms performance in four ways
-  - *Completeness*: guaranteed to find a solution?
-  - *Optimality*: is the solution the optimal solution?
-  - *Time complexity*: how long will it take?
-  - *Space complexity*: how much memory will it take?
+    - *Completeness*: guaranteed to find a solution?
+    - *Optimality*: is the solution the optimal solution?
+    - *Time complexity*: how long will it take?
+    - *Space complexity*: how much memory will it take?
 - Apply this to the problem of AI where the goal is artificial general intelligence. There are certain paths that are more cost efficient and complete (the neuroscience path).
 - *Uninformed/blind search*: strategies that have no additional information about states beyond.
 - *Informed/heuristic* *search*: strategies that use problem-specific knowledge beyond the definition of the problem itself to aid in search.
 - Examples of blind search.
 - Breadth-first search
-  - All nodes are expanded at a given depth before any nodes at the next level are expanded
-  - Is complete
-  - Sometimes optimal
-  - Time complexity is exponential (the power is the depth of the tree)
-  - Space complexity is exponential (the power is the depth of the tree)
-  - The memory requirement are a bigger problem for BFS than the execution time
-  - Exponential complexity search problems cannot be solved by blind search methods for any but the smallest of instances
+    - All nodes are expanded at a given depth before any nodes at the next level are expanded
+    - Is complete
+    - Sometimes optimal
+    - Time complexity is exponential (the power is the depth of the tree)
+    - Space complexity is exponential (the power is the depth of the tree)
+    - The memory requirement are a bigger problem for BFS than the execution time
+    - Exponential complexity search problems cannot be solved by blind search methods for any but the smallest of instances
 - Uniform-cost search
-  - Expands the node with the lowest path cost
-  - Is complete
-  - Is optimal
-  - Time complexity can be worse than BFS
-  - Space complexity can be worse than BFS
+    - Expands the node with the lowest path cost
+    - Is complete
+    - Is optimal
+    - Time complexity can be worse than BFS
+    - Space complexity can be worse than BFS
 - Depth-first search
-  - Always expands the deepest node in the current frontier
-  - Is incomplete
-  - Is suboptimal
-  - Time complexity can be worse than BFS
-  - Space complexity is better than BFS
+    - Always expands the deepest node in the current frontier
+    - Is incomplete
+    - Is suboptimal
+    - Time complexity can be worse than BFS
+    - Space complexity is better than BFS
 - *Bidirectional search*: search from the initial state and from the goal in hopes that they will connect.
 - I am dropping this textbook at section 3.5.1 because it doesn’t align with how I believe AI should be built. Being aware of the sunk cost fallacy, I am dropping it now even though I’ve already put in some work.
 

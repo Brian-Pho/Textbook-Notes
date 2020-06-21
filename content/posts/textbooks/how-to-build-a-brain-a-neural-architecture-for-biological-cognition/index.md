@@ -25,50 +25,50 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - E.g. Planning, reasoning, motor control.
 - Cognitive architecture: a general proposal about the representations and processes that produce intelligent thought.
 - Three major approaches to the nature of cognition
-  - Symbolic approach (GOFAI): mind as computer.
-  - Connectionism (PDP): mind as brain.
-  - Dynamicism (embodied): mind as continuously coupled, nonlinear, dynamical systems.
+    - Symbolic approach (GOFAI): mind as computer.
+    - Connectionism (PDP): mind as brain.
+    - Dynamicism (embodied): mind as continuously coupled, nonlinear, dynamical systems.
 - Another approach not discussed much in this book
-  - Bayesian: the rational analysis of human behavior using probabilistic inference.
+    - Bayesian: the rational analysis of human behavior using probabilistic inference.
 - However, the Bayesian approach is mostly phenomenological as in it captures phenomena but not mechanisms; gets the “what” but not the “how/why”.
 - Metaphors for each approach
-  - Symbolic: Turing machine.
-  - Connectionists: Mental representations.
-  - Dynamicists: Watt Governor.
+    - Symbolic: Turing machine.
+    - Connectionists: Mental representations.
+    - Dynamicists: Watt Governor.
 ![Figure 1.2](figure1-2.png)
 - The author argues that we need to move beyond metaphors because they constrain our hypotheses.
 - E.g. Light as a wave and light as a particle constrained the idea that light is both a wave and particle under wave-particle duality.
 - We want an understanding that contains the strengths of the three approaches without drawing on their metaphors, but rather drawing on biological evidence.
 - Each approach grew out of critical evaluation of its predecessor.
-  - Symbolism was reacting to behaviorism.
-  - Connectionism was reacting to the over-reliance on digital computer architectures.
-  - Dynamicism was reacting to the under-reliance of time and the physical environment.
+    - Symbolism was reacting to behaviorism.
+    - Connectionism was reacting to the over-reliance on digital computer architectures.
+    - Dynamicism was reacting to the under-reliance of time and the physical environment.
 - Architectures used by each approach
-  - Symbolists use production systems.
-  - Connectionists use networks of nodes.
-  - Dynamicists use differential equations.
+    - Symbolists use production systems.
+    - Connectionists use networks of nodes.
+    - Dynamicists use differential equations.
 - What theoretical and functional aspects make a system a cognitive system?
 ![Table 1.1](table1-1.png)
 - Core Cognitive Criteria (CCC) for Theories of Cognition
-  1. Representational structure
+    1. Representational structure
       1. Systematicity: the fact that some sets of representations are linked in a consistent way.
       2. Compositionality: the meaning of complex representations is a direct composition of the meanings of the basic representations.
       3. Productivity: the ability of a system to generate a large number of representations based on a few basic representations and rules for combining them.
       4. The massive binding problem: how many basic representations are bound to construct a complex representation.
-  2. Performance concerns
+    2. Performance concerns
      1. Syntactic generalization: ability to generalize the syntax from few examples.
      2. Robustness: ability to handle internal and external changes.
      3. Adaptability: ability to update future performance using past experience.
      4. Memory: the encoding, storage, and retrieval of information.
      5. Scalability: the ability to grow while maintaining properties.
-  3. Scientific merit
+    3. Scientific merit
       1. Triangulation: that a good theory contacts many distinct sources of data in a consistent and unified way.
       2. Compactness: that a good theory can be stated compactly and without ad hoc additions.
 - CCC is concerned with evaluating a theory of cognition using four questions
-  1. How is semantics captured in the system?
-  2. How is the syntactic structure encoded and manipulated by the system?
-  3. How is the flow of information flexibly controlled in response to task demands?
-  4. How are memory and learning employed in the system?
+    1. How is semantics captured in the system?
+    2. How is the syntactic structure encoded and manipulated by the system?
+    3. How is the flow of information flexibly controlled in response to task demands?
+    4. How are memory and learning employed in the system?
 - Symbol grounding problem: how symbols are mapped to concepts.
 - E.g. How the word “dog” is mapped to a real dog and to the concept of a dog.
 - Semantic pointer: a neural representation that carries partial semantic content and can be composed into representational structures.
@@ -109,14 +109,14 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - Dale’s principle: how a given neuron isn’t both excitatory and inhibitory; it must be one or the other.
 - The NEF is a framework about how brains compute, not what they compute.
 - Three core principles of NEF
-  1. Neural representations are defined by the combination of nonlinear encoding and weighted linear decoding.
-  2. Transformations of neural representations are functions of the variables represented by neural populations. Transformations are determined using an alternately weighted linear decoding.
-  3. Neural dynamics are characterized by considering neural representations as state variables of dynamic systems.
+    1. Neural representations are defined by the combination of nonlinear encoding and weighted linear decoding.
+    2. Transformations of neural representations are functions of the variables represented by neural populations. Transformations are determined using an alternately weighted linear decoding.
+    3. Neural dynamics are characterized by considering neural representations as state variables of dynamic systems.
 - Neural systems are subject to significant amounts of noise so any analysis must account for the effects of noise on processing.
 - Sources of noise
-  - Synaptic unreliability
-  - Variability in the amount of neurotransmitter in each vesicle
-  - Jitter from axons
+    - Synaptic unreliability
+    - Variability in the amount of neurotransmitter in each vesicle
+    - Jitter from axons
 - NEF analyzes the brain using populations of neurons rather than single neurons.
 ![Figure 2.6](figure2-6.png)
 - NEF suggests that we should use codes to understand representations in neural systems.
@@ -126,13 +126,13 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - Spike raster: a neuron’s firing pattern.
 ![Figure 2.7](figure2-7.png)
 - Two aspects of decoding a neural response
-  - Population decoding: weighting each neuron by how useful it is for carrying information about the stimulus.
-  - Temporal decoding: neurons respond in time to a changing stimulus.
+    - Population decoding: weighting each neuron by how useful it is for carrying information about the stimulus.
+    - Temporal decoding: neurons respond in time to a changing stimulus.
 ![Figure 2.8](figure2-8.png)
 - Inputs typically change over time so decoding must also decode over time.
 - Adding more neurons improves both decoding mechanisms in two ways
-  - Allows the nonlinearities of tuning curves to be linearized via population decoding.
-  - Allows the spiky decoding to be smoothed out as they become more evenly distributed over time.
+    - Allows the nonlinearities of tuning curves to be linearized via population decoding.
+    - Allows the spiky decoding to be smoothed out as they become more evenly distributed over time.
 - Having specified the encoding and decoding mechanism, we need to specify the alphabet used.
 - Neural responses (encoded alphabet) code physical properties (decoded alphabet).
 - Neural responses come in the form of temporally patterned neural spikes over populations.
@@ -140,11 +140,11 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 ![Figure 2.9](figure2-9.png)
 - The first principle of the NEF provides a general characterization of the encoding and decoding relationship between mathematical objects with units and descriptions of patterns of spikes in populations of neurons.
 - Important properties of NEF representations
-  1. Can be used to describe arbitrarily complex representations.
+    1. Can be used to describe arbitrarily complex representations.
      - E.g. Angle of object, sound loudness, color, and depth.
-  2. Separation of mathematical objects being represented (state space) from neurons that are representing it (neuron space).
+    2. Separation of mathematical objects being represented (state space) from neurons that are representing it (neuron space).
      - This distinction accounts for the well-known redundancy found in neural systems.
-  3. Embraces the heterogeneity of neural representations
+    3. Embraces the heterogeneity of neural representations
 - A transformational decoder, in contrast to a representational decoder, performs a biased decoding of a representation instead of a pure decoding.
 - E.g. A representational decoder performs an $$x \rightarrow x$$ decoding/mapping while a transformational decoder performs an $$x \rightarrow f(x)$$ mapping.
 - These two types of decoding are sufficient for describing cognitive behavior.
@@ -153,19 +153,19 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - The state space representations of neural populations are the state variables of a dynamical system defined by control theory.
 ![Figure 2.15](figure2-15.png)
 - The following equation captures how a neuron’s connection weights are calculated
-  - $$w_{ij}=d_{i}^{f}Ae_{j}$$
-    - $$w$$ is the weight from neuron population $$i$$ to neuron population $$j$$.
+    - $$w_{ij}=d_{i}^{f}Ae_{j}$$
+        - $$w$$ is the weight from neuron population $$i$$ to neuron population $$j$$.
     - $$d_{i}^{f}$$ is the transformational decoders of the function $$f$$ for the neuron population $$i$$.
-    - $$A$$ is the dynamics matrix.
+        - $$A$$ is the dynamics matrix.
     - $$e_{j}$$ are the encoders for the neuron population $$j$$.
 - To determine each aspect of the equation
-  - Decoders need the specific tuning curves of neurons in the circuit.
-  - Dynamics need the kinds of neurotransmitters.
-  - The kinds of spiking need the single cell model and the tuning curves.
-  - Transformational decoders and dynamics need a high-level system goal.
+    - Decoders need the specific tuning curves of neurons in the circuit.
+    - Dynamics need the kinds of neurotransmitters.
+    - The kinds of spiking need the single cell model and the tuning curves.
+    - Transformational decoders and dynamics need a high-level system goal.
 - There are two distinct types of “levels”
-  - Levels of scale: where a property fits on a physical scale.
-  - Levels of abstraction: where an idea fits on a “detail” scale.
+    - Levels of scale: where a property fits on a physical scale.
+    - Levels of abstraction: where an idea fits on a “detail” scale.
 ![Table 2.1](table2-1.png)
 - A population of neurons acts together like a variable unlike traditional connectionist ANNs where the network represents a concept. Different activations of the population represent different concepts.
 
@@ -194,19 +194,19 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - Semantic pointers get around this problem by extending the pointer to contain semantic information themselves. This means that the relationship between pointer and concept isn’t arbitrary.
 - The information contained in a semantic pointer is a “compressed” version of what it points to.
 - In summary, semantic pointers are neural representations that are
-  - Described by high-dimensional vectors.
-  - Generated by compressing more complex representations.
-  - Used to access these more complex representations through decompression.
+    - Described by high-dimensional vectors.
+    - Generated by compressing more complex representations.
+    - Used to access these more complex representations through decompression.
 - Three different characterizations of semantic pointers
-  1. High-dimensional vectors.
-  2. Observable activity in a biological neural network.
-  3. Compressed representations.
+    1. High-dimensional vectors.
+    2. Observable activity in a biological neural network.
+    3. Compressed representations.
 - Dual-Coding theory: the idea that two levels of information processing occur in the brain.
 - There seems to be two levels of semantic processing
-  - Shallow processing: only comparing the lexical/word without meaning.
-    - E.g. Comparing if “cherry” and “card” are related. Nope.
-  - Deep processing: comparing the meaning of words.
-    - E.g. Comparing if “monkey” and “banana” are related. Yes.
+    - Shallow processing: only comparing the lexical/word without meaning.
+        - E.g. Comparing if “cherry” and “card” are related. Nope.
+    - Deep processing: comparing the meaning of words.
+        - E.g. Comparing if “monkey” and “banana” are related. Yes.
 - This difference seems to be due to deep processing engaging a kind of “simulation” of the circumstances described by the words.
 - E.g. Reading the word “water” and associating it with blue, wet, and thirst instead of it being just a word.
 - One experiment showed that simple lexical associations (shallow processing) activated language areas, whereas complex meaning processing (deep processing) activated perceptual areas as expected from Dual-Coding Theory.
@@ -238,8 +238,8 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 ![Figure 3.11](figure3-11.png)
 - This can also be used to explain how we “visualize” some motor actions by running from the top to bottom of the hierarchy to simulate the action.
 - Semantic pointers both
-  - Capture higher-order relationships because they can be dereferenced into lower level actions.
-  - Compress representations because they don’t contain the details captured by the lower level representations.
+    - Capture higher-order relationships because they can be dereferenced into lower level actions.
+    - Compress representations because they don’t contain the details captured by the lower level representations.
 - Because we can move in ways that we’ve never moved or imagine things that we’ve never seen, this supports the observation that past inputs are used to construct statistical models for generalization rather than remembering the raw input.
 - Motor and perception information processing occur in parallel and inform each other at the top of each hierarchy.
 - However, both hierarchies are independent as suggested by the different brain areas for both systems.
@@ -269,42 +269,42 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - $$A \approx C \circledast B' = F^{-1}(FC \cdot FSB)$$ where $$S$$ is the inverse transformation and $$B'$$ is the approximate inverse of $$B$$.
 ![Figure 4.3](figure4-3.png)
 - Example of unbinding
-  - Suppose we have a sentence encoded as the semantic pointer $$P$$ where $$P = verb \circledast chase + agent \circledast dog + theme \circledast boy$$ or in plain English “The dog chases the boy”.
-  - We can decode the role of the word “chase” by multiplying $$P$$ with the inverse of “chase”.
-  - $$chase' \circledast P = chase' \circledast (verb \circledast chase + agent \circledast dog + theme \circledast boy)$$
-  - $$chase' \circledast P = chase' \circledast verb \circledast chase + chase' \circledast agent \circledast dog + chase' \circledast theme \circledast boy$$
-  - $$chase' \circledast P = verb + noise + noise$$
-  - $$chase' \circledast P \approx verb$$
-  - Thus, we can determine that the role of the word “chase” is to act as the verb in the sentence.
+    - Suppose we have a sentence encoded as the semantic pointer $$P$$ where $$P = verb \circledast chase + agent \circledast dog + theme \circledast boy$$ or in plain English “The dog chases the boy”.
+    - We can decode the role of the word “chase” by multiplying $$P$$ with the inverse of “chase”.
+    - $$chase' \circledast P = chase' \circledast (verb \circledast chase + agent \circledast dog + theme \circledast boy)$$
+    - $$chase' \circledast P = chase' \circledast verb \circledast chase + chase' \circledast agent \circledast dog + chase' \circledast theme \circledast boy$$
+    - $$chase' \circledast P = verb + noise + noise$$
+    - $$chase' \circledast P \approx verb$$
+    - Thus, we can determine that the role of the word “chase” is to act as the verb in the sentence.
 - A semantic pointer can also be manipulated without having to decode it.
 - Example of rebinding
-  - Suppose we want to switch the roles and change the relation of $$P$$ using the semantic pointer $$T=agent' \circledast theme + chase' \circledast hug + theme' \circledast agent$$ or in plain English “The agent hugs the theme”.
-  - By convolving $$T$$ and $$P$$ we get $$T \circledast P = verb \circledast hug + agent \circledast boy + theme \circledast dog + noise$$ or in plain English “The boy hugs the dog”.
+    - Suppose we want to switch the roles and change the relation of $$P$$ using the semantic pointer $$T=agent' \circledast theme + chase' \circledast hug + theme' \circledast agent$$ or in plain English “The agent hugs the theme”.
+    - By convolving $$T$$ and $$P$$ we get $$T \circledast P = verb \circledast hug + agent \circledast boy + theme \circledast dog + noise$$ or in plain English “The boy hugs the dog”.
 ![Figure 4.5](figure4-5.png)
 - I wonder how well this system does against Winograd sentences.
 - Two issues with using VSA for language
-  - How to map language to VSA.
-  - How to map questions to transformations.
+    - How to map language to VSA.
+    - How to map questions to transformations.
 - NEF doesn’t rely on learning to construct model networks but learning is a property of cognition.
 - Induction: generating new rules from a few examples.
 - E.g. Since the Sun has risen every day for all of my life, I infer that the Sun will rise tomorrow.
 - In SPA, induction is the same as finding a transformation that works for several examples.
 - One way of finding a transformation is to use a set of example transformations and then apply them to the examples. Then minimize the error between the examples and the transformations.
 - Equation describing this process
-  - $$T_{i+1} = T_{i} - w_{i}[T_{i}-(A_{i}^{'} \circledast B_{i})]$$ where
+    - $$T_{i+1} = T_{i} - w_{i}[T_{i}-(A_{i}^{'} \circledast B_{i})]$$ where
     - $$T$$ is the transformation that we’re trying to learn
     - $$w$$ is how much weight is given to the current example
     - $$A$$ and $$B$$ are the pre- and post-transformation vectors provided as input
 - However, we need to address how an semantic pointer is cleaned of noise so that we can get a clean output.
 - There are two properties of neurons that we can exploit to clean semantic pointers of noise
-  - The current in a neuron is the dot product of an input vector with the neuron’s preferred direction in the vector space. So a similarity measure (such as the dot product) is a natural neural computation.
-  - Neurons have a nonlinear response as shown by the activation threshold. So computing nonlinear functions is a natural neural computation.
+    - The current in a neuron is the dot product of an input vector with the neuron’s preferred direction in the vector space. So a similarity measure (such as the dot product) is a natural neural computation.
+    - Neurons have a nonlinear response as shown by the activation threshold. So computing nonlinear functions is a natural neural computation.
 - Both of these properties can be combined to build a good clean-up memory.
 - The clean-up procedure
-  - For each item in the clean-up memory, set a small number of neurons to have a preferred direction vector that’s the same as that item.
-  - If that item is presented to the memory, then that set of neurons will be highly active.
-  - Setting the thresholds to be slightly positive in the direction of the preferred direction vector makes the neuron insensitive to inputs that are only slightly similar.
-  - So only inputs that are desired will be kept hence cleaning up the input.
+    - For each item in the clean-up memory, set a small number of neurons to have a preferred direction vector that’s the same as that item.
+    - If that item is presented to the memory, then that set of neurons will be highly active.
+    - Setting the thresholds to be slightly positive in the direction of the preferred direction vector makes the neuron insensitive to inputs that are only slightly similar.
+    - So only inputs that are desired will be kept hence cleaning up the input.
 - Scaling this clean-up procedure puts a limit on the dimensions of semantic pointers to around 500 dimensions.
 - Binding and clean-up networks allow SPA to gracefully degrade in performance thus matching biological data.
 - Going back to the problem of induction.
@@ -322,43 +322,43 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - This can be used to represent temporal transformations in representations.
 - How does SPA scale up to handle more representations and complex representations?
 - We can chain together memories and decode them in stages.
-  - E.g. Decoding the “dog” semantic pointer gives us $$dog = isA \circledast mammal + hasProperty \circledast friendly + likes \circledast bones$$.
+    - E.g. Decoding the “dog” semantic pointer gives us $$dog = isA \circledast mammal + hasProperty \circledast friendly + likes \circledast bones$$.
 - We can further decode the “mammal” semantic pointer to give us $$mammal = isA \circledast animal + hasProperty \circledast hair + produced \circledast milk$$.
 - This method of chaining/nesting increases the effective number of role-filler pairs.
 ![Figure 4.11](figure4-11.png)
 - There are two constraints when using SPA
-  - Number of dimensions. Smaller dimension spaces means that it’s more likely for vectors to collide or share some similarity that isn’t true.
-  - Number of neurons. Larger dimension spaces means that more neurons are needed to represent the dimensions which leads to more energy and more computation.
+    - Number of dimensions. Smaller dimension spaces means that it’s more likely for vectors to collide or share some similarity that isn’t true.
+    - Number of neurons. Larger dimension spaces means that more neurons are needed to represent the dimensions which leads to more energy and more computation.
 
 ## Chapter 5: Biological Cognition-Control
 
 - It’s important that we understand how the flow of information in the brain is controlled because it allows for flexible, robust, and adaptive cognition.
 - Control allows the brain to
-  - Switch between tasks.
-  - Route information to different parts of the brain.
-  - Determine, given the context, what to do next.
+    - Switch between tasks.
+    - Route information to different parts of the brain.
+    - Determine, given the context, what to do next.
 - This is the same idea as executive control in neuroscience.
 - The process of control can be broken down into two parts
-  - Determining an appropriate control signal.
-  - Applying that control signal.
+    - Determining an appropriate control signal.
+    - Applying that control signal.
 - Basal ganglia (BG): an interconnected cluster of brain areas under the neocortex and close to the thalamus.
 ![Figure 5.1](figure5-1.png)
 - The BG is implicated in action selection or choosing between alternative courses of action.
 - The BG selects an action by inhibiting the corresponding output.
 ![Figure 5.2](figure5-2.png)
 - SPA assumptions of the control process
-  - Cortex provides, stores, and manipulates representations.
-  - Basal ganglia maps current brain states to courses of action.
-  - Thalamus applies routing signals to cortical pathways.
+    - Cortex provides, stores, and manipulates representations.
+    - Basal ganglia maps current brain states to courses of action.
+    - Thalamus applies routing signals to cortical pathways.
 - SPA basic operations
-  - Temporal integration
-  - Multiplication
-  - Dot product
-  - Superposition
+    - Temporal integration
+    - Multiplication
+    - Dot product
+    - Superposition
 - Attention: routing information flexibly through the brain.
 - Two main functions of visuo-spatial attention
-  - Selection: identifying the appropriate targets of the system given current task demands.
-  - Routing: when a target is selected, how a system can take the selected information and direct additional resources towards it.
+    - Selection: identifying the appropriate targets of the system given current task demands.
+    - Routing: when a target is selected, how a system can take the selected information and direct additional resources towards it.
 - One way of implementing a control signal for the flow of information is through the use of inhibitory neurons and hierarchy.
 - Neurons at the top of the hierarchy send a signal down that blocks neurons from sending information, acting as a gate.
 - The control neurons determine which lower-level neurons are allowed to project their information to the higher-level neurons.
@@ -366,10 +366,10 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - The ARC matches biological evidence for attention effects and captures the physical constraints of neurons.
 - Not only can gating signals be used to route signals but they can also be used to process signals due to their ability to bind and unbind semantic pointers.
 - Example of a gating rule
-  - Suppose we have the statement: $$statement+blue \circledast circle + red \circledast square$$ and a question: $$question + red$$. In plain English, suppose we see a blue circle and a red square and we’re asking what is red.
-  - We can process this input by using an if-then statement
-    - If the visual cortex contains $$statement+?$$, then copy visual cortex to working memory.
-    - If visual cortex contains $$question+?$$, then apply visual cortex to the contents of working memory.
+    - Suppose we have the statement: $$statement+blue \circledast circle + red \circledast square$$ and a question: $$question + red$$. In plain English, suppose we see a blue circle and a red square and we’re asking what is red.
+    - We can process this input by using an if-then statement
+        - If the visual cortex contains $$statement+?$$, then copy visual cortex to working memory.
+        - If visual cortex contains $$question+?$$, then apply visual cortex to the contents of working memory.
 ![Figure 5.15](figure5-15.png)
 - If we apply the SPA to the Tower of Hanoi problem, the model matches human behavioral and fMRI data quite well.
 ![Figure 5.21](figure5-21.png)
@@ -378,22 +378,22 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 
 - We can think of learning as the accumulation of memories.
 - Types of learning
-  - Unsupervised
-  - Supervised
-  - Reinforcement
-  - Associative
+    - Unsupervised
+    - Supervised
+    - Reinforcement
+    - Associative
 - Types of memory
-  - Short-term
-  - Long-term
-  - Semantic
-  - Procedural
-  - Implicit
+    - Short-term
+    - Long-term
+    - Semantic
+    - Procedural
+    - Implicit
 - The timescales used to identify different kinds of memory seem to use more than one neural mechanism.
 - Serial working memory: the ability to store and recall items in order.
 - E.g. A phone number such as 432-234-7654.
 - Two properties of serial working memory have been observed
-  - Primacy: that items appearing earlier in the list have a greater chance of being accurately recalled.
-  - Recency: that items recently presented have a greater chance of being accurately recalled.
+    - Primacy: that items appearing earlier in the list have a greater chance of being accurately recalled.
+    - Recency: that items recently presented have a greater chance of being accurately recalled.
 - Both primacy and recency together account for a U-shaped response probability curve seen in serial working memory tasks.
 ![Figure 6.1](figure6-1.png)
 - Interestingly, the same U-shape curve is seen in free recall tasks, tasks without ordering, so it seems likely that both tasks use the same underlying mechanism for memory.
@@ -446,10 +446,10 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - We have to do this because it would be difficult to map directly from pixel-space to muscle-space so we perform an abstraction.
 ![Figure 7.7](figure7-7.png)
 - Rapid variable creation problem example
-  - Input: Biffle biffle rose zarple. Output: rose zarple.
-  - Input: Biffle biffle frog zarple. Output: frog zarple.
-  - Input: Biffle biffle dog zarple. Output: dog zarple.
-  - Input: Biffle biffle quoggie zarple. Output: ?
+    - Input: Biffle biffle rose zarple. Output: rose zarple.
+    - Input: Biffle biffle frog zarple. Output: frog zarple.
+    - Input: Biffle biffle dog zarple. Output: dog zarple.
+    - Input: Biffle biffle quoggie zarple. Output: ?
 - It seems that a variable has been created to receive any particular content and that won’t disrupt generalization performance.
 - This also seems to be related to pattern recognition as we can extend the pattern in the new case.
 - Hadley argues that learning rules can’t be used to solve this problem given the constraints on the speed of biological learning. Weight changes can’t happen quickly enough to explain these brief inputs.
@@ -485,16 +485,16 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - We also want robust architecture to withstand unforeseen circumstances or problems.
 - Computers with millions of transistors are robust but this robustness comes at the cost of power.
 - Problems that robustness has to deal with
-  - Internal degradation of the system itself.
-  - External environmental variability.
+    - Internal degradation of the system itself.
+    - External environmental variability.
 - Computers are built to handle the first problem but not the second problem. Brains have evolved to handle both problems.
 - The kinds of robustness we see in biological systems isn’t like that of computers.
 - They’re able to handle noise, loss and damage of neurons, imprecise inputs, and unpredictable environments.
 - Adaptability can be thought of as a superset of learning. While the two are related, learning is more commonly referred to as parameter updates in cognitive science.
 - For a system to learn from its experience, it must have some kind of memory.
 - Memory comes in two flavors
-  - The highly manipulable but relatively limited capacity of working memory.
-  - The relativity static nature but enormous capacity of long-term memory.
+    - The highly manipulable but relatively limited capacity of working memory.
+    - The relativity static nature but enormous capacity of long-term memory.
 - A cognitive architecture must address the relation between long-term memory and working memory.
 - Another factor in modeling cognition is that of scaling. Scaling isn’t as simple as “adding more of the same” because we don’t know which “same” is the most relevant until we actually scale.
 - Decomposition and simplification are essential strategies for explaining complex systems.
@@ -502,27 +502,27 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - E.g. Chaos theory and dynamical systems theory.
 - Although the interdisciplinary nature of the behavioral sciences can prove to be one of the most daunting aspects of performing research in the area, it also provides one of the most stringent tests of the quality of a purported theory of cognition.
 - Tips for building a model
-  - Identify the inputs and outputs. This helps determine the boundaries.
-  - Identify the required internal variables. This helps determine the state space.
-  - Identify the functions to be realized. This helps determine the connections between neural populations.
+    - Identify the inputs and outputs. This helps determine the boundaries.
+    - Identify the required internal variables. This helps determine the state space.
+    - Identify the functions to be realized. This helps determine the connections between neural populations.
 
 ## Chapter 9: Theories of Cognition
 
 - Problems with six past/present cognitive architectures
-  - Adaptive control of thought-rational (ACT-R)
-    - Lack of biological plausibility
-  - LISA
-    - Lack of scaling and neural plausibility
-    - Doesn’t solve the binding problem
-  - Neural Blackboard Architecture (NBA)
-    - Unrealistic assumptions about connectivity and robustness
-  - Vector Symbolic Architectures (VSA)
-    - Biological plausibility is untested and unconvincing
-    - Problems with scaling and control
-  - Local, Error-driven and Associative, Biologically Realistic Algorithm (Leabra)
-    - Dubious underlying computational methods such as k-Winner-Takes-All algorithm
-  - Dynamic Field Theory (DFT)
-    - Concerns with neural plausibility such as assuming all neurons are physiologically the same
+    - Adaptive control of thought-rational (ACT-R)
+        - Lack of biological plausibility
+    - LISA
+        - Lack of scaling and neural plausibility
+        - Doesn’t solve the binding problem
+    - Neural Blackboard Architecture (NBA)
+        - Unrealistic assumptions about connectivity and robustness
+    - Vector Symbolic Architectures (VSA)
+        - Biological plausibility is untested and unconvincing
+        - Problems with scaling and control
+    - Local, Error-driven and Associative, Biologically Realistic Algorithm (Leabra)
+        - Dubious underlying computational methods such as k-Winner-Takes-All algorithm
+    - Dynamic Field Theory (DFT)
+        - Concerns with neural plausibility such as assuming all neurons are physiologically the same
 - Implementing structured representations requires implementing how to bind representations.
 - One suggestion from visual neuroscience is that synchronous spiking activity is used to bind representations.
 ![Figure 9.1](figure9-1.png)
@@ -530,8 +530,8 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - E.g. If we see the color “red” and the shape “circle”, then we expect these to be synchronously represented in the brain and allowing subsequent areas to treat these features as bound.
 ![Figure 9.2](figure9-2.png)
 - The author believes that the failure to scale these cognitive architectures stems from a fundamental problem with attempting to neurally implement a classical representational scheme
-  - If we require each unit within a structure to appear in the representation of the overall structure, then we will either have an exponential explosion in the number of neurons required.
-  - Or a complex and brittle system for temporarily binding and rebinding terms that is incompatible with known neural constraints.
+    - If we require each unit within a structure to appear in the representation of the overall structure, then we will either have an exponential explosion in the number of neurons required.
+    - Or a complex and brittle system for temporarily binding and rebinding terms that is incompatible with known neural constraints.
 - Perhaps it’s a mistake to think that a good model of biological cognition will come from implementing a classical symbolic system.
 - Overall, it seems that past approaches are either biological or cognitive but not both. Architectures tend to sacrifice one for the other.
 - Compositionality seems to be an idealization of the way in which meaning actually maps to linguistic structure.
@@ -548,8 +548,8 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - If the SPA is truly both an integration and extension of the three standard approaches to cognitive science, then the distinction between these “paradigms” is not a useful one for the progress of the field.
 - In SPA, mental representations are characterized as some kind of vector, and computations are characterized as some kind of vector transformation.
 - SPA provides two mutually consistent views on the activities of neurons
-  - The directly measurable properties of the system such as spike patterns.
-  - Underlying vector space that is taken to be represented by those measurable properties.
+    - The directly measurable properties of the system such as spike patterns.
+    - Underlying vector space that is taken to be represented by those measurable properties.
 - The distinction between neuron space and state space representation is crucial because such mappings give us a way to connect concise, scientific, and low-dimensional descriptions to the high-dimensional neural activities that we record from brains.
 - These mappings can massively reduce the complexity of descriptions of brain functions, which is why appealing to the notion of”representation” is useful in the first place.
 - Like the V1 cortex, the SPA also considers concepts to be represented as Fourier-like decompositions with more complex representations being built out of more simple representations.
@@ -563,7 +563,7 @@ excerpt: "An introduction to a biologically plausible model of the brain."
 - The idea that semantics are encoded through compression and dereferenceing provides a natural explanation for the various amounts of time and effort required to extract meaning from experimental subjects.
 - The SPA inclusion of dynamics provides a consistent and grounded inclusion of time into models of biological cognition.
 - Challenges of SPA
-  - Not testable by a single or small set of experiments.
-  - Not a complete theory of mental function.
-  - Doesn’t cover other mental functions such as emotion, other modalities, cerebellum, and neural plasticity.
+    - Not testable by a single or small set of experiments.
+    - Not a complete theory of mental function.
+    - Doesn’t cover other mental functions such as emotion, other modalities, cerebellum, and neural plasticity.
 - Unraveling the mysteries of biological cognition is only a matter of time.

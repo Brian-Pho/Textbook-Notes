@@ -13,10 +13,10 @@ excerpt: "How to communicate with people."
 - Instead of the habitual, automatic reactions, our words become conscious responses based on the awareness of what we're seeing, feeling, and wanting.
 - NVC is used to shine the light on places where we hope to find what we're seeking.
 - Four components of NVC
-  - Observations
-  - Feelings
-  - Needs
-  - Requests
+    - Observations
+    - Feelings
+    - Needs
+    - Requests
 - The trick to observation is to do it without judgement or evaluation.
 - We simply say what is.
 - An example of the first three pieces.
@@ -24,13 +24,13 @@ excerpt: "How to communicate with people."
 - An example of the last piece.
 - E.g. "Would you be willing to put your socks in your room or in the washing machine?"
 - NVC process
-  - The actions we observe that affect our well-being.
-  - How we feel in relation to what we observe.
-  - The needs, values, desires that create our feelings.
-  - The concrete actions we request in order to enrich our lives.
+    - The actions we observe that affect our well-being.
+    - How we feel in relation to what we observe.
+    - The needs, values, desires that create our feelings.
+    - The concrete actions we request in order to enrich our lives.
 - Two parts of NVC
-  - Expressing honesty
-  - Receiving emphatically
+    - Expressing honesty
+    - Receiving emphatically
 
 ## Chapter 2: Communication That Blocks Compassion
 
@@ -48,10 +48,10 @@ excerpt: "How to communicate with people."
 - Another example of life-alienating communication is denial of responsibility.
 - We deny responsibility for our actions when we attribute their cause to factors outside ourselves.
 - Factors such as
-  - Impersonal forces such as "I had to" or "Because I said so"
-  - Identity such as "I drink because I'm an alcoholic"
-  - Others "He said so"
-  - Authority "Boss told me to"
+    - Impersonal forces such as "I had to" or "Because I said so"
+    - Identity such as "I drink because I'm an alcoholic"
+    - Others "He said so"
+    - Authority "Boss told me to"
 - We can replace language that implies lack of choice with language that acknowledges choice.
 - E.g. "I have to give grades because it's the policy" to "I choose to give grades because I want to keep my job."
 - Another example of life-alienating communication is saying our desires as demands.
@@ -75,12 +75,12 @@ excerpt: "How to communicate with people."
 - Expressing our vulnerability can help resolve conflicts.
 - One problem is due to the English language and the ambiguity of the word "feel".
 - In general, feelings are not expressed by the word "feel" when it's followed by
-  - That, like, as if
-    - E.g. I feel that you should know better.
-  - I, you, he, she, they, it
-    - E.g. I feel it is useless.
-  - Names or nouns
-    - E.g. I feel Amy has been responsible.
+    - That, like, as if
+        - E.g. I feel that you should know better.
+    - I, you, he, she, they, it
+        - E.g. I feel it is useless.
+    - Names or nouns
+        - E.g. I feel Amy has been responsible.
 - We need to distinguish feelings from thoughts.
 - We also need to distinguish between what we think we are and what we feel.
 - E.g. From "I feel inadequate" to "I feel disappointed" or "I feel impatient".
@@ -163,20 +163,20 @@ excerpt: "How to communicate with people."
 - Behind all of those intimidating messages are just people appealing to us to meet their needs.
 - When we paraphrase, the speaker receives confirmation that they had been understood.
 - We know that a speaker has received adequate empathy when
-  - We sense a release of tension
-  - They stop talking
+    - We sense a release of tension
+    - They stop talking
 - We need empathy to give empathy. We can't give what we don't have.
 - When we sense ourselves being defensive or unable to empathize, we need to
-  - Breathe and give ourselves empathy
-  - Scream nonviolently
-  - Remove ourselves physically
+    - Breathe and give ourselves empathy
+    - Scream nonviolently
+    - Remove ourselves physically
 
 ## Chapter 8: The Power of Empathy
 
 - Empathy is listening
-  - Without passing judgement
-  - Without trying to take responsibility
-  - Without trying to change them
+    - Without passing judgement
+    - Without trying to take responsibility
+    - Without trying to change them
 - Sometimes it's enough to just listen, to not do anything but listen.
 - It's harder to empathize with those who appear to posses more power, status, or resources, but we should still do it. They are people too.
 - Never put your 'but' in the face of an angry person.
@@ -204,12 +204,12 @@ excerpt: "How to communicate with people."
 - Translate "I have to…" to "I choose to… because I want…"
 - With every choice you make, be conscious of what need it serves.
 - Be aware of the following motivations
-  - For money
-  - For approval
-  - To escape punishment
-  - To avoid shame
-  - To avoid guilt
-  - To satisfy a sense of duty
+    - For money
+    - For approval
+    - To escape punishment
+    - To avoid shame
+    - To avoid guilt
+    - To satisfy a sense of duty
 - Know the price you pay for them.
 - When we speak a language that denies choice, we forfeit the life in ourselves.
 - The most dangerous of all behaviors may be doing things "because we're supposed to."
@@ -257,9 +257,9 @@ excerpt: "How to communicate with people."
 - E.g. "Would you be willing to…"
 - Also use action verbs to capture a request in more detail.
 - Important points for mediation
-  - Keep track of each party's needs.
-  - Keep the conversation present.
-  - Keep things moving, progress.
+    - Keep track of each party's needs.
+    - Keep the conversation present.
+    - Keep things moving, progress.
 - We need to be well practiced at hearing the need in any message.
 
 ## Chapter 12: The Protective Use of Force
@@ -268,10 +268,10 @@ excerpt: "How to communicate with people."
 - In such cases, the use of protective, not punitive, force is justified.
 - The intention behind the protective use of force is only to protect, not to punish, blame, or condemn.
 - Examples of punitive force
-  - Physical punishment
-  - Spanking
-  - Denial of some means of gratification
-  - Withdrawal of care or respect
+    - Physical punishment
+    - Spanking
+    - Denial of some means of gratification
+    - Withdrawal of care or respect
 - When we fear punishment, we focus on consequences, not on our own values.
 - E.g. If children brush their teeth because they fear shame and punishment, their oral health may improve but their self-respect will develop cavities.
 - Two questions that reveal the limitations of punishment
@@ -299,9 +299,9 @@ excerpt: "How to communicate with people."
     2. The specific needs of ours that have been fulfilled.
     3. The pleasant feelings from the fulfillment of those needs.
 - Summary
-  - This is what you did
-  - This is what I feel
-  - This is the need of mine that was met
+    - This is what you did
+    - This is what I feel
+    - This is the need of mine that was met
 - Template: "When you did a, I felt b because I needed c."
 - Receive appreciation by hearing their feelings and the needs that were fulfilled.
 - Paradoxically, despite our unease in receiving appreciation, most of us desire to be genuinely recognized and appreciated.

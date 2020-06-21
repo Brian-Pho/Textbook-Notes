@@ -18,10 +18,10 @@ excerpt: "How the connections in our brain make us who we are."
 - E.g Your genome doesn't store your memories and identical genetics doesn't mean you behave the same.
 - The brain is able to learn and go beyond the instincts programmed by its genes.
 - Neuron abilities (the four R’s)
-  - Reweight
-  - Reconnect
-  - Rewire
-  - Regenerate
+    - Reweight
+    - Reconnect
+    - Rewire
+    - Regenerate
 - Both genes and experiences shape the connectome. Just like how nature and nurture does.
 - You are more than your genes. You are your connectome.
 - A compatible view is that you are the activity of your neurons.
@@ -72,17 +72,17 @@ excerpt: "How the connections in our brain make us who we are."
 - This chapter starts with an introduction to neurotransmitters.
 - We should distinguish between the medium and the message. The medium being chemical signals, the message being unknown to current neuroscience.
 - Chemical signals are poor due to
-  - Slowness
-  - Imprecise
-  - Timing
+    - Slowness
+    - Imprecise
+    - Timing
 - Chemical signals have plenty of disadvantages but the brain can work around them.
 - The brain works around slowness by reducing the distance across the synaptic cleft.
 - The brain works around imprecise neurotransmitter targeting by recycling the the chemical before it has a chance to spread and cross talk.
 - The brain works around imprecise timing by recycling the neurotransmitters quickly.
 - Properties of chemical synaptic communication
-  - Speed
-  - Specificity
-  - Temporal precision
+    - Speed
+    - Specificity
+    - Temporal precision
 - Electrical signals in different neurites interfere with each other very little just like insulated wires.
 - Transmission of signals between neurites only occurs at specific junctions called synapses.
 - Spikes are useful for long range communication because it can be easily distinguished from noise and interference.
@@ -102,8 +102,8 @@ excerpt: "How the connections in our brain make us who we are."
 - If an inhibitory neuron hears many "yes" votes, then it votes "no".
 - Failing to spike is just as important to neural function as spiking.
 - Spikes have two functions
-  - Communication via axons.
-  - Decision-making via the cell body.
+    - Communication via axons.
+    - Decision-making via the cell body.
 - Both functions have different, and sometimes conflicting, goals. One tries to preserve information while the other tries to ignore irrelevant information.
 - So neurons may transmit some information but they also throw away a lot of information.
 - "Do you know why I'm so smart? It's because I'm so good at forgetting the right things."
@@ -133,8 +133,8 @@ excerpt: "How the connections in our brain make us who we are."
 - There's good evidence that retention of memories over long periods doesn't require neural activity.
 - E.g. People recovering from being brain dead can still remember even though their brain wasn't firing any spikes.
 - The dual-trace theory of memory
-  - Persistent spiking is the trace of short-term memory.
-  - Persistent connections are the trace of long-term memory.
+    - Persistent spiking is the trace of short-term memory.
+    - Persistent connections are the trace of long-term memory.
 - To store information for long periods, the brain transfers it from activity to connections.
 - To recall information, the brain transfers it back from connections to activity.
 - This theory explains why long-term memories can be retained without neural activity.
@@ -183,10 +183,10 @@ excerpt: "How the connections in our brain make us who we are."
 - Cell death acts like a sculptor, chiseling away material rather than adding it.
 - E.g. How fingers develop is that cell death between the fingers separates the fingers.
 - Four types of connectome changes
-  - Reweighting
-  - Reconnection
-  - Rewiring
-  - Regeneration
+    - Reweighting
+    - Reconnection
+    - Rewiring
+    - Regeneration
 
 # Part IV: Connectomics
 
@@ -251,16 +251,16 @@ excerpt: "How the connections in our brain make us who we are."
 - The partial connectome between two C. Elegans are not the same which demonstrates early evidence that connectomes aren’t the same.
 - Neurons with many synapses are likely the same but neurons with few synapses are likely different.
 - Why do axons bundle in white matter?
-  - They're shortcuts.
-  - The path has been established by other axons.
+    - They're shortcuts.
+    - The path has been established by other axons.
 - Hypothesis approach to science
-  - Formulate a hypothesis.
-  - Make a prediction based on the hypothesis.
-  - Perform an experiment to test the prediction.
+    - Formulate a hypothesis.
+    - Make a prediction based on the hypothesis.
+    - Perform an experiment to test the prediction.
 - Data approach to science
-  - Collect a vast amount of data.
-  - Analyze the data to detect patterns.
-  - Use these patterns to formulate hypotheses.
+    - Collect a vast amount of data.
+    - Analyze the data to detect patterns.
+    - Use these patterns to formulate hypotheses.
 - This parallels Thomas Kuhn’s idea that science progresses on two fronts, novelty in theory and novelty in evidence.
 - To understand why minds differ, we have to see how brains differ. That's why connectomes are important.
 
@@ -268,8 +268,8 @@ excerpt: "How the connections in our brain make us who we are."
 
 - The best way to change a brain is to help it change itself.
 - Two approaches to preventing neurological disorders
-  - Prevention
-  - Intervention
+    - Prevention
+    - Intervention
 - The rest of the chapter is on drugs using either approach and how the connectome may help.
 
 # Part V: Beyond Humanity
@@ -293,9 +293,9 @@ excerpt: "How the connections in our brain make us who we are."
 - Henry Markram neuroscientist.
 - If all parts of a machine are the same, then the functionality of the machine depends entirely on the organization of its parts.
 - The progression of identity
-  - You are a bunch of atoms.
-  - You are a machine of DNA.
-  - You are a bunch of information.
+    - You are a bunch of atoms.
+    - You are a machine of DNA.
+    - You are a bunch of information.
 
 ## Epilogue
 

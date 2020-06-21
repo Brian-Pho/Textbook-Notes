@@ -27,16 +27,16 @@ excerpt: "An introduction to JavaScript."
 ## Chapter 1: Values, Types, and Operators
 
 - Special numbers
-  - Infinity
-  - -Infinity
-  - NaN (Not a number)
+    - Infinity
+    - -Infinity
+    - NaN (Not a number)
 - Strings can be in single quotes, double quotes, or back ticks.
 - NaN != NaN
 - Conditional operator: condition ? true : false
 - Special empty values
-  - null
-  - undefined
-  - The difference between these two is an accident in JS but it doesn’t matter most of the time.
+    - null
+    - undefined
+    - The difference between these two is an accident in JS but it doesn’t matter most of the time.
 - JS performs *type coercion* when the types of two values is different.
 - Use `===` to check for value and type equality most of the time unless the types are known.
 - Use `${variableName}` to use the value of variableName in a string.
@@ -86,8 +86,8 @@ excerpt: "An introduction to JavaScript."
 - If you’re worried that it’s too slow - which it usually isn’t since most code simply isn’t executed often enough to take any significant amount of time - you can measure afterward and improve it if necessary
 - A useful principle is to not add cleverness unless you are absolutely sure you’re going to need it.
 - Functions can be roughly divided into those that are called for their side effects and those that are called for their return value.
-  - Side effect such as printing the right value.
-  - Return value as in returning some value.
+    - Side effect such as printing the right value.
+    - Return value as in returning some value.
 
 ## Chapter 4: Data Structures: Objects and Arrays
 
@@ -366,12 +366,12 @@ excerpt: "An introduction to JavaScript."
 - Events are said to propagate from children to parents all the way to the root node.
 - To stop the propagation, use the `event.stopPropagation()` function.
 - Types of JS events
-  - Keys
-  - Mouse
-  - Touch
-  - Scroll
-  - Focus
-  - Load
+    - Keys
+    - Mouse
+    - Touch
+    - Scroll
+    - Focus
+    - Load
 - Use a web worker for multi-threaded programs.
 
 ## Chapter 16: Project: A Platform Game
@@ -385,10 +385,10 @@ excerpt: "An introduction to JavaScript."
 ## Chapter 18: HTTP and Forms
 
 - Common HTTP methods
-  - GET
-  - DELETE
-  - PUT
-  - POST
+    - GET
+    - DELETE
+    - PUT
+    - POST
 - E.g. of HTML page sending an HTTP request
 
 ```html

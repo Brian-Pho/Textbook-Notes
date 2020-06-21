@@ -18,9 +18,9 @@ excerpt: "A good introductory book into the field that exists between brains and
 
 - The major theme of this book is that the design of computing hardware makes a huge difference in what computers can do and how effectively they can do it.
 - Three flavors of computation
-  - Analog
-  - Digital
-  - Brain-like
+    - Analog
+    - Digital
+    - Brain-like
 - An analog device transforms one continuous quantity directly into another continuous quantity.
 - E.g. Telephone converting sound pressure into electrical voltage.
 - A digital device transforms analog signals into discrete signals.
@@ -57,13 +57,13 @@ excerpt: "A good introductory book into the field that exists between brains and
 
 - Digital hardware is hardware that is based on two states.
 - Other forms of computers
-  - Fluidic logic
-  - Optical computing
-  - DNA computing
-  - Game of Life
-  - Tinker toys
-  - Neurons
-  - Quantum computing
+    - Fluidic logic
+    - Optical computing
+    - DNA computing
+    - Game of Life
+    - Tinker toys
+    - Neurons
+    - Quantum computing
 - Fast computers must be small computers due to communication costs.
 - Brains have problems with some of the same limitations as do computers, just at a different order of scale.
 - The speed of light is irrelevant to biological computation and heating can be handled with standard and well proven biological mechanisms.
@@ -102,24 +102,24 @@ excerpt: "A good introductory book into the field that exists between brains and
 - Digital computers are fast, reliable, and flexible but are hard to work with.
 - Brains lie somewhere between analog and digital.
 - What makes human brains special seems to be
-  - The connectivity between neurons
-  - The size of preexisting structures
-  - The operating parameters controlling excitability and inhibition
+    - The connectivity between neurons
+    - The size of preexisting structures
+    - The operating parameters controlling excitability and inhibition
 - This chapter is the "spec sheet" for brain-like computation.
 - The brain is a "kludge" due to existing processes getting new functions. Think like how software must constantly adapt to changes which makes it spaghetti code.
 - E.g. The brain has black-and-white TV but then discovers color. Instead of ditching the black-and-white TV, it keeps both and evolves both to serve different functions. Think rods and cones. This isn’t as optimal as designing the system from scratch.
 - The claim is that many mental functions are modified from what they were intended to do.
 - Desirable properties of neurons
-  - Spatial arrangement affects computation
-  - High degree of information integration via synapses
-  - Connections can change their strength
-  - Action potentials allows reliable long-distance transmission of information over poor conductors
+    - Spatial arrangement affects computation
+    - High degree of information integration via synapses
+    - Connections can change their strength
+    - Action potentials allows reliable long-distance transmission of information over poor conductors
 - Undesirable properties of neurons
-  - Damage-prone
-  - High energy consumption
-  - Slow, noisy, unreliable
-  - Complex way of changing connection strength
-  - Sparse connectivity means a limited number of connections
+    - Damage-prone
+    - High energy consumption
+    - Slow, noisy, unreliable
+    - Complex way of changing connection strength
+    - Sparse connectivity means a limited number of connections
 - Instead of the neuron being the basic computational unit of the brain, what about small groups of neurons?
 - E.g. Kidney and liver cells contain complex higher level structures.
 - How is the brain organized?
@@ -176,10 +176,10 @@ excerpt: "A good introductory book into the field that exists between brains and
 - They can’t though due to fundamental physical constraints due to high membrane capacity and high resistance.
 - A neuron emits a series of action potentials whose frequency of firing provides the result of the neuron’s "analog" computation from its inputs.
 - Why are neurons slow?
-  - The membrane and its time and space constants
-  - The action potential itself
-  - Synaptic delay
-  - Voltage to frequency conversion
+    - The membrane and its time and space constants
+    - The action potential itself
+    - Synaptic delay
+    - Voltage to frequency conversion
 
 ## Chapter 7: The Brain Works by Logic
 
@@ -209,8 +209,8 @@ excerpt: "A good introductory book into the field that exists between brains and
 - E.g. Grandmother cell that only responds to grandmother.
 - The evidence suggests no but there does seem to be highly selective *groups*.
 - Reasoning
-  - The super selective cell doesn’t generalize well.
-  - Too dependent on one cell and if it dies, the concept is lost.
+    - The super selective cell doesn’t generalize well.
+    - Too dependent on one cell and if it dies, the concept is lost.
 
 **Distributed representations**
 
@@ -250,8 +250,8 @@ excerpt: "A good introductory book into the field that exists between brains and
 - E.g. Rod cells for light intensity, cone cells for color.
 - Both the topographic map and the selectivity of single units are required for allowing the frog to detect where the bug is.
 - Since there is no evidence for the "grandmother" cell, the questions become
-  - How many cells form the representation
-  - What their behavior looks like
+    - How many cells form the representation
+    - What their behavior looks like
 - There’s strong evidence that representations are "sparsely" represented.
 
 **Humans: How a human sees Jennifer Aniston**
@@ -307,9 +307,9 @@ excerpt: "A good introductory book into the field that exists between brains and
 - E.g. Memory palace associates a place with a memory or the Russian reporter with synesthesia.
 - This parallels computers as simple memory is stored but only through software can complex associations of memory be created to do work.
 - Problems with simple association
-  - *Literal*: an input links to an output and that’s it.
-  - *Control structures*: instead of using all inputs, only select a few to launch the association.
-  - *Logic*: associative networks have no relationship to logic.
+    - *Literal*: an input links to an output and that’s it.
+    - *Control structures*: instead of using all inputs, only select a few to launch the association.
+    - *Logic*: associative networks have no relationship to logic.
 - What is the physical basis of memory?
 - Memory is stored in the synapses that couple nerve cells together via the synapse’s strength.
 - The connection between change in synapse strength and change in behavior has been conclusively shown.
@@ -335,9 +335,9 @@ excerpt: "A good introductory book into the field that exists between brains and
 - Evidence indicates that there is little that is structurally new in our brains other than change in size.
 - However, it's likely that there have also been a series of changes in the details of the hardware and its connections that make this large brain work better and let it develop and use better software.
 - The problems with big brains
-  - Increased communication delay between neurons
-  - Long gestation period (baby brain is a third the size of an adult brain)
-  - Difficultly in getting the baby born
+    - Increased communication delay between neurons
+    - Long gestation period (baby brain is a third the size of an adult brain)
+    - Difficultly in getting the baby born
 - The cortex is composed of 100 distinct regions known as Brodmann regions.
 - The regions are similar but slightly different.
 - Applying our understanding of electronic information flow to brains doesn’t work well because it'sn’t a clean input to output processing.
@@ -359,8 +359,8 @@ excerpt: "A good introductory book into the field that exists between brains and
 - Unlike an ANN, brains have sparse connectivity.
 - The cortical processing chain is flat without many sequential steps.
 - Candidates for local interactions
-  - *Recurrent collaterals*: axons connecting nearby pyramidal cells.
-  - *Cortical columns*:  an intermediate level of neural organization where nearby cortical neurons seem to work together.
+    - *Recurrent collaterals*: axons connecting nearby pyramidal cells.
+    - *Cortical columns*:  an intermediate level of neural organization where nearby cortical neurons seem to work together.
 ![Figure 11.2](figure11-2.png)
 - There is substantial local processing power as shown by the large number of local connections.
 - A negative feedback system leads to a virtuous circle.
@@ -393,8 +393,8 @@ excerpt: "A good introductory book into the field that exists between brains and
 - E.g. Lateral inhibition in Limulus for reproduction and the frog’s eye for seeing bugs.
 - Engineers write poetry. Scientists write prose. Scientists see what is and try to explain it. Engineers try to make what never was.
 - Engineering problems with neural networks
-  - Accuracy
-  - Capacity
+    - Accuracy
+    - Capacity
 - However, it'sn’t necessary to store everything, only store the important stuff.
 - Control associations through attention-like mechanisms.
 - Integrating lots of information from the real world and forming generalizations is like induction.
@@ -413,13 +413,13 @@ excerpt: "A good introductory book into the field that exists between brains and
 - Central and peripheral members of a category are often used somewhat differently in practice.
 - E.g. "There’s a bird on the lawn" versus "There’s a penguin on the lawn".
 - Important experimental results about concepts
-  - People are good at determining whether an example is a central or a peripheral member of a category.
-  - The response time for central members is faster.
-  - A central member of a category tends to be used as the default in a sentence. Think common sense.
+    - People are good at determining whether an example is a central or a peripheral member of a category.
+    - The response time for central members is faster.
+    - A central member of a category tends to be used as the default in a sentence. Think common sense.
 - Concepts hold the useful regularities found in the environment. Think pattern recognition.
 - Associative memory is composed of two parts
-  - Sensory-based information, memories, is the raw material of cognition.
-  - Memories can become associatively linked to form a network.
+    - Sensory-based information, memories, is the raw material of cognition.
+    - Memories can become associatively linked to form a network.
 - *Semantic network*: a network that represents the semantic relations between concepts.
 ![Figure 13.2](figure13-2.png)
 - An ISA semantic network not only saves memory by reducing duplicates, it also can answer queries by moving among the nodes.
@@ -441,8 +441,8 @@ excerpt: "A good introductory book into the field that exists between brains and
 ![Figure 13.7](figure13-7.png)
 - Associative learning with proper data representation is capable of extracting concepts.
 - Two powers of our cognitive system
-  - *Generalization*: taking something specific and applying it more broadly.
-  - *Abstraction*: removing unnecessary details in a model to create something that isn’t concrete.
+    - *Generalization*: taking something specific and applying it more broadly.
+    - *Abstraction*: removing unnecessary details in a model to create something that isn’t concrete.
 - Generalizations create abstractions.
 - Both the learning and the data has to be present and properly matched to get the right generalizations.
 - A different representation would’ve failed in figure 13.7.
@@ -508,19 +508,19 @@ excerpt: "A good introductory book into the field that exists between brains and
 - Numerosity can also be calculated via topographical maps and traveling waves.
 ![Figure 15.2](figure15-2.png)
 - This fits the experimental data as
-  - Additional items require more time for the waves to interfere.
-  - It computes both numerosity and similarity.
-  - Too many items crowd the network or cause inhibition or we just don’t have the networks for more than five items.
+    - Additional items require more time for the waves to interfere.
+    - It computes both numerosity and similarity.
+    - Too many items crowd the network or cause inhibition or we just don’t have the networks for more than five items.
 - Why, if we have been in more or less the same biological form for more than a hundred thousand years, did it take so long for us to get smart?
 - Perhaps cognitive evolution is very slow and difficult due to abstractions being easy to see, but not easy to name and communicate.
-  - Observe the system.
-  - Look for emerging invariances.
-  - Give it a name.
+    - Observe the system.
+    - Look for emerging invariances.
+    - Give it a name.
 - Ambiguity causes problems for simple associative systems because the same input can lead to different outputs.
 - To clear up ambiguity, use additional information from the context.
 - An interesting cognitive experiment to compare intensities
-  - Which is greater? 11 or 99?
-  - Which is greater? 73 or 74?
+    - Which is greater? 11 or 99?
+    - Which is greater? 73 or 74?
 - It takes longer for people to answer the second question.
 - This delay when the gap is smaller is also seen with sensory stimuli such as which is louder, brighter, or heavier.
 - The delay is known as the "symbolic distance".
@@ -571,11 +571,11 @@ excerpt: "A good introductory book into the field that exists between brains and
 - Not everything connects to everything.
 - Cells in the higher levels of the visual system have much less spontaneous activity than in the lower regions.
 - Stabilize neurons through
-  - Inhibition
-  - Negative feedback loops
-  - Maximum neuronal firing rate
-  - Letting the voltage not reach the threshold potential
-  - Increase the distance to let the potential dissipate
+    - Inhibition
+    - Negative feedback loops
+    - Maximum neuronal firing rate
+    - Letting the voltage not reach the threshold potential
+    - Increase the distance to let the potential dissipate
 - Hebbian synaptic learning probably occurs at the lowest level of organization, but what about the higher levels?
 ![Figure 17.8](figure17-8.png)
 - It’s theorized that larger assemblies can be more stable because of the extensive connections.
@@ -589,8 +589,8 @@ excerpt: "A good introductory book into the field that exists between brains and
 ## Chapter 19: Apotheosis: Yes! Or No?
 
 - Three types of computers
-  - Digital
-  - Analog
-  - Brain-like
+    - Digital
+    - Analog
+    - Brain-like
 - Brains are between digital and analog. It’s like analog because of how specialized the hardware is but it’s like digital because of how generalized the software is.
 - The flexibility from learning and association.

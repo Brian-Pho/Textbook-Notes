@@ -11,18 +11,18 @@ excerpt: "Learning to learn."
 
 - *Learning*: acquiring knowledge and skills and having them available from memory so you can make sense of future problems and opportunities.
 - Aspects of learning
-  1. Learning requires memory.
-  2. Learning and remembering happens throughout our lifetime.
-  3. Learning is an acquired skill.
+    1. Learning requires memory.
+    2. Learning and remembering happens throughout our lifetime.
+    3. Learning is an acquired skill.
 - The best ways to learn
-  - *Retrieval practice*: recalling facts or concepts or events from memory.
-  - E.g. Tests, quizzes, flash cards.
-  - *Spaced practice*: spreading out your practice sessions.
-  - E.g. Studying for an hour and then taking a break versus cramming.
-  - *Interleaved practice*: mixing different, but related, subjects while studying.
-  - E.g. Studying computer science and computational neuroscience at the same time.
-  - *Attempt practice*: attempting a problem before being taught the solution.
-  - E.g. Not looking at the answers immediately.
+    - *Retrieval practice*: recalling facts or concepts or events from memory.
+    - E.g. Tests, quizzes, flash cards.
+    - *Spaced practice*: spreading out your practice sessions.
+    - E.g. Studying for an hour and then taking a break versus cramming.
+    - *Interleaved practice*: mixing different, but related, subjects while studying.
+    - E.g. Studying computer science and computational neuroscience at the same time.
+    - *Attempt practice*: attempting a problem before being taught the solution.
+    - E.g. Not looking at the answers immediately.
 - One of the best habits of a learner is to regularly self-quiz themselves to recalibrate their understanding.
 - Learning is deeper and more durable when its effortful.
 - We're poor judges of when we're learning well and when we're not.
@@ -36,12 +36,12 @@ excerpt: "Learning to learn."
 - Students work hard to capture every word they hear, labouring under the misapprehension that the essence of the subject lies in the syntax in which its described.
 - Mastering the lecture or text isn't the same as mastering the ideas behind them.
 - Questions to ask yourself
-  - Had he used the set of key concepts in the back of each chapter to test himself?
-  - Could he look at a concept, define it, and use it in a paragraph?
-  - While he was reading, had he thought of converting the main points of the text into a series of questions and then later tried to answer them while he was studying?
-  - Had he at least rephrased the main ideas in his own words as he read?
-  - Had he tried to relate them to what he already knew?
-  - Had he looked for examples outside the text?
+    - Had he used the set of key concepts in the back of each chapter to test himself?
+    - Could he look at a concept, define it, and use it in a paragraph?
+    - While he was reading, had he thought of converting the main points of the text into a series of questions and then later tried to answer them while he was studying?
+    - Had he at least rephrased the main ideas in his own words as he read?
+    - Had he tried to relate them to what he already knew?
+    - Had he looked for examples outside the text?
 - One cannot apply what one knows in a practical manner if one does not know anything to apply.
 - Mastery requires both the possession of ready knowledge and the conceptual understanding of how to use it.
 - Retrieval (testing) interrupts forgetting.
@@ -83,8 +83,8 @@ excerpt: "Learning to learn."
 - Consolidation helps organize and solidify learning and so does retrieval after a lapse of some time.
 - The act of retrieving a memory from long-term storage can both strengthen the memory traces and make them modifiable again. This process is called reconsolidation.
 - Learning, remembering, and forgetting work together in interesting ways.
-  1. As we re-code and consolidate new material from short-term memory into long-term memory, we must anchor it there securely.
-  2. We must associate the material with a diverse set of cues that will make us adept at recalling the knowledge later. Having effective retrieval cues is an aspect of learning that often goes overlooked.
+    1. As we re-code and consolidate new material from short-term memory into long-term memory, we must anchor it there securely.
+    2. We must associate the material with a diverse set of cues that will make us adept at recalling the knowledge later. Having effective retrieval cues is an aspect of learning that often goes overlooked.
 - The task is more than committing knowledge to memory, being able to retrieve it when we need it is just as important.
 - While we have an infinite capacity to learn, we don't have an infinite capacity to retrieve what we've learnt.
 - It is one skill to hit a curveball when you know a curveball will be thrown; it is a different skill to hit a curveball when you don't know its coming. Baseball players need to build the latter skill but they often practice the former skill.
@@ -99,9 +99,9 @@ excerpt: "Learning to learn."
 - Generative learning is generating the answer rather than recalling it. Aka trial and error.
 - To be desirable, a difficulty must be something learners can overcome through increased effort.
 - Learning is at least a three step process
-  1. encoding
-  2. consolidation
-  3. retrieval
+    1. encoding
+    2. consolidation
+    3. retrieval
 - Learning always builds on a store of prior knowledge. We interpret and remember events by building connections to what we already know.
 - When practice conditions are varied or retrieval is interleaved with practice from other material, we increase our abilities of discrimination and induction and the versatility with which we can apply the learning in new settings.
 
@@ -129,9 +129,9 @@ excerpt: "Learning to learn."
 
 - While it's true that most all of us have a decided preference for how we like to learn new material, the premise behind learning styles is that we learn better when the mode of presentation matches the particular style in which an individual is best able to learn. That's the critical claim.
 - Three parts of intelligence
-  - analytical
-  - creative
-  - practical
+    - analytical
+    - creative
+    - practical
 - Where aptitude tests and learning styles emphasizes our strengths and encourages us to focus on them, dynamic testing helps us to discover our weakness and correct them.
 - High structure builders learn new material better than low structure builders.
 - High structure builders develop the skill to identify foundational concepts and their key building blocks and to sort new information based on whether it adds to the larger structure and one's knowledge or is extraneous and can be put aside.
@@ -139,10 +139,10 @@ excerpt: "Learning to learn."
 - Be the one in charge. Mastery, especially of complex ideas, skills, and processes, is a quest.
 - Embrace the notion of successful intelligence. You will become ever more competent and versatile if you also use testing and trial and error to continue to improve in the areas where your knowledge or performance are not pulling their weight.
 - Adopt active learning strategies
-  - Be aggressive with retrieval practice, distributed, interleaved testing.
-  - Don't rely on what feels best.
-  - Don't assume that you're doing something wrong if the learning feels hard.
-  - Distill the underlying principles; build the structure. What kind of scaffold or framework can you imagine that holds these central ideas together.
+    - Be aggressive with retrieval practice, distributed, interleaved testing.
+    - Don't rely on what feels best.
+    - Don't assume that you're doing something wrong if the learning feels hard.
+    - Distill the underlying principles; build the structure. What kind of scaffold or framework can you imagine that holds these central ideas together.
 - By abstracting the underlying rules and piecing them into a structure, you go for more than knowledge. You go for knowhow and that kind of mastery will put you ahead.
 
 ## Chapter 7: Increase Your Abilities
@@ -169,11 +169,11 @@ excerpt: "Learning to learn."
 - Space out your retrieval practice
 - Interleaved the study of different problem types
 - Other effective study strategies
-  - Elaboration - finding additional layers of meaning in new material
-  - Generation - attempting to answer a question or solve a problem before being shown the answer/solution
-  - Reflection - reflecting on learned material
-  - Calibration - aligning your judgments of what you know and don't know with objective feedback
-  - Mnemonic devices - ways to store information and find it again
+    - Elaboration - finding additional layers of meaning in new material
+    - Generation - attempting to answer a question or solve a problem before being shown the answer/solution
+    - Reflection - reflecting on learned material
+    - Calibration - aligning your judgments of what you know and don't know with objective feedback
+    - Mnemonic devices - ways to store information and find it again
 
 ### Tips for Teachers
 
