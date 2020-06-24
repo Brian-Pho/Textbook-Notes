@@ -19,7 +19,7 @@ Here's a list of the books that I plan to read. This list will change and be upd
 ### Neuroscience
 
 - The Cognitive Neurosciences (6th Ed.)
-- Cognitive Neuroscience - The Biology of the Mind (5th Ed.)
+- *Cognitive Neuroscience - The Biology of the Mind (5th Ed.)
 - Spikes - Exploring the Neural Code
 - Principles of Neural Information Theory
 - Biophysics of Computation - Information Processing in Single Neurons
@@ -32,7 +32,7 @@ Here's a list of the books that I plan to read. This list will change and be upd
 - Open MIND - philosophy and the mind sciences in the 21st century
 - The Neurology of Consciousness (2nd Ed.)
 - The Neuroscience of Intelligence
-- Biopsychology (10th Ed.)
+- *Biopsychology (10th Ed.)
 
 ### Neuromorphic Computing
 
@@ -49,7 +49,6 @@ Here's a list of the books that I plan to read. This list will change and be upd
 - Talking Nets - An Oral History of Neural Networks
 - The Handbook Of Brain Theory And Neural Networks (2nd Ed.)
 - Sparse Distributed Memory
-- The Deep Learning Revolution
 
 ### Other
 

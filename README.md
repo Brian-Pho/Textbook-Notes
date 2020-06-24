@@ -7,7 +7,6 @@ CR4-DL Link: <https://brianpho.com/CR4-DL>
 The website was built using Gatsby and React-Bootstrap, and the theme was heavily inspired by
 
 - <https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/>
-- <https://www.gatsbyjs.org/starters/GatsbyCentral/gatsby-v2-starter-lumen/>
 - <https://github.com/fongandrew/hydeout>
 - <https://github.com/cotes2020/jekyll-theme-chirpy>
 - <https://www.facebook.com/careers/>
@@ -17,7 +16,6 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 - [ ] Clean up notes
 - [ ] Clean up grammar and spelling
 - [ ] Run notes through Grammarly
-- [ ] Convert LaTeX course notes into Markdown using [Pandoc](https://pandoc.org/getting-started.html)
 - [ ] Add a review section to all notes
 
 ## Favicon Generator
@@ -37,7 +35,6 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 
 - <https://www.markdownguide.org>
 - <https://github.com/DavidAnson/markdownlint/blob/master/doc/Rules.md>
-- <https://github.github.com/gfm/>
 - <https://www.gatsbyjs.org/docs/gatsby-cli/>
 - <https://regexr.com/>
 - <https://www.thepunctuationguide.com/>

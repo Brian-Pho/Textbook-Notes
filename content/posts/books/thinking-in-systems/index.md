@@ -126,7 +126,6 @@ excerpt: "Insights on how to think about and analyze systems."
 
 - The second type of feedback loops is the reinforcing loop.
 - *Reinforcing loop*: a feedback loop that enhances whatever direction of change is imposed on it.
-- *Reinforcing loop*: self-enhancing feedback loops that lead to exponential grow or runaway collapse over time.
 - E.g. The more prices go up, the more money people will need to make. And the more money people make, the more money companies need to pay people. And to get more money, companies make prices go up.
 - E.g. Compound interest.
 - Reinforcing loops amplify and snowball, causing a vicious or virtuous cycle that can cause healthy growth or runaway destruction.
@@ -462,66 +461,66 @@ excerpt: "Insights on how to think about and analyze systems."
 - Leverage points are counterintuitive.
 - A list of leverage points to look for in increasing leverage/power.
     1. Numbers
-          - Changing variables rarely changes the behavior of the national economy system.
-          - Numbers aren’t boundaries of good and bad. Often there is a gray area that benefits all parties.
+        - Changing variables rarely changes the behavior of the national economy system.
+        - Numbers aren’t boundaries of good and bad. Often there is a gray area that benefits all parties.
     2. Buffers
-       - Stocks that are big, relative to their flows, are more stable than small ones.
-       - E.g. Lake vs river flood, bank account balance.
-       - You can stabilize a system by increasing it’s buffer. But if the buffer’s too big, the system gets inflexible and reacts slowly.
+        - Stocks that are big, relative to their flows, are more stable than small ones.
+        - E.g. Lake vs river flood, bank account balance.
+        - You can stabilize a system by increasing it’s buffer. But if the buffer’s too big, the system gets inflexible and reacts slowly.
     3. Stock-and-Flow Structures
-       - Physical structure is crucial in a system but is rarely a leverage point.
-       - The leverage point is in proper design in the first place.
+        - Physical structure is crucial in a system but is rarely a leverage point.
+        - The leverage point is in proper design in the first place.
     4. Delays
-       - The lengths of time relative to the rates of system change.
-       - A system just can’t respond to short-term changes when it has long-term delays.
-       - A delay in the feedback process is critical relative to rates of change in the stocks that the feedback loop is trying to control.
-       - Delays that are too short cause large oscillations while delays that are too long cause damped, sustained oscillations.
+        - The lengths of time relative to the rates of system change.
+        - A system just can’t respond to short-term changes when it has long-term delays.
+        - A delay in the feedback process is critical relative to rates of change in the stocks that the feedback loop is trying to control.
+        - Delays that are too short cause large oscillations while delays that are too long cause damped, sustained oscillations.
     5. Balancing Feedback Loops
-       - Now we’re moving from the physical parts of a system to the information and control parts, where more leverage can be found.
-       - Balancing feedback loops are used to keep important stocks within safe bounds.
-       - Some loops are inactive most of the time, but their presence is critical to the long-term welfare of the system.
-       - E.g. Sweating, emergency cooling system, fire hydrants.
-       - The strength of a balancing feedback loop is important relative to the impact it’s designed to correct.
-       - E.g. If the impact gets bigger, the feedback loop should also get bigger.
+        - Now we’re moving from the physical parts of a system to the information and control parts, where more leverage can be found.
+        - Balancing feedback loops are used to keep important stocks within safe bounds.
+        - Some loops are inactive most of the time, but their presence is critical to the long-term welfare of the system.
+        - E.g. Sweating, emergency cooling system, fire hydrants.
+        - The strength of a balancing feedback loop is important relative to the impact it’s designed to correct.
+        - E.g. If the impact gets bigger, the feedback loop should also get bigger.
     6. Reinforcing Feedback Loops
-       - A balancing feedback loop is self-correcting, a reinforcing feedback loop is self-reinforcing.
-       - Reducing the growth around a reinforcing loop is usually a more powerful leverage point than strengthening balancing loops.
+        - A balancing feedback loop is self-correcting, a reinforcing feedback loop is self-reinforcing.
+        - Reducing the growth around a reinforcing loop is usually a more powerful leverage point than strengthening balancing loops.
     7. Information Flows
-       - The structure of who does and who doesn’t have access to information.
-       - Information flows are usually cheaper to implement than physical flows.
-       - E.g. Putting a city’s water intake pipe downstream from it’s wastewater outflow pipe. Having the politicians who declare war to also be on the front lines of that war.
-       - There’s a systematic tendency of people to avoid accountability for their own decisions.
+        - The structure of who does and who doesn’t have access to information.
+        - Information flows are usually cheaper to implement than physical flows.
+        - E.g. Putting a city’s water intake pipe downstream from it’s wastewater outflow pipe. Having the politicians who declare war to also be on the front lines of that war.
+        - There’s a systematic tendency of people to avoid accountability for their own decisions.
     8. Rules
-       - Incentives, punishments, constraints.
-       - Constitutions are the strongest examples of social rules.
-       - Physical laws are absolute rules, whether we understand them or not, or like them or not.
-       - E.g. Gravity, second law of thermodynamics.
-       - To show the power of rules, imagine different ones.
-       - E.g. Suppose you can to college when you wanted to learn something, and you leave when you’ve learned it. Suppose tenure was awarded to professors according to their ability to solve real-world problems, rather than to publish academic papers. Suppose a class got graded as a group, instead of as individuals.
-       - As we try to image restructured rules and what our behavior would be under them, we come to understand the power of rules.
+        - Incentives, punishments, constraints.
+        - Constitutions are the strongest examples of social rules.
+        - Physical laws are absolute rules, whether we understand them or not, or like them or not.
+        - E.g. Gravity, second law of thermodynamics.
+        - To show the power of rules, imagine different ones.
+        - E.g. Suppose you can to college when you wanted to learn something, and you leave when you’ve learned it. Suppose tenure was awarded to professors according to their ability to solve real-world problems, rather than to publish academic papers. Suppose a class got graded as a group, instead of as individuals.
+        - As we try to image restructured rules and what our behavior would be under them, we come to understand the power of rules.
     9. Self-Organization
-       - The power to add, change, or evolve system structure.
-       - Is done by adding completely new physical structures or by adding new balancing/reinforcing loops.
-       - E.g. Adding a brain, wings, or computers.
-       - The ability to self-organize is the strongest form of system resilience.
-       - A system that can evolve can survive almost any change, by changing itself.
-       - Self-organization can evolve from a set of simple rules, emergence.
-       - E.g. DNA, technology, fractals.
-       - Self-organization is basically a matter of an evolutionary raw material, a highly variable stock of information from which to select possible patterns, and a means for experimentation, for selecting and testing new patterns.
-       - E.g. For biological evolution, the raw material is DNA, changes occur through spontaneous mutation, and testing is done through changing environments in which some individuals don’t survive to reproduce.
-       - E.g. For technology, the raw material is the body of accumulated science, changes occur through human creativity, and testing is done through market reward or government funding or whatever meets human needs.
-       - E.g. For culture, the raw material is the meme, changes occur through human creativity, and testing is done through internet points or fame or some other reward.
+        - The power to add, change, or evolve system structure.
+        - Is done by adding completely new physical structures or by adding new balancing/reinforcing loops.
+        - E.g. Adding a brain, wings, or computers.
+        - The ability to self-organize is the strongest form of system resilience.
+        - A system that can evolve can survive almost any change, by changing itself.
+        - Self-organization can evolve from a set of simple rules, emergence.
+        - E.g. DNA, technology, fractals.
+        - Self-organization is basically a matter of an evolutionary raw material, a highly variable stock of information from which to select possible patterns, and a means for experimentation, for selecting and testing new patterns.
+        - E.g. For biological evolution, the raw material is DNA, changes occur through spontaneous mutation, and testing is done through changing environments in which some individuals don’t survive to reproduce.
+        - E.g. For technology, the raw material is the body of accumulated science, changes occur through human creativity, and testing is done through market reward or government funding or whatever meets human needs.
+        - E.g. For culture, the raw material is the meme, changes occur through human creativity, and testing is done through internet points or fame or some other reward.
     10. Goals
-       - The purpose or function of the system.
-       - Goals are stronger than any leverage point in the above list as they control almost all parts of the system.
+        - The purpose or function of the system.
+        - Goals are stronger than any leverage point in the above list as they control almost all parts of the system.
     11. Paradigms
-       - The mind-set out of which the system, its goals, structure, rules, delays, and parameters, arise.
-       - E.g. That money holds value, that nature is a stock of resources, that we can own land.
-       - People who’ve managed to intervene in systems at the level of paradigm have hit a leverage point that totally transforms and creates systems.
-       - E.g. Copernicus with heliocentrism, Einstein with relativity, Smith with the wealth of nations.
+        - The mind-set out of which the system, its goals, structure, rules, delays, and parameters, arise.
+        - E.g. That money holds value, that nature is a stock of resources, that we can own land.
+        - People who’ve managed to intervene in systems at the level of paradigm have hit a leverage point that totally transforms and creates systems.
+        - E.g. Copernicus with heliocentrism, Einstein with relativity, Smith with the wealth of nations.
     12. Transcending Paradigms
-       - To realize that no paradigm is true.
-       - The intuition that paradigms have paradigms.
+        - To realize that no paradigm is true.
+        - The intuition that paradigms have paradigms.
 - There are exceptions to every item in this list and the order is flexible.
 - The higher the leverage point, the more the system will resist changing it.
 
