@@ -6,7 +6,7 @@ categories:
   - Textbooks
 book: "neuroscience-exploring-the-brain"
 book_authors: "Mark F. Bear, Barry W. Connors, Michael A. Paradiso"
-excerpt: "An introduction to the field of neuroscience. A good book but lacks detail."
+excerpt: "An introduction to the field of neuroscience."
 ---
 
 <blockquote class="blockquote">

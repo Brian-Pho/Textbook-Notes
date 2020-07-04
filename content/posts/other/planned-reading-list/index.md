@@ -7,7 +7,7 @@ categories:
 excerpt: "What I plan to read."
 ---
 
-Here's a list of the books that I plan to read. This list will change and be updated as my interests change. Books that I plan to read this year are starred (*).
+I plan to read the the following list of textbooks and books. This list will be updated as my interests change. Books with a high priority are starred (*).
 
 ## Textbooks
 
@@ -20,19 +20,18 @@ Here's a list of the books that I plan to read. This list will change and be upd
 
 - The Cognitive Neurosciences (6th Ed.)
 - *Cognitive Neuroscience - The Biology of the Mind (5th Ed.)
-- Spikes - Exploring the Neural Code
+- *Spikes - Exploring the Neural Code
 - Principles of Neural Information Theory
 - Biophysics of Computation - Information Processing in Single Neurons
 - Vision - A Computational Investigation into the Human Representation and Processing of Visual Information
 - The New Visual Neurosciences
 - Principles of Neural Science (5th Ed.)
 - Brain & Behavior - An Introduction to Behavioral Neuroscience (5th Ed.)
-- *Explaining the Brain - Mechanisms and the Mosaic Unity of Neuroscience
 - Language in Our Brain - The Origins of a Uniquely Human Capacity
 - Open MIND - philosophy and the mind sciences in the 21st century
-- The Neurology of Consciousness (2nd Ed.)
+- *The Neurology of Consciousness (2nd Ed.)
 - The Neuroscience of Intelligence
-- *Biopsychology (10th Ed.)
+- Biopsychology (10th Ed.)
 
 ### Neuromorphic Computing
 
@@ -51,8 +50,6 @@ Here's a list of the books that I plan to read. This list will change and be upd
 - Sparse Distributed Memory
 
 ### Other
-
-- *Discovering Complexity - Decomposition and Localization as Strategies in Scientific Research
 
 ## Books
 
