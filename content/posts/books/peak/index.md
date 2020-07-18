@@ -14,6 +14,10 @@ excerpt: "Reaching expertise and mastery."
 - Learning isn't a way of reaching one's potential but a way of developing it. We create our own potential.
 - The golden standard of practice is deliberate practice.
 - One of the key differences among different types of practice is the extent to which they harness the adaptability of the human brain and body.
+- Three defining features of expertise
+    - It must lead to performance that's consistently superior to that of others.
+    - It must produce concrete results.
+    - It must be replicable and measurable.
 
 ## Chapter 1: The Power of Purposeful Practice
 
@@ -146,6 +150,7 @@ excerpt: "Reaching expertise and mastery."
     2. It requires a teacher who can provide practice activities designed to help a student improve his or her performance.
 - The clear distinction is practice that is not only purposeful but also informed.
 - Deliberate practice is purposeful practice that knows where it's going and how to get there.
+- Deliberate practice involves two kinds of learning: improving the skills you already have and extending the reach and range of your skills.
 - Deliberate practice traits
     - Develops skills that people have figured out and know how to teach
     - Outside comfort zone

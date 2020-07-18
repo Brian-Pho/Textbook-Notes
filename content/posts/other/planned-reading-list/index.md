@@ -76,7 +76,6 @@ I plan to read the the following list of textbooks and books. This list will be 
 
 ### Other
 
-- *On Writing Well
 - Being Logical: A Guide to Good Thinking
 - The Great Unknown: Seven Journeys to the Frontiers of Science
 - Consider Phlebas
