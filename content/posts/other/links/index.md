@@ -54,12 +54,15 @@ A list of useful links on artificial intelligence, neuroscience, and on becoming
 - [The empty brain](https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer)
 - [Doing science backwards](https://dyslectern.info/2017/02/19/doing-science-backwards/)
 - [Neural plasticity: don't fall for the hype](https://www.thebritishacademy.ac.uk/neural-plasticity-dont-fall-for-hype)
+- [10 Unsolved Mysteries Of The Brain](https://www.discovermagazine.com/mind/10-unsolved-mysteries-of-the-brain)
+- [The real problem](https://aeon.co/essays/the-hard-problem-of-consciousness-is-a-distraction-from-the-real-one)
 
 ### Websites
 
 - [Numenta](https://numenta.com/)
 - [NeuroBanter](https://neurobanter.com/)
 - [Neurdiness](https://neurdiness.wordpress.com/)
+- [Neuro-patch](https://dyslectern.info/)
 - [The Learning Scientists](https://www.learningscientists.org/)
 - [Romain Brette](http://romainbrette.fr/)
 - [Neuralink](https://neuralink.com/)

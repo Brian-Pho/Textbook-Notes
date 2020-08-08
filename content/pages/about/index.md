@@ -14,7 +14,7 @@ Hello and welcome to the Cradle. On this website, you'll find my notes from
 
 ### Who are you?
 
-You can visit my [personal website](https://brianpho.com/) to learn more about me but here's a summary. My goal is to help humanity build artificial general intelligence (AGI). I plan to achieve this goal by becoming a neuroscientist and by studying the brain through textbooks, books, and papers. I hope to become the Einstein of neuroscience, although far-fetched and difficult, by synthesizing results from different fields to push our understanding of the brain. However, it isn't enough for me to understand the brain, but to build one. By reverse engineering the brain, I believe we can create an intelligence greater than ourselves.
+You can visit my [personal website](https://brianpho.com/) to learn more about me but here's a summary. My goal is to help humanity build artificial general intelligence (AGI). I plan to achieve this goal by becoming a neuroscientist and by studying the brain through textbooks, books, and papers. I just finished my bachelors in software engineering and I plan to pursue a masters in neuroscience. For me, it isn't enough to just understand the brain, but we must also build one. By reverse engineering the brain, I believe we can create an intelligence greater than ourselves; to solve intelligence and to use it to solve everything else.
 
 ### Why are you pursuing AGI?
 
@@ -27,7 +27,7 @@ I'm pursuing AGI for multiple reasons.
 
 ### How do you plan on creating AGI?
 
-I plan on creating AGI by first studying the human brain. My approach is to reverse engineer the brain by extracting the core principles of how the brain processes information. Information processing requires two separate, but integrated, parts like computers: hardware and software. The hardware of the brain is the physical implementation of it, cells called neurons. Examples of brain hardware include its inputs and outputs such as the eye, skin, spinal cord, and muscles. The software of the brain is the intangible or emergent properties of it. Examples of brain software include consciousness, visual illusions, and language. By understanding both the hardware and software of the brain, we should have enough information to create it.
+I plan on creating AGI by first studying the human brain. My approach is to reverse engineer the brain by extracting the core principles of how the brain processes information. Information processing requires two separate, but integrated, parts like computers: hardware and software. The hardware of the brain is the physical implementation of it as an organ. Examples of brain hardware include its inputs and outputs such as the eye, skin, spinal cord, and muscles. The software of the brain is the intangible or emergent properties of it. Examples of brain software include consciousness, visual illusions, and language. By understanding both the hardware and software of the brain, we should have enough information to create it.
 
 ### Why did you make this website?
 

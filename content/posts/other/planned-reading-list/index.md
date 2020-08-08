@@ -4,40 +4,34 @@ title: "Planned Reading List"
 date: "2020-06-12"
 categories:
   - Other
-excerpt: "What I plan to read."
+excerpt: "A list of books that I plan to read."
 ---
 
-I plan to read the the following list of textbooks and books. This list will be updated as my interests change. Books with a high priority are starred (*).
+I plan to read the following textbooks and books. This list will be updated as my interests change. Books with a high priority are starred (*).
 
 ## Textbooks
 
-### Cognitive Science
-
-- Memory and the Computational Brain - Why Cognitive Science Will Transform Neuroscience
-- Principles of Synthetic Intelligence
-
 ### Neuroscience
 
-- The Cognitive Neurosciences (6th Ed.)
-- *Cognitive Neuroscience - The Biology of the Mind (5th Ed.)
 - *Spikes - Exploring the Neural Code
 - Principles of Neural Information Theory
 - Biophysics of Computation - Information Processing in Single Neurons
 - Vision - A Computational Investigation into the Human Representation and Processing of Visual Information
-- The New Visual Neurosciences
+- Vision Science - Photons to Phenomenology
 - Principles of Neural Science (5th Ed.)
-- Brain & Behavior - An Introduction to Behavioral Neuroscience (5th Ed.)
 - Language in Our Brain - The Origins of a Uniquely Human Capacity
 - Open MIND - philosophy and the mind sciences in the 21st century
 - *The Neurology of Consciousness (2nd Ed.)
 - The Neuroscience of Intelligence
 - Biopsychology (10th Ed.)
+- *The Wiley Handbook of Evolutionary Neuroscience
+- An Introduction to Brain and Behavior (4th Ed.)
 
 ### Neuromorphic Computing
 
 - Neural Engineering - Computation, Representation, and Dynamics in Neurobiological Systems
 - Introduction to VLSI Systems
-- Analog VLSI and Neural Systems
+- *Analog VLSI and Neural Systems
 
 ### Artificial Intelligence
 
@@ -47,9 +41,12 @@ I plan to read the the following list of textbooks and books. This list will be 
 - An Introduction to Neural Networks
 - Talking Nets - An Oral History of Neural Networks
 - The Handbook Of Brain Theory And Neural Networks (2nd Ed.)
-- Sparse Distributed Memory
+- An Introduction to Information Theory - Symbols, Signals and Noise
 
-### Other
+### Psychology
+
+- Cognition (8th Ed.)
+- *Psychology Around Us
 
 ## Books
 
@@ -72,10 +69,10 @@ I plan to read the the following list of textbooks and books. This list will be 
 - AI Superpowers: China, Silicon Valley, and the New World Order
 - Architects of Intelligence: The Truth About AI From the People Building It
 - The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World
-- In Our Own Image: Savior or Destroyer? The History and Future of Artificial Intelligence
 
 ### Other
 
 - Being Logical: A Guide to Good Thinking
 - The Great Unknown: Seven Journeys to the Frontiers of Science
 - Consider Phlebas
+- *Hyperion
