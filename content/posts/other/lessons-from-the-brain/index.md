@@ -4,7 +4,7 @@ title: "Lessons from the Brain"
 date: "2020-02-20"
 categories:
   - Other
-excerpt: "General lessons from the brain applies to AGI."
+excerpt: "General lessons from the brain applied to AGI."
 ---
 
 This page is an incomplete collection of brain findings and principles that may help us build AGI. Lessons from the brain as it were. Every time I run across an idea that triggers my sense of importance and utility, I will add it here. The table below maps neuroscience ideas to how we might implement it in AGI (I will organize the table at some point).
