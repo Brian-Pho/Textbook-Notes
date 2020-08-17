@@ -21,29 +21,29 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Big questions
     - What evidence suggests that the brain’s activities produce the mind?
     - What can we learn about the mind and brain from modern research methods?
-- Cognition: the process of knowing.
+- *Cognition*: the process of knowing.
 - The brain is a product of evolution and is made up of living cells.
 - Evolutionary perspective
     - Why might this behavior have been selected for?
     - How could it have promoted survival and reproduction?
     - What would a hunter-gatherer do?
 - The evolutionary perspective helps us gain insight on why the brain is the way that it is.
-- Dualism: the belief that the mind appears from elsewhere and isn’t the result of the brain.
+- *Dualism*: the belief that the mind appears from elsewhere and isn’t the result of the brain.
 - Cognitive neuroscience disagrees with dualism and believes that the conscious mind is a product of the brain’s physical activity and isn’t separate from it.
 - Evidence for this view comes from studying patients with brain lesions.
-- Localizationism: the belief that certain parts of the brain are responsible for certain functions.
-- Aggregate field theory: the belief that the whole brain participates in behavior.
+- *Localizationism*: the belief that certain parts of the brain are responsible for certain functions.
+- *Aggregate field theory*: the belief that the whole brain participates in behavior.
 - Aggregate field theory fell out of favor to the localizationist view.
 - Since different brain regions perform different functions, it follows that they ought to look different at the cellular level.
 - Indeed, it’s the case that different brain areas do represent functionally distinct brain regions.
 ![Figure 1.10](figure1-10.png)
-- Neuron doctrine: the concept that the nervous system is made up of individual cells called neurons.
+- *Neuron doctrine*: the concept that the nervous system is made up of individual cells called neurons.
 - Neurons only transmit electrical information in one direction, from dendrites to axons.
 - Knowledge of the parts must be understood together with the whole.
 - Introduction to behaviorism and the cognitive revolution.
 - Chomsky showed how the sequential predictability of speech follows from adherence to grammatical, not probabilistic rules.
 - E.g. When children are exposed to a finite set of word orders, they can come up with a sentence and word order that they’ve never heard before. They didn’t make new sentences using associations from previous word orders.
-- Associationism: that any response followed by a reward would be maintained, and that associations were the basis of how the mind learned.
+- *Associationism*: that any response followed by a reward would be maintained, and that associations were the basis of how the mind learned.
 - Associationism can’t explain how children learn language.
 - The complexity of language was built into the brain, and it runs on rules and principles that transcend all people and all languages.
 - Language is innate and is universal.
@@ -69,7 +69,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - The nervous system is made up of two main classes of cells
     - Neurons
     - Glial
-- Neuron: the basic signalling unit that transmits information throughout the nervous system.
+- *Neuron*: the basic signalling unit that transmits information throughout the nervous system.
 - Neurons take in information, make a decision about it following some simple rules, and then passes on the signal to other neurons or muscles.
 - Neurons vary in their form, location, and interconnectivity and these variations are closely related to their function.
 - Glial cells provide structural support, electrical insulation, and modulate neuronal activity.
@@ -89,7 +89,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - This is a problem for signals traveling over long distances such as from the brain to your toes.
 - So how does the neuron solve this problem of diminishing current over long distances?
 - Neurons evolved a clever mechanism to regenerate and pass along the signal received at synapses on the dendrite. The mechanism is the action potential.
-- Action potential (AP): a rapid depolarization and repolarization of a small region of the membrane caused by the opening and closing of ion channels.
+- *Action potential (AP)*: a rapid depolarization and repolarization of a small region of the membrane caused by the opening and closing of ion channels.
 - APs enable signals to travel for meters with no loss in signal strength because they’re continually regenerated at each patch of membrane on the axon.
 - APs are able to regenerate themselves because of voltage-gated ion channels.
 - Since APs always have the same amplitude, they’re said to be all-or-none phenomena.
@@ -115,7 +115,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
     3. Unimodal association areas
     4. Multimodal association areas
     5. Paralimbic and limbic areas
-- Somatotopy: the mapping of specific parts of the body to specific areas of the somatosensory cortex.
+- *Somatotopy*: the mapping of specific parts of the body to specific areas of the somatosensory cortex.
 - Somatotopic maps aren’t set in stone and don’t have distinct borders.
 - Topographic maps are a common feature of the nervous system and the area dedicated to a body part isn’t representative of the actual body part’s size.
 - The area’s size is more representative of the body part’s sensitivity/usefulness.
@@ -124,18 +124,18 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - As brains increases in size, long-distance connectivity decreases.
 - The number of neurons that an average neuron connects to doesn’t change with increasing brain size. The absolute number of connections per neuron is the same.
 - So to decrease long-distance connectivity while maintaining an absolute number of connections, human brains have developed a small-world architecture.
-- Small-world architecture: a structure that combines many short, fast local connections with a few long-distance connections to communicate the results of local processing.
+- *Small-world architecture*: a structure that combines many short, fast local connections with a few long-distance connections to communicate the results of local processing.
 - As primate brains increased in size, their overall connectivity patterns changed, resulting in anatomical and functional changes.
 - Very few neurons are generated after birth in primates as most of the neurons are generated prenatally during the middle third of gestation.
 - The cortex is built from the inside out.
 ![Figure 2.47](figure2-47.png)
-- Neurogenesis: the creation of neurons.
+- *Neurogenesis*: the creation of neurons.
 - What determines the type of neuron that a migrating cell becomes?
 - The timing of neurogenesis or when a neuron is created.
 - E.g. Fetal alcohol syndrome disrupts neuronal migration resulting in a disorder cortex, leading to cognitive, emotional, and physical disabilities.
 - Although the brain nearly quadruples in size from birth to adulthood, the number of neurons doesn’t increase.
 - What does increase is the number of synapses, the growth of dendritic trees, and both the myelination and proliferation of glial cells.
-- Synaptogenesis: the creation of synapses.
+- *Synaptogenesis*: the creation of synapses.
 - Synaptogenesis is followed by synapse pruning, which continues for more than a decade.
 - E.g. Initially, in the primary visual cortex, there’s an overlap between the projections of the two eyes onto neurons. After synaptic pruning, the cortical inputs from the two eyes are nearly completely segregated forming ocular dominance columns.
 - There’s also compelling evidence suggesting that different brain regions reach maturity at different times.
@@ -158,7 +158,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
     5. Repeat
 - There’s an asymmetry in the scientific method as results from an experiment can only prove that a hypothesis is false, not that a hypothesis is true.
 - This is also known as falsifiability or the ability to be proven false.
-- Cognitive psychology: the study of mental activity as a information-processing problem.
+- *Cognitive psychology*: the study of mental activity as a information-processing problem.
 - A basic assumption in cognitive psychology is that we don’t directly perceive and act in the world, but rather our perceptions, thoughts, and actions depend on the internal representations obtained by our sense organs.
 - Cognitive psychology is also trying to uncover the secrets of how information is processed in the brain.
 - E.g. It’s surprisingly easy to read the right-side passage.
@@ -204,9 +204,9 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - The brain uses 20% of the oxygen we breathe but only accounts for 2% of our total body mass.
 - The vascular system is fairly consistent between individuals, thus a stroke of a particular artery typically leads to destruction of tissue in a consistent anatomical location.
 - For brain tumors, the first concern is its location, not whether it’s benign or malignant, because the tumor may be close to critical brain structures such as the brain stem.
-- Single dissociation: damage to one brain area affects one task but not another.
+- *Single dissociation*: damage to one brain area affects one task but not another.
 - E.g. Damage to Broca’s area affects speech but not comprehension.
-- Double dissociation: damage to area X impairs the ability to do task A but not task B, and damage to area Y impairs the ability to do task B but not task A.
+- *Double dissociation*: damage to area X impairs the ability to do task A but not task B, and damage to area Y impairs the ability to do task B but not task A.
 - Double dissociations show that two areas have complementary processing.
 - E.g. Damage to Broca’s area affects speech and damage to Wernicke’s area affects comprehension.
 - Double dissociations offer the strongest neuropsychological evidence that a brain area is responsible for a specific task.
@@ -233,7 +233,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Cell activity within a retinotopic map correlates with the location of the stimulus.
 ![Figure 3.19](figure3-19.png)
 ![Figure 3.20](figure3-20.png)
-- Electrocorticography (ECoG): an invasive EEG performed directly on the surface of the brain.
+- *Electrocorticography (ECoG)*: an invasive EEG performed directly on the surface of the brain.
 - Frequency bands for EEG and ECoG
     - Delta (1-4 Hz)
     - Theta (4-8 Hz)
@@ -244,13 +244,13 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Many years of research have shown that the power in these bands is an excellent indicator of the state of the brain.
 - E.g. An increase in alpha power is associated with reduced states of attention and an increase in theta power is associated with engagement in a cognitively demanding task.
 ![Figure 3.24](figure3-24.png)
-- Event-related potential (ERP): a tiny signal embedded in an EEG signal that’s triggered by a stimulus/movement.
+- *Event-related potential (ERP)*: a tiny signal embedded in an EEG signal that’s triggered by a stimulus/movement.
 - The amount of blood supplied to the brain varies only a bit when the brain is most active compared to when it’s resting.
 - Since the input of resources remains roughly constant, the brain must distribute it’s resources differently depending on the need.
 - When a brain area is more active, increasing the blood flow to that region provides it with more oxygen and glucose at the expense of other parts of the brain.
 - Review of PET, fMRI, and MRS.
-- Block design experiment: integrating neural activity over a block of time during which a participant performs multiple trials of the same type.
-- Event-related design experiment: looking for an event across experimental trials.
+- *Block design experiment*: integrating neural activity over a block of time during which a participant performs multiple trials of the same type.
+- *Event-related design experiment*: looking for an event across experimental trials.
 ![Figure 3.33](figure3-33.png)
 - Faster learning was associated with faster reduction in the correlation between two brain regions.
 - The reason might be because the movement selection switches from being stimulus-driven to being internally-driven.
@@ -288,8 +288,8 @@ excerpt: "The defining textbook of cognitive neuroscience."
     - Posterior commissure
 - As with the other parts of the brain, the CC maintains a topographic organization.
 - Within the corpus callosum, there are two types of connections
-    - Homotopic: connections that go to a same region in the other hemisphere.
-    - Heterotopic: connections that go to a different region in the other hemisphere.
+    - *Homotopic*: connections that go to a same region in the other hemisphere.
+    - *Heterotopic*: connections that go to a different region in the other hemisphere.
 - Almost all of the visual information processed in the parietal, occipital, and temporal cortices is transferred to the opposite hemisphere through the posterior third of the CC.
 - Motor and supplementary motor information is transferred through the middle third of the CC.
 ![Figure 4.6](figure4-6.png)
@@ -327,9 +327,9 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - The anterior part of the CC transfers semantic information about the stimulus but not the stimulus itself.
 ![Figure 4.14](figure4-14.png)
 - When attempting to understand the neural bases of language, it’s useful to distinguish between grammatical and lexical function.
-- Grammar: the rule-based system for ordering words to help communication.
+- *Grammar*: the rule-based system for ordering words to help communication.
 - E.g. In English, the typical order of a sentence is subject-action-object.
-- Lexicon: the mind’s dictionary.
+- *Lexicon*: the mind’s dictionary.
 - E.g. The word “dog” is associated with a dog but so is “Hund”, “kutya”, and “cane”.
 - This distinction is more apparent when trying to learn a new language and it’s predicted that grammar is more localized and discrete whereas the lexicon’s location is more elusive and more difficult to damage completely.
 - Language and speech are rarely present in both hemispheres; they are in either one or the other.
@@ -348,7 +348,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Both hemispheres can abstract either level of representation, but they differ in how efficiently they handle each level.
 - The right is better at the big picture, the left is more detail oriented.
 ![Figure 4.27](figure4-27.png)
-- Theory of mind: the ability to understand that other people have thoughts, beliefs, and desires.
+- *Theory of mind*: the ability to understand that other people have thoughts, beliefs, and desires.
 - Several fMRI studies show that the critical component of the theory of mind, the attribution of beliefs to another person, is localized to the right hemisphere.
 - This is shocking because this means that split-brain patients should talk as if they lack social and moral reasoning but they talk as if they are normal.
 - The left hemisphere deals with speaking and without information about the theory of mind, the patient should speak without regarding other people.
@@ -369,9 +369,9 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - The left hemisphere is better at making inferences about semantic relationships and cause and effect, it doesn’t have a better memory or a better lexicon than the right hemisphere.
 - This is shown in an experiment where participants guess which of two events would happen next. Event red appears 75% of the time and event green appears 25% of the time.
 - There are two strategies to this experiment
-    - Matching: matching your guesses to the frequency distribution of the events.
+    - *Matching*: matching your guesses to the frequency distribution of the events.
         - E.g. Guessing red 75% of the time and green 25% of the time.
-    - Maximizing: guessing the event with the highest probability all of the time.
+    - *Maximizing*: guessing the event with the highest probability all of the time.
         - E.g. Guessing red 100% of the time.
 - Non-human animals, such as rats and goldfish, maximize, while humans match.
 - The result is that non-human animals perform better than humans on this task.
@@ -416,9 +416,9 @@ excerpt: "The defining textbook of cognitive neuroscience."
 ![Anatomy of Senses](anatomy-senses.png)
 - Most of our perceptions and behaviors never reach our conscious awareness and those that do aren’t exact replicas of the stimulus.
 - E.g. Optical illusion and the color magenta.
-- Sensation: the initial activation of the nervous system for translating information about the environment into patterns of neural activity.
-- Percept: the mental representation of the stimulus, accurate or not.
-- Perception: the process of constructing the percept.
+- *Sensation*: the initial activation of the nervous system for translating information about the environment into patterns of neural activity.
+- *Percept*: the mental representation of the stimulus, accurate or not.
+- *Perception*: the process of constructing the percept.
 - Information from each sensory organ follows the same general pathway except for olfaction.
 - The general pathway
     1. Specialized receptor cells
@@ -434,7 +434,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
     - Adapts as the environment changes.
         - The longer the stimulus continues, the less frequent the APs are.
         - E.g. Not feeling the clothes that you’re wearing.
-- Acuity: how well we can distinguish among stimuli within a sensory modality.
+- *Acuity*: how well we can distinguish among stimuli within a sensory modality.
 - Perception is mainly concerned with changes in sensation.
 - Many creatures can carry out exquisite perception without a cortex, so why do we have a cortex?
 - The answer may be to support flexible behavior.
@@ -516,7 +516,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Integration requires that the different stimuli be coincident in both space and time.
 - Auditory and visual stimuli can enhance perception in the other sensory modalities.
 - E.g. Applying TMS over the visual cortex generates illusory flashes of light (phosphenes) above a threshold. If we set the intensity level of TMS to just below the threshold and no stimulus is given, no phosphenes are seen. If, however, we provide an auditory stimulus, then phosphenes are seen. This provides evidence that auditory stimulation increases visual perception.
-- Synesthesia: the mixing of senses.
+- *Synesthesia*: the mixing of senses.
 - E.g. When words have a taste or when numbers have colors.
 - While synesthetic associations aren’t consistent across individuals, they’re consistent over time for an individual.
 - Testing for synesthesia is difficult since it’s such a personal experience but we can test it using a modified version of the Stroop task.
@@ -552,7 +552,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
         - E.g. We can recognize an object regardless of viewpoint, illumination, and size.
     - The product of perception is intimately interwoven with memory.
 ![Figure 6.1](figure6-1.png)
-- Object constancy: our ability to recognize an object regardless of the situation.
+- *Object constancy*: our ability to recognize an object regardless of the situation.
 - Sensation, perception, and recognition are distinct phenomena.
 - Visual information coming from an object varies in three factors
     - Viewing position
@@ -573,7 +573,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - E.g. Human body parts, apples, flowers, or snakes.
 ![Figure 6.6](figure6-6.png)
 - There appears to be a difference between perception for identification and perception for action.
-- Visual agnosia: a deficit in recognizing objects even when the processing for analyzing basic properties such as shape, color, and motion are intact.
+- *Visual agnosia*: a deficit in recognizing objects even when the processing for analyzing basic properties such as shape, color, and motion are intact.
 - E.g. Patient D.F. couldn’t correctly orient a card to enter a slot, but if told to put the card into the slot, she could do it successfully even though she couldn’t identify the slot orientation.
 ![Figure 6.7](figure6-7.png)
 - A similar distinction exists for audio. Auditory object recognition probably involves several distinct processing systems as these different systems can go wrong without affecting other systems.
@@ -581,7 +581,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - The “where” system appears to be essential for more than just determining the locations of different objects, it’s also critical for guiding interactions with these objects.
 - E.g. Patient J.S. displayed a similar condition to patient D.F. where he couldn’t recognize objects. However, he could vary his grasp and hand shape to pick them up, suggesting that his brain does perceive the detail and orientation of objects.
 - Patients D.F. and J.S. offer examples of single dissociations where they are able to act on objects but can’t recognize them. Optic ataxia is the reverse dissociation.
-- Optic ataxia: a condition where patients can recognize objects but can’t use visual information to guide their actions.
+- *Optic ataxia*: a condition where patients can recognize objects but can’t use visual information to guide their actions.
 - E.g. Patients can identify objects but they grasp for it as if they are blind.
 - Visual agnosia appears with damage to the ventral/what/temporal visual stream and optic ataxia appears with damage to the dorsal/where/parietal visual stream.
 - Object perception depends primarily on the analysis of the shape of a visual stimulus.
@@ -592,7 +592,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - When presented novel and familiar stimuli, the lateral occipital cortex (LOC) increases in blood flow suggesting that it’s the location for storing information about objects.
 ![Figure 6.11](figure6-11.png)
 - Interestingly, it seems that recognizing something familiar from something unfamiliar requires the same amount of processing.
-- Multistable perception: when competing stimuli are present and the brain stabilizes on one perception or interpretation.
+- *Multistable perception*: when competing stimuli are present and the brain stabilizes on one perception or interpretation.
 - E.g. Necker cube illusion or vase-face illusion.
 - To explain multistable perception, it’s theorized that competition in the early stages of visual processing coalesces into a stable percept by the time it reaches the inferior temporal lobe.
 - Theory behind object recognition
@@ -629,22 +629,22 @@ excerpt: "The defining textbook of cognitive neuroscience."
 ![Figure 6.38](figure6-38.png)
 ![Figure 6.39](figure6-39.png)
 - Three major subtypes of visual agnosia
-    - Apperceptive: inability to recognize objects.
-    - Integrative: inability to integrate parts of an object into a coherent whole.
-    - Associative: inability to access conceptual knowledge from visual input.
+    - *Apperceptive*: inability to recognize objects.
+    - *Integrative*: inability to integrate parts of an object into a coherent whole.
+    - *Associative*: inability to access conceptual knowledge from visual input.
 ![Figure 6.41](figure6-41.png)
 - There are unusual cases of patients that exhibit object recognition deficits that are selective for specific categories.
 - E.g. Problems identifying living objects even though nonliving object recognition works.
 - There are two theories for why there are selective impairments of specific categories.
-    - Sensory/functional hypothesis: the idea that conceptual knowledge is organized around representations of sensory properties and motor properties associated with an object.
+    - *Sensory/functional hypothesis*: the idea that conceptual knowledge is organized around representations of sensory properties and motor properties associated with an object.
         - This may explain why there is a living/nonliving perceptual divide. Nonliving objects are manipulable unlike living objects.
-    - Domain-specific hypothesis: the idea that conceptual knowledge is organized around categories that are evolutionarily relevant to survival and reproduction.
+    - *Domain-specific hypothesis*: the idea that conceptual knowledge is organized around categories that are evolutionarily relevant to survival and reproduction.
         - By this hypothesis, dedicated neural systems evolved because they enhanced survival by more efficiently processing specific categories of objects.
 - Tests with blind patients show that visual experience isn’t necessary for category specificity to develop within the ventral stream.
-- Prosopagnosia: inability to recognize faces.
+- *Prosopagnosia*: inability to recognize faces.
 - Face perception appears to be unique in that it uses holistic processing. We recognize a person by the entire facial configuration and not by their specific facial features such as their nose, eyes, or chin.
-- Holistic processing: a form of perceptual analysis that emphasizes the overall shape of an object.
-- Analysis-by-parts processing: a form of perceptual analysis that emphasizes the component parts of an object.
+- *Holistic processing*: a form of perceptual analysis that emphasizes the overall shape of an object.
+- *Analysis-by-parts processing*: a form of perceptual analysis that emphasizes the component parts of an object.
 - Words represent the other special class of objects at the other extreme and objects lie in the middle.
 ![Figure 6.55](figure6-55.png)
 - Given this theory, we shouldn’t expect to find any cases where both face perception and reading are impaired but object perception remains intact. Indeed, we don’t find any cases.
@@ -660,34 +660,34 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - We can choose the focus of attention; that is, it can be voluntary.
 - We are also only able to attend to one thing at a time, not many things.
 - First we distinguish attention from arousal.
-- Arousal: the global physiological and psychological state of the organism.
+- *Arousal*: the global physiological and psychological state of the organism.
 - E.g. Deep sleep to hyperalertness.
-- Selective attention: the allocation of attention among relevant inputs, thoughts, and actions, while ignoring irrelevant or distracting ones.
+- *Selective attention*: the allocation of attention among relevant inputs, thoughts, and actions, while ignoring irrelevant or distracting ones.
 - E.g. Choosing to focus on reading this sentence instead of reading Twitter.
 - What determines the priority?
-    - Goal-driven control (top-down): voluntary attention steered by an individual’s current goals.
+    - *Goal-driven control (top-down)*: voluntary attention steered by an individual’s current goals.
         - E.g. Focusing on doing homework for a class instead of partying.
-    - Stimulus-driven control (bottom-up): reflexive attention steered by a stimulus.
+    - *Stimulus-driven control (bottom-up)*: reflexive attention steered by a stimulus.
         - E.g. Hearing a loud bang while studying.
 - There are also two types of selective attention
-    - Overt: a physical shift in attention.
+    - *Overt*: a physical shift in attention.
         - E.g. Moving your eyes.
-    - Covert: a mental shift in attention.
+    - *Covert*: a mental shift in attention.
         - E.g. Looking straight on but focusing on what’s happening in the periphery. Eavesdropping. The spotlight of attention.
-- Unilateral spatial neglect (USN): a condition where patients ignore half of their visual field.
+- *Unilateral spatial neglect (USN)*: a condition where patients ignore half of their visual field.
 ![Figure 7.4](figure7-4.png)
 - USN can also affect the imagination and memory.
 - Patients with USN that try to recollect their memory of certain places neglect the side contralateral to the side with cortical damage.
 - This shows that USN can’t be attributed to a failure of memory, but rather that attention to parts of the recalled images was biased.
 - Patients with USN aren’t blind to the visual field as they can still detect stimuli presented in isolation in the visual field.
 - But when multiple stimuli are present, USN shows up resulting in extinction.
-- Extinction: the neglect of a stimulus in the presence of a competing stimulus.
+- *Extinction*: the neglect of a stimulus in the presence of a competing stimulus.
 - USN can be overcome if the patient’s attention is directed to the neglected location of items. This is one reason why the condition is described as a bias rather than a loss of ability to focus attention.
 - One patient with USN describes it more as the inability to concentrate rather than as neglecting the stimulus.
 - Three main characteristics of Balint’s syndrome
-    - Simultanagnosia: a difficulty in perceiving the visual field as a whole.
-    - Ocular apraxia: a deficit in making eye movements to scan the visual field.
-    - Optic ataxia: a problem in making visually guided hand movements.
+    - *Simultanagnosia*: a difficulty in perceiving the visual field as a whole.
+    - *Ocular apraxia*: a deficit in making eye movements to scan the visual field.
+    - *Optic ataxia*: a problem in making visually guided hand movements.
 - USN is the result of unilateral lesions of the parietal, posterior temporal, and frontal cortex or damage in subcortical areas.
 - Balint’s syndrome is the result of bilateral occipitoparietal lesions.
 - The phenomenon of extinction in neglect patients suggests that sensory inputs are competitive.
@@ -697,8 +697,8 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - E.g. A friend whispering to you during class will make you miss what the teacher just said.
 - This shows that attention affects what’s processed by the brain.
 - But at what stage in the processing of sensory input does attention affect information? Does attention select in the early or late stages of processing?
-- Early selection: a stimulus can be selected for before perceptual analysis is complete.
-- Late selection: all stimuli are processed equally and then selection takes place at higher stages of information processing.
+- *Early selection*: a stimulus can be selected for before perceptual analysis is complete.
+- *Late selection*: all stimuli are processed equally and then selection takes place at higher stages of information processing.
 ![Figure 7.14](figure7-14.png)
 - However, the original all-or-none early-selection models couldn’t explain a person attending to specific information such as the person’s own name or something very interesting because this would require having perceived the information.
 - The benefit of attention is that if attention is primed with a cue, then reaction times are faster. However, if the cue is invalid, then reaction times are slower.
@@ -713,7 +713,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Attention also works at the level of the thalamus as it’s been shown that thalamic reticular nucleus (TRN) neurons can inhibit/excite signal transmission from the lateral geniculate nucleus (LGN) to the visual cortex.
 - Reflexive visuospatial attention can improve response times if the reflexive cue predicts the location of subsequent targets, but only for a short time after the flash (50-200 ms).
 - After about 300 ms pass between the reflexive cue and the target, the effects on reaction time are reversed and participants respond more slowly.
-- Inhibition of Return (IOR): inhibition of the return of attention to that location.
+- *Inhibition of Return (IOR)*: inhibition of the return of attention to that location.
 - Our reflexive attention has built-in IOR to prevent ourselves from locking on to distractions and if the stimulus is important and salient, we can invoke our voluntary attention to override IOR.
 ![Figure 7.29](figure7-29.png)
 - Attention can be directed both to spatial locations and to nonspatial features of the target stimuli.
@@ -731,8 +731,8 @@ excerpt: "The defining textbook of cognitive neuroscience."
     - This results in the response in the sensory areas to a stimulus to be enhanced if the stimulus is given a high priority, or it is attenuated if it’s irrelevant.
 ![Figure 7.39](figure7-39.png)
 - Current models suggest two separate attention control systems
-    - Dorsal attention network: controls voluntary attention based on location, features, and object properties.
-    - Ventral attention network: controls reflexive attention stimulus novelty and salience.
+    - *Dorsal attention network*: controls voluntary attention based on location, features, and object properties.
+    - *Ventral attention network*: controls reflexive attention stimulus novelty and salience.
 - The key cortical nodes in the dorsal attention network
     - Frontal eye fields (FEF)
     - Supplementary eye fields (SEF)
@@ -769,7 +769,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 ![Anatomy of Action](anatomy-action.png)
 - As in perception, we can describe the motor system as a hierarchical organization with the spinal cord at the bottom and cortical regions at the top.
 ![Figure 8.2](figure8-2.png)
-- Effector: a part of the body that can move.
+- *Effector*: a part of the body that can move.
 - Review of alpha motor neurons, spinal interneurons, and reflex.
 - Two subcortical structures that play a key role in motor control
     - Cerebellum
@@ -779,21 +779,21 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Why is a larger area needed for more precise control?
 ![Figure 8.9](figure8-9.png)
 - Lesions in M1 or the corticospinal tract result in hemiplegia.
-- Hemiplegia: the inability to produce voluntary movement.
+- *Hemiplegia*: the inability to produce voluntary movement.
 - The dorsal/where visual stream can be further subdivided into a dorso-dorsal stream and a ventro-dorsal stream.
 ![Figure 8.10](figure8-10.png)
 - The dorso-dorsal stream is used for the act of reaching as it requires the representation of the location of an object in space with respect to the person’s own body.
 - Damage to the dorso-dorsal stream results in optic ataxia.
-- Optic ataxia: the inability to reach for objects even though they can recognize it.
+- *Optic ataxia*: the inability to reach for objects even though they can recognize it.
 - The ventro-dorsal stream is used for producing transitive gestures (manipulating an object) and intransitive gestures (signifying intension such as waving goodbye).
 - Damage to the ventro-dorsal stream results in apraxia.
-- Apraxia: the inability to make coordinated, goal-directed movement.
-- Central pattern generator (CPG): neurons within the spinal cord that can generate an entire sequence of actions without any external feedback signal.
+- *Apraxia*: the inability to make coordinated, goal-directed movement.
+- *Central pattern generator (CPG)*: neurons within the spinal cord that can generate an entire sequence of actions without any external feedback signal.
 - The motor system is truly hierarchical because the highest levels are only concerned with issuing commands to achieve an action, whereas lower-level mechanisms translate those commands into a specific neuromuscular pattern via CPGs.
 - So if cortical neurons aren’t coding specific patterns of motor commands, what are they doing?
 - Two types of action plans
-    - Trajectory-based: specifying the current location and how to move to get to the new location.
-    - Location-based: specifying the new location and what’s needed at the new location.
+    - *Trajectory-based*: specifying the current location and how to move to get to the new location.
+    - *Location-based*: specifying the new location and what’s needed at the new location.
 - Experiments with monkeys favor the location-based action plan.
 - This reminds me of the mouse-maze experiment in the cognitive science textbook where it showed the same result. Mice make cognitive maps based on locations, not movements.
 - Location isn’t the only information being encoded though as actions require a set of sequential movements.
@@ -806,7 +806,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Many cells in the motor cortex show directional tuning or a preferred direction.
 - If we try to predict the direction of movement by observing only one neuron, it would be very difficult as we wouldn’t have enough information to predict the direction.
 - One solution is to use a population vector.
-- Population vector: combining the activity of many neuron (assuming that a neuron’s activity is stronger when the desired direction of movement more closely matches its preferred direction).
+- *Population vector*: combining the activity of many neuron (assuming that a neuron’s activity is stronger when the desired direction of movement more closely matches its preferred direction).
 ![Figure 8.15](figure8-15.png)
 - The population vector does predict the direction of movement, however, we must keep in mind that the data is correlational and we don’t know if the cells are coding for their preferred direction or some other variable such as muscle contraction.
 - There is some evidence that the population vector can predict movement before it occurs but there are some issues.
@@ -818,7 +818,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - How do we select goals and plan motor movements to achieve those goals?
 - The affordance competition hypothesis (ACH) is one answer.
 - ACH proposes that the processes of action selection (what to do) and implementation (how to do it) occur simultaneously within the brain and continuously evolves.
-- Affordances: the opportunities for action defined by the environment.
+- *Affordances*: the opportunities for action defined by the environment.
 - Starting with our ancestors, they lived in a changing and hostile environment which doesn’t allow time for carefully evaluating goals and options.
 - A better strategy is to develop multiple plans in parallel.
 - E.g. While we’re performing one action, we’re preparing for the next one.
@@ -831,13 +831,13 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - This reveals that motor planning involves some cross talk between the two hemispheres.
 ![Figure 8.21](figure8-21.png)
 - Damage to the supplementary motor area (SMA) leads to impaired performance on tasks that require integrated use of both hands and to alien hand syndrome.
-- Alien hand syndrome: a condition where one limb produces a seemingly meaningful action but the person denies responsibility for the action.
+- *Alien hand syndrome*: a condition where one limb produces a seemingly meaningful action but the person denies responsibility for the action.
 - Behaviors such as alien hand syndrome and difficulty performing multiple, parallel motor tasks, such as rubbing your stomach and patting your head, further supports the idea that motor planning is a competitive processing.
 - Differences between posterior parietal cortex and premotor regions
     - Parietal cortex uses an eye-centered reference frame, while premotor regions use an hand-centered reference frame.
     - Parietal cortex is linked to motor intention, while premotor regions are linked to movement execution.
 - Conscious awareness of movement appears to be related to the neural processing of action intention rather than the movement itself.
-- Mirror neurons (MNs): neurons that fire both when an action is observed and when the individual performs the same action.
+- *Mirror neurons (MNs)*: neurons that fire both when an action is observed and when the individual performs the same action.
 ![Figure 8.24](figure8-24.png)
 - The activity of MNs is correlated with a goal-oriented action and is independent of how this information is received.
 - MNs intimately link perception and action, suggesting that our ability to understand the actions of others depends on the neural structures that would be engaged if we were to produce the action ourselves.
@@ -860,10 +860,10 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Both rewards and errors help us learn.
 - We can also use our predictions as a form of feedback to learn from.
 - E.g. The arrow landed further than expected or the piano sound was lower than expected.
-- Sensory prediction errors: when the actual feedback doesn’t match the predictions.
+- *Sensory prediction errors*: when the actual feedback doesn’t match the predictions.
 - It can take 50 to 150 ms for a motor command to be generated and for the sensory prediction error to return to the cortex.
 - This is too long of a delay for learning and the brain compensates for this by generating a forward model.
-- Forward model: an expectancy of the sensory consequences of our action.
+- *Forward model*: an expectancy of the sensory consequences of our action.
 ![Figure 8.43](figure8-43.png)
 - The cerebellum is a key part of the neural network for the generation of forward models.
 - It receives a copy of motor signals being sent to the muscles from the cortex - information that can be used to generate sensory predictions.
@@ -883,35 +883,35 @@ excerpt: "The defining textbook of cognitive neuroscience."
     - What brain systems have proved to be critical for the formation of long-term memory?
     - Where are memories stored in the brain, and by what cellular and molecular mechanisms?
 ![Anatomy of Memory](anatomy-memory.png)
-- Learning: the process of acquiring new information.
+- *Learning*: the process of acquiring new information.
 - The outcome of learning is memory. That is, a memory is created when something is learned.
 - Some forms of memory are described as “mental time travel” where the act of remembering something is to reexperience the context of a past experience in the present.
 - We have several types of memory mediated by different systems
-    - Sensory memory: milliseconds to seconds.
-    - Short-term memory: seconds to minutes.
-    - Working memory: seconds to minutes.
-    - Long-term memory: decades.
+    - *Sensory memory*: milliseconds to seconds.
+    - *Short-term memory*: seconds to minutes.
+    - *Working memory*: seconds to minutes.
+    - *Long-term memory*: decades.
 ![Table 9.1](table9-1.png)
 - Long-term memory is commonly divided into two forms
-    - Declarative: conscious memory.
-        - Semantic: facts.
-        - Episodic: experiences.
-    - Nondeclarative: unconscious memory.
-        - Perceptual priming: a change in the response to a stimulus following prior expose to that stimulus.
-        - Conditioned responses: pairing an unconditioned stimulus (US) with a conditioned stimulus (CS) to evoke a conditioned response (CR).
-        - Non-associative learning: learning that doesn’t involve the association of two stimuli to elicit a behavioral change.
+    - *Declarative*: conscious memory.
+        - *Semantic*: facts.
+        - *Episodic*: experiences.
+    - *Nondeclarative*: unconscious memory.
+        - *Perceptual priming*: a change in the response to a stimulus following prior expose to that stimulus.
+        - *Conditioned responses*: pairing an unconditioned stimulus (US) with a conditioned stimulus (CS) to evoke a conditioned response (CR).
+        - *Non-associative learning*: learning that doesn’t involve the association of two stimuli to elicit a behavioral change.
 - Three main stages of learning and memory
-    - Encoding: the processing of incoming information and experiences.
-        - Acquisition: a period of time where sensory stimuli are available in a sensory buffer.
-        - Consolidation: when changes in the brain stabilize a memory over time.
-    - Storage: the retention of memory traces.
-    - Retrieval: accessing stored memory traces.
+    - *Encoding*: the processing of incoming information and experiences.
+        - *Acquisition*: a period of time where sensory stimuli are available in a sensory buffer.
+        - *Consolidation*: when changes in the brain stabilize a memory over time.
+    - *Storage*: the retention of memory traces.
+    - *Retrieval*: accessing stored memory traces.
 - Learning can be achieved in multiple ways and it appears that different parts of the brain are specialized for different types of learning.
 - E.g. Reinforcement learning in the basal ganglia, trial-and-error learning in the cerebellum, and fear learning in the amygdala.
-- Amnesia: memory deficits and loss.
+- *Amnesia*: memory deficits and loss.
 - Two types of amnesia
-    - Anterograde: loss of memory for events after a lesion occurs. It results from the inability to learn new things.
-    - Retrograde: loss of memory for events before a lesion occurs.
+    - *Anterograde*: loss of memory for events after a lesion occurs. It results from the inability to learn new things.
+    - *Retrograde*: loss of memory for events before a lesion occurs.
 - Retrograde amnesia tends to be greatest for most recent events. This effect is known as a temporal gradient or Ribot’s law.
 - Only bilateral resection of the hippocampus results in severe amnesia. In comparison, unilateral resection results in no residual memory deficits.
 - Key ideas from patient H.M.
@@ -920,12 +920,12 @@ excerpt: "The defining textbook of cognitive neuroscience."
     - There’s a dissociation between remembering the experience of learning (declarative) and the actual learned information (nondeclarative).
     - Previously, it had been thought that memory couldn’t be separated from perceptual and intellectual functions. H.M., however, reveals that memory is distinct from these processes.
 - Growing evidence suggests that long-term memories can be partially dissociated from one another, as expressed in their differential sensitivity to brain damage.
-- Dementia: an umbrella term for the loss of cognitive function in different domains beyond what’s expected in normal aging.
+- *Dementia*: an umbrella term for the loss of cognitive function in different domains beyond what’s expected in normal aging.
 ![Figure 9.2](figure9-2.png)
 - Sensory memory is like a sort of echo in your head, the stimulus repeats weakly after the initial stimulation.
 - There are different types of sensory memory for each sense
-    - Echoic: auditory.
-    - Iconic: vision.
+    - *Echoic*: auditory.
+    - *Iconic*: vision.
 - Sensory memories are stored in the sensory structures as a short-lived neural trace but they have a relatively high capacity.
 - In short-term memory, information can be lost by decay or interference.
 - A key question in the study of memory is whether memories have to be encoded in short-term memory before being stored in long-term memory.
@@ -956,18 +956,18 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - A double dissociation in the MTL for encoding different forms of memory
     - MTL mechanism with perirhinal cortex supports familiarity-based recognition memory.
     - Hippocampus and posterior parahippocampal cortex supports source-based recognition memory.
-- Binding problem: how the brain bundles various types of information to form an episodic memory.
+- *Binding problem*: how the brain bundles various types of information to form an episodic memory.
 - E.g. Remembering the first time you went to high school, the people you met, the new classrooms and teacher, the new smells, the excitement and emotions.
 - Evidence from multiple studies indicates that the MTL supports different forms of memory and that these different forms (recollection vs familiarity) are supported by different subdivisions of the MTL.
 - The hippocampus is involved in the encoding and retrieval of episodic memories, while the areas outside the hippocampus (especially the perirhinal cortex) are involved in recognition based on familiarity.
 ![Figure 9.28](figure9-28.png)
-- Relational memory: memory for relations between elements such as time, place, and person.
+- *Relational memory*: memory for relations between elements such as time, place, and person.
 - Relational memory may be coded during retrieval by reactivation of the neocortical areas that provided input to the hippocampus during the original encoding.
 - The reactivation, however, didn’t activate the lower-level sensory cortical regions but activated the later stages of visual and auditory association cortex, where incoming signals would have been perceptually processed.
 ![Figure 9.31](figure9-31.png)
 - True memories are associated with greater activity in the MTL and sensory areas, while false memories are associated with greater activity in frontal and parietal portions of the retrieval network.
 - Successful memory retrieval is consistently associated with activity in the lateral posterior cingulate cortex, including the retrosplenial cortex.
-- Consolidation: the process that stabilizes a memory over time.
+- *Consolidation*: the process that stabilizes a memory over time.
 - Consolidation processes occur at the cellular level and the systems level.
 - Evidence for consolidation comes from patients with retrograde amnesia where their most recent memories are lost but their older memories are retained.
 - Two theories for memory consolidation
@@ -993,9 +993,9 @@ excerpt: "The defining textbook of cognitive neuroscience."
     3. Schaffer collaterals
 ![Figure 9.39](figure9-39.png)
 - Three properties of LTP in the CA1 synapses
-    - Cooperativity: more than one input must be active at the same time.
-    - Associativity: weak inputs are potentiated when co-occurring with stronger inputs.
-    - Specificity: only the stimulated synapse shows potentiation.
+    - *Cooperativity*: more than one input must be active at the same time.
+    - *Associativity*: weak inputs are potentiated when co-occurring with stronger inputs.
+    - *Specificity*: only the stimulated synapse shows potentiation.
 - For LTP to be produced, the postsynaptic cells must be depolarized.
 - NMDA receptors are central to producing LTP but not to maintaining it.
 
@@ -1011,12 +1011,12 @@ excerpt: "The defining textbook of cognitive neuroscience."
 ![Anatomy of Emotion](anatomy-emotion.png)
 - People have been struggling to define emotions for several thousand years.
 - Unique qualities of emotion
-    - Embodied: you feel them.
-    - Recognizable: they’re associated with characteristic facial expressions and behavioral patterns.
+    - *Embodied*: you feel them.
+    - *Recognizable*: they’re associated with characteristic facial expressions and behavioral patterns.
     - Triggered by stimuli.
     - Less susceptible to our intentions.
     - Global effects on cognition.
-- Feeling: the subjective experience of an emotion but not the emotion itself.
+- *Feeling*: the subjective experience of an emotion but not the emotion itself.
 - Emotions and feelings are different and they use different neural systems.
 - E.g. You can understand someone’s emotions but you don’t feel them.
 ![Figure 10.2](figure10-2.png)
@@ -1025,10 +1025,10 @@ excerpt: "The defining textbook of cognitive neuroscience."
     - A behavioral response
     - A feeling
 - The underlying mechanisms and timing of components are disputed.
-- Affect: a more general term for emotion that also encompasses longer-lasting states.
-- Stress: a fixed pattern of physiological and neurohormonal changes.
-- Mood: a long-lasting diffuse affective state that is characterized by the enduring subjective feelings without an identifiable object or trigger.
-- Limbic system: the complex neural circuits involved in processing emotion.
+- *Affect*: a more general term for emotion that also encompasses longer-lasting states.
+- *Stress*: a fixed pattern of physiological and neurohormonal changes.
+- *Mood*: a long-lasting diffuse affective state that is characterized by the enduring subjective feelings without an identifiable object or trigger.
+- *Limbic system*: the complex neural circuits involved in processing emotion.
 - The structures of the limbic system roughly form a rim around the corpus callosum and has been extended to include the medial surface of the cortex, portions of the basal ganglia, the amygdala, and the orbitofrontal cortex.
 - Patient S.M.’s case, where bilateral amygdala damage resulted in not feeling fear, supports the idea that there isn’t a single emotional circuit, but rather specific circuits for specific emotions.
 - To study emotions, researchers have divided it into three categories
@@ -1052,8 +1052,8 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Complex emotions encompass emotions that aren’t basic and that are produced by a broad network of regions within the brain.
 - E.g. Parental love, jealousy, romantic love.
 - Most researchers agree that emotional responses can be characterized by two factors
-    - Valence: pleasant to unpleasant.
-    - Arousal: intensity.
+    - *Valence*: pleasant to unpleasant.
+    - *Arousal*: intensity.
 - E.g. Finding $5 on the ground versus winning $10 million in a lottery. Both evoke happiness but to a different intensity.
 - Yet a person can experience two emotions with opposite valences at the same time.
 - E.g. Scared and excited on a roller coaster, happy and sad in a bittersweet movie ending.
@@ -1097,7 +1097,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Anderson and Adolphs Theory of Emotion
     - Emotional stimuli activate a central nervous system state that, in turn, simultaneously activates multiple systems producing separate responses.
 ![AA Theory of Emotion](toe-aa.png)
-- Kluver-Bucy syndrome: a lack of fear.
+- *Kluver-Bucy syndrome*: a lack of fear.
 - Although humans with amygdala damage don’t show all of the signs of Kluver-Bucy syndrome, they do show deficits in fear processing.
 - E.g. Patient S.M. that exhibited a lack of cautiousness and distrust.
 - Facts about patient S.M.
@@ -1109,16 +1109,16 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Although we have some innate fears, we still need to learn of other things to be afraid of.
 - E.g. Conjured up fictions such as ghosts, vampires, and monsters.
 - Emotional learning can be both implicit and explicit.
-- Implicit emotional learning: learning to fear a stimulus without being told.
-- Explicit emotional learning: learning to fear a stimulus by being told.
+- *Implicit emotional learning*: learning to fear a stimulus without being told.
+- *Explicit emotional learning*: learning to fear a stimulus by being told.
 - These two types of emotional learning appear to be associated with two different pathways.
 - Evidence for this comes from a patient that had no long-term declarative memory (doctor had to reintroduce himself every time they met) but could still learn to associate the doctor’s handshake with pain.
-- Fear conditioning: a type of Pavlovian learning where a neutral stimulus acquires aversive properties when paired with an aversive event.
+- *Fear conditioning*: a type of Pavlovian learning where a neutral stimulus acquires aversive properties when paired with an aversive event.
 ![Figure 10.10](figure10-10.png)
 - Damage to the amygdala impairs conditioned fear responses by not pairing the conditioned stimulus with the unconditioned stimulus.
 - The amygdala receives sensory input along two pathways
-    - Low road: signals that bypass the cortex and quickly reach the amygdala.
-    - High road: signals that go through the cortex and slowly reach the amygdala.
+    - *Low road*: signals that bypass the cortex and quickly reach the amygdala.
+    - *High road*: signals that go through the cortex and slowly reach the amygdala.
 - By using this two-pathway system, the amygdala can make few low-risk errors but it will catch all high-risk errors. This ensures that all high-risk errors are caught before they affect survivial.
 ![Figure 10.12](figure10-12.png)
 - Evolution suggests that the amygdala might be sensitive to certain types of stimuli such as animals.
@@ -1132,7 +1132,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - They had the physiological response without cognitive input from conscious memory.
 - This double dissociation between patients with amygdala lesions and patients with hippocampal lesions is evidence that the amygdala is necessary for the implicit expression of emotional learning, but not for all forms of emotional learning and memory.
 - The hippocampus is necessary for acquiring the explicit/declarative knowledge of the emotional properties of a stimulus, while the amygdala is necessary for acquiring and expressing the implicit/nondeclarative conditioned fear response.
-- Explicit learning: learning to fear a stimulus because we’re told to fear it.
+- *Explicit learning*: learning to fear a stimulus because we’re told to fear it.
 - Explicit learning is common in humans.
 - E.g. Fear snakes, spiders, ghosts, etc not because we’ve experienced a fear response to them, but because someone else told us to fear them.
 - When a person explicitly learns to fear a stimulus, that hippocampal-dependent memory about the emotional properties of that stimulus can influence amygdala activity.
@@ -1151,23 +1151,23 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Emotional events are more distinctive and unusual than are everyday life events, and they form a specific class of events.
 - Inconsequential information can be retroactively tagged as relevant if related information is later associated with an emotional response.
 - E.g. We can often remember events right before an emotional event such as the night before a graduation/wedding.
-- Attentional blink: a phenomenon often observed during rapid serial presentations of visual stimuli, in which a second salient target that is presented between 150 and 450 ms after the first one goes undetected.
+- *Attentional blink*: a phenomenon often observed during rapid serial presentations of visual stimuli, in which a second salient target that is presented between 150 and 450 ms after the first one goes undetected.
 - The amygdala is critical in bringing an unattended but emotional stimulus into conscious awareness by providing some feedback to the primary sensory cortices, thus affecting perceptual processing.
 - The amygdala can enhance perception of an emotion-laden stimulus without the aid of attention.
 - Emotion-laden stimuli receive greater attention and priority in perceptual processing.
 - Not only does stimuli with inherent emotional significant change sensory processing, but neutral stimuli that acquire emotional significance through fear conditioning also trigger changes in sensory processing.
 - It’s believed that emotion leads people to make suboptimal and sometimes irrational decisions.
 - E.g. “Smart decisions are made with the head, impulsive decisions are made with the heart”.
-- Dual-systems theory: the hypothesis that emotion and reason are separable in the brain and compete for control of behavior.
+- *Dual-systems theory*: the hypothesis that emotion and reason are separable in the brain and compete for control of behavior.
 - Dual-systems theory has not been supported by evidence.
 - There is no unified system in the brain that drives emotion, so emotion and reason aren’t separable.
 - Some of our most adaptive decisions are driven by emotional reactions.
 - Damage to the orbitofrontal cortex (OFC) impairs decision making which is surprising since the OFC handles many emotional functions.
 - Because emotion was considered a disruptive force in decision making, it was surprising that impairing a region involved in emotion would result in impaired decision making.
-- Somatic marker hypothesis: emotional information is needed to guide decision making.
+- *Somatic marker hypothesis*: emotional information is needed to guide decision making.
 - Two ways in which emotion influences decision making
-    - Incidental affect: current emotional states just happens to influence the decision.
-    - Integral emotion: emotions elicited by the choice options are incorporated into the decision.
+    - *Incidental affect*: current emotional states just happens to influence the decision.
+    - *Integral emotion*: emotions elicited by the choice options are incorporated into the decision.
 - Acute stress leads to an increased reliance on default or habitual responses.
 - This suggests an explanation for why we often revert to bad habits, such as eating junk food or smoking, when stressed.
 - There is strong evidence that the amygdala plays a critical role in mediating aversion to losses, which is consistent with the amygdala’s role in threat detection.
@@ -1182,7 +1182,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - The amygdala seems to have a role in perceiving and interpreting emotion and sociability in a wide range of stimuli, and may play a role in our ability to anthropomorphize.
 - The amygdala, while involved in a variety of emotional tasks, isn’t the only area of the brain necessary for emotions.
 - There’s a significant correlation between the insular cortex’s activity and interoception.
-- Interoception: the perception of the internal bodily states.
+- *Interoception*: the perception of the internal bodily states.
 - E.g. Thirst, touch, itch, bladder, exercise, and heartbeat.
 ![Figure 10.24](figure10-24.png)
 - We have a cerebral cortex for managing the external world and an insular cortex for managing the inner world.
@@ -1194,10 +1194,10 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Love, however, is easier to study and it has been found to activate many different brain regions.
 - No activation of the amygdala has been reported in fMRI studies of love, but it has been reported for lust.
 - Each type of love (maternal, passionate, and unconditional) recruits a different specific brain network.
-- Emotion regulation: the processes that influence the types of emotions we have, when we have them, and how we express and experience them.
+- *Emotion regulation*: the processes that influence the types of emotions we have, when we have them, and how we express and experience them.
 - We are so adept at controlling our emotions that we tend to notice only when someone doesn’t.
 - E.g. The angry customer or the depressed friend overwhelmed with sadness.
-- Reapppraisal: altering the emotional impact of the stimulus by reevaluating the situation.
+- *Reapppraisal*: altering the emotional impact of the stimulus by reevaluating the situation.
 ![Figure 10.29](figure10-29.png)
 - Conscious reappraisal reduces the emotional experiences and this supports the idea that emotions, to some extent, are subject to conscious cognitive control.
 
@@ -1215,7 +1215,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Language is perhaps the most specialized and refined of our higher functions. It’s unique in that only humans possess a true and elaborate language system.
 - Language input can be auditory (speech), visual (text), or tactile (braille).
 - Language processing is lateralized to the left-hemisphere regions surrounding the Sylvian fissure.
-- Aphasia: a broad term referring to the collective deficits in language comprehension and production.
+- *Aphasia*: a broad term referring to the collective deficits in language comprehension and production.
 - Review of Broca’s aphasia (speech, syntax, and grammar problems), Wernicke’s aphasia (language comprehension problems), and conduction aphasia (problems repairing their own speech errors).
 ![Figure 11.5](figure11-5.png)
 - The historic Wernicke-Lichtheim model of language can account for many forms of aphasia, but it doesn’t explain others and it doesn’t fit with our most current knowledge of language.
@@ -1223,11 +1223,11 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - A word in a spoken language has two properties
     - Meaning
     - Phonological (sound) / Orthographic (visual) form
-- Mental lexicon: a mental store of information about words that includes the word’s meaning (semantic), how to combine the word to form sentences (syntax), and the details of the word’s spellings and sound patterns (word form).
+- *Mental lexicon*: a mental store of information about words that includes the word’s meaning (semantic), how to combine the word to form sentences (syntax), and the details of the word’s spellings and sound patterns (word form).
 - Three general functions using the mental lexicon
-    - Lexical access: the stage of processing that activates word-form representations.
-    - Lexical selection: the stage where the brain identifies which representation best matches the input.
-    - Lexical integration: the final stage where words are integrated into a full sentence.
+    - *Lexical access*: the stage of processing that activates word-form representations.
+    - *Lexical selection*: the stage where the brain identifies which representation best matches the input.
+    - *Lexical integration*: the final stage where words are integrated into a full sentence.
 - A normal adult speaker has passive knowledge of about 50,000 words, and yet can easily recognize and produce about three words per second.
 - Given the speed and size of the database, the mental lexicon must be organized in a highly efficient manner.
 - Four organizing principles of the mental lexicon
@@ -1259,7 +1259,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
     - Speech signals aren’t clearly segmented and it can be difficult to discern where one word begins and another word ends.
 - When we speak, there are no pauses between phonemes and none between words.
 ![Figure 11.11](figure11-11.png)
-- Segmentation problem: how we differentiate auditory sounds into separate words.
+- *Segmentation problem*: how we differentiate auditory sounds into separate words.
 - One important clue to divide speech is the prosodic information, which is the speaker’s rhythm and pitch.
 - E.g. Raising the frequency at the end of a sentence to indicate a question.
 - Another clue is the use of syllables to establish word boundaries.
@@ -1278,9 +1278,9 @@ excerpt: "The defining textbook of cognitive neuroscience."
         - E.g. Chinese
 - An early model of written language was the pandemonium model where demons at lower levels provided information to the demon above it to recognize a word.
 - The model doesn’t allow for top-down feedback through so it can’t explain the word superiority effect.
-- Visual word form area (VWFA): regions of the occipital cortex that preferred word strings.
+- *Visual word form area (VWFA)*: regions of the occipital cortex that preferred word strings.
 - Written-word processing takes place in the VWFA and damage to this area causes pure alexia.
-- Alexia: a condition where patients can’t read words even though other aspects of language are normal.
+- *Alexia*: a condition where patients can’t read words even though other aspects of language are normal.
 - If the initial word processing happens in the right hemisphere, it’s transferred to the VWFA in the left hemisphere through the posterior corpus callosum.
 - Activation of the VWFA is reproducible across cultures that use different types of symbols including syllabic and logographic.
 - Does context influence word processing before or after the processing?
@@ -1293,15 +1293,15 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Introduction to the N400 (semantic violation) and P600 (syntactic violation) ERP.
 - Syntactic processing takes place in a network of left inferior frontal and superior temporal brain regions that are activated during language processing.
 - Memory-unification-control model of language processing
-    - Memory: the linguistic knowledge encoded and consolidated into neocortical memory structures.
-    - Unification: the integration of phonological, semantic, and syntactic information into an overall representation of the whole utterance.
-    - Control: the selection of actions during social interactions and joint actions such as bilingualism.
+    - *Memory*: the linguistic knowledge encoded and consolidated into neocortical memory structures.
+    - *Unification*: the integration of phonological, semantic, and syntactic information into an overall representation of the whole utterance.
+    - *Control*: the selection of actions during social interactions and joint actions such as bilingualism.
 ![Figure 11.25](figure11-25.png)
 - Similar to the motor system, if a person’s speech is altered and the speaker hears the altered speech, the speaker adjusts their speech to correct for sensory feedback errors.
 - When there’s a mismatch between expected and actual auditory signals, there’s increased activity in the bilateral superior temporal cortex.
 - Two steps in speech production
-    - Macroplanning: what to say.
-    - Microplanning: how to say it.
+    - *Macroplanning*: what to say.
+    - *Microplanning*: how to say it.
 - Just like motor behavior, the intention of communication is represented by goals and subgoals and is fulfilled by a hierarchy.
 ![Figure 11.27](figure11-27.png)
 - Findings support the idea of serial processing during initial speech production.
@@ -1325,7 +1325,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
     - How do we monitor ongoing performance to help ensure the success of complex behaviors?
 ![Anatomy of Cognitive Control](anatomy-cognitive-control.png)
 - Cognitive control processes give us the ability to override automatic thoughts and behavior and to step out of the realm of habitual responses.
-- Cognitive control (executive function): the set of mental abilities that enable us to use our perceptions, knowledge, and goals to bias the selection of action and thoughts from a multitude of possibilities.
+- *Cognitive control (executive function)*: the set of mental abilities that enable us to use our perceptions, knowledge, and goals to bias the selection of action and thoughts from a multitude of possibilities.
 - The resulting behaviors are described as goal-oriented behavior because they aren’t random nor are they stimulus driven.
 - The prefrontal cortex (PFC) is the rest of the frontal lobe that isn’t part of the motor cortex.
 - The PFC is split into four subregions
@@ -1340,13 +1340,13 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - E.g. The PFC develops later in life similar to how it also developed later in evolution.
 - The PFC has massive connections to almost all regions of the parietal and temporal cortex, and also receives huge input from the thalamus.
 - Frontal lobe lesions are difficult to detect and require specialized testing.
-- Perseveration: persisting in a response even after being told that it’s incorrect.
+- *Perseveration*: persisting in a response even after being told that it’s incorrect.
 - Lesions to the PFC can result in difficulty executing a plan, socially inappropriate behavior, and they may exhibit stimulus-driven behavior.
 - Two fundamental types of actions
-    - Goal-oriented actions: actions with an expected reward and the knowledge that the action causes the reward.
+    - *Goal-oriented actions*: actions with an expected reward and the knowledge that the action causes the reward.
         - Most of our actions are of this type.
         - E.g. We go to school because we want a certain lifestyle. We put money into the vending machine to get chips.
-    - Habitual actions (habit): actions that aren’t under the control of a reward.
+    - *Habitual actions (habit)*: actions that aren’t under the control of a reward.
         - Is stimulus driven and can be considered automatic.
         - E.g. Putting on glasses in the morning. Pulling the blanket up while sleeping.
         - Occur in the presence of certain stimuli that trigger the retrieval of well-learned associations.
@@ -1363,24 +1363,24 @@ excerpt: "The defining textbook of cognitive neuroscience."
     - Anterior-posterior is organized in terms of abstraction with anterior being more abstract and posterior being more concrete.
     - Lateral-medial is organized in terms of the degree in which working memory is influenced by information by the environment or internal information. Lateral regions are more external and medial is more internal.
 - Two types of decision-making processes
-    - Normative: how people ought/should make decisions.
-    - Descriptive: how people actually make decisions.
+    - *Normative*: how people ought/should make decisions.
+    - *Descriptive*: how people actually make decisions.
 - Some decisions don’t seem rational within the context of our current, highly advance world. But they may seem more rational if looked at from an evolutionary perspective.
 - E.g. People who are obese.
 - To understand the neural processes involved in decision making, we first need to understand how the brain computes values and processes rewards.
 - Value has various components that are both external and internal.
-    - Payoff: expected reward.
-    - Probability: likelihood of reward.
-    - Cost: effort to receive reward.
-    - Context: current situation.
-    - Preference: personal choice.
-- Temporal discounting: the observation that the value of a reward decreases when we have to wait to receive that reward.
+    - *Payoff*: expected reward.
+    - *Probability*: likelihood of reward.
+    - *Cost*: effort to receive reward.
+    - *Context*: current situation.
+    - *Preference*: personal choice.
+- *Temporal discounting*: the observation that the value of a reward decreases when we have to wait to receive that reward.
 - The OFC region appears to play a key role in the representation of payoff/reward.
 - The anterior cingulate cortex (ACC) appears to exert a type of control by promoting the behavior of exploring the environment for better alternatives.
 - ACC activation is also predictive when there is a conflict between options.
 - The activation of dopaminergic neurons isn’t tied to the size of the reward, but to the expectancy of reward.
 ![Figure 12.16](figure12-16.png)
-- Reward prediction error (RPE): the difference between the predicted reward and the actual reward.
+- *Reward prediction error (RPE)*: the difference between the predicted reward and the actual reward.
 - Dopamine neurons actually do the calculation of the RPE by using the predicted reward and the actual reward as inputs.
 - RPEs also match our learning rate as initially, the RPE is large so learning is rapid and as time goes on, the RPE becomes smaller due to updated expectations, hence learning slows down.
 - Punishment isn’t just the withholding of a reward, it also involves the experience of something aversive.
@@ -1405,7 +1405,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - To monitor progress, the MFC and ACC appear to be critical components of a monitoring system.
 - The MFC appears to be sensitive to unexpected feedback, not only errors.
 - The LFC represents the task goal and the MFC monitors whether that goal is achieved.
-- Post-error slowing (PES): after participants make an error, they slow down and are more cautious.
+- *Post-error slowing (PES)*: after participants make an error, they slow down and are more cautious.
 - Interestingly, PES doesn’t affect accuracy even though more time is used.
 - Lesions in the MFC fail to confirm various hypotheses regarding its function and patients with such lesions are relatively normal except that they fail to show normal changes in arousal when challenged physically or mentally.
 - This suggests that the MFC represents more of a metacognitive variable, an estimate of how much cognitive control is required in a given situation and the benefit to be gained if that control is invested.
@@ -1449,7 +1449,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Our sense of self partially relies on seeing the difference between our self-knowledge and the knowledge we have of others.
 - E.g. You might value neuroscience but most other people don’t. This boundary is what partially defines you.
 - Your individual preferences help define what makes you unique compared to others.
-- Self-reference effect: the enhancement of memory for information processed in relation to the self.
+- *Self-reference effect*: the enhancement of memory for information processed in relation to the self.
 - Medial prefrontal cortex (MPFC) activity increases with self-referential processing.
 - Our judgments about self-descriptions aren’t linked to recall of specific past behaviors or memories.
 - E.g. People with retrograde amnesia are still able to describe themselves as “smart” or “caring” even though they have no autobiographical memories.
@@ -1466,7 +1466,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Invasive methods and lesion studies confirm that self-knowledge appears to be both fundamentally distributed and reliant on multiple distinct brain systems.
 - It’s possible to maintain a sense of self in the absence of specific autobiographical memories, because a distinct neural system supports the summaries of personality traits typically used to make self-descriptive judgments.
 - The brain at rest apparently isn’t “off”. Why does the brain consume so much energy when it isn’t engaged in a specific cognitive task?
-- Default network: a network of brain regions that describe the default model of brain function.
+- *Default network*: a network of brain regions that describe the default model of brain function.
 - The default network is made up of
     - MPFC
     - Precuneus
@@ -1484,7 +1484,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - The MPFC is involved in simulating other people’s minds, other times, and other places, essentially imagining, which may also explain our counterfactual abilities.
 - To predict our future mental state in imagined experiences, we simulate the experience and then calculate our preference from those simulations.
 - The vmPFC is key to predicting our state of mind as the more active it is (when considering the future), the less shortsighted our decisions will be.
-- Embodiment: the feeling of unity between the self and the body.
+- *Embodiment*: the feeling of unity between the self and the body.
 - The extrastriate body area, located in the lateral occipitotemporal cortex, has been implicated in the processing of embodiment.
 - The extrastriate body area responds selectively to human bodies and body parts and to imagined and executed movements of one’s own body.
 - Stimulation of the temporoparietal junction (TPJ) produces an out-of-body-experience (OBE).
@@ -1493,8 +1493,8 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - E.g. Errors such as believing we are floating above our bodies and are viewing the world from the a bird’s POV.
 - OBEs are one of three types of visual body illusions (also known as autoscopic phenomena (AP)).
 - The other two types are
-    - Autoscopic hallucination: when a person sees a double of themselves in extra-personal space.
-    - Heautoscopy: similar to autoscopic hallunication except the person is unsure of whether one feels disembodied or not.
+    - *Autoscopic hallucination*: when a person sees a double of themselves in extra-personal space.
+    - *Heautoscopy*: similar to autoscopic hallunication except the person is unsure of whether one feels disembodied or not.
 ![Figure 13.9](figure13-9.png)
 - APs may result from two disintegrations
     - Within personal space
@@ -1503,7 +1503,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - E.g. Seeing yourself touch a part of your body, but feeling the sensation later than expected.
 - The second disintegration occurs when there’s conflicting visual and vestibular information.
 - E.g. When the vestibular system senses that you’re moving but your visual information doesn’t match.
-- Xenomelia / body integrity identity disorder (BIID): when a person reports experiencing a lifelong desire for the amputation of one or several of their limbs because they don’t feel that the limb belongs to their body.
+- *Xenomelia / body integrity identity disorder (BIID)*: when a person reports experiencing a lifelong desire for the amputation of one or several of their limbs because they don’t feel that the limb belongs to their body.
 ![Table 13.1](table13-1.png)
 - Xenomelia has a neurological basis and patients with xenomelia elicit no cortical response in the right superior parietal lobule (SPL) when the undesired limb is touched. There’s decreased cortical surface area in the right anterior insular cortex and decreased cortical thickness in the SPL.
 - This also explains why most cases of xenomelia affect the left leg.
@@ -1512,19 +1512,19 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - However, the causal direction may also go in the other direction with the desire to remove the leg affecting the the brain area.
 - Compared to self-perception, our perceptions of other people are made without direct access to their mental and physiological states.
 - We have to use other cues such as facial expressions and voice tone to infer what others are thinking and how they are feeling.
-- Empathic accuracy: the ability to correctly infer another person’s thoughts and feelings.
+- *Empathic accuracy*: the ability to correctly infer another person’s thoughts and feelings.
 - For most people, their empathic accuracy of strangers is about 20%, close friends get 30%, and spouses get 30-35%.
 - To infer the thoughts of others, the observer must translate what’s observable into an inference about what’s unobservable: their psychological state.
 - Two theories on how we do this
-    - Mental state attribution theory: people develop a commonsense “folk psychology” to infer the thoughts of others. We develop an elaborate theory about the mind of others to infer their thoughts or predict their actions.
-    - Experience sharing theory: we simply observe someone else’s behavior, simulate it, and use our own mental state produced by the simulation to predict the mental state of others.
+    - *Mental state attribution theory*: people develop a commonsense “folk psychology” to infer the thoughts of others. We develop an elaborate theory about the mind of others to infer their thoughts or predict their actions.
+    - *Experience sharing theory*: we simply observe someone else’s behavior, simulate it, and use our own mental state produced by the simulation to predict the mental state of others.
 - While we have the ability described in the mental state attribution theory, we don’t use it often as our understanding of others is often immediate and automatic.
 - Evidence supports both theories.
-- Theory of mind (ToM) / mentalizing: the ability to simulate the mental states of oneself and others.
+- *Theory of mind (ToM) / mentalizing*: the ability to simulate the mental states of oneself and others.
 - Newborns have an innate and automatic ability to imitate other people’s facial expression.
 - Review of the false-belief task to test for the presence of theory of mind and mirror neurons.
 - Evidence suggests that ToM is innate and that the mere presence of another person automatically triggers belief computations.
-- Empathy: our capacity to understand and respond to the unique emotional experiences of another person.
+- *Empathy*: our capacity to understand and respond to the unique emotional experiences of another person.
 - Evidence suggests that the same brains regions are activated when we experience something and when we see someone else having the same experience.
 - Then how do we know who is feeling what? Current research doesn’t know the answer.
 - Social preferences for people similar to us emerge in infants before one year of age.
@@ -1574,18 +1574,18 @@ excerpt: "The defining textbook of cognitive neuroscience."
     - What evidence suggests there is a consciousness circuit?
 ![Anatomy of Consciousness](anatomy-consciousness.png)
 - Review of the mind-body problem.
-- Consciousness: the having of perceptions, thoughts, and feelings; awareness.
+- *Consciousness*: the having of perceptions, thoughts, and feelings; awareness.
 - Many fall into the trap of equating consciousness with self-consciousness - to be conscious it is only necessary to be aware of the external world.
 - While we are aware of the contents of consciousness, we don’t have to have awareness that we are aware, aka meta-awareness.
 - Self-consciousness is no more mysterious than perception or memory.
 - Why, when all this processing about the self is separate, do we feel unified?
 - We also have access awareness.
-- Access awareness: the ability to report on the contents of mental experience, but not to how the contents were built up by all of the neurons, neurotransmitters, etc.
+- *Access awareness*: the ability to report on the contents of mental experience, but not to how the contents were built up by all of the neurons, neurotransmitters, etc.
 - Two modes of information processing
-    - Conscious: can be accessed by systems underlying verbal reports, rational thought, and deliberate decision making.
-    - Nonconscious: can’t be accessed such as autonomic (gut-level) responses, the internal operations of vision, language and motor control, and repressed desires or memories.
+    - *Conscious*: can be accessed by systems underlying verbal reports, rational thought, and deliberate decision making.
+    - *Nonconscious*: can’t be accessed such as autonomic (gut-level) responses, the internal operations of vision, language and motor control, and repressed desires or memories.
 - Consciousness as something you have to experience in order to define.
-- Neural correlates of consciousness: changes in subjective state must be associated with changes in neuronal state.
+- *Neural correlates of consciousness*: changes in subjective state must be associated with changes in neuronal state.
 - The converse may not be true as different neuronal states can result in the same subjective state.
 - E.g. Different states of sleep all feel like sleep except for dreaming.
 - The cognitive neuroscience approach to the problem of consciousness
@@ -1595,8 +1595,8 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - It’s helpful to distinguish between states of arousal and consciousness.
 - E.g. Sleep, wakefulness, coma, and brain death.
 - Antonio Damasio separates consciousness into two categories
-    - Core consciousness: when consciousness is “flipped on”.
-    - Extended consciousness: built on core consciousness and holds the complex contents of consciousness.
+    - *Core consciousness*: when consciousness is “flipped on”.
+    - *Extended consciousness*: built on core consciousness and holds the complex contents of consciousness.
 - The brain regions needed for core consciousness are in the evolutionarily oldest part of the brain - the brainstem.
 - The brainstem’s primary job is homeostatic regulation of the body and brain and this is performed mainly by the medulla oblongata along with the pons.
 - Disconnect this part of the brainstem and the body dies. This is true for all mammals.
@@ -1613,7 +1613,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - A level of wakefulness is necessary for consciousness (not quite true such as in dreams), but consciousness isn’t necessary for wakefulness.
 - E.g. Patients with unresponsive wakefulness syndrome (UWS), also known as vegetative state. They are awake in that they open their eyes, but they only show reflex behavior.
 - In contrast, patients with minimally conscious state (MCS) show localization to pain and nonreflexive movement.
-- Locked-in syndrome (LIS): a condition where one is unable to move any muscle but is fully conscious and has normal sleep-wake cycles.
+- *Locked-in syndrome (LIS)*: a condition where one is unable to move any muscle but is fully conscious and has normal sleep-wake cycles.
 - Some patients with LIS are able to voluntarily blink or to make small vertical eye movements, but others don’t and exhibit no external signs.
 - LIS is caused by a lesion to the ventral part of the pons where neurons connect the cerebellum to the cortex.
 ![Figure 14.2](figure14-2.png)
@@ -1633,24 +1633,24 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - E.g. Building a house given the budget, materials, location, weather, and regulation.
 - In the case of the brain, the constraints include energy costs, brain and skull size, and processing speeds.
 - The components of a complex system are arranged in a specific manner that enables their functionality and robustness.
-- Robustness: a property of the system is robust if it’s invariant with respect to a set of perturbations.
+- *Robustness*: a property of the system is robust if it’s invariant with respect to a set of perturbations.
 - When we add a feature that protects the system from a particular challenge, we add robustness but also complexity and a new failure point.
 - Another property of robust systems is modularity.
 - E.g. Your olfactory system and motor system are independent. You don’t need to stand still to smell and you can lose one system without losing the other.
 - The complex system of your brain is a system of systems and to deal with this complexity, we use abstractions.
 - The brain is a complex system with a layered architecture.
 - To understand the layered architecture of the brain, the most difficult part of it is figuring out the protocols that allow one layer to talk to the next.
-- Protocol: the rules that determine the allowed interactions, both within a layer and between adjacent layers.
+- *Protocol*: the rules that determine the allowed interactions, both within a layer and between adjacent layers.
 ![Figure 14.10](figure14-10.png)
 - Protocols limit the number of outcomes but it doesn’t cause the outcome.
-- Multiple realizability: the idea that there are many ways to implement a system to produce a behavior.
+- *Multiple realizability*: the idea that there are many ways to implement a system to produce a behavior.
 - E.g. Many animals see using different eyes so we say that vision is multiple realizable.
 - Multiple realizability demonstrates that in a complex system, knowing the workings at one level of organization won’t allow you to predict the functioning at another level.
-- Bindsight: a phenomenon where patients consciously report being blind but demonstrate behavior that couldn’t have occurred unless they can see.
+- *Bindsight*: a phenomenon where patients consciously report being blind but demonstrate behavior that couldn’t have occurred unless they can see.
 - E.g. A patient saying they can’t see the cluttered hallway but they can walk through it without bumping into anything.
 - Such patients have access to information but don’t experience it; they show vision outside the realm of conscious awareness.
 - This effect also shows up in experiments where an image is flashed too fast for conscious perception but the image biases subsequent processing.
-- Subliminal processing: brain activity evoked by a stimulus that’s below the threshold for awareness.
+- *Subliminal processing*: brain activity evoked by a stimulus that’s below the threshold for awareness.
 ![Figure 14.18](figure14-18.png)
 - An often overlooked aspect of consciousness is the ability to move from conscious, controlled processing to nonconscious, automatic processing.
 - E.g. Movement. At the start, movements require conscious thought but afterwards, the movement becomes automatic such as touch typing.
@@ -1683,11 +1683,11 @@ excerpt: "The defining textbook of cognitive neuroscience."
     - It only requires an awareness of the body, not an abstract concept of self.
     - Patients with prosopagnosia fail the test but they have a sense of self.
 - Another way of testing for consciousness is imitation but this has received little evidence.
-- Sentience: the subjective qualia, phenomenal awareness, raw feelings, and first-person viewpoint of an experience.
+- *Sentience*: the subjective qualia, phenomenal awareness, raw feelings, and first-person viewpoint of an experience.
 - The hard problem of consciousness is explaining how the objective physical matter that makes up neurons, the same found in rocks, carbon, oxygen, etc, produces subjective experience.
 - Review of determinism, first and second law of thermodynamics, entropy, quantum theory, and the principle of complementarity.
-- Principle of complementarity: the idea that a system may have two simultaneous descriptions, with one not reducible to the other.
-- Anencephaly: children born without a cerebral cortex.
+- *Principle of complementarity*: the idea that a system may have two simultaneous descriptions, with one not reducible to the other.
+- *Anencephaly*: children born without a cerebral cortex.
 ![Figure 14.30](figure14-30.png)
 - In children with anencephaly, they feel emotions, have subjective experiences, and are conscious.
 - Consciousness doesn’t require cortical processing.
