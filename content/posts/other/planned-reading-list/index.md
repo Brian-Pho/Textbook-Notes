@@ -24,7 +24,6 @@ I plan to read the following textbooks and books. This list will be updated as m
 - *The Neurology of Consciousness (2nd Ed.)
 - The Neuroscience of Intelligence
 - Biopsychology (10th Ed.)
-- *The Wiley Handbook of Evolutionary Neuroscience
 - An Introduction to Brain and Behavior (4th Ed.)
 
 ### Neuromorphic Computing
@@ -52,7 +51,7 @@ I plan to read the following textbooks and books. This list will be updated as m
 
 ### Neuroscience
 
-- The Brain That Changes Itself
+- *The Brain That Changes Itself
 - The Man Who Mistook His Wife for a Hat
 - Your Brain Is a Time Machine
 - Biology's First Law: The Tendency for Diversity and Complexity to Increase in Evolutionary Systems
@@ -75,4 +74,4 @@ I plan to read the following textbooks and books. This list will be updated as m
 - Being Logical: A Guide to Good Thinking
 - The Great Unknown: Seven Journeys to the Frontiers of Science
 - Consider Phlebas
-- *Hyperion
+- *The Fall of Hyperion

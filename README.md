@@ -1,6 +1,6 @@
 # The CR4-DL (Cradle)
 
-This repository holds the code for the CR4-DL website.
+This repository holds the code and content for the CR4-DL website.
 
 CR4-DL Link: <https://brianpho.com/CR4-DL>
 
@@ -15,7 +15,6 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 
 - [ ] Clean up notes
 - [ ] Clean up grammar and spelling
-- [ ] Run notes through Grammarly
 - [ ] Add a review section to all notes
 
 ## Favicon Generator
@@ -38,15 +37,16 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 - <https://www.gatsbyjs.org/docs/gatsby-cli/>
 - <https://regexr.com/>
 - <https://www.thepunctuationguide.com/>
+- <https://www.quickpicturetools.com/en/combine_images/>
 
 ## Note Creation Process
 
 ### Style Guide
 
-- Parts use h1 (\#), chapters use h2 (\#\#), subsections use h3 (\#\#\#)
+- Parts use h1 (\#), chapters use h2 (\#\#), and subsections use h3 (\#\#\#)
 - If a part/chapter has a subtitle, use italics (\*subtitle goes here\*)
 - Definitions are in italics, don't italicize the colon, end with a period.
-- E.g. *Algorithm*: a series of steps that completes a goal.
+- E.g. *Algorithm*: a series of steps to complete a goal.
 - End bullet points with periods unless they have sub-bullet points.
 - E.g. This sentence has no sub-bullets so it ends with a period.
 - E.g. This sentence has sub-bullets so it doesn't end with a period

@@ -20,7 +20,8 @@ A list of useful links on artificial intelligence, neuroscience, and on becoming
 - [The Future of AI - What Do You Think?](https://futureoflife.org/superintelligence-survey/?cn-reloaded=1&cn-reloaded=1)
 - [An Epidemic of AI Misinformation](https://thegradient.pub/an-epidemic-of-ai-misinformation/)
 - [Lessons from My First Two Years of AI Research](http://web.mit.edu/tslvr/www/lessons_two_years.html)
-- [AI Hasn’t Found Its Isaac Newton](https://syncedreview.com/2019/02/15/ai-hasnt-found-its-isaac-newton-gary-marcus-on-deep-learning-defects-frenemy-yann-lecun/)
+- [The messy, secretive reality behind OpenAI’s bid to save the world](https://www.technologyreview.com/2020/02/17/844721/ai-openai-moonshot-elon-musk-sam-altman-greg-brockman-messy-secretive-reality/)
+- [The state of Computer Vision and AI: we are really, really far away.](https://karpathy.github.io/2012/10/22/state-of-computer-vision/)
 
 ### Websites
 
@@ -33,11 +34,10 @@ A list of useful links on artificial intelligence, neuroscience, and on becoming
 
 - [Deep Learning Textbook](http://www.deeplearningbook.org/)
 - [Reinforcement Learning Textbook](http://incompleteideas.net/book/the-book-2nd.html)
-- [David Silver's Reinforcement Learning Course](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)
+- [David Silver's Reinforcement Learning Course](https://www.davidsilver.uk/teaching/)
 - [YouTube: Lex Fridman - Artificial Intelligence Podcast](https://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4)
 - [YouTube: Welch Labs - Neural Networks Demystified](https://www.youtube.com/watch?v=bxe2T-V8XRs&list=PLiaHhY2iBX9hdHaRr6b7XevZtgZRa1PoU)
 - [YouTube: 3Blue1Brown - Neural networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-- [Coursera: Geoffrey Hinton's Neural Network Course](https://www.coursera.org/learn/neural-networks/home/welcome)
 - [Coursera: Andrew Ng's Machine Learning Course](https://www.coursera.org/learn/machine-learning/home/welcome)
 - [AlphaGo Movie](https://www.alphagomovie.com/)
 - [Artificial General Intelligence - A gentle introduction](https://cis.temple.edu/~pwang/AGI-Intro.html)
@@ -65,8 +65,9 @@ A list of useful links on artificial intelligence, neuroscience, and on becoming
 - [Neuro-patch](https://dyslectern.info/)
 - [The Learning Scientists](https://www.learningscientists.org/)
 - [Romain Brette](http://romainbrette.fr/)
-- [Neuralink](https://neuralink.com/)
 - [Medium: The Spike](https://medium.com/the-spike)
+- [Nature Outlook: The brain](https://www.nature.com/collections/jigfghaeje)
+- [Reddit: r/neuroscience](https://www.reddit.com/r/neuroscience/)
 
 ### Resources
 
@@ -74,7 +75,7 @@ A list of useful links on artificial intelligence, neuroscience, and on becoming
 - [Open Mind](https://open-mind.net/)
 - [MITCogNet](http://cognet.mit.edu/)
 - [Society for Neuroscience - Classic Papers](https://www.sfn.org/About/History-of-Neuroscience/Classic-Papers)
-- [Comparison of Neuroscience Textbooks](http://www.thebrainworm.com/textbooks-in-neuroscience/)
+- [Neuroscience of Consciousness - Standout Research](https://academic.oup.com/nc/pages/standout-research)
 - [Foundational Neuroscience Questions](https://charlesfrye.github.io/FoundationalNeuroscience/)
 - [Brain Inspired Podcast](https://braininspired.co/)
 - [YouTube: Janet Casagrand](https://www.youtube.com/channel/UCKTQ5tgMQbTdvEaJFAdO1ZA)
@@ -83,7 +84,7 @@ A list of useful links on artificial intelligence, neuroscience, and on becoming
 
 ### Neuromorphic Computing
 
-- [Intel](https://www.intel.ca/content/www/ca/en/research/neuromorphic-computing.html)
+- [Intel Information Page](https://www.intel.ca/content/www/ca/en/research/neuromorphic-computing.html)
 - [Exploring Neuromorphic Computing for AI: Why Spikes?](https://www.intel.ai/exploring-neuromorphic-computing-for-ai-why-spikes-part-one/#gs.wttfzd)
 - [The Future of Neuromorphic Computing - Presented by Intel](https://events.technologyreview.com/video/watch/mike-davies-intel-neuromorphic-computing/)
 - [On a Path to Artificial Brains](https://www.eetimes.com/on-a-path-to-artificial-brains/)
