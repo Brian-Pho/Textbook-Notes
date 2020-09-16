@@ -7,7 +7,7 @@ categories:
 excerpt: "A list of my favourite quotes."
 ---
 
-A list of my favourite quotes.
+A list of my favourite quotes collected over the years. Note: To be edited with sources and consistent formatting.
 
 ## Living
 
@@ -19,13 +19,13 @@ A list of my favourite quotes.
 - Life is too short to not be pursuing the best opportunity you know of.
 - Get busy living or get busy dying.
 - One of the hardest things you will ever have to do is grieve the loss of a person who is still alive.
-- "The unexamined life is not worth living." - Socrates
+- The unexamined life is not worth living. - Socrates
 - "What happens after you die?" "Lot's of things happen after you die - they just don't involve you"
 - Don't cry because it's over, smile because it happened.
 - We all have two lives, the second one starts when you realise you only have one.
 - Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.
-- There's no point in living if you cant, at least occasionally, live.
-- Life—the way it really is—is a battle not between good and bad, but between bad and worse.
+- There's no point in living if you can't, at least occasionally, live.
+- Life - the way it really is - is a battle not between good and bad, but between bad and worse.
 - If you wait until you're ready, you'll be waiting for the rest of your life.
 - I'm not afraid of death. It's the stake one puts up in order to play the game of life.
 - Have recently come to appreciate the awesome, absurdist humor of Waiting for Godot. We so often wait, without knowing why, when or where.
@@ -33,13 +33,13 @@ A list of my favourite quotes.
 - "Isn't it funny how day by day nothing changes but, when we look back everything is different..." - C.S Lewis
 - In three words I can sum up everything I've learned about life: it goes on. - Robert Frost
 - A future is not given to you. It is something you must take for yourself.
-- It's one of the great tragedies of life — something always changes.
+- It's one of the great tragedies of life - something always changes.
 - People are usually afraid of change because they fear the unknown. But the single greatest constant of history is that everything changes.
 - To exist is to survive unfair choices.
 
 ## Science
 
-- Wir müssen wissen — wir werden wissen. ('We must know - we will know.')
+- Wir müssen wissen - wir werden wissen. ('We must know - we will know.')
 - Praised be the human mind, which sees more sharply than does the human eye.
 - A scientist builds in order to learn; an engineer learns in order to build.
 - Computer science is no more about computers than astronomy is about telescopes.
@@ -55,8 +55,10 @@ A list of my favourite quotes.
 - Engineering will build the tools to test science, and science will invent the theories to guide the construction of tools.
 - Explores formal principles of software engineering based on the common recognition that software engineering is not constrained by any physical laws as we know.
 - Interesting to think of physics as a set of compression algorithms for the universe. That's basically what formulas are.
-- You can prove anything you want by coldly logical reason---if you pick the proper postulates.
+- You can prove anything you want by coldly logical reason, if you pick the proper postulates.
 - Any sufficiently advanced technology is indistinguishable from magic.
+- The best way to predict the future is to invent it.
+- The time dilation effect seems to have been made so that people are able to travel to the stars.
 
 ### Neuroscience
 
@@ -70,7 +72,7 @@ A list of my favourite quotes.
 - Being funny requires a considerable amount of intelligence. It doesn't require massive amounts of intelligence but it requires enough to be able to be creative, witty, think quick, read people, play off people, ect. I've never met a dumb funny person.
 - We don't live in a world of reality but in a world of perceptions.
 
-## Artificial Intelligence
+### Artificial Intelligence
 
 - A year spent in artificial intelligence is enough to make one believe in God.
 - Artificial intelligence is basically willy nilly, stabbing in the dark, trying to model "natural intelligence".
@@ -84,15 +86,15 @@ A list of my favourite quotes.
 
 ## Dreams
 
-- "We’re still pioneers, we’ve barely begun. Our greatest accomplishments cannot be behind us, cause our destiny lies above us." - Cooper
-- "We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt." - Cooper
+- We’re still pioneers, we’ve barely begun. Our greatest accomplishments cannot be behind us, cause our destiny lies above us. - Cooper
+- We used to look up at the sky and wonder at our place in the stars, now we just look down and worry about our place in the dirt. - Cooper
 - A ship in port is safe, but that is not what ships are built for.
 - Sometimes it's the very people who no one imagines anything of who do the things no one can imagine.
-- "You have been so focused on what's ahead of you that you never looked what was above you." - Mr. Robot
+- You have been so focused on what's ahead of you that you never looked what was above you. - Mr. Robot
 - Men ahead of their time were always, by definition, outside of it.
 - I didn't come this far to only come this far.
 - I had wanted to make history move ahead in the same way that a child pulls on a plant to make it grow more quickly. - Václav Havel
-- “Don't you find it odd," she continued, "that when you're a kid, everyone, all the world, encourages you to follow your dreams. But when you're older, somehow they act offended if you even try.” -Ethan Hawke
+- “Don't you find it odd," she continued, "that when you're a kid, everyone, all the world, encourages you to follow your dreams. But when you're older, somehow they act offended if you even try.” - Ethan Hawke
 
 ## Identity
 
@@ -103,7 +105,7 @@ A list of my favourite quotes.
 - To know the road ahead, ask those coming back.
 - We're all background characters in someone elses story.
 - You are not required to set yourself on fire to keep other people warm.
-- "You be strange now but don't be a stranger, nah'mean?" - Mr. Robot
+- You be strange now but don't be a stranger, nah'mean? - Mr. Robot
 - You have to be comfortable with being uncomfortable
 - A great fire burns within me, but no one stops to warm themselves at it, and passers-by only see a wisp of smoke.
 - It matters not what someone is born, but what they grow to be.
@@ -137,12 +139,13 @@ A list of my favourite quotes.
 - You do not follow me because I am the strongest. Pax is. You do not follow me because I am the brightest. Mustang is. You follow me because you do not know where you are going. I do.
 - Respect yourself enough to walk away anything that no longer serves you, grows you or makes you happy.
 - Remember you’ll always regret what you didn’t do rather than what you did.
+- I want to know who they were, help them be who they are, and be there for who they will be.
 
 ## Mastery
 
-- "There are some views you can't see until you stand at the top." - Ping Pong the Animation
+- There are some views you can't see until you stand at the top. - Ping Pong the Animation
 - Winners never quit, and quitters never win. But people who never quit and never win are idiots.
-- "You have to be odd to be number one" - Dr. Suess
+- You have to be odd to be number one. - Dr. Suess
 - If your ladder is not leaning against the right wall, every step you take gets you to the wrong place faster.
 - Only one who devotes himself to a cause with his whole strength and soul can be a true master. For this reason mastery demands all of a person.
 - Practice puts brains in your muscles.
@@ -150,10 +153,10 @@ A list of my favourite quotes.
 - Stay Hungry. Stay Foolish.
 - Consistently and overwhelmingly, the evidence showed that experts are always made, not born.
 - The master has failed more times than the beginner has even tried.
-- "Nobody aims for the top without running into any monsters" - Ping Pong the Animation
+- Nobody aims for the top without running into any monsters. - Ping Pong the Animation
 - The more extreme the greatness, the longer the shadow it casts.
 - An amateur practices until he can play it correctly, a professional practices until he can't play it incorrectly.
-- "We’re going to advance! Advance! We’ll stop at nothing to advance!" - Thomas Wade
+- We’re going to advance! Advance! We’ll stop at nothing to advance! - Thomas Wade
 - There are three choices in this life: be good, get good, or give up.
 - Having to work hard is not a sign of being stupid.
 - If you don't have time to do it right, you must have time to do it over.
@@ -165,7 +168,7 @@ A list of my favourite quotes.
 - Anyone who has never made a mistake has never tried anything new.
 - Shoot for the moon. Even if you miss, you'll land among the stars.
 - Its never too late to reach for the stars.
-- "The only way to be sure you won't lose is to not fight" - Ping Pong the Animation
+- The only way to be sure you won't lose is to not fight. - Ping Pong the Animation
 - If you can not measure it, you can not improve it.
 - Just because you can, doesn’t mean you should and just because it’s comfortable, doesn’t meant it’s good.
 - To look up and wonder at our place in the universe, to look down and wonder my place in humanity.
@@ -181,7 +184,7 @@ A list of my favourite quotes.
 - You know you're in love when you can't fall asleep because reality is finally better than your dreams.
 - The most painful thing is losing yourself in the process of loving someone too much, and forgetting that you are special too.
 - Sometimes I think I need a spare heart to feel all the things I feel.
-- “Perhaps one did not want to be loved so much as to be understood.” - 1984
+- Perhaps one did not want to be loved so much as to be understood. - 1984
 - Never love anyone who treats you like you're ordinary.
 - It is not a lack of love, but a lack of friendship that makes unhappy marriages.
 - I'm not upset that you lied to me, I'm upset that from now on I can't believe you.
@@ -211,7 +214,7 @@ A list of my favourite quotes.
 - You know that place between asleep and awake, that place where you still remember dreaming? That’s where I’ll always love you. That’s where I’ll be waiting.
 - Do you feel victory when your words cause pain?
 - The most fucked up joke life can play on you is letting you meet the right person at the wrong time.
-- "I'd rather be hated for who I am than loved for who I am not." ~Kurt Cobain
+- I'd rather be hated for who I am than loved for who I am not. -Kurt Cobain
 
 ### Loneliness
 
@@ -220,7 +223,7 @@ A list of my favourite quotes.
 - I learned to give... not because I have too much. But because I know how it feels to have nothing.
 - I think the saddest people always try their hardest to make people happy because they know what it’s like to feel absolutely worthless and they don’t want anyone else to feel like that.
 - The loneliest people are the kindest, The saddest people smile the brightest. The most damaged people are the wisest. All because they do not wish to see anyone else suffer the way they do.
-- “In an era of breadlines, Depression, and wars, I tried to help people get away from all the misery; to turn their minds to something else. I wanted to make people happy, if only for an hour.” —Busby Berkeley
+- In an era of breadlines, Depression, and wars, I tried to help people get away from all the misery; to turn their minds to something else. I wanted to make people happy, if only for an hour. - Busby Berkeley
 - Let me tell you this: if you meet a loner, no matter what they tell you, it's not because they enjoy solitude. It's because they have tried to blend into the world before, and people continue to disappoint them.
 - Loneliness does not come from having no people about one, but from being unable to communicate the things that seem important to oneself, or from holding certain views which others find inadmissible.
 - We humans are alone in this world for a reason. We murdered and butchered anything that challenged our primacy.
@@ -235,7 +238,7 @@ A list of my favourite quotes.
 
 - Don't confuse the truth with the opinion of the majority.
 - A wise man speaks because he has something to say. A fool speaks because he has to say something.
-- “The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.” ― Confucius
+- The man who asks a question is a fool for a minute, the man who does not ask is a fool for life. - Confucius
 - Wit beyond measure is man’s greatest treasure.
 - A nation grows great when a man plants a tree: the shade of which he will never enjoy.
 - It is the mark of an educated mind, to be able to entertain a thought without accepting it.
@@ -263,6 +266,9 @@ A list of my favourite quotes.
 - Be decisive. Right or Wrong, make a decision. The road of life is paved with flat squirrels that couldn't make a decision.
 - There's no benefit to being right if you can't make people listen to the answer.
 - You can learn a lot from your mistakes when you aren't busy denying them.
+- Pretending that the fake is real only makes the real seem fake.
+- Insanity is doing the same thing, over and over again, but expecting different results.
+- It is the obvious which is so difficult to see most of the time. People say 'It's as plain as the nose on your face.' But how much of the nose on your face can you see, unless someone holds a mirror up to you?
 
 ## Funny
 
@@ -276,9 +282,48 @@ A list of my favourite quotes.
 - You'll never get her if you just keep staring at her Facebook page.
 - From a female friend who went to an engineering school: "The odds are good, but the goods are odd."
 - Watching a graduation ceremony is like sitting through a movie thats entirely end credits.
-- A girl says "Taken but not appreciated" in response to being given some advice about something. Someone responds with "I didn't ask for the title of your autobiography"
-- "Suppose we've chosen the wrong god. Every time we go to church we're just making him madder and madder." - Homer J. Simpson
+- A girl says "Taken but not appreciated" in response to being given some advice about something. Someone responds with "I didn't ask for the title of your autobiography".
+- Suppose we've chosen the wrong god. Every time we go to church we're just making him madder and madder. - Homer J. Simpson
 - Those people who think they know everything are a great annoyance to those of us who do.
 - Why do I need to fight a depressed dude when I can just wait.
 - "Why does everyone always hate my girlfriend right when they meet her?" "It saves time."
-- "The story so far: In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move." - Douglas Adams, The Hitchhiker's Guide to the Galaxy
+- The story so far: In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move. - The Hitchhiker's Guide to the Galaxy
+
+## Other
+
+- Even today on cruise ships it's women and children first, not because men should be able to swim across an ocean but because we are disposable.
+- It's called The American Dream for a reason, you have to be asleep to believe it.
+- Management is doing things right; leadership is doing the right things.
+- The only time you look in your neighbor's bowl is to make sure that they have enough. You don't look in your neighbor's bowl to see if you have as much as them.
+- The time to worry is when I quit yelling at you because that means I've decided you're not worth the effort.
+- My thoughts are stars I cannot fathom into constellations.
+- No. You’ve got it wrong Steve. Everything you didn’t circle just became your ‘avoid at all cost list’. No matter what, these things get no attention from you until you’ve succeeded with your top 5.
+- The only thing that interferes with my learning is my education.
+- Arguing that you don't care about privacy because you have nothing to hide is no different than saying you don't care about free speech because you have nothing to say.
+- The best argument against democracy is a five-minute conversation with the average voter. - Winston Churchill
+- The essence of finance is time travel. Saving is about moving resources from the present into the future; financing is about moving resources from the future back into the present.
+- The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence.
+- To see a World in a Grain of Sand, And a Heaven in a Wild Flower,  Hold Infinity in the palm of your hand, And Eternity in an hour.
+- It’s absurd to bury something much more valuable than a Bentley: your organs.
+- Starmaker rock is such a cooler name than flint.
+- Telling a guy to "man up" is the same as telling a woman to "get back in the kitchen"
+- That dwelling in the past only wastes your present and shortens your future.
+- If you don’t do it right the first time, someone else is going to have to do it.
+- Computer science actually began with its “theory of everything.”
+- INTJs are the coldest humans, INTPs are the warmest robots.
+- Dude, without feelers we would burn the world to see what colour the smoke is. - INTP
+- Our foremost desire of logic puts us at odds to the illogical humanity.
+- In a case like this, there is very little cost to a false positive. But there may be a huge cost to a false negative.
+- And our best friend for this activity? The clear blue sky. The blue sky seems like it was invented to help humans pretend the Situation doesn’t exist, serving as the perfect whimsical backdrop to shield us from reality.
+- Uber, the world’s largest taxi company, owns no vehicles. Facebook, the world’s most popular media owner, creates no content. And Airbnb, the world’s largest accommodation provider, owns no real estate. Something interesting is happening. - Tom Goodwin
+- Don't be a dick to your dog. he's a few years of your life, but you are all of his.
+- He thinks I am myth made man.
+- Because I'm on the spectrum and it is a very cruel thing to subject someone to dating me.
+- Now they pass it by Congress who will carefully evaluate the plan and eventually come to the conclusion that sending people in rockets to other planets is a waste of money better spend on sending rockets into people on this planet.
+- Don’t save what is left after spending; spend what is left after saving.
+- concentrate to make money; diversify to keep money
+- Postulates are based on assumption and adhered to by faith. Nothing in the Universe can shake them.
+- Laws should expire every 19 years - Earth belongs to the living, not the dead.
+- If you're not doing anything shady in your house you don't need blinds or locks either!
+- We measure loss when we flip the counter from dead to living.
+- While women are portrayed as sex objects, men are portrayed as success objects.
