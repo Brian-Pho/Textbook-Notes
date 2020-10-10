@@ -180,7 +180,7 @@ excerpt: "An introduction to the field of computational neuroscience."
     - Geometries of dendrites and axons.
 - To reduce the complexity, we lump these factors under noise.
 - To introduce noise into neuron models, we can
-    - **Stochastic threshold**: replace the constant threshold with a noisy threshold.
+    - *Stochastic threshold*: replace the constant threshold with a noisy threshold.
     - *Random reset*: randomly reset the membrane potential.
     - *Noisy integration*: integration has an additional noisy variable.
 ![Figure 3.6](figure3-6.png)
