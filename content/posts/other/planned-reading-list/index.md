@@ -7,7 +7,7 @@ categories:
 excerpt: "A list of books that I plan to read."
 ---
 
-I plan to read the following textbooks and books. This list will be updated as my interests change. Books with a high priority are starred (*).
+I plan to read the following textbooks and books. This list will be updated as my interests change and books with a high priority are starred (*).
 
 ## Textbooks
 
@@ -30,7 +30,7 @@ I plan to read the following textbooks and books. This list will be updated as m
 
 - Neural Engineering - Computation, Representation, and Dynamics in Neurobiological Systems
 - Introduction to VLSI Systems
-- *Analog VLSI and Neural Systems
+- Analog VLSI and Neural Systems
 
 ### Artificial Intelligence
 
@@ -45,13 +45,13 @@ I plan to read the following textbooks and books. This list will be updated as m
 ### Psychology
 
 - Cognition (8th Ed.)
-- *Psychology Around Us
+- Psychology Around Us
 
 ## Books
 
 ### Neuroscience
 
-- *The Brain That Changes Itself
+- The Brain That Changes Itself
 - The Man Who Mistook His Wife for a Hat
 - Your Brain Is a Time Machine
 - Biology's First Law: The Tendency for Diversity and Complexity to Increase in Evolutionary Systems
@@ -62,6 +62,7 @@ I plan to read the following textbooks and books. This list will be updated as m
 - How to Create a Mind: The Secret of Human Thought Revealed
 - Kluge: The Haphazard Construction of the Human Mind
 - The Voices Within: The History and Science of How We Talk to Ourselves
+- *Livewired: The Inside Story of the Ever-Changing Brain
 
 ### Artificial Intelligence
 
@@ -74,4 +75,3 @@ I plan to read the following textbooks and books. This list will be updated as m
 - Being Logical: A Guide to Good Thinking
 - The Great Unknown: Seven Journeys to the Frontiers of Science
 - Consider Phlebas
-- *The Fall of Hyperion

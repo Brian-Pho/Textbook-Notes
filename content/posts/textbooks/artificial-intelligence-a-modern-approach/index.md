@@ -1,20 +1,15 @@
 ---
 layout: post
-title: "Artificial Intelligence: A Modern Approach"
+title: "Artificial Intelligence: A Modern Approach (Incomplete)"
 date: "2019-04-10"
 categories:
 - Textbooks
 book: "artificial-intelligence-a-modern-approach"
 book_authors: "Stuart Russell, Peter Norvig"
-excerpt: "The artificial intelligence textbook. I've dropped it due to not believing in it's approach."
+excerpt: "An incomplete set of notes from the artificial intelligence textbook."
 ---
 
 # NOTE: This is an incomplete set of notes.
-
-<blockquote class="blockquote">
-  <p>One of the defining attributes of intelligence is that it attributes the success of the human race to itself.</p>
-  <p class="blockquote-footer">Brian Pho</p>
-</blockquote>
 
 # Part I: Artificial Intelligence
 
