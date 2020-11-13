@@ -7,7 +7,7 @@ categories:
 excerpt: "A list of books that I plan to read."
 ---
 
-I plan to read the following textbooks and books. This list will be updated as my interests change and books with a high priority are starred (*).
+I plan to read the following textbooks and books. This list will be updated as my interests change. Books with a high priority are starred (*).
 
 ## Textbooks
 
@@ -17,7 +17,7 @@ I plan to read the following textbooks and books. This list will be updated as m
 - Principles of Neural Information Theory
 - Biophysics of Computation - Information Processing in Single Neurons
 - Vision - A Computational Investigation into the Human Representation and Processing of Visual Information
-- Vision Science - Photons to Phenomenology
+- *Vision Science - Photons to Phenomenology
 - Principles of Neural Science (5th Ed.)
 - Language in Our Brain - The Origins of a Uniquely Human Capacity
 - Open MIND - philosophy and the mind sciences in the 21st century
@@ -51,6 +51,7 @@ I plan to read the following textbooks and books. This list will be updated as m
 
 ### Neuroscience
 
+- *Consciousness Explained
 - The Brain That Changes Itself
 - The Man Who Mistook His Wife for a Hat
 - Your Brain Is a Time Machine
@@ -62,7 +63,9 @@ I plan to read the following textbooks and books. This list will be updated as m
 - How to Create a Mind: The Secret of Human Thought Revealed
 - Kluge: The Haphazard Construction of the Human Mind
 - The Voices Within: The History and Science of How We Talk to Ourselves
-- *Livewired: The Inside Story of the Ever-Changing Brain
+- In Search of Memory: The Emergence of a New Science of Mind
+- Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness
+- The Ancient Origins of Consciousness: How the Brain Created Experience
 
 ### Artificial Intelligence
 
@@ -73,5 +76,7 @@ I plan to read the following textbooks and books. This list will be updated as m
 ### Other
 
 - Being Logical: A Guide to Good Thinking
+- The Secret of Our Success
 - The Great Unknown: Seven Journeys to the Frontiers of Science
-- Consider Phlebas
+- The Sirens of Titan
+- *Consider Phlebas

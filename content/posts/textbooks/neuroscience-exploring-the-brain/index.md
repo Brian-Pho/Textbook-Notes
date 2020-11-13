@@ -532,7 +532,7 @@ excerpt: "An introduction to the field of neuroscience."
 - Rods hyperpolarize in response to light. Maybe this suggests that the frequency of APs encodes the intensity of light? Maybe this is why blinking lights cause seizures in some people?
 - In other words, light is abnormal to rods and in bright light, rods become hyperpolarized.
 ![Figure 9.21](figure9-25.png)
-- Don’t think of cones as detect specific wavelengths of light, but rather the ratio of activations determines the color.
+- Don’t think of cones as detecting specific wavelengths of light, but rather the ratio of cone activations determines the color.
 - Photoreceptors prefer dark over light as they hyperpolarize in light.
 - *Receptive field*: the area of the retina that affects a neuron’s firing rate.
 - All sensory neurons have a receptive field where they’re sensitive.
