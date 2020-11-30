@@ -599,7 +599,7 @@ excerpt: "An introduction to the field of neuroscience."
 ![Figure 10.17](figure10-17.png)
 - However, the layer IVC merges both eyes and has neurons that have binocular receptive fields.
 - *Binocular receptive field*: when a neuron has two receptive fields, one in both eyes.
-- Retinotopy is preserved in layer IVC because the binocular receptive fields are "looking" at the same point in the visual field. This suggests that the way both eyes are wired is extremely precise.
+- Retinotopy is preserved in layer IVC because the binocular receptive fields are "looking" at the same point in the visual field. This suggests that the way both eyes are wired is extremely precise. This wiring is not due to genetics but rather due to livewiring.
 - *Orientation selectivity*: when a neuron’s response is greatest to a bar of light with a specific orientation.
 ![Figure 10.20](figure10-20.png)
 - *Direction selectivity*: when a neuron’s response is greatest to a bar of light with a specific direction and orientation.
@@ -618,22 +618,22 @@ excerpt: "An introduction to the field of neuroscience."
 
 - *Audition*: sense of hearing.
 - *Vestibular system*: sense of balance.
-- We can hear between 20 Hz and 20,000 Hz.
+- We can hear sounds between the frequencies of 20 to 20,000 Hz.
 - *Pitch*: the frequency or tone of a sound wave.
 - *Intensity*: the loudness of a sound wave.
 - *Pinna*: the outside part of the ear that helps us better collect sounds from ahead than from behind.
 - Sounds follows the path from
-    - Pinna → Auditory canal → Eardrum → Ossicles → Oval window → Cochlea
+    - Pinna → Auditory canal → Eardrum → Ossicles (Bones) → Oval window → Cochlea
 ![Figure 11.3](figure11-3.png)
-- Medial geniculate nucleus (MGN).
-- The oval window is used to transfer the vibrations of sound into vibrations in fluid. There’s also another window called the round window to bulge when the fluid is vibrated.
-- Why doesn’t the eardrum connect directly to the cochlea? It’s because sound waves aren’t powerful enough to move the fluid in the cochlea and it requires the ossicles to provide amplification.
+- Similar to how visual information passes through the LGN, auditory information passes through the medial geniculate nucleus (MGN) of the thalamus.
+- The oval window is used to transfer the vibrations of air into vibrations in fluid. There’s also another window called the round window to bulge when the fluid is vibrated.
+- Why doesn’t the eardrum connect directly to the cochlea? It’s because sound waves aren’t powerful enough to move the fluid in the cochlea so it requires the ossicles to provide amplification.
 - *Attenuation reflex*: when a loud sound is heard, muscles contract to make the ossicles more rigid.
 - Possible functions of the attenuation reflex
     - Adapt the ear to continuous sounds at high intensities.
     - Protect the ear from loud sounds.
     - Prevents us from hearing ourselves when we talk.
-- The basilar membrane is stiffer and wider the farther down we go. This allows lower frequencies to travel farther and slows higher frequencies down before they reach the end.
+- The basilar membrane is stiffer and wider the farther down we go. This allows lower frequencies to travel farther and slows down higher frequencies before they reach the end of the membrane.
 ![Figure 11.9](figure11-9.png)
 ![Figure 11.10](figure11-10.png)
 - The location on the basilar membrane codes the frequency of the sound.
@@ -699,8 +699,8 @@ excerpt: "An introduction to the field of neuroscience."
     - Temperature of body parts
     - Pain
 - The somatic sensory system is different in two ways from the auditory/visual system
-    - The receptors are distributed across the body
-    - The receptors detect multiple modalities (pressure, temperature, position)
+    - The receptors are distributed across the body.
+    - The receptors detect multiple modalities (pressure, temperature, position).
 - The resolution of skin at the finger tip is 0.006 mm deep and 0.04 mm wide.
 - Skipping over the details of mechanoreceptors.
 - The two-point discrimination test shows how some parts of the body are more sensitive to differences in distance than others. The fingers are particularly sensitive which is why they’re used to read Braille.
@@ -716,17 +716,17 @@ excerpt: "An introduction to the field of neuroscience."
 - *Somatotopy*: the mapping of the body’s surface sensations onto the brain.
 ![Figure 12.19](figure12-19.png)
 - Features of the somatotopic map
-- The map is discrete as the body, face, and internal organs are separate.
-- The map isn’t scaled to the human body but instead emphasizes the mouth and hands.
+    - The map is discrete as the body, face, and internal organs are separate.
+    - The map isn’t scaled to the human body but instead emphasizes the mouth and hands.
 ![Figure 12.20](figure12-20.png)
 - The relative size of cortex devoted to each body part is correlated with the density of sensory input received from that part. More neurons in the body area requires more neurons in the corresponding brain area.
 - The importance of an input and the size of its representation in the cortex are reflections of how often it’s used.
 - What happens to the somatotopic map when an input is removed?
-- E.g. A finger is cut off.
+- E.g. When a finger is cut off.
 - Possible answers
-    - Goes unused
-    - Atrophies
-    - Gets taken over
+    - The area goes unused.
+    - The area atrophies/dies.
+    - The area gets taken over by the surrounding area.
 - Evidence suggests that the area gets taken over by the surrounding neurons.
 ![Figure 12.23](figure12-23.png)
 - Cortical maps are dynamic and adjust depending on the amount of input it gets.
@@ -759,13 +759,13 @@ excerpt: "An introduction to the field of neuroscience."
 ## Chapter 14: Brain Control of Movement
 
 - The central motor system is arranged into a hierarchy of control levels.
-    - *Highest level*: association areas of neocortex and the basal ganglia. This level is concerned with strategy or the goal of the movement.
-    - *Middle level*: motor cortex and cerebellum. This level is concerned with tactics or which muscles to move.
-    - *Lowest level*: brain stem and spinal cord. This level is concerned with execution or how to move the muscles we want.
+    - *Highest level*: association areas of neocortex and the basal ganglia. This level is concerned with the strategy or goal of the movement.
+    - *Middle level*: motor cortex and cerebellum. This level is concerned with the tactics or which muscles to move.
+    - *Lowest level*: brain stem and spinal cord. This level is concerned with the execution or how to move the muscles we want.
 ![Table 14.1](table14-1.png)
 - The integration of vast amounts of sensory and motor information makes the brain almost a sensorimotor system.
 ![Figure 14.8](figure14-8.png)
-- Some neurons in cortical area 6 respond not only when movements are executed but also when the same movement is only imagined or mentally rehearsed.
+- Some neurons in cortical area six don't only respond when movements are executed, but also when the same movement is imagined or mentally rehearsed.
 - *Mirror neurons*: neurons that fire when observing another animal making the same type of movement.
 - Mirror neurons imply that the circuits we use to perform an action are also activated for understanding the actions and goals of others.
 - The primary motor cortex is called M1.
@@ -787,7 +787,7 @@ excerpt: "An introduction to the field of neuroscience."
     - The activity of each neuron represents a vote for a particular direction of movement.
     - The direction of movement is calculated by tallying/averaging the votes of all cells in the population.
 ![Figure 14.17](figure14-17.png)
-- However, Sanger 1994 challenges the theory that a population vector exists as it may be a result of confirmation bias.
+- However, the Sanger 1994 paper challenges the theory that a population vector exists as it may be a result of confirmation bias.
 - Given that a population of neurons encodes a direction, then the larger a population of neurons is, the more directions or more precise movements it can encode.
 - Evidence for this comes from the discovery of malleable motor maps.
 - *Malleable motor maps*: the more an area is used, the larger it gets. The less an area is used, the smaller it gets.
@@ -796,7 +796,7 @@ excerpt: "An introduction to the field of neuroscience."
 - What exactly is getting bigger? The size of neurons? The number of neurons? The number of synapses?
 - Are neurons "feature detectors" as in they look for a single attribute or do they encode something more general and abstract?
 - In smell and taste, there doesn’t seem to be feature detectors because the response of one of those neurons is highly ambiguous.
-- In vision though, neurons seem to have specific receptive fields that are highly tuned to one specific stimulus.
+- In vision though, neurons have specific receptive fields that are highly tuned to one specific stimulus.
 - The cerebellum is another important site for motor learning; it’s a place where what is intended is compared with what has happened.
 - When there’s a difference, the circuits update to learn from experience.
 
@@ -832,7 +832,7 @@ excerpt: "An introduction to the field of neuroscience."
     - Each neuron has wide influence due to more than 100,000 synapses per axon.
     - Can release transmitters into the extracellular fluid thus affects many neurons.
 ![Figure 15.12](figure15-12.png)
-- In general, these systems are defined by their transmitter and they all maintain brain homeostasis.
+- In general, these systems are defined by their neurotransmitter and they all maintain brain homeostasis.
 
 ## Chapter 16: Motivation
 
@@ -844,9 +844,9 @@ excerpt: "An introduction to the field of neuroscience."
 - The dopamine-depleted animal behaves as though it likes food but does not want food.
 - So it seems that dopamine is used to motivate an animal but doesn’t decide its preferences.
 - Dopamine neurons also seems to signal errors in reward prediction.
-- E.g. If a piece of candy is expected when a sound is played, but no candy follows, then the dopamine neurons firing decreases.
-- Behaviors that cause expected or better-than expected outcomes are repeated. The outcomes that are worse than expected are not repeated.
-- Dopamine is involved in the mechanism behind learning as synaptic connections that are active during and shortly before a rise in dopamine are changed to store this memory.
+- E.g. If a piece of candy is expected when a sound is played, but no candy follows, then the dopamine neurons decrease firing due to the expectation not being fulfilled.
+- Behaviors that cause expected or better-than expected outcomes are repeated. The outcomes that are worse-than expected are not repeated.
+- Dopamine is involved in the mechanism behind learning as synaptic connections that are active during and shortly before a rise in dopamine are changed to store the memory.
 ![Figure 16.17](figure16-17.png)
 - It’s related to classical conditioning in psychology and reinforcement learning in computer science.
 - Thirst is controlled by two factors
@@ -912,7 +912,7 @@ excerpt: "An introduction to the field of neuroscience."
 - *Predatory aggression*: attacks due to obtaining food.
 - E.g. A lion hunting a zebra.
 - *Affective aggression*: attacks due to a desire to show off.
-- E.g. Loud sounds.
+- E.g. Loud sounds to show off to a potential mate.
 - Experiments with hypothalamic stimulation in cats can provoke both types of aggression.
     - Stimulation of the medial hypothalamus produces affective aggression.
     - Stimulation of the lateral hypothalamus produces predatory aggression.
@@ -921,23 +921,21 @@ excerpt: "An introduction to the field of neuroscience."
 
 - *Circadian rhythm*: the daily cycles of daylight and nighttime that almost all physiological functions follow.
 - *Electroencephalogram (EEG)*: the measurement of electrical activity from our scalp.
-- EGG measures voltage fluctuations in the range of tens of microvolts ($$\mu$$V) of many pyramidal neurons in the cerebral cortex.
-- It takes many thousands of underlying neurons to generate an EEG signal big enough to be measured.
+- EGG measures voltage fluctuations in the range of tens of microvolts of many pyramidal neurons in the cerebral cortex.
+- It takes thousands of neurons to generate an EEG signal big enough to be measured.
 - So the amplitude of the EEG signal is dependent on how synchronous the activity of the underlying neurons are because the activity will add together to form a bigger signal.
 ![Figure 19.4](figure19-4.png)
 - *Magnetoencephalography (MEG)*: measuring the brain’s magnetic activity that results from electrical current flow.
 - MEG is better at localizing the sources of neural activity than EEG.
 ![Figure 19.5](figure19-5.png)
 - EEG rhythms
-    - *Delta rhythms*: > 4 Hz, deep sleep.
-    - *Theta rhythms*: 4-7 Hz, both sleeping and waking.
-    - *Alpha rhythms*: 8-13 Hz, quiet and waking.
-    - *Beta rhythms*: 15-30 Hz.
-    - *Gamma rhythms*: 30-90 Hz, activated or attentive cortex.
+    - *Delta rhythms* (< 4 Hz): deep sleep.
+    - *Theta rhythms* 4-7 Hz: both sleeping and waking.
+    - *Alpha rhythms* (8-13 Hz): quiet and waking.
+    - *Beta rhythms* (15-30 Hz): normal awareness and consciousness.
+    - *Gamma rhythms* (30-90 Hz): activated or attentive cortex.
 - Interestingly, EEG rhythms across mammalian brains are similar despite large differences in brain mass.
-- The generation of synchronized oscillations can be made in two ways
-    - Central clock or pacemaker.
-    - Distributed timing function.
+- The generation of synchronized oscillations can be made by either a central clock or a distributed clock.
 ![Figure 19.9](figure19-9.png)
 - E.g. A group of people clapping will eventually synchronize due to feedback and self-adjustment.
 - The brain seems to employ both mechanisms as it uses a small group of neurons to start the synchronization and then that group acts as the leader.
@@ -949,27 +947,24 @@ excerpt: "An introduction to the field of neuroscience."
 - We can still describe what we cannot explain such as sleep.
 - *Sleep*: a readily reversible state of reduced responsiveness and interaction with the environment.
 - Coma and general anesthesia are not readily reversible so they don’t quality as sleep.
-- *REM sleep*: when the EEG looks more awake, the body is immobilized, and when dreams occur.
-- *Non-REM sleep*: when the EEG shows large, slow rhythms.
+- *REM sleep*: when the EEG looks more awake, the body is immobilized, and when dreams occur. An active, hallucinating brain in a paralyzed body.
+- *Non-REM sleep*: when the EEG shows large, slow rhythms. An idling brain in a moveable body.
 ![Table 19.1](table19-1.png)
-- William Dement’s description of sleep states
-- *Non-REM*: an idling brain in a moveable body.
-- *REM*: an active, hallucinating brain in a paralyzed body.
 - REM sleep is dreaming sleep.
 - About 75% of total sleep time is spent in non-REM and 25% is spent in REM.
 ![Figure 19.15](figure19-15.png)
 - All mammals, birds and reptiles appear to sleep but only mammals and some birds have a REM phase.
 - Given how pervasive sleep is throughout the animal kingdom, why do we sleep?
 - No single theory of why we sleep is widely accepted, but the two main theories are that we sleep for restoration or adaptation.
-- Maybe sleep is an adaptation for conserving energy which fits with the idea that the brain consumes a lot of energy and it expensive to maintain.
-- Sleep isn’t related to sensory input as if the input is blocked in an animal, the animal will still continue to have sleep-wake cycles.
+- Maybe sleep is an adaptation for conserving energy which fits with the idea that the brain consumes a lot of energy and is expensive to maintain.
+- Sleep isn’t related to sensory inputbecause if sensory input is blocked in an animal, the animal will still continue to have sleep-wake cycles.
 - Wide expanses of the cortex are controlled by a very small collection of neurons that are much deeper in the brain.
 - That small collection acts like switches or gatekeepers of sensory information and they can alter cortical excitability.
 - The most critical part that controls the sleeping and waking cycles are the diffuse modulatory neurotransmitter systems.
 - Three kinds of evidence that the sleep mechanism is localized
-    - Lesion in the brain stem
-    - Results of stimulation
-    - Recording of neural activity
+    - Lesion in the brain stem affect sleep.
+    - Results of stimulation.
+    - Recording of neural activity.
 - The same system that controls the sleep process also actively inhibits our spinal motor neurons to prevent us from acting out our dreams.
 - Adenosine and nitric oxide (NO) also seem to play a role in making us sleep.
 - The brain’s biological clock is the suprachiasmatic nuclei (SCN) and it’s synchronized with light-dark cycles from ganglion cells in the retina.
@@ -977,7 +972,7 @@ excerpt: "An introduction to the field of neuroscience."
 - Evidence that the SCN controls the circadian clock comes in the form of hamsters. Transplanting the SCN from one hamster to another also transplants the circadian rhythm.
 - Sleep appears to be regulated by a mechanism other than the circadian clock, which depends primarily on the amount and timing of prior sleep.
 - But how does the SCN keep track of time? It isn’t through APs as when the neurotoxin tetrodotoxin is applied to the SCN, APs stop but the rhythm continues.
-- Evidence suggests that the SCN keeps its rhythm due to clock genes. A negative feedback look of gene transcription generates the circadian rhythms.
+- Evidence suggests that the SCN keeps its rhythm due to clock genes. A negative feedback loop of gene transcription generates the circadian rhythms.
 
 ## Chapter 20: Language
 
@@ -1068,24 +1063,23 @@ excerpt: "An introduction to the field of neuroscience."
 - *Priority map*: a map slowing locations where attention should be directed based on stimulus salience and cognitive input.
 ![Figure 21.21](figure21-21.png)
 - If it is true that consciousness is based on standard physical principles, a logical inference is that it should one day be possible to construct a conscious machine.
-- Is awareness and consciousness different? Studies conflict on a result.
+- Are awareness and consciousness different? Studies conflict on an answer.
 
 ## Chapter 22: Mental Illness
 
 - *Neurology*: a branch of medicine that deals with nervous system disorders.
 - *Psychiatry*: a branch of medicine that deals with mind or psyche disorders.
-- There’s hope that neurons will solve the riddles of mental illness.
+- There’s hope that by studying neurons, we will solve the riddles of mental illness.
 - This chapter discusses the following psychiatric disorders
-    - *Anxiety disorders*: an inappropriate expression of fear
-    - *Affective disorders*: disorders of mood
-    - Schizophrenia
+    - *Anxiety disorders*: an inappropriate expression of fear.
+    - *Affective disorders*: disorders of mood.
+    - *Schizophrenia*: a loss of contact with reality and a disruption of thought, perception, mood, and movement.
 - Nearly all drugs that stimulate GABA (inhibitory neurotransmitter) reduce anxiety.
 - Nearly all antidepressant drugs take several weeks to have an effect even though they have an almost immediate effect on transmission at the synapse.
 - General results from all of these mental illness treatments is that
     - Most treatments are found by chance.
     - Most drugs seem to cause the nervous system to change in a way that adapts to the drug.
     - We don’t know why the drugs work.
-- *Schizophrenia*: a loss of contact with reality and a disruption of thought, perception, mood, and movement.
 - The risk of developing schizophrenia increases with the number of shared genes suggesting a genetic basis for the disease.
 - The answer to why drugs work for treating mental illnesses lies in the adaptive changes that occur in the brain in response to the treatment.
 
@@ -1134,7 +1128,7 @@ excerpt: "An introduction to the field of neuroscience."
 - The realization that the largest structure of our brain receives all its neurons by orderly, long-distance migration.
 ![Figure PM](figurePM.png)
 - Cortical areas differ not only in terms of cytoarchitecture but also in terms of connections.
-- It’s suggested that the thalamus is import for specifying the pattern of cortical areas.
+- It’s suggested that the thalamus is important for specifying the pattern of cortical areas.
 - The subplate layer of earliest born neurons seems to contain the instructions for the assembly of the cortical quilt.
 - The stages of developing the long-range connections in the brain
     - Pathway selection
@@ -1142,7 +1136,7 @@ excerpt: "An introduction to the field of neuroscience."
     - Address selection
 - Each selection becomes more specific just like a normal address.
 - E.g. Highway 1 (pathway), Marlborough neighborhood (target), 199 Martree Square house (address).
-- *E.g. Suppose you’re a retinal ganglion cell and you’re trying to connect to the LGN. You follow the path down optic nerve until you reach the optic chiasm. You have three choices*: continue going down the same optic tract, go down the opposite optic tract, or go into the optic nerve from the other eye.
+- E.g. Suppose you’re a retinal ganglion cell and you’re trying to connect to the LGN. You follow the path down optic nerve until you reach the optic chiasm. You have three choices: continue going down the same optic tract, go down the opposite optic tract, or go into the optic nerve from the other eye.
 ![Figure 23.10](figure23-10.png)
 - The three phases depends on the communication between cells such as
     - Direct cell-to-cell contact
@@ -1162,7 +1156,7 @@ excerpt: "An introduction to the field of neuroscience."
 ![Figure 23.18](figure23-18.png)
 - *Synaptic rearrangement*: the change of distribution of synapses of a neuron.
 ![Figure 23.19](figure23-19.png)
-- There’s abundant evidence that widespread synaptic rearrangement occurs in the immature.
+- There’s abundant evidence that widespread synaptic rearrangement occurs in the immature brain.
 - Unlike most of the earlier steps of pathway formation, synaptic rearrangement occurs as a consequence of neural activity and synaptic transmission.
 - Most activity-dependent development occurs after birth such as learning to see.
 - E.g. The early ganglion cells fire in "waves" that spread across the retina so that the activity of a ganglion cell is highly correlated with the activity of its nearest neighbors. Then segregation occurs in the LGN when only retinal terminals that are active at the same time are retained.
@@ -1172,17 +1166,17 @@ excerpt: "An introduction to the field of neuroscience."
 - If one eye is deprived of stimulus during a critical period after birth, that eye’s ocular dominance stripes in the LGN are thinner than normal. This effect is reversible if the eye is opened and the other closed but only up to a certain point.
 - This demonstrates that synaptic rearrangement is experience-dependent during a critical period and stops being as plastic after this period.
 ![Figure 23.21](figure23-21.png)
-- Eye-specific domains are dependent on asynchronous patterns of activity (the "waves") spontaneously generated in the two eyes.
+- Eye-specific domains are dependent on asynchronous patterns of activity ("waves") spontaneously generated in the two eyes.
 - The establishment of binocular receptive fields depends on the correlated patterns of activity that arise from the two eyes as a consequence of vision.
 - *Critical period of development*: a period of time when intercellular communication alters a cell’s fate.
 - *Ocular dominance shift*: the shift to monocular vision due to depriving one eye of stimuli.
 ![Figure 23.22](figure23-22.png)
 - Ocular dominance plasticity diminishes with age and coincides with the time of greatest growth of the head and eyes suggesting that development of binocular connections depends on this plasticity.
-- Ocular dominance is a form of plasticity and doesn’t follow the rule of "Use it or lose it".
+- Ocular dominance is a form of plasticity and follows the rule of "use it or lose it".
 - *Binocular competition*: when the input from both eyes actively compete for synaptic control of the post-synaptic neuron.
 - Is ocular dominance due to disuse of the eye?
 - No, it’s due to competition as both eyes compete for the same neurons and if one eye is deprived, then it always loses.
-- If the activity of the two eyes is correlated and equal in strength, then the two inputs will be retained on the same cortical cell creating a cell with binocular receptive fields.
+- If the activity of the two eyes is correlated and equal in strength, then the two inputs will be retained on the same cortical cell, creating a cell with binocular receptive fields.
 - However, if this balance is disrupted by depriving one eye, the more active input will somehow displace the deprived synapses or cause them to be less effective.
 - This is demonstrated by the "strabismus" condition where one eye is misaligned causing no cells with binocular receptive fields to develop.
 ![Figure 23.25](figure23-25.png)
@@ -1195,7 +1189,7 @@ excerpt: "An introduction to the field of neuroscience."
 - The key is correlation. Synapses are "validated" based on their ability to participate in the firing of their postsynaptic partner.
 - How does the presynaptic axon know when to "strengthen" the synapse? There must be some feedback mechanism.
 - Glutamate is the transmitter at all of the modifiable synapses.
-- The magnitude of the $$Ca^{2+}$$ flux passing through the NMDA receptor channel specifically signals the level of pre and postsynaptic coactivation.
+- The magnitude of the calcium ion flux passing through the NMDA receptor channel specifically signals the level of pre and postsynaptic coactivation.
 ![Figure 23.28](figure23-28.png)
 - *Long-term potentiation (LTP)*: the strengthening of synaptic transmission as a result of strong NMDA receptor activation.
 - The molecular basis for LTP is due to more AMPA receptors being added.
@@ -1215,11 +1209,11 @@ excerpt: "An introduction to the field of neuroscience."
 - E.g. Children can change overall brain structure (eye functioning) while old people can only change at the synaptic level (memorize).
 - Why do critical periods end?
 - Three current hypotheses
-    - Plasticity diminishes when axon grow ceases.
+    - Plasticity diminishes when axon growth ceases.
     - Plasticity diminishes when synaptic transmission matures.
     - Plasticity diminishes when cortical activation is constrained.
 - Inhibitory circuits may also regulate the length of the critical period by preventing access to modifiable synapses.
-- Most neurons in the brain find their proper place before birth and the final refinement of synaptic connections occurs during infancy and is influenced by the sensory environment.
+- Most neurons in the brain find their proper place before birth and the final refinement of synaptic connections occurs during infancy and is influenced by the environment.
 - The mechanisms of synaptic plasticity proposed for learning bear a close resemblance to those believed to be the mechanism for synaptic rearrangement during development.
 
 ## Chapter 24: Memory Systems
@@ -1240,17 +1234,17 @@ excerpt: "An introduction to the field of neuroscience."
 - Nondeclarative memory is broken down into
     - *Procedural memory*: skills, habits, behaviors.
 - Declarative memory requires conscious recollection while nondeclarative doesn’t.
-- Declarative memories are easy to form but also easy to forget while nondeclarative memories are harder to form (requires repetition and practice) but harder to forget.
+- Declarative memories are easy to form but are also easy to forget, while nondeclarative memories are harder to form (requires repetition and practice) but are harder to forget.
 - Procedural memories are formed through two types of learning
     - *Associative learning*: a change in behavior in response to the formation of associations between events. There are two types
         - *Classical conditioning*: associating a stimulus with a second stimulus that shouldn’t evoke the second stimulus but does.
             - *Instrumental conditioning*: associating a response with a meaningful stimulus.
     - *Nonassociative learning*: a change in behavior over time in response to a single type of stimulus. There are two types
         - *Habituation*: learning to ignore a stimulus that lacks meaning.
-        - *Sensitization*: learning to intensify the response to a stimuli.
+        - *Sensitization*: learning to intensify the response to a stimulus.
 - *Long-term memory*: memories that you can recall days, months, or years later.
 - *Short-term memory*: memories that you can recall hours later.
-- *Memory consolidation*: the conversion of short-term memories to long-term memories.
+- *Memory consolidation*: the conversion of short-term memories into long-term memories.
 ![Figure 24.4](figure24-4.png)
 - *Working memory*: memories that only last seconds.
 - Keeping memory alive through repetition is a hallmark of working memory.
@@ -1260,13 +1254,13 @@ excerpt: "An introduction to the field of neuroscience."
     - Very short duration.
 - There’s evidence that different sensory systems use different temporary storage areas.
 - E.g. Someone can remember a visual list of numbers but not as well as a spoken list.
-- *Amnesia*: a major loss of memory or ability to learn.
+- *Amnesia*: a major loss of memory or loss of the ability to learn.
 ![Figure 24.5](figure24-5.png)
 - *Retrograde amnesia*: memory loss for events prior to the trauma.
 - *Anterograde amnesia*: memory loss for events following the trauma.
-- Interestingly, for retrograde amnesia, newer memories are forgetting but older memories aren’t suggesting a link between an old memory and how hard it is to forget it.
+- Interestingly, for retrograde amnesia, newer memories are forgotten but older memories aren’t, suggesting a link between an old memory and how hard it is to forget it.
 - One way to increase working memory is through chunking the information into meaningful groups.
-- Working memory is is capability of the neocortex found in multiple locations in the brain.
+- Working memory capability is found in multiple locations in the brain.
 - Experiments with legions in the prefrontal cortex suggest that the prefrontal cortex is involved in retaining information in working memory.
 - *Engram/memory trace*: where a memory is stored.
 - All of the cortex participates in memory storage and memories are distributed across the brain.
@@ -1345,8 +1339,8 @@ excerpt: "An introduction to the field of neuroscience."
     - There must be enough synapses activated simultaneously to cause spatial summation of EPSPs.
 - *Cooperativity*: when multiple neurons must cooperate to produce enough depolarization.
 - LTP seems to require a frequency threshold and a neuron count threshold.
-- *LTP and Hebb’s rule are linked*: inputs that fire together wire together.
-- *The molecular basis of LTP in shown in Figure 23.28 but in words*: LTP depends on the rise in postsynaptic calcium ions ($$Ca^{2+}$$) that are released by the NMDA receptor when the depolarization is sufficient.
+- LTP and Hebb’s rule are linked: inputs that fire together wire together.
+- LTP depends on the rise in postsynaptic calcium ions that are released by the NMDA receptor when depolarization is sufficient.
 - *Spike timing-dependent plasticity (STDP)*: when the pre-synaptic neuron fires at or before the post-synaptic neuron fires, then the synapse is strengthened. If it fires after, then the synapse is weakened.
 - STDP can be thought of as strengthening the synapse only when the pre-synaptic neuron is the "cause" of the post-synaptic neuron firing.
 - STDP also "filters" its inputs to be correlated in time and does a "temporal pruning". The inputs that provide the earliest indication of correlation eventually become the final input to the neuron.
@@ -1366,7 +1360,7 @@ excerpt: "An introduction to the field of neuroscience."
 ![Figure 25.13](figure25-13.png)
 - Without limits to LTP and LTD, the synapses become unstable and tend towards extremes.
 - *Metaplasticity*: that the rules of synaptic plasticity change depending on the history of synaptic or cellular activity.
-- *Denervation supersensitivity*: when a neuron increases in excitability due to loss of synaptic input.
+- *Denervation supersensitivity*: when the loss of input into a neuron increases its excitability.
 - Maybe this supersensitivity is the reason why phantom limbs occur.
 - When cortical neurons are silenced, their electrical excitability increases.
 - However, the increase preserves the relative differences in the strengths of synapses on a neuron.

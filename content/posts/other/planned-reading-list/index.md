@@ -63,7 +63,6 @@ I plan to read the following textbooks and books. This list will be updated as m
 - How to Create a Mind: The Secret of Human Thought Revealed
 - Kluge: The Haphazard Construction of the Human Mind
 - The Voices Within: The History and Science of How We Talk to Ourselves
-- In Search of Memory: The Emergence of a New Science of Mind
 - Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness
 - The Ancient Origins of Consciousness: How the Brain Created Experience
 

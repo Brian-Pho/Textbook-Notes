@@ -81,7 +81,7 @@ excerpt: "A thorough account of the history of AI. An ok book that was too detai
 - These are computational processes that "look at" the input data, say an image of a printed letter or number. Each demon looks for something specific in the image, perhaps a horizontal bar; another might look for a vertical bar; another for an arc of a circle; and so on.
 - Each demon "shouts" its findings to a set of demons higher in the organization. (Think of these higher level demons as middle-level managers.) The loudness of a demon's shout depends on how certain it's that it's seeing what it's looking for.
 - Each of the next level of demons specializes in listening for a particular combination of shouts from the data demons.
-- E.g. one of the demons at this level might be tuned to listen for shouts from data demon 3, data demon 11, and data demon 22. If it finds that these particular demons are shouting loudly, it responds with a shout of its own to the demons one level up in the hierarchy, and so on.
+- E.g. One of the demons at this level might be tuned to listen for shouts from data demon 3, data demon 11, and data demon 22. If it finds that these particular demons are shouting loudly, it responds with a shout of its own to the demons one level up in the hierarchy, and so on.
 
 ### Chapter 4: Pattern Recognition
 
@@ -120,15 +120,15 @@ excerpt: "A thorough account of the history of AI. An ok book that was too detai
 - Language can be analyzed at several different levels.
 - These levels can be arranged into a hierarchy, starting with the most basic components of language (sounds and word parts) and proceeding upward to levels dealing with sentences.
 - If speech is being dealt with, there are the levels of phonetics (language sounds) and phonology (organization of sounds into words). For both speech and text, morphology deals with how whole words are put together from smaller parts.
-- E.g. "walking" consists of "walk" plus "-ing."
+- E.g. The word "walking" consists of "walk" plus "-ing."
 - Syntax is concerned with sentence structure and grammar. It attempts to describe rules by which a string of words in a certain language can be labeled either grammatical or not.
-- E.g. the string "John hit the ball" is grammatical but the string "ball the hit John" is not.
+- E.g. The string "John hit the ball" is grammatical but the string "ball the hit John" is not.
 - Together with the dictionary definitions of words, syntax comes next in importance for understanding the meaning of a sentence.
-- E.g. the sentence "John saw the man with a telescope" has two different meanings depending on its syntactic structure (depending on whether "with a telescope" refers to "the man" who had a telescope or to "saw.")
+- E.g. The sentence "John saw the man with a telescope" has two different meanings depending on its syntactic structure (depending on whether "with a telescope" refers to "the man" who had a telescope or to "saw.")
 - Grammar alone is insufficient for determining meaning.
-- E.g. the sentence "Colorless green ideas sleep furiously" might be considered grammatical, but it's nonsensical.
+- E.g. The sentence "Colorless green ideas sleep furiously" might be considered grammatical, but it's nonsensical.
 - The semantics level helps to determine the meaning (or the meaninglessness) of a sentence by employing logical analyses.
-- E.g. through semantic analysis, an "idea" can't be both "colorless" and "green."
+- E.g. Through semantic analysis, an "idea" can't be both "colorless" and "green."
 - One of the factors leading Bar-Hillel to his negative conclusions was the apparent difficulty of giving computers the "world knowledge" they would need for high-quality translation.
 
 ### Chapter 8: 1960s' Infrastructure
@@ -167,14 +167,14 @@ excerpt: "A thorough account of the history of AI. An ok book that was too detai
 - Semantic networks were another important format for representing declarative knowledge.
 - The belief that people transform natural language sentences into "conceptual structures" that are independent of the particular language in which the sentences were originally expressed.
 - These conceptual structures were how the information in sentences is understood and remembered.
-- E.g. when one translates a sentence from one language into another, one first represents its information content as a conceptual structure and then uses that structure to reason about what was said or to regenerate the information as a sentence in another language.
+- E.g. When one translates a sentence from one language into another, one first represents its information content as a conceptual structure and then uses that structure to reason about what was said or to regenerate the information as a sentence in another language.
 - "Any two utterances that can be said to mean the same thing, whether they are in the same or different languages, should be characterized in only one way by the conceptual structures."
 - Frame systems accommodated a style of reasoning in which details "not specifically warranted" could be assumed, thus "bypassing "logic," as Minsky would have it.
 - The last section of Minsky's paper about frames gives many reasons why one might doubt "the feasibility of representing ordinary knowledge effectively in the form of many small, independently 'true' propositions."
 
 ### Chapter 12: Mobile Robots
 
-- A* came out of trying to find the shortest path for mobile robots.
+- The search algorithm "A*" came out of trying to find the shortest path for mobile robots.
 - Skimmed due to it being on hardware/robots.
 
 ### Chapter 13: Progress in Natural Language Processing
@@ -237,7 +237,7 @@ excerpt: "A thorough account of the history of AI. An ok book that was too detai
 - Because only the speech waveform at the bottom level was actually observed, the phones and words were said to be "hidden." For this reason, the entire network employed hidden Markov models (HMMs).
 - DRAGON was the first example of the use of HMMs in AI.
 - The transcription of spoken sentences to their textual equivalents is now largely a solved problem.
-- E.g. high-quality speech recognition is commonly employed today in many automated telephone response systems.
+- E.g. High-quality speech recognition is commonly employed today in many automated telephone response systems.
 - However, understanding natural language remains a long-term research problem.
 
 ### Chapter 18: Consulting Systems
@@ -343,10 +343,10 @@ excerpt: "A thorough account of the history of AI. An ok book that was too detai
 - Yet, much human reasoning does not seem to work that way. Often, we jump to a conclusion using the facts we happen to have, together with reasonable assumptions, and then have to retract that conclusion when we learn some new fact that contradicts the assumptions.
 - That style of reasoning is called nonmonotonic or defeasible (meaning "capable of being made or declared null and void") because new facts might require taking back something concluded before.
 - We humans are also able to predict, with useful accuracies, the future course of many of the physical processes we commonly experience.
-- E.g. when people play in ocean waves at the beach, they are usually able to predict when a wave crest will arrive so that they can jump up in time. Do our brains use anything like the equation just shown to make that prediction? Probably not.
+- E.g. When people play in ocean waves at the beach, they are usually able to predict when a wave crest will arrive so that they can jump up in time. Do our brains use anything like the equation just shown to make that prediction? Probably not.
 - Instead, prediction routines for guiding skilled actions are learned by repeated experiences and are part of what psychologists call "procedural knowledge."
 - In addition to acting automatically and effectively using procedural knowledge embedded in our various motor skills, we can also make declarative statements predicting what will happen in certain situations.
-- E.g. a surfer looking out at incoming waves can tell a friend "Take the next wave; it's going to be a big one."
+- E.g. A surfer looking out at incoming waves can tell a friend "Take the next wave; it's going to be a big one."
 - Apparently we have some facility for representing and using "qualitative knowledge" about physical processes - knowledge that is neither part of our procedural "muscle memory" nor represented in our brains by complex mathematical formulas.
 - E.g. How do we know that when we knock over a glass of water on a table the water will eventually come to the edge of the table and spill off? How do we know that if we stack heavy boxes on top of light, fragile boxes, the fragile boxes might collapse? How do we know that if we drive to our destination a little bit faster, we'll get there a little bit sooner?
 - Earlier in AI's history there was controversy about whether knowledge should be represented by data structures such as semantic networks or by sets of logical statements.
@@ -362,18 +362,18 @@ excerpt: "A thorough account of the history of AI. An ok book that was too detai
 - Much human reasoning is about propositions and quantities that are uncertain. Our beliefs about many things are provisional (that is, subject to change) and qualified (that is, having various levels of confidence).
 - AI systems, too, need to be able to deal with uncertain information.
 - But just as is the case with logical reasoning, probabilistic reasoning is subject to AI's old nemesis, the combinatorial explosion.
-- E.g. an agent's knowledge consists of a set of propositions. Because of possible interdependencies among the propositions, accurate probabilistic reasoning depends on knowing more than just the probability of each of those propositions individually. Instead, probability values for various combinations of the propositions taken together, called "joint probabilities," are usually required; this leads, in the general case, to impractically large representations and intractable computations.
+- E.g. An agent's knowledge consists of a set of propositions. Because of possible interdependencies among the propositions, accurate probabilistic reasoning depends on knowing more than just the probability of each of those propositions individually. Instead, probability values for various combinations of the propositions taken together, called "joint probabilities," are usually required; this leads, in the general case, to impractically large representations and intractable computations.
 - One thing that all of these applications has taught us is the importance of massive amounts of data, which has turned out to be the major theme of modern AI.
 - The fact that full explanations involve rather complex mathematics testifies again to the great increase in AI's technical depth that began in the 1980s.
 
 ### Chapter 29: Machine Learning
 
 - Most machine learning methods construct hypotheses from data.
-- E.g. if a large set of data contains several instances of swans being white and no instances of swans being of other colors, then a machine learning algorithm might make the inference that "all swans are white."
+- E.g. If a large set of data contains several instances of swans being white and no instances of swans being of other colors, then a machine learning algorithm might make the inference that "all swans are white."
 - Such an inference is "inductive" rather than "deductive." Deductive inferences follow necessarily and logically from their premisses, whereas inductive ones are hypotheses, which are always subject to falsification by additional data.
 - Still, inductive inferences, based on large amounts of data, are extremely useful. Indeed, science itself is based on inductive inferences.
 - The usual AI approach to dealing with large quantities of data is to reduce the amount of it in some way.
-- E.g. a neural network is able to represent what is important about a large amount of training data by the network's structure and weight values. Similarly, learning a Bayesian network from data condenses these data into the network's node structure and its conditional probability tables.
+- E.g. A neural network is able to represent what is important about a large amount of training data by the network's structure and weight values. Similarly, learning a Bayesian network from data condenses these data into the network's node structure and its conditional probability tables.
 - The basic idea behind backprop is simple, but the mathematics is complicated.
 - In response to an error in the network's output, backprop makes small adjustments in all of the weights so as to reduce that error. It can be regarded as a hill-climbing (or rather hill-descending) method - searching for low values of error over the landscape of weights.
 - But rather than actually trying out all possible small weight changes and deciding on that set of them that corresponds to the steepest descent downhill, backprop uses calculus to pre-compute the best set of weight changes.
@@ -482,7 +482,7 @@ excerpt: "A thorough account of the history of AI. An ok book that was too detai
 - Modha is the principal investigator of a DARPA project to develop "Systems of Neuromorphic Adaptive Plastic Scalable Electronics" (SyNAPSE), or a project whose goal is to build a machine that mimics the actions of about 100 million neurons.
 - That's twice the number of neurons in a rat brain but only about 0.25% of the number in a human brain. One can hope that the top-down and bottom-up approaches will meet in the middle somewhere.
 - Even setting this nightmare aside, one can fear a variety of more subtle deleterious impacts.
-- E.g. rapid collapse of human society into a self-destructive pure hedonism once all pressures, and perhaps even reasons or opportunities, for work and striving are undermined by the presence of unchallengeable omnicompetent mechanisms.
+- E.g. Rapid collapse of human society into a self-destructive pure hedonism once all pressures, and perhaps even reasons or opportunities, for work and striving are undermined by the presence of unchallengeable omnicompetent mechanisms.
 - Certainly man's remaining sense of his own uniqueness may be further impaired, and he may come to seem in his own eyes little more than a primitive animal, capable only of fleeting enjoyments.
 - Omohundro wants to make sure that we build "wisdom," and not just intelligence, into our technologies.
 - By that he means building in "human values, such as caring about human rights and property rights and having compassion for other entities." He thinks it "absolutely critical that we build these in at the beginning, otherwise we'll get systems that are  powerful, but which don't support our values."

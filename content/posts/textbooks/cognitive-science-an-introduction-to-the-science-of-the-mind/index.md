@@ -41,36 +41,36 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 ### 1.2 The theory of computation and the idea of an algorithm
 
-- *Algorithm*: makes the notion of a "mechanical procedure" more precise (via math and logic).
+- *Algorithm*: a set of steps to solve a problem.
 - *Universal Turing Machine*: a Turing machine that can simulate any specialized Turing machine by taking that machine (plus its input) as its input.
 - *Church-Turing Thesis*: anything that can be done in mathematics by an algorithm can be done by a Turing machine. Turing machines can compute anything that can be algorithmically computed.
 
 ### 1.3 Linguistics and the formal analysis of language
 
 - Two types of sentence structures
-    - *Deep structure*: how a sentence is made up of basic parts and basic rules (think context-free grammar and emergence).
+    - *Deep structure*: how a sentence is made up of basic parts and basic rules.
     - *Surface structure*: the actual organization of the words.
-- Languages are hierarchically organized.
-- Transformation grammar ideas
-    - Sophisticated, hierarchical, cognitive abilities (e.g. language) involved stored bodies of information.
-    - These bodies of information can be manipulated algorithmically.
+- Languages are hierarchically organized as sentences can be broken down into components.
+- E.g. Subject, noun phrase, and verb phrase.
 
 ### 1.4 Information-processing models in psychology
 
 - How can we measure information?
 - *Information channel*: a medium that transmits information from sender to receiver.
-- E.g. wires, optic fiber, air.
+- E.g. Wires, optic fiber, or air.
 - Humans are limited in the absolute judgments that they can make compared to relative judgments.
-- *Information-processing bottleneck*: there seems to be an upper bound on the number of distinct items that can be processed simultaneously regardless of the source.
-- E.g. audio, visual, touch.
-- The upper bound for human short term memory is around seven items or three bits (Since 2^3 = 8 which is close to 7).
-- *Channel capacity*: the amount of information that a channel can reliably transmit.
+- E.g. It's more difficult to identify a tone than to compare two tones and identify the higher pitched tone.
+- *Information-processing bottleneck*: an upper bound on the number of distinct items that can be processed simultaneously regardless of the source.
+- E.g. Audio, visual, or touch.
+- The bottleneck for human short term memory is around seven items or three bits (Since 2^3 = 8 which is close to 7).
+- *Channel capacity*: the amount of information that an information channel can reliably transmit.
 - It’s theorized that our sensory systems are all information channels with roughly the same channel capacity.
-- Why/how do we have these limits?
-- One way of bypassing the channel capacity is to chunk information. Chunking is when we group multiple items together.
-- Recall the experiment in Peak where the guy chunks sequences of numbers as track times.
+- Why do we have these limits? The answer may be due to energy limitations.
+- One way of bypassing a channel's capacity is to chunk information.
+- *Chunking*: when we group multiple items together.
+- E.g. Remembering a phone number in chunks of three such as 123-456-789.
 - Natural language is the ultimate chunking tool as it chunks letters into words, words into sentences, and sentences into ideas.
-- *Cocktail party phenomenon*: how we’re able to focus on one person when everyone else is talking. Also known as selective attention.
+- *Cocktail party phenomenon*: how we’re able to focus on one person in a party when everyone else is also talking. This is also known as selective attention.
 - The sensory input is first filtered before reaching the limited capacity channel. The filter is "programmed" by another system.
 ![Figure 1.6](figure1-6.png)
 
@@ -78,7 +78,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 
 - Information is gained through learning and is stored as a representation, thus organisms are information processors.
 - Information processing is done by dedicated and specialized systems. These systems perform simpler tasks to process the information.
-- We can understand how a cognitive system works as a whole by understanding how information flows through the system. Think of DFD (Data-Flow-Diagram) and UML.
+- We can understand how a cognitive system works as a whole by understanding how information flows through the system.
 - Cognition as a form of information processing. Processing as in how information is represented, transformed, and exploited.
 
 ### Summary
@@ -87,9 +87,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - Should we abstract away the brain to understand the mind?
 - Even very basic types of behavior (such as the behavior of rats in mazes) seems to involve storing and processing information about the environment.
 - Information relevant to cognition can take many forms. From information about the environment to information about how sentences can be constructed and transformed.
-- Perceptual systems can be viewed as information channels and we can study both the
-    - very general properties of those channels (e.g. their channel capacity)
-    - way in which information flows through those channels
+- Perceptual systems can be viewed as information channels and we can study both the general properties of those channels and way in which information flows through those channels.
 - Mathematical logic and theory of computation shows us how information processing can be mechanical and algorithmic.
 - Much of the information processing that goes on in the mind takes place below the threshold of awareness.
 
@@ -98,17 +96,19 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 ### 2.1 Language and micro-worlds
 
 - Language is more than a tool used for communication. It’s also a tool used for thinking.
-- Three reasons why SHRDLU (a program that can manipulate and answer questions about its environment) is important
+- SHRDLU is a program that can manipulate objects in a virtual environment. It can also answer questions related to the objects.
+- E.g. What object is in front of the red cube?
+- Three reasons why SHRDLU is important
     - It shows how abstract rules and principles could be implemented.
     - It shows the general approach of breaking down systems into distinct components.
     - It shows how understanding language is an algorithmic process.
-- Approach the understanding of systems by starting from the abstract/general and moving down towards the concrete/specific.
+- Approach the understanding of systems by starting from the abstract/general and moving down towards the concrete/specific implementation.
 
 ### 2.2 How do mental images represent?
 
 - One way to test our understanding of a cognitive ability is to try to build it.
 - Artificial intelligence can be thought of as a way to experiment with models in cognitive science.
-- *Mental rotation of three-dimensional objects experiment*: given pairs of 3D figures, determine, as quickly as possible, which pairs are the same but rotated.
+- Mental rotation of three-dimensional objects experiment: given pairs of 3D figures, determine as quickly as possible, which pairs are the same but rotated.
 ![Figure 2.7](figure2-7.png)
 - There is a direct, linear relationship between the length of time that subjects take to solve the problem and the degree of rotation between the two figures.
 - The larger the angle of rotation, the more time it takes to determine if the figures are the same.
@@ -118,16 +118,19 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
     - What cognitive machinery makes this possible?
     - Why is the relationship linear?
         - A linear relationship suggests that the rotation in our head is linear (aka at a constant rate).
-        - Why isn’t it say exponential or constant? Linear search time? Default assumption of the brain starts with zero rotation and slow rotates it?
+        - Why isn’t it say exponential or constant? Default assumption of the brain starts with zero rotation and linearly rotates it?
         - What about the case of going past 180 degrees? Does clockwise or counterclockwise matter?
     - Why is it linear in both the 2D and 3D cases?
-    - How is information represented and how is it transformed?
-- One feature of digitally encoded information is that the time it takes to process information is typically a function only of the quantity of information (number of bits). The quality of the information shouldn’t matter, only the quantity. Think Big-O.
-- However, the mental rotation experiment shows that it takes varying amounts of time to solve a problem even though the quantity of information remains the same. Is this true?
+    - How is the information represented and how is it transformed?
+- One feature of digitally encoded information is that the time it takes to process information is typically a function only of the quantity of information (number of bits).
+- The quality of information doesn't matter to computers, only the quantity.
+- E.g. Big-O which characterizes the growth of algorithms only cares about input size, not input type.
+- However, the mental rotation experiment shows that it takes varying amounts of time to solve a problem even though the quantity of information remains the same.
 - Personal hypothesis: People do a brute force "search" to see if the figures match. We do this by first having a base state, aka the left image, and then mentally rotating it by a few degrees and seeing if it matches. If it doesn’t, then rotate some more. Eventually, we either find a match or we exhaust all possible rotation degrees and we say that they don’t match.
 - *Digital representation*: the connection between what we might think of as the unit of representation and what that unit represents is completely arbitrary. Think how we bind meaning to words.
-- *Imagistic representation*: Opposite to a digital representation where the representation matches the meaning assigned to it.
-- E.g. a map. What it represents is similar to reality as the representation is secured though resemblance.
+- E.g. For computers, an image or sound file are both represented by zeros and ones even though bits have nothing to do with colors or sounds.
+- *Imagistic representation*: opposite to a digital representation where the representation matches the meaning assigned to it.
+- E.g. A map. What it represents is similar to reality as the representation is secured though resemblance.
 
 ### 2.3 An interdisciplinary model of vision
 
@@ -148,9 +151,9 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - SHRDLU illustrated how abstract grammatical rules might be represented in a cognitive system.
 - The imagery debate is about whether the different effects revealed by experiments on mental imagery can or cannot be explained in terms of digital information processing models.
 - Marr identified three different levels for analyzing systems
-    - computational
-    - algorithmic
-    - implementational
+    - Computational
+    - Algorithmic
+    - Implementational
 
 ## Chapter 3: The turn to the brain
 
@@ -1054,12 +1057,12 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - *Primary representations*: a child’s basic representations (what’s seen and what’s stored) of the environment.
 - Three basic observations about pretend play.
     1. Pretend play depends on how the child’s primary representations.
-     - E.g. To use a banana as a phone, the child must first represent the banana.
+        - E.g. To use a banana as a phone, the child must first represent the banana.
     2. We can’t explain what goes on in pretend play by only using the child’s primary representations.
-     - There must be some pretend representation happening that contradicts the primary representation.
-     - E.g. To use a banana as a phone, there must be a phone representation.
+        - There must be some pretend representation happening that contradicts the primary representation.
+        - E.g. To use a banana as a phone, there must be a phone representation.
     3. The pretend representations must preserve their ordinary meanings in pretend play.
-     - E.g. The banana is still a banana and the child must understand that regardless of it’s pretend phone properties.
+        - E.g. The banana is still a banana and the child must understand that regardless of it’s pretend phone properties.
 - With these three observations, pretend representations must somehow be separated/quarantined from the ordinary primary representation.
 - It must be separate because if it weren’t, then it would not make sense due to the contradictions.
 - Pretend representations are related to mindreading in this regard, the regard that the representations are separate from our own.
