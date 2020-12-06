@@ -96,7 +96,7 @@ module.exports = {
           google: [
             {
               family: `Arima Madurai`,
-            variants: [`100`],
+              variants: [`100`],
             },
           ],
         },
