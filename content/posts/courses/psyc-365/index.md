@@ -537,7 +537,7 @@ excerpt: "Cognitive Psychology"
     - The ability to judge, comprehend, and reason well.
     - Another measure is obtained by dividing a person’s mental age (MA) by the chronological age (CA).
     - $$IQ = \frac{MA}{CA} * 100$$.
-  - IQ follows a normal distribution.
+    - IQ follows a normal distribution.
     - Is intelligence one construct or many?
     - Spearman’s Two-factory theory of intelligence
         - General intelligence: part of intelligence common to all abilities.
