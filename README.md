@@ -16,6 +16,8 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 - [ ] Clean up notes
 - [ ] Clean up grammar and spelling
 - [ ] Add a review section to all notes
+- [ ] Fix scrollbar shifting content
+- [ ] Fix iPad view
 
 ## Favicon Generator
 
@@ -63,7 +65,7 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 1. Copy the book's table of contents into Dropbox Paper.
 2. Read the book and write notes in Dropbox Paper.
 3. Export notes in Markdown.
-4. Add them to site and fix markdown to pass linter.
+4. Add them to site and fix markdown to pass linter (italicize definitions).
 5. Add a quote to the start of textbook notes.
 6. Download images.
 7. Replace image URLs with local ones.
