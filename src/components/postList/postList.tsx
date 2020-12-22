@@ -25,16 +25,16 @@ const PostListPagination = ({
 }: PostListPaginationProps) => {
   const isFirstPage = currPage === 1
   const isLastPage = currPage === numPages
-  const firstPage = `/`
-  const lastPage = `/${numPages}`
-  const prevPage = currPage - 1 === 1 ? firstPage : `${currPage - 1}`
-  const nextPage = `${currPage + 1}`
+  const firstPage = ""
+  const lastPage = numPages
+  const prevPage = currPage === 2 ? firstPage : currPage - 1
+  const nextPage = currPage + 1
 
   return (
     <Pagination className="p-2 p-md-4 mb-0 justify-content-center">
       {!isFirstPage ? (
         <>
-          <Pagination.First href={withPrefix(firstPage)} />
+          <Pagination.First href={withPrefix(`/${firstPage}`)} />
           <Pagination.Prev href={withPrefix(`/${prevPage}`)} />
           <Pagination.Item href={withPrefix(`/${prevPage}`)}>
             {prevPage === firstPage ? "1" : prevPage}
@@ -48,7 +48,7 @@ const PostListPagination = ({
             {nextPage}
           </Pagination.Item>
           <Pagination.Next href={withPrefix(`/${nextPage}`)} />
-          <Pagination.Last href={withPrefix(lastPage)} />
+          <Pagination.Last href={withPrefix(`/${lastPage}`)} />
         </>
       ) : null}
     </Pagination>
