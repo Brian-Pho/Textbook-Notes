@@ -53,3 +53,109 @@ excerpt: "My notes on papers exploring how to be a more effective scientist."
     - Rule 10: Get feedback to reduce, reuse, and recycle the story
         - Writing can be considered an optimization problem and it's important to not get too attached to one's writing.
         - In many cases, it's better to trash an entire paragraph and rewrite it than to incrementally edit it.
+
+## [Three Ways to Advance Science](https://www.nickbostrom.com/views/science.pdf)
+
+- Three ways to contribute to scientific progress
+    1. Direct way is to conduct a good scientific study and publish results.
+    2. Indirect way is to help others make a direct contribution.
+        - E.g. Journal editors, university administrators, and philanthropists.
+    3. A combination of both ways.
+- The third way is commonly overlooked.
+- One reason why great scientists are celebrated is because their discoveries have enabled other scientists to tackle problems that they couldn’t have solved.
+- E.g. General relativity.
+- However, even these achievements aren’t able to contribute to scientific enterprise as a whole.
+- Some findings have wider applicability.
+- E.g. The scientific method, basic statistic methods, and scientific instruments such as the microscope and computer.
+- Those who seek the advancement of human knowledge should focus more on the third way of contributing to scientific progress.
+- No contribution would be more generally applicable than one that improves the performance of the human brain.
+- E.g. Cognitive enhancement drugs to improve motivation, memory, or brain development.
+- Society invests vast resources in education to improve students’ cognitive abilities, but invests little on the biology of maximizing the performance of the human nervous system.
+- Even a 1% improvement in performance, while not noticeable in a single person, would result in a massive performance increase for all scientists.
+- E.g. Coffee or sleeping pills.
+
+## [Neuroscience Training for the 21st Century](https://doi.org/10.1016/j.neuron.2016.05.030)
+
+- Recently, there’s been a trend to focus more resources in the pursuit of neuroscience research.
+- E.g. The USA BRAIN initiative, China Brain, and the Human Brain Project in Europe.
+- Are training programs meeting the current and future workforce needs of the field?
+- How do we train and retain a talented work force?
+- Developing the expertise needed to advance neuroscience in the 21st century
+    - Neuroscience is currently in a stage that requires greater incorporation of computational science, applied mathematics, and engineering.
+    - Two major challenges
+        - How to best impart rigorous quantitative, analytic, and statistical skills required by emerging technologies among trainees in neuroscience.
+        - How to best integrate scientists from different disciplines into neuroscience.
+    - A deep understanding of the statistical basis for interpreting experimental data needs to drive not only analysis, but also the design of experiments.
+    - Programming and writing are also important skills for trainees to have and develop.
+- Training for different career opportunities
+    - The rapid increase in numbers of neuroscientists in training isn’t balanced by an increase in future academic positions.
+    - There’s a trend of PhDs not planning to do a post-doc.
+    - In neuroscience, women outnumber men in graduate school programs but remain underrepresented in faculty positions.
+- The rewards for a better understanding of the brain are difficult to overstate.
+
+## [Are Ideas Getting Harder to Find?](https://www.aeaweb.org/articles?id=10.1257/aer.20180338)
+
+- Evidence shows that research effort is rising substantially while research productivity is declining sharply.
+- More generally, everywhere we look, we find that ideas are getting harder to find.
+- Economic growth can be modeled as a simple equation.
+- $$Economic\ growth = Research\ productivity\ \times Number\ of\ researchers$$
+- In other words, economic growth arises from people creating ideas.
+- Evidence suggests that economic growth is slowing because research productivity is declining while the number of researchers increases.
+- E.g. Moore’s Law requires more than 18 times more researchers than in the early 1970s.
+- Paper specifically looks at Moore’s Law, agriculture, and medical innovations.
+- This work is important because many economic growth papers are based on models where research productivity is constant.
+- Three contributions of this paper
+    - Analyzes many layers of evidence.
+    - Uses a conceptually consistent approach across these layers.
+    - Evidence is informative about the kind of models that we use to study economic growth.
+- The researchers actually looked at more case studies than presented here but not all of them could be rigorously analyzed.
+- Don’t look to patents as a proxy for ideas as their relationship isn’t stable over time.
+- E.g. Software and algorithms can’t be patented but they’re still new ideas.
+- Perhaps the decrease in research productivity is because over time, more and more learning is required just to get to the point where researchers are capable of pushing the frontier forward.
+- Ideas are hard to measure.
+- E.g. What are the units of ideas?
+- One way, and the way the paper uses, is to measure ideas by their economic impact.
+- E.g. Ideas are proportional improvements in productivity.
+- $$Research\ productivity = \frac{number\ of\ new\ ideas}{number\ of\ researchers}$$
+- The standard hypothesis of growth literature is that research productivity is constant over time.
+- Paper finds consistent evidence that research productivity is declining at a substantial rate in virtually every place we look.
+- But what if there is a sharp decline in research productivity within each product line, but growth is sustained by the creation of new product lines?
+- E.g. Going from steam power to electric power, and then to the internal combustion engine, to gene editing, etc.
+- Maybe long-term growth occurs through the invention of entirely new areas.
+- To answer this question, we consider the extreme case where there’s no productivity improvement in a product line and that all productivity growth comes from adding new product lines.
+- To account for research input, it’s also important to count R&D expenditures such as on lab equipment.
+- Skipping over the equations for research productivity.
+- The constant exponential growth in Moore’s Law has been achieved only by a massive increase in the amount of resources devoted to pushing the frontier forward.
+- Caveats to studying Moore’s Law at the micro level
+    - Maybe progress is due to spillovers from other sectors such as from material science.
+    - Maybe progress is due to firms that no longer exist but the paper tries to account for this.
+- Skipping agriculture section, medical innovation section, and firm-level section.
+- Paper has robust findings that research productivity is falling sharply everywhere we look.
+- In other words, to sustain constant growth in GDP per person, the USA must double the amount of research effort every 13 years to offset the increased difficulty of finding new ideas.
+
+## [Ten Simple Rules for Doing Your Best Research, According to Hamming](https://doi.org/10.1371/journal.pcbi.0030213)
+
+- These rules are based off of the mathematician Richard Hamming.
+- Rule 1: Drop Modesty
+    - Our society frowns on people who set out to do really good works, but ignore them and say to yourself that you do want to do something significant.
+- Rule 2: Prepare Your Mind
+    - Luck favours the prepared mind.
+- Rule 3: Age Is Important
+    - Most physicists and mathematicians do their best works when they were young.
+    - On the other hand, experts in music, politics, and literature often do their best work late in life.
+- Rule 4: Brains Are Not Enough, You Also Need Courage
+    - Great scientists will go forward under incredible circumstances; they think and continue to think.
+- Rule 5: Make the Best of Your Working Conditions
+    - It’s a poor workman who blames his tools, the good workman gets on with the job, given what he’s got, and gets the best answer he can.
+- Rule 6: Work Hard and Effectively
+    - Knowledge and productivity are like compound interest.
+    - Hard work isn’t enough, it must be applied sensibly.
+- Rule 7: Believe and Doubt Your Hypothesis at the Same Time
+    - Believe in a theory to push it forward, but doubt it to create a new replacement theory.
+- Rule 8: Work on the Important Problems in Your Field
+    - To do great work, you have to work on great problems.
+- Rule 9: Be Committed to Your Problem
+    - By diving deep in a problem, your subconscious works on the problem.
+    - You can’t do great work on a problem you don’t know or haven’t tried solving.
+- Rule 10: Leave Your Door Open
+    - While keeping your office door closed makes you more productive in the short term, in the long term you don’t know what the important problems are and don’t know the current state of the field.

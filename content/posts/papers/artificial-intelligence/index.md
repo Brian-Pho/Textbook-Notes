@@ -82,3 +82,58 @@ excerpt: "My notes on papers exploring artificial intelligence."
         - Symbol-manipulation and hybrid models
         - Insights from cognitive and developmental psychology
         - Bolder challenges
+
+## [Backpropagation and the brain](https://www.nature.com/articles/s41583-020-0277-3)
+
+- Does backpropagation offer insights for understanding learning in the human brain?
+- Although the brain modifies synapses to learn, it’s not understood how these changes are orchestrated across the entire brain to achieve the network’s goal.
+- Backpropagation (backprop): the use of error signals sent through feedback connections to adjust synapses.
+- However, the brain appears to use its feedback connections for different purposes.
+- Paper argues that in spite of these apparent differences, the brain has the capacity to implement the core principles underlying backprop.
+- Synaptic weights → Neural activity → Network’s output → Network’s error.
+- We can reduce the error by making small changes in synaptic weights.
+- It’s difficult to decide such changes because a synapse’s strength doesn’t directly influence the network’s output.
+- The radius of a synapse’s influence, it’s projective field, rapidly expands along the network so the effect of changing the synapse strength depends on the strengths of the subsequently connected synapses.
+![Figure 1](figure1-1.png)
+- One way to decide synaptic strength changes is through weight perturbation or by adding noise to each synapse and seeing how it affects the error.
+- However, weight perturbation is inefficient and requires a lot of trial-and-error.
+- Backprop addresses the efficiency issue by computing, rather than measuring, how a change in synapse strength will affect the network’s error.
+- This computation is possible because we have access to the exact causal relationship between the synapse strengths and the network’s output.
+- The key to backprop is the application of the chain rule of calculus using a recursive computation of error signals.
+- Credit assignment: determining which parameter, such as a synaptic weight, contributed to the magnitude of the error signal.
+- Backprop falls under a more general mechanism known as credit assignment.
+- Note that backprop doesn’t need to be a difference between an output and a supervised target. It can also be a temporal difference or a policy gradient or a prediction error.
+- An important empirical feature of backprop is its ability to quickly find good internal representations of inputs.
+- Internal representations aren’t specified explicitly by the input/output targets.
+- Two critical features of backprop (that’s also shared by the brain)
+    - The prescription of synapse-specific changes.
+    - The requirement for feedback connections that deliver error information to neurons.
+- It isn’t clear what role feedback connections play in cortical computations, so we can’t say that the cortex employs backprop-like learning.
+- There is no direct evidence that the brain uses a backprop-like algorithm for learning.
+- To our knowledge, no one in the machine-learning community has been able to train high-performing deep networks on difficult tasks such as classifying the objects in ImageNet photos using any algorithm other than backprop.
+- Findings are consistent with the hypothesis that feedback connections in the cortex drive learning across multiple layers of representation.
+- Three major difficulties in implementing backprop in biological circuits
+    - Backprop demands synaptic symmetry in the forward and backward paths.
+        - Retrograde neuronal communication was used to try to implement the backpropagating error signal but this idea has been abandoned because it’s too slow.
+        - Weight transport problem: the need to have the same weight on two different connections.
+        - Feedback alignment: networks with fixed random feedback weights learn to approximately align their feedforward synaptic weights to their feedback weights.
+        - Feedback alignment suggests that feedback connections don’t need to be symmetric to their feedforward counterparts to deliver useful information and provides evidence that precise symmetry isn’t always required for effective learning.
+    - Error signals are signed and potentially extreme-valued.
+        - This problems is referred to as the problem of exploding/vanishing gradients.
+    - Feedback in brains alters neural activity.
+        - In backprop, error signals don’t influence neurons but only synapses.
+        - In the cortex, feedback connections can serve multiple roles such as driving activity or modulating it.
+        - In other words, the feedback in the brain is more elaborate and rich compared to backprop.
+- Neural gradient representation by activity differences (NGRAD): learning mechanisms that use differences in activity states to drive synaptic changes.
+- NGRAD hypothesis: the idea that the cortex uses an NGRAD to perform an approximation to gradient descent.
+- The fundamental idea is that top-down-driven activities drive learning without carrying explicit error information between layers.
+- The use of locally available information to capture the error information that guides learning.
+- Auto-encoder: a network that aims to reconstruct its own input.
+- No existing algorithm for multilayer credit assignment can be squared with what we know about the neurophysiology of the cortex.
+- To function in neural circuits, NGRADs must
+    - Coordinate interactions between feedforward and feedback pathways.
+    - Compute differences between patterns of neural activities.
+    - Use this difference to make appropriate synaptic updates.
+- The introduction of backpropagation generated excitement in the neuroscience community as a possible source of insight about learning in the cortex.
+- However, interpreted literally, backprop has obvious biological implausibilities.
+- E.g. ANNs violate Dale’s law, which states that neurons are either excitatory or inhibitory, not both.

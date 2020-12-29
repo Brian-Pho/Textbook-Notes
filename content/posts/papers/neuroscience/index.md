@@ -396,3 +396,238 @@ excerpt: "My notes on papers exploring the brain."
 - What comes after the catalogues of cells?
 - Systems biology that identify cellular networks and cellular circuits.
 - Author excited about the trans-hierarchical studies to investigate the role of particular residues of specific molecules in specified cells in organisms.
+
+## [The human brain in numbers: a linearly scaled-up primate brain](https://doi.org/10.3389/neuro.09.031.2009)
+
+- Brain size can’t be a proxy for the number of neurons in the brain.
+- The human cerebral cortex holds only 19% of all brain neurons.
+- Two advantages of the human brain
+    - It’s built according to very economical, space-saving scaling rules (that apply to other primates).
+    - It’s the largest among primate brains, hence it contains the most neurons.
+- Paper findings argue in favor of a view that cognitive abilities is centered on absolute numbers of neurons, rather than on body size/encephalization.
+- Weirdly, our exceptional abilities aren’t brain-centered, but rather body-centered.
+- People believe that our superior cognitive abilities are a result of our brain being bigger than expected for our body size.
+- How many neurons does the human brain have, and how does that compare to other species?
+- The usual answer is that we have 100 billion neurons and 10 times more glial cells.
+- Among mammals, the trend is that the species with the largest brains tend to have a greater range and versatility of behavior than those with smallest brains.
+- E.g. Larger-brained birds such as corvids, parrots, and owls.
+- Since whales and elephants have larger brains than we do, why should we be more cognitively able compared to them?
+- Encephalization quotient (EQ): a measure of how much the observed brain mass of a species deviates from the expected brain mass for its body mass.
+- Problems with EQ
+    - It isn’t obvious how a larger-than-expected brain mass confers a cognitive advantage.
+        - E.g. When we compare small-brained animal with very large EQs to large-brained animals with smaller EQs, we find that the large-brain animals have better cognitive performance even though they have smaller EQs.
+    - The body-brain mass relationship depends on the precise combination of species computed. Can’t compare apples to oranges.
+- Another false assumption is that brain’s aren’t all built the same. Some brains scale much better and are built denser.
+- The number of neurons in the cerebral cortex increases coordinately with the number of neurons in the cerebellum in humans.
+![Figure 3](figure3-4.png)
+- Brain size isn’t a reliable indicator of number of neurons because different cellular scaling rules apply to rodents, primates, and insectivores.
+![Figure 4](figure4-4.png)
+- In rodents, a larger number of neurons is followed by larger neurons.
+- The adult male human brain has, on average, 86 billion neurons and 85 billion non-neuronal cells in 1.5 kg.
+- Remarkably, the human cerebral cortex, which represents 82% of brain mass, holds only 19% of all neurons in the human brain.
+- The relatively large human cerebral cortex, therefore, isn’t different from the cerebral cortex of other animals in its relative number of neurons.
+- If a rodent brain had 86 billion neurons, like the human brain, we would expect it to weigh 35 kg, a value beyond the current largest known brain mass (9 kg for the blue whale) and is probably physiologically unattainable.
+- Being a primate endows us with seven times more neurons than would be expected if we were rodents.
+- The human brain is a linearly scaled-up primate brain, with just the expected number of neurons for a primate brain of its size.
+- It’s likely that humans don’t have truly unique cognitive abilities, but rather the combination and extend of abilities is what makes us great.
+- Exponential combination of processing units, and therefore of computational abilities, leads to events that may look like “jumps” in the evolution of brains and intelligence.
+- Since neurons interact combinatorially through synapses, the increase in cognitive abilities afforded by increasing the number of neurons in the brain can be expected to increase exponentially with absolute number of neurons.
+- Disregard body and brain size and focus more on the absolute number of neurons.
+- Glial cells in the human brain are at most 50% of all brain cells.
+- Two advantages of the human brain
+    - It scales as a primate brain meaning it scales economically.
+    - It has the largest number of neurons.
+
+## [Neuroscience: In search of new concepts](https://science.sciencemag.org/content/358/6362)
+
+**The emperor’s new wardrobe: Rebalancing diversity of animal models in neuroscience research**
+
+- Is the great diversity of questions in neuroscience best studied in only a handful of animal models?
+- Neuroscience has been and is converging on only a few select model organisms.
+- Krogh’s principle: for a large number of problems, there will be some animals that will be the most convenient to study.
+- E.g. Hodgkin and Huxley used the squid to understand the mechanisms behind AP generation because it has a huge axon (~1 mm diameter).
+- Benefits of convergence
+    - Rapid development of tools to study model nervous systems.
+    - Standardization of animal procedures such as housing and breeding.
+    - Reduced costs and simplicity.
+- Certain functions are specialized in few animals which makes studying the function difficult if we ignore them as model animals.
+- E.g. Vocal mechanisms such as language and songs.
+- Another benefit of studying a variety of model organisms is that they may have specialized functions that we would like to have or that we can compare ourselves to.
+- E.g. Sound localization. Studying the barn owl revealed that the neural computation for sound localization followed almost exactly the Jeffress model, which is based on coincidence detection. Yet in rodents, the problem is solved in a different way.
+- The comparative approach serves as an extremely powerful tool to assess the validity of universal principles.
+- What should a scientist looking 30 years into the future do?
+- One can, and should, think carefully and select the model system for the scientific question, rather than feel compelled to select the scientific question for the model system.
+![Figure 1](figure1-4.png)
+
+**Big data and the industrialization of neuroscience: A safe roadmap for understanding the brain?**
+
+- Three major issues
+    - Is the industrialization of neuroscience the soundest way to achieve substantial progress in knowledge about the brain?
+    - Do we have a safe “roadmap” based on scientific consensus?
+    - Do these large-scale approaches guarantee that we will reach a better understanding of the brain?
+- Paper emphasizes the contrast between the accelerating technological development and the relative lack of progress in conceptual and theoretical understanding in brain sciences.
+- We may be letting technology-driven, rather than concept-driven, strategies shape the future of neuroscience.
+- E.g. The Blue Brain project, the European “Human Brain Project”, and the US BRAIN initiative.
+- Ways that technology has revolutionized neuroscience
+    - Technical level: high resolution of large-neural ensemble activity and single-spike resolution in-vivo.
+    - Methodological level: new standards in experimentation and data acquisition.
+    - Data production level: compiling genomic, structural, and functional databases.
+    - Analysis level: dimensionality reduction and pattern-searching algorithms.
+    - Modeling level: deep learning.
+- New radical change in the way we do science, where new directions are launched by new tools rather than by new concepts.
+- E.g. Many leading scientists and funding agencies now share the view that “progress in science depends on new techniques, new discoveries and new ideas, probably in that order.”
+- Conceptual guidance is required to make the best use of technological advances.
+- “Technology is a useful servant but a dangerous master.”
+- Big-data isn’t knowledge.
+- Four levels of information
+    1. Data
+    2. Information
+    3. Knowledge
+    4. Wisdom/Understanding
+- The major difference between brain science and particle physics is that theorists in particle physics are involved before, and not after, the hypothesis-driven data are collected.
+- The best-known roadmap for dealing with brain complexity is Marr’s three levels.
+- Marr was convinced that a purely reductionist strategy was “genuinely dangerous”.
+- Trying to understand the emergence of cognition from neuronal responses “is like trying to understand a bird’s flight by studying only feathers.”
+- The critical point is that causal-mechanistic explanations are qualitatively different from understanding how a combination of component modules produces emergent behavior.
+- Review of multiple realizability.
+![Figure 1](figure1-5.png)
+- The search for a unified theory remains at a rudimentary stage for the brain sciences.
+- In the brain sciences, however, building massive database architecture without theoretical guidance may turn into a waste of time and money.
+
+**What constitutes the prefrontal cortex?**
+
+- Neuroscience started in the 1960s.
+- One of its central aims is to describe how the nervous system enables and controls behavior.
+- Paper reviews the arguments for and against using rodents as a prefrontal cortex model.
+- The fundamental function of the prefrontal cortex could thus be to represent and produce new forms of goal-directed actions—actions that can be, for example, mental and internal, emotional or motor-related.
+- Skimmed most of the paper due to disinterest.
+
+**Space and time in the brain**
+
+- Summarizes current neuroscience views on space and time, discusses whether the brain perceives or makes distance and duration, analyzes how assumed representations of distance and duration relate to each other, and considers the option that space and time are mental constructs.
+- Representation of space in the brain
+    - Review of hemispatial neglect condition.
+    - Review of place and grid cells in the hippocampus and entorhinal.
+    - Review of path integration.
+- Episodic memory: Mental travel in space and time
+    - Navigation and memory are deeply connected.
+    - The implication that most cortical networks have a dual use: environment-dependent and/or internally organized.
+    - E.g. Rats running in a real maze and on a treadmill both active the same place cells, making it difficult to distinguish the sequences.
+    - Findings indicate that neuronal mechanisms associated with navigation and memory are similar: both establish order relationships. However, memory mechanisms are no longer linked to the outer world.
+    - The distance-duration relativity suggests that space and time correspond to the same brain computations.
+    - In the lab, we often find reliable correlations between neuronal activity in various brain regions and succession of events.
+    - We don’t directly sense time.
+
+**What is consciousness, and could machines have it?**
+
+- The word “consciousness” conflates two different types of information-processing computations in the brain.
+    - The selection of information for global availability (C1).
+    - The self-monitoring of those computations (C2).
+- C1 is synonymous with “having the information in mind” and having that information available for further processing.
+- C2 refers to the reflexive, self-referential relationship we have where our own cognitive system is able to monitor its own processing and obtain information about itself.
+- E.g. Body position, whether they know or perceive something, or whether they just made an error.
+- Another term to describe C2 is introspection or meta-cognition; the ability to conceive and make use of internal representations of one’s own knowledge and abilities.
+- Paper proposes that C1 and C2 are not related, but this doesn’t mean they don’t share physical substrates.
+- Argument is supported by empirical and conceptual evidence that the two may come apart because there can be C1 without C2 and C2 without C1.
+- E.g. When reportable processing isn’t followed with accurate metacognition and when a self-monitoring operation unfolds without being consciously reportable.
+- Many computations don’t involve C1 nor C2 called the unconscious or C0 or short.
+- Cognitive neuroscience confirms that complex computations such as face/speech recognition, chess playing, and meaning extraction can all occur unconsciously in the human brain, under conditions that yield neither global reportability nor self-monitoring.
+- Unconscious processing (C0): Where most of our intelligence lies.
+    - “We can’t be conscious of what we’re not conscious of.”
+    - We’re blind to our unconscious processes so we tend to underestimate them.
+    - E.g. Priming and subliminal stimuli.
+    - The human brain also unconsciously processes view-invariance and meaning extraction.
+- C1: Global availability of relevant information
+    - The organization of the brain into computationally specialized subsystems is efficient, but also raises the problem of how to integrate these subsystems.
+    - Integrating all of the available evidence to converge toward a single decision is a computational requirement that must be faced by any animal or AI system.
+    - E.g. Thirsty elephants manage to determine the location of the nearest water hole and move straight to it. Such decision-making requires
+        - Efficiently pooling all available sources of information.
+        - Considering the available options and selecting the best one.
+        - Sticking to this choice over time.
+        - Coordinating all internal and external processes toward the achievement of that goal.
+    - Consciousness as access to an internal global workspace.
+    - We call “conscious” the representation that wins the competition for access to this mental arena and it gets selected for global sharing and decision-making.
+    - Consciousness is therefore manifested by the temporary dominance of a thought or train of thoughts over mental processes, so that it can guide a broad variety of behaviors.
+    - The difference between attention and C1 is that attention has some non-conscious mechanisms such as
+        - Top-down attention can be oriented toward a stimuli, amplifying its processing, and yet fail to bring it to consciousness.
+        - Bottom-up attention attention can be attracted by a flash, even if this stimulus remains unconscious.
+    - What we call attention is a hierarchical system of sieves that operate unconsciously.
+    - Evidence for all-or-none-selection in a capacity-limited system.
+    - The brain has a conscious bottleneck and can only consciously access a single item at a time.
+    - The serial operation of consciousness is attested by phenomena such as the attentional blink and the psychological refractory period (when conscious access to a first item prevents or delays the perception of a second competing item).
+    - Evidence indicates that the conscious bottleneck is implemented by a network of neurons that is distributed through the cortex, but with a stronger emphasis on high-level associative areas.
+    - Ignition of this network only occurs for the conscious percept.
+    - Nonconscious stimuli may reach into deep networks but are small and short-lived, while conscious stimuli are more stable.
+    - Such meta-stability seems to be necessary for the nervous system to integrate information from a variety of modules and to broadcast that information.
+    - C1 consciousness is an elementary property that’s present in infants and animals.
+    - The prefrontal cortex appears to act as a central information sharing device and serial bottleneck in both humans and nonhuman primates.
+- C2: Self-monitoring
+    - While C1 reflects the capacity to access external information, C2 is characterized by the ability to reflexively represent one’s self.
+    - When making a decision, humans feel more or less confidence about their choice.
+    - Confidence can be defined as a sense of the probability that a decision or computation is correct.
+    - Almost anytime the brain perceives or decides, it also estimates its degree of confidence.
+    - Confidence also applies to incoming information and we can judge it against our past knowledge.
+    - AI currently lacks meta-knowledge of the reliability and limits of what has been learned.
+    - Error detection provides a clear example of self-monitoring where we know we are wrong before we even receive feedback.
+    - How can the brain make a mistake and detect it?
+    - Two possibilities
+        - The accumulation of sensory evidence continues after a decision is made and an error is inferred whenever this further evidence points in the opposite direction.
+        - Two parallel circuits operation on the same sensory data and signal an error whenever their conclusions diverge. This is more compatible with our remarkable speed of error detection.
+    - Human don’t just know things about the world, they also know that they know or that they don’t know.
+    - Meta-memory: humans can report feelings of knowing, confidence, and doubts on their memories.
+    - Meta-memory is thought to involve a second-order system that monitors internal signals to regulate behavior.
+    - It’s associated with prefrontal structures whose pharmacological inactivation leads to metacognitive impairment while sparing memory performance itself.
+    - Meta-memory is crucial to learning as it allows learners to develop strategies to improve memory encoding and retrieval.
+    - The human brain must also distinguish between self-generated versus externally-driven representations.
+    - E.g. Perceptions versus imaginations and memories.
+    - Infants also show evidence of C2 as they can communicate their own uncertainty to other agents.
+- Dissociations between C1 and C2
+    - C1 and C2 are largely orthogonal (double dissociation) and complementary dimensions of consciousness.
+    - Self-monitoring can exist for unreported stimuli (C2 without C1).
+    - E.g. Automatic typing. Subjects slow down after a typing mistake even when they fail to consciously notice the error.
+    - Consciously reportable contents sometimes fail to be accompanied with an adequate sense of confidence (C1 without C2).
+    - E.g. When retrieving a memory, sometimes it comes without any accurate evaluation of its confidence, leading to false memories.
+    - C1 and C2 can also work together but this requires a single common currency for confidence across different modules.
+- Endowing machines with C1 and C2
+    - Endowing machines with global information availability (C1) would allow different modules to share information and collaborate to solve problems.
+    - E.g. Letting the rest of the car know that it’s low on gas could mean reducing gas consumption and speed.
+    - Old “black-board” systems used to try to model this aspect of cognition.
+    - To make optimal use of global information, a machine should also possess a database of its own capacities and limits (C2) such as a self-monitoring system.
+    - An important element of C2 that’s received little attention is reality monitoring.
+- Paper argues that a machine endowed with C1 and C2 would behave as though it were conscious.
+- E.g. It would know that it’s seeing something, would express confidence in it, would report it to others, could suffer hallucinations when its monitoring mechanisms break down, and may even experience the same perceptual illusions that we experience.
+- Some readers may be unsatisfied in that the paper may “over-intellectualize” consciousness and leave aside the experiential component of consciousness.
+- Does subjective experience escape a computational definition?
+- Empirically, in humans the loss of both C1 and C2 covaries with a loss of subjective experience.
+- E.g. Damage to the primary visual cortex may lead to a condition called “blindsight” where patients report being blind in the affected visual field. Patients can localize visual stimuli in their blind field but can’t report them (C1), nor can they assess their likelihood of success (C2) as they believe they are  merely “guessing.”
+
+## [The unsolved problems of neuroscience](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4574630/)
+
+- Problems that are solved, or soon will be
+    - How do single neurons compute?
+    - What is the connectome of a small nervous system, like that of C. elegans (300 neurons)?
+    - How can we image a live brain of 100,000 neurons at cellular and millisecond resolution?
+    - How does sensory transduction work?
+- Problems that we should be able to solve in the next 50 years
+    - How do circuits of neurons compute?
+    - What is the complete connectome of the mouse brain (70,000,000 neurons)?
+    - How can we image a live mouse brain at cellular and millisecond resolution?
+    - What causes psychiatric and neurological illness?
+    - How do learning and memory work?
+    - Why do we sleep and dream?
+    - How do we make decisions?
+    - How does the brain represent abstract ideas?
+- Problems that we should be able to solve, but who knows when
+    - How does the mouse brain compute?
+    - What is the complete connectome of the human brain (80,000,000,000 neurons)?
+    - How can we image a live human brain at cellular and millisecond resolution?
+    - How could we cure psychiatric and neurological diseases?
+    - How could we make everybody’s brain function best?
+- Problems we may never solve
+    - How does the human brain compute?
+    - How can cognition be so flexible and generative?
+    - How and why does conscious experience arise?
+- Meta-questions
+    - What counts as an explanation of how the brain works? (and which disciplines would be needed to provide it?)
+    - How could we build a brain? (how do evolution and development do it?)
+    - What are the different ways of understanding the brain? (what is function, algorithm, implementation?)
