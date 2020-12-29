@@ -15,7 +15,6 @@ I plan to read the following textbooks and books. This list will be updated as m
 
 - _Spikes - Exploring the Neural Code
 - _Vision Science - Photons to Phenomenology
-- Principles of Neural Information Theory
 - Biophysics of Computation - Information Processing in Single Neurons
 - Vision - A Computational Investigation into the Human Representation and Processing of Visual Information
 - Principles of Neural Science (5th Ed.)
@@ -24,6 +23,10 @@ I plan to read the following textbooks and books. This list will be updated as m
 - The Neuroscience of Intelligence
 - *Theoretical Neuroscience - Computational and Mathematical Modeling of Neural Systems
 - *After Phrenology - Neural Reuse and the Interactive Brain
+- Networks of the Brain
+- 23 Problems in Systems Neuroscience
+- Brain Computation as Hierarchical Abstraction
+- *Brain Architecture - Understanding the Basic Plan
 
 ### Neuromorphic Computing
 
@@ -37,13 +40,14 @@ I plan to read the following textbooks and books. This list will be updated as m
 - Parallel Distributed Processing - Foundations (Vol. 1)
 - Parallel Distributed Processing - Psychological and Biological Models (Vol. 2)
 - The Handbook Of Brain Theory And Neural Networks (2nd Ed.)
-- *An Introduction to Information Theory - Symbols, Signals and Noise
 
 ### Psychology
 
 - Biopsychology (10th Ed.)
 - Cognition (8th Ed.)
 - *Psychology Applied to Modern Life (10th Ed.)
+- Handbook of Collective Intelligence
+- The Cambridge Handbook of Expertise and Expert Performance
 
 ## Books
 
@@ -63,12 +67,6 @@ I plan to read the following textbooks and books. This list will be updated as m
 - The Voices Within: The History and Science of How We Talk to Ourselves
 - Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness
 - The Ancient Origins of Consciousness: How the Brain Created Experience
-
-### Artificial Intelligence
-
-- _AI Superpowers: China, Silicon Valley, and the New World Order
-- _Architects of Intelligence: The Truth About AI From the People Building It
-- _The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World
 
 ### Other
 
