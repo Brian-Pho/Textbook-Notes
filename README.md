@@ -15,7 +15,6 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 
 - [ ] Clean up notes
 - [ ] Clean up grammar and spelling
-- [ ] Add a review section to all notes
 - [ ] Fix scrollbar shifting content
 - [ ] Fix iPad view
 

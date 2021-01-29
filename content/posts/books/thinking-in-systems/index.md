@@ -9,23 +9,21 @@ excerpt: "Insights on how to think about and analyze systems."
 
 ## Introduction: The Systems Lens
 
-- We start with an example using a toy spring, a Slinky.
-- If we let a Slinky, suspended by a hand, drop, then it bounces up and down.
-- What made the Slinky bounce? The hand.
-- If we let a box drop, then it falls.
-- What made the Slinky bounce?
-- The answer lies within the Slinky itself.
+- We start with a toy Slinky; a coiled spring that bounces up and down if one end is held.
+- If we let the Slinky drop with one hand holding one end, then the other end bounces up and down.
+- So what made the Slinky bounce? People usually answer the hand holding the Slinky.
+- However, the true answer lies within the Slinky itself.
 - The answer isn’t that the hand made the Slinky bounce, the hand only suppresses/releases some behavior that’s latent within the structure of the spring.
-- This is the central insight of systems theory. The insight that the behavior of a system is the result of some properties of the system, not the result of some outside event.
+- This is the central insight of systems theory. The insight that the behavior of a system is the result of some properties of the system, and not the result of some outside event/influence.
 - *System*: a set of things that’s interconnected in such a way that they produce their own pattern of behavior over time.
 - Systems, to a large extend, cause their own behaviors.
 - An outside event may unleash that behavior, but the same outside event applied to a different system is likely to create a different result.
 - E.g. Political leaders don’t cause recessions, they’re inherent in the structure of a market economy. Competitors don’t cause a company to lose market share, the losing company creates it losses through its own business policies.
 - Some problems can be solved by focusing on an external agent.
-- E.g. Preventing smallpox, increasing food production.
+- E.g. Preventing smallpox or increasing food production.
 - However, some problems are intrinsically systems problems that can’t be solved by blaming an external agent.
 - E.g. Poverty, environmental degradation, war.
-- These are undesirable behaviors characteristic of the system structures that produce them.
+- These are undesirable behaviors that are characteristic of the system structures that produce them.
 - The only way we can solve these problems is to stop casting blame and to see the system as the source of its own problems, and to find the courage to restructure it.
 - System thinking allows us to
     - Hone our abilities to understand parts.
@@ -42,12 +40,12 @@ excerpt: "Insights on how to think about and analyze systems."
     - Elements
     - Interconnections
     - Function/purpose
-- E.g. The elements of the digestive system include teeth, enzymes, and stomach. They’re interrelated through the physical flow of food and regulating chemical signals. It’s function is to break down food into its basic nutrients and to transfer those nutrients into the bloodstream.
-- Systems can be embedded in systems, which are embedded in yet other systems.
+- E.g. The elements of the digestive system include teeth, enzymes, and stomach. They’re interrelated through the physical flow of food and regulating chemical signals. And it’s function is to break down food into its basic nutrients and to transfer those nutrients into the bloodstream.
+- Systems can be embedded in systems, which can be embedded in yet other systems.
 - A group of elements without connections or a purpose isn’t a system.
-- E.g. Sand on a road.
+- E.g. Sand at the beach or a group of wood logs.
 - Another property of systems is that you can’t remove an element of it without affecting its purpose.
-- E.g. Removing sand from the road doesn’t change anything, but removing your stomach affects your ability to break down food.
+- E.g. Removing sand from the beach doesn’t change anything, but removing your stomach affects your ability to break down food.
 - A system is more than the sum of its parts.
 - Systems can exhibit
     - Adaptation
@@ -60,9 +58,9 @@ excerpt: "Insights on how to think about and analyze systems."
 - It’s easier to learn about a system’s elements than about its interconnections.
 - Interconnections can take two forms
     - Physical
-    - E.g. Water in a tree trunk.
+        - E.g. Water in a tree trunk.
     - Information
-    - E.g. Emails about university admission status.
+        - E.g. Emails about university admission status.
 - If information interconnections are difficult to see, then the function or purpose of a system is even more difficult.
 - The best way to deduce the system’s purpose is to watch for a while to see how the system behaves.
 - Purposes are deduced from behavior, not from stated goals or intentions.
@@ -112,7 +110,7 @@ excerpt: "Insights on how to think about and analyze systems."
 
 ### Balancing Loops
 
-- The first type of feedback loops is the balancing loop.
+- The first type of feedback loop is the balancing loop (also known as a negative feedback loop).
 - *Balancing loop*: equilibrating or goal-seeking structures in systems that are both sources of stability and sources of resistance to change.
 - E.g. The temperature of a coffee cup, whether hot or cold, will seek to balance itself with the temperature of the room.
 ![Figure 10](figure10.png)
@@ -124,9 +122,9 @@ excerpt: "Insights on how to think about and analyze systems."
 
 ### Reinforcing Loop
 
-- The second type of feedback loops is the reinforcing loop.
+- The second type of feedback loops is the reinforcing loop (also known as a positive feedback loop).
 - *Reinforcing loop*: a feedback loop that enhances whatever direction of change is imposed on it.
-- E.g. The more prices go up, the more money people will need to make. And the more money people make, the more money companies need to pay people. And to get more money, companies make prices go up.
+- E.g. The more prices go up, the more money people will need to make. And the more money people make, the more money companies need to pay people. And for a company to get more money, companies make prices go up.
 - E.g. Compound interest.
 - Reinforcing loops amplify and snowball, causing a vicious or virtuous cycle that can cause healthy growth or runaway destruction.
 ![Figure 12](figure12.png)
@@ -146,11 +144,12 @@ excerpt: "Insights on how to think about and analyze systems."
 ### One-Stock Systems
 
 - What happens to a system if there are two feedback loops, each trying to drag a stock toward two different goals?
-- E.g. Thermostat trying to drag the room temperature (stock) to match the desired temperature.
+- E.g. A thermostat trying to drag the room temperature (stock) to match the desired temperature but the environment trying to drag the room temperature to match the outside temperature.
 ![Figure 15](figure15.png)
 ![Figure 18](figure18.png)
 - It’s similar to trying to fill a bucket with water, except that the bucket has a hole in the bottom.
-- To make things worse, water leaking out of the hole is governed by a feedback loop. The more water in the bucket, the more water pressure at the hole increases, so the outflow increases.
+- But to make things worse, water leaking out of the hole is governed by a feedback loop.
+- E.g. The more water in the bucket, the more water pressure at the hole, so the more the outflow increases.
 - An important general principle of systems thinking is that information delivered by a feedback loop can only affect future behavior.
 - It can’t deliver a signal fast enough to correct the behavior that drove the current feedback.
 - This is important because it means that there will always be a delay in responding.
@@ -160,7 +159,7 @@ excerpt: "Insights on how to think about and analyze systems."
 - What if the system has one reinforcing loop and one balancing loop? This type of system describes every living population and every economy.
 ![Figure 21](figure21.png)
 - These systems exhibit shifting dominance of feedback loops.
-- Dominance is an important concept in systems thinking. When one loops dominates another, it has a stronger impact on behavior.
+- Dominance is an important concept in systems thinking. When one loop dominates another, it has a stronger impact on behavior.
 - When no loops dominate, the system is in dynamic equilibrium.
 - Complex behaviors of systems often arise as the relative strengths of feedback loops shift, causing one loop to dominate and then another.
 ![Figure 26](figure26.png)
@@ -177,7 +176,7 @@ excerpt: "Insights on how to think about and analyze systems."
 - Both systems are controlled by a reinforcing growth loop and a balancing death loop.
 - Systems with similar feedback structures produce similar dynamic behaviors.
 - A delay in a balancing feedback loop makes a system likely to oscillate.
-- To dampen the oscillations, increase the delay.
+- To dampen the oscillations, increase the delay of the balancing loop.
 - Changing the length of a delay may make a large change in the behavior of a system.
 
 ### Two-Stock Systems
@@ -197,14 +196,14 @@ excerpt: "Insights on how to think about and analyze systems."
 ![Figure 42](figure42.png)
 ![Figure 43](figure43.png)
 ![Figure 45](figure45.png)
-- If a renewable resource is over-harvested, it comes a nonrenewable resource.
+- If a renewable resource is over-harvested, it becomes a nonrenewable resource.
 - Nonrenewable resources are stock-limited. The entire stock is available at once and can be extracted at any rate. But the faster the extraction, the shorter the lifetime of the resource.
-- Renewable resources are flow-limited. The resource can support extraction indefinitely but for only as long as the outflow rate is equal to the regeneration rate.
+- Renewable resources are flow-limited. The resource can support extraction indefinitely but for only as long as the outflow rate is equal to the inflow/regeneration rate.
 - Three possible outcomes of renewable resource systems
     1. Overshoot and adjust to a sustainable equilibrium.
     2. Overshoot beyond equilibrium followed by oscillations around it.
     3. Overshoot followed by collapse of the resource and the systems that depend on it.
-- Which outcome occurs is dependent on two things
+- Which outcome occurs depends on two things
     1. The critical threshold beyond which the resource’s ability to regenerate itself is damaged.
     2. The rapidity and effectiveness of the balancing feedback loop.
 - Neither nonrenewable nor renewable limits to growth allow a physical stock to grow forever, but the constraints they impose are different. The difference comes because of the difference between stocks and flows.
@@ -233,18 +232,18 @@ excerpt: "Insights on how to think about and analyze systems."
 - Static stability is something we can see and measure. Resilience is something that’s difficult to see and measure unless you exceed its limits.
 - Because resilience may not be obvious without a whole-system view, people often sacrifice resilience for stability or some other more immediately recognizable system property.
 - E.g. Injecting a cow with genetically engineered bovine growth hormone increases milk production without proportionately increasing the cow’s food intake. The hormone diverts some of the cow’s energy from other bodily functions to milk production but this lowers resilience. The cow is less healthy, less long-lived, and more dependent on humans.
-- E.g. Hundreds of years of forest management in Europe have replaced native ecosystems with a single species of trees. This increase wood and pulp production at the cost of a resilient ecosystem.
-- Systems need to be managed not only for productivity or stability, they also need to be managed for resilience, the ability to recover from perturbation, the ability to restore and repair themselves.
-- Loss of resilience can come as a surprise, because the system usually is more focused on playing rather than its playing space.
+- E.g. Hundreds of years of forest management in Europe have replaced native ecosystems with a single species of trees. This increased wood and pulp production at the cost of a resilient ecosystem as the single species could be wiped out by disease.
+- Systems need to be managed not only for productivity or stability, but they also need to be managed for resilience, the ability to recover from perturbation, the ability to restore and repair themselves.
+- Loss of resilience can come as a surprise, because the system usually is more focused on playing rather than on its playing space.
 
 ### Self-organization
 
 - Self-organization is such a common property that we take it for granted.
 - E.g. Creating an organism from a single cell, taking ideas of burning coal into building a city.
-- Like resilience, self-organization is often sacrificed for purposes of short-term productivity and stability.
+- Like resilience, self-organization is often sacrificed for the purposes of short-term productivity and stability.
 - Self-organization produces heterogeneity and unpredictability.
 - It requires freedom and experimentation, and a certain amount of disorder.
-- Fractals are another example of self-organization.
+- Fractals are an example of self-organization.
 ![Figure 46](figure46.png)
 - Out of simple rules of self-organization can grow enormous, complex systems.
 - Science itself is a self-organizing system, believing that all of the complexity of the world must arise from simple rules.
@@ -257,7 +256,7 @@ excerpt: "Insights on how to think about and analyze systems."
 - Hierarchies not only given a system stability and resilience, but they also reduce the amount of information that any part of the system has to keep track of.
 - In hierarchical systems, relationships within each subsystem is stronger than relationships between subsystems.
 - Low coupling between subsystems, high cohesion within subsystems.
-- E.g. People talk more to others in their department than other departments. Cells in the liver talk more to other liver cells than heart cells.
+- E.g. People talk more to others in their department than other departments. Cells in the liver talk more to other liver cells than to heart cells.
 - Hierarchical systems are partially decomposable and some subsystems can partially function on their own.
 - However, while reductionism works well to understand the parts, we must not lose sight of the whole.
 - Hierarchies evolve from the lowest level up.
@@ -266,7 +265,7 @@ excerpt: "Insights on how to think about and analyze systems."
 - Often, we forget this purpose of hierarchy.
 - E.g. A team member being more interested in personal glory than in the team winning. A cell desiring more replication and thus becoming cancer. A brain area invading another area.
 - *Suboptimization*: when a subsystem’s goals dominate at the expense of the total system’s goals.
-- The reverse is also a problem when the top of hierarchy exerts too much control.
+- The reverse is also a problem when the top of the hierarchy exerts too much control.
 - E.g. Micromanaging bosses, communism, extreme bureaucracy.
 - To be highly functional, hierarchies must balance the autonomy of subsystems and the central control of the total system.
 - Hierarchical systems evolve from the bottom up. The purpose of the upper layers of the hierarchy is to serve the purposes of the lower layers.
@@ -274,7 +273,7 @@ excerpt: "Insights on how to think about and analyze systems."
 ## Chapter 4: Why Systems Surprise Us
 
 - The acquisition of knowledge always involves the revelation of ignorance.
-- Our knowledge of the world instructs us first of all that the world is greater than our knowledge of it.
+- Our knowledge of the world instructs us that the world is greater than our knowledge of it.
 - Systems thinking reminds us of three truths
     1. Everything we think we know about the world is a model.
     2. Our models usually have a strong match with the world.
@@ -294,12 +293,12 @@ excerpt: "Insights on how to think about and analyze systems."
 - Behavior-based models are more useful than event-based models, but they still fall short by overemphasizing flows and under-emphasizing stocks.
 - Another issue with behavior-based models is that they try to find non-existent statistical links between flows.
 - Flows don’t change in response to other flows, flows change in response to stocks.
-- This is the same case in The Book of Why called mediation. Two variables may be correlated to each other because of a mediating third variable.
+- This is the same case in The Book of Why called mediation. Two variables may be correlated to each other because of a mediating third variable that changes both.
 - E.g. The relationship between how much heat a furnace outputs and the outside temperature may hold in the short-term. But the relationship doesn’t take into account the room temperature that is affected by both.
 - *Linear relationship*: an increase in input is matched with the same increase in output.
 - E.g. Putting in 10 pounds of fertilizer increases yield by 2 bushels. Putting in 20 pounds of fertilizer increases yield by 4 bushels. Putting in 30 pounds of fertilizer increase yield by 6 bushels. Increasing fertilizer by 10 pounds is always matched by an increase of 2 bushels.
 - *Nonlinear relationship*: an increase in input isn’t matched with the same increase in output.
-- E.g. Putting 100 pounds of fertilizer increase yield by 10 bushels. Putting 200 pounds of fertilizer doesn’t increase yield. Putting 300 pounds of fertilizer decreases yield. Add too much of a good thing has damaged the soil.
+- E.g. Putting 100 pounds of fertilizer increase yield by 10 bushels. Putting 200 pounds of fertilizer doesn’t increase yield. Putting 300 pounds of fertilizer decreases yield. Adding too much of a good thing has damaged the soil.
 - The world is full of nonlinearities.
 - Nonlinearities are important not only because they confound our expectations, but also because they change the relative strengths of feedback loops.
 - The clouds in systems diagrams are a prime source of system surprises.
@@ -434,7 +433,7 @@ excerpt: "Insights on how to think about and analyze systems."
 ### Rule Beating
 
 - *Rule beating*: evasive action to get around the intent of a system’s rules.
-- E.g. Organizations spending pointless money at the end of the year to use their entire budget.
+- E.g. Organizations spending pointless money at the end of the year to use their entire yearly budget.
 - Rule beating produces the appearance of following the rules but doesn’t follow the intention behind the rule.
 - One solution is to use the feedback from rule beating to revise, improve, rescind, or better explain the rules.
 - This is the same problem encountered by AI ethic researchers. Sometimes what we say isn’t what we want.

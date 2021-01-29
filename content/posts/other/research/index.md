@@ -45,6 +45,7 @@ A list of resources and people in artificial intelligence and neuroscience resea
 - [AG](http://agi-conf.org/)
 - [A2IC](https://premc.org/conferences/a2ic-artificial-intelligence/)
 - [CogX](https://cogx.co/)
+- [Telluride](https://sites.google.com/view/telluride2020/)
 
 ### Organizations
 

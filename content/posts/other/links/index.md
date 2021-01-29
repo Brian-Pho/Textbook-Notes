@@ -118,3 +118,9 @@ A list of useful links on artificial intelligence, neuroscience, and on becoming
 - [Warren Buffett’s 5-Step Process for Prioritizing True Success (and Why Most People Never Do It)](https://liveyourlegend.net/warren-buffetts-5-step-process-for-prioritizing-true-success-and-why-most-people-never-do-it/)
 - [The Making of an Expert](https://hbr.org/2007/07/the-making-of-an-expert)
 - [7 Habits of Highly Effective People Summary](https://blog.hubspot.com/sales/habits-of-highly-effective-people-summary)
+- [How to be a genius](https://aeon.co/essays/what-can-we-learn-from-the-secret-habits-of-genius)
+
+### Academic Research
+
+- [Research Debt](https://distill.pub/2017/research-debt/)
+- [Academic precarity and the single PI lab model](http://romainbrette.fr/academic-precarity-and-the-single-pi-lab-model/)
