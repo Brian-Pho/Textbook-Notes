@@ -627,7 +627,7 @@ model.add(layers.Dense(1, activation='sigmoid'))
     3. Train your custom network.
     4. Unfreeze some layers in the base network.
     5. Jointly train both the unfrozen layer and your custom network.
-- Visualizing what convnet learn
+- Three ways of visualizing what a convnet learn
     - *Intermediate activations*: for understanding how convnet layers transform their input.
     - *Convnet filters*: for understanding what visual patterns/concepts each filter is receptive to.
     - *Heatmaps of class activation*: for understanding which parts of an image lead to the activation of that neuron.
@@ -647,12 +647,15 @@ activations = activation_model.predict(img_tensor)
     - The first layer acts like an edge detector.
     - The higher you go, the more the abstract the activations become.
     - The higher you go, the more sparse the activations hence why some of the filters are blank. This means the pattern encoded by the filter isn’t found in the input image.
+![Figure 5.25](figure5-25.png)
+- This channels appears to encode a diagonal edge detector.
 - Gradient ascent in input space: applying gradient descent to the input of a convnet to maximize the response of a specific filter.
 - Implementing gradient ascent in the input space
     - Build a loss function that maximizes the value of a given filter in a given layer.
     - Use SGD to adjust the values of the input to maximize the activation value.
 - Similar to the activations, the filters get more abstract the deeper into the network we go.
 - *Class activation heatmap (CAM)*: a 2D grid of scores associated with a specific output class, computed for every location in any input image, indicating how important each location is with respect to the class under consideration.
+![Figure 5.36](figure5-36.png)
 - You’re weighting a spatial map of “how intensely the input image activates different channels” by “how important each channel is with regard to the class”, resulting in a spatial map of “how intensely the input image activates the class.”
 
 **Summary**

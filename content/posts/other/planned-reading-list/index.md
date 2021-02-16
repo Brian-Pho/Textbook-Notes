@@ -26,7 +26,6 @@ I plan to read the following textbooks and books. This list will be updated as m
 - Networks of the Brain
 - 23 Problems in Systems Neuroscience
 - Brain Computation as Hierarchical Abstraction
-- *Brain Architecture - Understanding the Basic Plan
 
 ### Neuromorphic Computing
 

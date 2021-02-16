@@ -9,6 +9,11 @@ book_authors: "John R. Pierce"
 excerpt: "An older introduction to information theory."
 ---
 
+<blockquote class="blockquote">
+  <p>Information can only be acquired in two ways: by choice or by chance.</p>
+  <p class="blockquote-footer">Joey Lawsin</p>
+</blockquote>
+
 ## Chapter 1: The World and Theories
 
 - Information theory is a mathematical theory.

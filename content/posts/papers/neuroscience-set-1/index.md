@@ -289,7 +289,7 @@ excerpt: "My notes on 20 papers exploring the brain."
 - Certain functions are specialized in few animals which makes studying the function difficult if we ignore them as model animals.
 - E.g. Vocal mechanisms such as language and songs.
 - Another benefit of studying a variety of model organisms is that they may have specialized functions that we would like to have or that we can compare ourselves to.
-- E.g. Sound localization. Studying the barn owl revealed that the neural computation for sound localization followed almost exactly the Jeffress model, which is based on coincidence detection. Yet in rodents, the problem is solved in a different way.
+- E.g. Sound localization. Studying the barn owl has revealed that the neural computation for sound localization followed almost exactly the Jeffress model, which is based on coincidence detection of excitatory inputs arriving from both ears. Yet in rodents, the problem is solved in a different way, which is based on inhibitory inputs that adjust the temporal sensitivity of coincidence-detection neurons.
 - The comparative approach serves as an extremely powerful tool to assess the validity of universal principles.
 - What should a scientist looking 30 years into the future do?
 - One can, and should, think carefully and select the model system for the scientific question, rather than feel compelled to select the scientific question for the model system.
@@ -346,13 +346,13 @@ excerpt: "My notes on 20 papers exploring the brain."
     - Review of place and grid cells in the hippocampus and entorhinal.
     - Review of path integration.
 - Episodic memory: Mental travel in space and time
-    - Navigation and memory are deeply connected.
-    - The implication that most cortical networks have a dual use: environment-dependent and/or internally organized.
-    - E.g. Rats running in a real maze and on a treadmill both activate the same place cells, making it difficult to distinguish the sequences.
-    - Findings indicate that neuronal mechanisms associated with navigation and memory are similar: both establish order relationships. However, memory mechanisms are no longer linked to the outer world.
-    - The distance-duration relativity suggests that space and time correspond to the same brain computations.
-    - In the lab, we often find reliable correlations between neuronal activity in various brain regions and succession of events.
-    - We don’t directly sense time.
+- Navigation and memory are deeply connected.
+- The implication that most cortical networks have a dual use: environment-dependent and/or internally organized.
+- E.g. Rats running in a real maze and on a treadmill both activate the same place cells, making it difficult to distinguish the sequences.
+- Findings indicate that neuronal mechanisms associated with navigation and memory are similar: both establish order relationships. However, memory mechanisms are no longer linked to the outer world.
+- The distance-duration relativity suggests that space and time correspond to the same brain computations.
+- In the lab, we often find reliable correlations between neuronal activity in various brain regions and succession of events.
+- We don’t directly sense time.
 
 **What is consciousness, and could machines have it?**
 
