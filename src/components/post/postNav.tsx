@@ -30,14 +30,14 @@ const PostNav = ({ previous, next }: PostNavProps) => {
     <ButtonGroup className="w-100 pt-2 pb-2">
       {previous ? (
         <PostNavButton
-          link={previous.fields.slug}
+          link={withPrefix(previous.fields.slug)}
           smallText="Previous"
           postTitle={previous.frontmatter.title}
         />
       ) : null}
       {next ? (
         <PostNavButton
-          link={next.fields.slug}
+          link={withPrefix(next.fields.slug)}
           smallText="Next"
           postTitle={next.frontmatter.title}
         />
