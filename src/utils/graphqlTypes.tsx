@@ -30,6 +30,7 @@ export interface AllMarkdownType {
 
 export interface PostType {
   html: string
+  tableOfContents: string
   timeToRead: number
   fields: {
     slug: string

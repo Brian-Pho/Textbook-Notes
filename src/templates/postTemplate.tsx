@@ -17,7 +17,7 @@ const PostTemplate = ({ data, pageContext }: PostTemplateProps) => {
   return (
     <Layout activePage="Notes" article={true}>
       <PostContent post={post} previous={previous} next={next} />
-      <PostToc />
+      {post.tableOfContents ? <PostToc /> : null}
     </Layout>
   )
 }
@@ -28,6 +28,7 @@ export const pageQuery = graphql`
   query PostBySlug($slug: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
+      tableOfContents
       timeToRead
       frontmatter {
         title
