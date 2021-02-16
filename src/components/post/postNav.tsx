@@ -1,7 +1,8 @@
 import React from "react"
+import { withPrefix } from "gatsby"
 import Button from "react-bootstrap/Button"
 import ButtonGroup from "react-bootstrap/ButtonGroup"
-import { PostNavLink } from "./postContent"
+import { PostNavLinkType } from "utils/graphqlTypes"
 
 interface PostNavButtonProps {
   link: string
@@ -10,8 +11,8 @@ interface PostNavButtonProps {
 }
 
 interface PostNavProps {
-  previous?: PostNavLink
-  next?: PostNavLink
+  previous?: PostNavLinkType
+  next?: PostNavLinkType
 }
 
 const PostNavButton = ({ link, smallText, postTitle }: PostNavButtonProps) => {

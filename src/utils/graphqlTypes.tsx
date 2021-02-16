@@ -42,3 +42,12 @@ export interface PostType {
     excerpt: string
   }
 }
+
+export interface PostNavLinkType {
+  fields: {
+    slug: string
+  }
+  frontmatter: {
+    title: string
+  }
+}

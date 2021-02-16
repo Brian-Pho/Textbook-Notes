@@ -5,28 +5,12 @@ import PostNav from "./postNav"
 import PostMeta from "./postMeta"
 import "./postContent.scss"
 import { tocContentClassName } from "./postToc"
-
-export interface PostNavLink {
-  fields: {
-    slug: string
-  }
-  frontmatter: {
-    title: string
-  }
-}
+import { PostType, PostNavLinkType } from "utils/graphqlTypes"
 
 interface PostContentProps {
-  post: {
-    html: string
-    timeToRead: number
-    frontmatter: {
-      title: string
-      date: string
-      categories: string[]
-    }
-  }
-  previous?: PostNavLink
-  next?: PostNavLink
+  post: PostType
+  previous?: PostNavLinkType
+  next?: PostNavLinkType
 }
 
 const PostContent = ({ post, previous, next }: PostContentProps) => {
