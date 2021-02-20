@@ -32,7 +32,8 @@ excerpt: "A rational approach to irrational decisions."
 *Why We Often Pay Too Much When We Pay Nothing*
 
 - There are many times when getting "Free!" items makes perfect sense. The critical issue arises when "Free!" becomes a struggle between a free item and another item.
-- Choosing between a free $10 gift card or pay $7 for a $20 gift card. The $20 gift card is the optimal choice because you end up with more.
+- Choosing between a free \$10 gift card or paying \$7 for a \$20 gift card. The \$20 gift card is the optimal choice because you end up with more.
+- However, experiments consistently show that people pick the free gift card more.
 - When choosing between two products, we often overreact to the free one.
 - The concept of zero also applies to time. Time spent on one activity is time taken away from another.
 - The difference between two cents and one cent is small, but the difference between one cent and zero cents is big.

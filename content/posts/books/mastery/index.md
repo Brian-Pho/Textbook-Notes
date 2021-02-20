@@ -7,7 +7,7 @@ categories:
 excerpt: "The steps on the stairway to mastery."
 ---
 
-I didn't write notes when I read Mastery so I've copied the author's own notes here.
+I didn't write notes when I read Mastery so I've copied the author's own notes here. [Source](https://medium.com/@robertgreene/the-path-to-mastery-32d3d4d495a4).
 
 ## The Path to Mastery
 
@@ -125,5 +125,3 @@ Then, let time take its course. Creative energies will emerge, as will high-leve
 There are no shortcuts; the path can take many years and involve numerous setbacks and detours. But in the end the payoff is immense.
 
 You are no longer replaceable. You are one of a kind, a Master of your field and of your destiny.
-
-Source: <https://medium.com/@robertgreene/the-path-to-mastery-32d3d4d495a4>

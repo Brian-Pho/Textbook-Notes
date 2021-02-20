@@ -15,9 +15,9 @@ excerpt: "Reaching expertise and mastery."
 - The golden standard of practice is deliberate practice.
 - One of the key differences among different types of practice is the extent to which they harness the adaptability of the human brain and body.
 - Three defining features of expertise
-    - It must lead to performance that's consistently superior to that of others.
-    - It must produce concrete results.
-    - It must be replicable and measurable.
+    1. It must lead to performance that's consistently superior to that of others.
+    2. It must produce concrete results.
+    3. It must be replicable and measurable.
 
 ## Chapter 1: The Power of Purposeful Practice
 
@@ -277,7 +277,7 @@ excerpt: "Reaching expertise and mastery."
 ## Chapter 9: Where Do We Go from Here?
 
 - Experiment on deliberate practice.
-- The non control group had to
+- The non-control group had to
     - Before class they had to read assigned sections ann then complete a short quiz about the reading.
     - They had discussions.
     - Think of Make It Stick

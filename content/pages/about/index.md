@@ -14,28 +14,28 @@ Hello and welcome to the Cradle. On this website, you'll find my notes from
 
 ### Who are you?
 
-You can visit my [personal website](https://brianpho.com/) to learn more about me but here's a summary. My goal is to help humanity build artificial general intelligence (AGI). I plan to achieve this goal by becoming a neuroscientist and by studying the brain through textbooks, books, and papers. I just finished my bachelors in software engineering and I plan to pursue a masters in neuroscience. For me, it isn't enough to just understand the brain, but we must also build one. By reverse engineering the brain, I believe we can create an intelligence greater than ourselves; to solve intelligence and to use it to solve everything else.
+You can visit my [personal website](https://brianpho.com/) to learn more about me but here's a summary. My goal is to help humanity build artificial general intelligence (AGI). I plan to achieve this goal by becoming a neuroscientist and by studying the brain through textbooks, books, and papers. I just finished my bachelors in software engineering and I'm currently pursuing a masters in neuroscience. For me, it isn't enough to just understand the brain but to also build one. By reverse engineering the brain, I believe we can create an intelligence greater than ourselves; to solve intelligence and to use it to solve everything else.
 
 ### Why are you pursuing AGI?
 
 I'm pursuing AGI for multiple reasons.
 
-- The scientist in me does it in **search for the truth**. How does the brain work? Why are we conscious? Why are we different from everything else that's alive?
+- The scientist in me does it in **search of the truth**. How does the brain work? Why are we conscious? Why are we different from everything else that's alive?
 - The person in me does it to **help humanity**. An AGI could theoretically solve all of our problems. World hunger, immortality, space travel, the perfect government, you name it.
 - The child in me does it because it's **fun**! There's so much to explore, learn, and play with. I don't think we should ever forget the innocence within us.
 - The adult in me does it because **I can't see myself doing anything else**. Once AGI is created, it will be the best at everything. Which means that whatever I do now, will be done better by an AGI in the future.
 
 ### How do you plan on creating AGI?
 
-I plan on creating AGI by first studying the human brain. My approach is to reverse engineer the brain by extracting the core principles of how the brain processes information. Information processing requires two separate, but integrated, parts like computers: hardware and software. The hardware of the brain is the physical implementation of it as an organ. Examples of brain hardware include its inputs and outputs such as the eye, skin, spinal cord, and muscles. The software of the brain is the intangible or emergent properties of it. Examples of brain software include consciousness, visual illusions, and language. By understanding both the hardware and software of the brain, we should have enough information to create it.
+I plan on creating AGI by first studying the human brain. My approach is to reverse engineer the brain by extracting the core principles of how the brain processes information. Information processing requires two separate but integrated parts like computers: hardware and software. The hardware of the brain is the physical implementation of it as an organ. Examples of brain hardware include its inputs and outputs such as the eye, skin, spinal cord, and muscles. The software of the brain is the intangible or emergent properties of it. Examples of brain software include consciousness, visual illusions, and language. By understanding both the hardware and software of the brain, we should have enough information to create it.
 
 ### Why did you make this website?
 
-I started this website with the intention of sharing my knowledge and as an archive that I can quickly refer back to. It also makes my notes look nice and be more organized.
+I created this website with the intention of sharing my knowledge and as an archive that I can quickly refer back to. It also makes my notes look nice and be more organized.
 
 ### What's with the name "CR4-DL"?
 
-The CR4-DL (pronounced as "Cradle") is my homage to the HBO show [Westworld](https://en.wikipedia.org/wiki/Westworld_(TV_series)). It's an amazing show that touches on AI, human nature, and reality. This website reflects similar themes from the show so I named my website after it. I think it's a witty name and I'm very proud of it. [More info on the CR4-DL in Westworld.](http://westworld.wikia.com/wiki/Cradle)
+The CR4-DL (pronounced as "Cradle") is my homage to the HBO show [Westworld](https://en.wikipedia.org/wiki/Westworld_(TV_series)). It's an amazing show that touches on AI, human nature, and reality. This website reflects similar themes from the show so I named this website after it. I think it's a witty name and I'm very proud of it. [More info on the CR4-DL in Westworld.](http://westworld.wikia.com/wiki/Cradle)
 
 ### How is this website built?
 
@@ -47,7 +47,7 @@ I've created another website to handle the blogging and narrative side of my jou
 
 ### How do I contact you?
 
-You can contact me through my [main website](https://brianpho.com/HTML/contact.html) which has links to my email and social media.
+You can contact me on my [personal website](https://brianpho.com/HTML/contact.html).
 
 ## My Favorite Quotes
 

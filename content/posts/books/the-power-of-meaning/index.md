@@ -29,10 +29,10 @@ excerpt: "On how to live a meaningful life."
 - With meaning no longer imposed on us from an outside source, we have the freedom to create it for ourselves.
 - When we devote ourselves to difficult but worthwhile tasks, our lives feel more significant.
 - There are four pillars to meaning
-    - Belonging
-    - Purpose
-    - Storytelling
-    - Transcendence
+    1. Belonging
+    2. Purpose
+    3. Storytelling
+    4. Transcendence
 
 ## Chapter 2: Belonging
 
@@ -121,7 +121,6 @@ excerpt: "On how to live a meaningful life."
 - Leaving room for mystery.
 - A Dream Directory - a staff member that helps people achieve their dreams.
 - Nothing is so insufferable to man as to be completely at rest, without passions, without business, without diversion, without study.
-- DreamCon
 - How would you like to be remembered? What matters to them? What are you proud of?
 - Listening is an act of love.
 

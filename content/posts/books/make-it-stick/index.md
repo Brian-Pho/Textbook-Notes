@@ -16,13 +16,13 @@ excerpt: "Learning to learn."
     3. Learning is an acquired skill.
 - The best ways to learn
     - *Retrieval practice*: recalling facts or concepts or events from memory.
-    - E.g. Tests, quizzes, flash cards.
+        - E.g. Tests, quizzes, flash cards.
     - *Spaced practice*: spreading out your practice sessions.
-    - E.g. Studying for an hour and then taking a break versus cramming.
+        - E.g. Studying for an hour and then taking a break versus cramming.
     - *Interleaved practice*: mixing different, but related, subjects while studying.
-    - E.g. Studying computer science and computational neuroscience at the same time.
+        - E.g. Studying computer science and computational neuroscience at the same time.
     - *Attempt practice*: attempting a problem before being taught the solution.
-    - E.g. Not looking at the answers immediately.
+        - E.g. Not looking at the answers immediately.
 - One of the best habits of a learner is to regularly self-quiz themselves to recalibrate their understanding.
 - Learning is deeper and more durable when its effortful.
 - We're poor judges of when we're learning well and when we're not.
@@ -98,10 +98,10 @@ excerpt: "Learning to learn."
 - It isn't failure that's desirable, it's the dauntless effort despite the risks, the discovery of what works and what doesn't that sometimes only failure can reveal.
 - Generative learning is generating the answer rather than recalling it. Aka trial and error.
 - To be desirable, a difficulty must be something learners can overcome through increased effort.
-- Learning is at least a three step process
-    1. encoding
-    2. consolidation
-    3. retrieval
+- Learning is a three step process
+    1. Encoding
+    2. Consolidation
+    3. Retrieval
 - Learning always builds on a store of prior knowledge. We interpret and remember events by building connections to what we already know.
 - When practice conditions are varied or retrieval is interleaved with practice from other material, we increase our abilities of discrimination and induction and the versatility with which we can apply the learning in new settings.
 
@@ -129,9 +129,9 @@ excerpt: "Learning to learn."
 
 - While it's true that most all of us have a decided preference for how we like to learn new material, the premise behind learning styles is that we learn better when the mode of presentation matches the particular style in which an individual is best able to learn. That's the critical claim.
 - Three parts of intelligence
-    - analytical
-    - creative
-    - practical
+    - Analytical
+    - Creative
+    - Practical
 - Where aptitude tests and learning styles emphasizes our strengths and encourages us to focus on them, dynamic testing helps us to discover our weakness and correct them.
 - High structure builders learn new material better than low structure builders.
 - High structure builders develop the skill to identify foundational concepts and their key building blocks and to sort new information based on whether it adds to the larger structure and one's knowledge or is extraneous and can be put aside.
@@ -169,11 +169,11 @@ excerpt: "Learning to learn."
 - Space out your retrieval practice
 - Interleaved the study of different problem types
 - Other effective study strategies
-    - Elaboration - finding additional layers of meaning in new material
-    - Generation - attempting to answer a question or solve a problem before being shown the answer/solution
-    - Reflection - reflecting on learned material
-    - Calibration - aligning your judgments of what you know and don't know with objective feedback
-    - Mnemonic devices - ways to store information and find it again
+    - Elaboration: finding additional layers of meaning in new material.
+    - Generation: attempting to answer a question or solve a problem before being shown the answer/solution.
+    - Reflection: reflecting on learned material.
+    - Calibration: aligning your judgments of what you know and don't know with objective feedback.
+    - Mnemonic devices: ways to store information and find it again.
 
 ### Tips for Teachers
 

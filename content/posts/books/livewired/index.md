@@ -376,11 +376,18 @@ excerpt: "How the brain changes."
 - This is also why after learning something, it requires less conscious effort because the brain doesn't have to form new pathways, it just replays the built ones. Automating a skill means to move it to a different part of the brain.
 - However, this doesn't fix the problem as now the cortex will start to become full.
 - Synaptic changes may be the consequences of memory storage rather than the root mechanism.
-- Synapses can't be the only solution because we see large changes in brain structure after learning.
-- E.g. London taxi drivers and medical students.
+- Although changes at individual synapses have received the most attention, there are many other possible ways to store activity-dependent changes.
 - The third solution is to add new cellular material.
 - Plasticity exists throughout the brain at every level, from genes to synapses to dendrites to neurons.
 - Neuroscience focuses on the synapse because its what we can most easily measure, just like a drunk looking for his keys under the streetlight.
+- Reasons to believe that synapses aren't the only things that change
+    1. If learning only tuned the efficacies of existing synapses, we wouldn't expect large changes in structure in the brain.
+        - But we do see sizable change sin the brain such as in London taxi drivers and medical students.
+    2. If memories were simply retained in synaptic weights, we'd have no reason to expect the growth of new neurons.
+        - In fact, new neurons would scamble up the delicate synaptic pattern, thus losing memories.
+        - But we do see new neurons being formed in the hippocampus while learning a task.
+    3. Alterations to the sugars and proteins around the DNA alter patterns of gene expression.
+        - Evidence indicates that experience modified gene expression.
 - With all these possible parameters to modify, how does the brain modify anything without messing up?
 - What are the principles that keep the system in check?
 - The most important lens isn't the biological parts, it's the timescale that they operate on.
@@ -435,12 +442,12 @@ excerpt: "How the brain changes."
 - But on short timescales, brain wiring can tell us so much more.
 - Otzi didn't have a video camera to capture his world, but he didn't need to. He was the video camera.
 - Seven principles of livewiring
-    - Reflect the world. Brains match themselves to their input.
-    - Wrap around the inputs. Brains leverage whatever information streams in.
-    - Drive any machinery. Brains learn to control whatever body plan they discover themselves inside of.
-    - Retain what matters. Brains distribute their resources based on relevance.
-    - Lock down stable information. Some parts of the brain are more flexible than others, depending on the input.
-    - Compete or die. Plasticity emerges from a struggle for survival of the parts of the system.
-    - Move toward the data. The brain builds on internal model of the world, and adjusts whenever predictions are incorrect.
+    1. Reflect the world. Brains match themselves to their input.
+    2. Wrap around the inputs. Brains leverage whatever information streams in.
+    3. Drive any machinery. Brains learn to control whatever body plan they discover themselves inside of.
+    4. Retain what matters. Brains distribute their resources based on relevance.
+    5. Lock down stable information. Some parts of the brain are more flexible than others, depending on the input.
+    6. Compete or die. Plasticity emerges from a struggle for survival of the parts of the system.
+    7. Move toward the data. The brain builds on internal model of the world, and adjusts whenever predictions are incorrect.
 - Livewiring is the fundamental trick that allows for memory, flexible intelligence, and civilizations.
 - We become, in essence, a recording device for our moment in the world.

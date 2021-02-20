@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Outliers"
+title: "Outliers (Incomplete)"
 date: "2018-09-17"
 categories:
   - Books

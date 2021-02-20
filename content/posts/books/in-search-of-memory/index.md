@@ -7,6 +7,8 @@ categories:
 excerpt: "Eric Kandel's autobiography."
 ---
 
+## General Notes
+
 - New science of mind; communicating changes.
 - Cajal's four principles of neural organization
     1. The neuron. A nerve cell is a neuron, the elementary signaling unit of the nervous system.
