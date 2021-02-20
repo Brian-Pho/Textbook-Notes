@@ -823,5 +823,5 @@ excerpt: "A collection of literature reviews on consciousness."
     - The information associated with the occurrence of a conscious state is integrated information.
     - When you have a particular experience, that experience is an integrated whole as you don’t experience each component separately.
     - E.g. You don’t experience color differently from shape.
-    - The irreducibility of  the conceptual structure (integration), measured by integrated information ($$\phi$$ or “phi”) specifies the quantity or level of consciousness.
+    - The irreducibility of the conceptual structure (integration), measured by integrated information ($$\phi$$ or “phi”) specifies the quantity or level of consciousness.
 - Skimmed the rest of the chapter on ITT because I don’t believe in ITT.

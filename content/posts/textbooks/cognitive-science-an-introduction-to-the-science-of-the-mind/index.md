@@ -272,7 +272,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - People are not good in determining if conditional statements are true or not as demonstrated by the card selection task (If a card has a vowel on one side, then it has an even number on the other).
 - However, if the selection task is framed as a real world problem, then the performance increases.
 - E.g. If a person is drinking beer, then that person must be over 19 years of age.
-- This suggests that we are good at reasoning in domain-specific areas such as deontic  conditionals (conditionals that express rules, prohibitions, entitlements, and agreements).
+- This suggests that we are good at reasoning in domain-specific areas such as deontic conditionals (conditionals that express rules, prohibitions, entitlements, and agreements).
 - One theory on why we have domain-specific reasoning is that the mind has a dedicated module for the detection of cheaters. Aka a fairness or morals module.
 - How did cooperative behavior emerge?
 - The *TIT FOR TAT* heuristic strategy follows two rules
@@ -469,7 +469,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
 - The Chinese room argument is related to the Turing test; it rejects the Turing test as a measure of intelligent behavior.
 - *Symbol-grounding problem*: how do symbols become meaningful?
 - The symbol-grounding problem is a problem about how words and thoughts become meaningful to speakers and thinkers. The problem of intentionality is a problem about how words and thoughts connect up with the world.
-- E.g. of the difference, the word "cat" refers to the fluffy cute animal  because that’s how people speaking the language refer to that animal. This solves the problem of intentionality but not the symbol-grounding problem. It provides an account that the intention of "cat" refers to the animal, but it doesn’t say how that intention is formed.
+- E.g. of the difference, the word "cat" refers to the fluffy cute animal because that’s how people speaking the language refer to that animal. This solves the problem of intentionality but not the symbol-grounding problem. It provides an account that the intention of "cat" refers to the animal, but it doesn’t say how that intention is formed.
 - For this reason, the symbol-grounding problem is more fundamental than the problem of intentionality.
 - One answer is that words in a language are meaningful for us because we attach meanings to them when we learn how to use them. But this just pushes the problem back.
 - How do we learn that something is meaningful?
@@ -676,7 +676,7 @@ excerpt: "An introduction to the field of cognitive science. A good book that sh
     - Understanding what words mean
     - Understanding the rules by which words are combined into sentences
 - The basic unit of communication isn't the word, but rather the sentence.
-- The default hypothesis is that understanding a language is  fundamentally a matter of mastering rules.
+- The default hypothesis is that understanding a language is fundamentally a matter of mastering rules.
 - E.g. Mastery of the rule that governs a word’s application such as only using "cat" to refer to a four-legged animal that’s fluffy.
 - To understand language, users would need to be able to distinguish applications of the word that fit the rule from applications that do not.
 - An alternative view is that to understand language, users use words in accordance with the rule because they somehow manage to compare possible sentences with their internalized representations of the rules.

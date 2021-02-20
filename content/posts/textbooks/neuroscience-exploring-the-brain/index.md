@@ -112,7 +112,7 @@ excerpt: "An introduction to the field of neuroscience."
     - *Synaptic vesicle*: small bubbles of membrane that holds neurotransmitters.
     - The synapse has two sides, presynaptic and postsynaptic, to denote the flow of information.
         - *Presynaptic*: the side of the synapse that sends the action potential.
-        - *Postsynaptic*: the side of the synapse that receives the action potential.  
+        - *Postsynaptic*: the side of the synapse that receives the action potential.
     - The presynaptic side is generally an axon while the postsynaptic side is generally a dendrite/soma.
     - *Synaptic cleft*: the space between presynaptic and postsynaptic membranes.
     - *Synaptic transmission*: the transfer of information at the synapse.

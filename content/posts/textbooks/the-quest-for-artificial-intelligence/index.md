@@ -201,7 +201,7 @@ excerpt: "A thorough account of the history of AI. An ok book that was too detai
 - After HEURISTIC DENDRAL produced some candidate structures for a particular compound, these structures were subjected to analysis in the simulated mass spectrometer. The outputs were then compared with the actual mass spectrometer output.
 - That structure whose simulated spectrogram was closest to the actual spectrogram was likely to be the actual structure of the compound.
 - This process of "analysis by synthesis" came to be widely used in artificial intelligence, especially in computer vision.
-- We must hypothesize from our experience to date that the problem solving power exhibited in an intelligent agent's performance is primarily a consequence of the specialist's knowledge employed by the agent, and only  secondarily related to the generality and power of the inference method employed.
+- We must hypothesize from our experience to date that the problem solving power exhibited in an intelligent agent's performance is primarily a consequence of the specialist's knowledge employed by the agent, and only secondarily related to the generality and power of the inference method employed.
 - Our agents must be knowledge-rich, even if they are methods-poor.
 - Embedding the knowledge of experts in AI programs led to the development of many "expert systems".
 - It also led to increased concentration on specific and highly constrained problems and away from focusing on the general mechanisms of intelligence.
@@ -330,7 +330,7 @@ excerpt: "A thorough account of the history of AI. An ok book that was too detai
 - Nevertheless, some AI researchers favored systems consisting of collections of experimentally derived, ad hoc routines designed to solve specific problems. These people called themselves "scruffies" to distinguish themselves from the "neats" who favored programs based on theoretically based principles.
 - Because apparently the brain does what it does by massive parallel computations implemented by networks of interconnected neurons, some people began anew to explore the possibilities of neural networks.
 - During the late 1970s a group at the University of California at San Diego headed by cognitive psychologists David E. Rumelhart and James L. McClelland began a study of networks that they called "parallel distributed processing" (PDP) systems.
-- "The common theme to all these efforts has been an interest in looking at the brain as a model of a parallel computational device  different from that of a traditional serial computer."
+- "The common theme to all these efforts has been an interest in looking at the brain as a model of a parallel computational device different from that of a traditional serial computer."
 - Much of the neural network research during this period came to be called "connectionist" or "brain-style" computation, to contrast it with GOFAI.
 - "Virtually all problems in artificial intelligence, machine learning, adaptive systems, and automated learning can be recast as a search for a computer program. Genetic programming provides a way to successfully conduct the search for a computer program in the space of computer programs."
 
@@ -485,7 +485,7 @@ excerpt: "A thorough account of the history of AI. An ok book that was too detai
 - E.g. Rapid collapse of human society into a self-destructive pure hedonism once all pressures, and perhaps even reasons or opportunities, for work and striving are undermined by the presence of unchallengeable omnicompetent mechanisms.
 - Certainly man's remaining sense of his own uniqueness may be further impaired, and he may come to seem in his own eyes little more than a primitive animal, capable only of fleeting enjoyments.
 - Omohundro wants to make sure that we build "wisdom," and not just intelligence, into our technologies.
-- By that he means building in "human values, such as caring about human rights and property rights and having compassion for other entities." He thinks it "absolutely critical that we build these in at the beginning, otherwise we'll get systems that are  powerful, but which don't support our values."
+- By that he means building in "human values, such as caring about human rights and property rights and having compassion for other entities." He thinks it "absolutely critical that we build these in at the beginning, otherwise we'll get systems that are powerful, but which don't support our values."
 - Omohundro brings up valid concerns, but to put his version of wisdom into AI systems we'll first have to agree on just what we mean by "human values." That will be tough given that our different opinions about values often lead to wars.
 - In any case, we should continue to pursue many different approaches, guided by our best judgments. It's like heuristic search for a goal that we'll recognize when we achieve it.
 - Several disciplines have contributed to AI's successes.

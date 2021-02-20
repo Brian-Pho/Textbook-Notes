@@ -382,7 +382,7 @@ excerpt: "An amazing and scientific account of consciousness."
 ![Figure 8.3](figure8-3.png)
 - The structures of the reticular formation of the upper pons and mid brain are linked to the protoself and are simultaneously engaged in the processes of wakefulness, homeostatic regulation, emotion and feeling, attention, and consciousness.
 - The structures supporting CC are the cingulate gyrus, thalamic nuclei, and superior colliculi.
-- Structures whose damage doesn't affect CC are the hippocampus, the higher-order cortices  of temporal and frontal lobes, and the early sensory cortices  of vision and hearing.
+- Structures whose damage doesn't affect CC are the hippocampus, the higher-order cortices of temporal and frontal lobes, and the early sensory cortices of vision and hearing.
 - A condition known as hindsight is when a patient is cortically blind and can't consciously see but can still recognize objects when asked to point to them.
 - This suggests that the information is not available to consciousness but it does exist in the brain.
 - Provisional conclusions

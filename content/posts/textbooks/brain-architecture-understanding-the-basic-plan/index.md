@@ -6,10 +6,13 @@ categories:
 - Textbooks
 book: "brain-architecture-understanding-the-basic-plan"
 book_authors: "Larry W. Swanson"
-excerpt: "A poor introduction to the field of neuroscience."
+excerpt: "A disorganized introduction to the field of neuroscience."
 ---
 
-# Brain Architecture: Understanding the Basic Plan
+<blockquote class="blockquote">
+  <p>What we know is a drop, what we don't know is an ocean.</p>
+  <p class="blockquote-footer">Netflix Dark / Isaac Newton</p>
+</blockquote>
 
 ## Chapter 1: How the Brain Works: Structure and Function
 

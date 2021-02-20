@@ -104,7 +104,7 @@ excerpt: "An exploration of how cooking has affected humanity."
 - Women and men spend their days seeking different kinds of food, but the foods they obtain are eaten by both sexes which is unusual.
 - Other animals usually don’t share their food with others but we are an exception.
 - The human family is the result of the reciprocity of hunting and gathering as women share what they’ve gathered and men share what they’ve hunted.
-- Since women gather roots and fruits, they can guarantee that their will be food for dinner while  men go hunt for more exquisite and energy-dense foods like meat.
+- Since women gather roots and fruits, they can guarantee that their will be food for dinner while men go hunt for more exquisite and energy-dense foods like meat.
 - Another benefit of cooking is that it frees up time that would’ve been spent eating.
 - Chimpanzees spend more than six hours a day chewing while humans spend less than an hour a day chewing.
 - This reduction in chewing time is due to cooked foods being softer.
