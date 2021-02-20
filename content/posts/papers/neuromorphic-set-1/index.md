@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neuromorphic Papers"
+title: "Neuromorphic Papers Set 1"
 date: "2020-10-09"
 categories:
   - Papers

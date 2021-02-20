@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Artificial Intelligence Papers"
+title: "Artificial Intelligence Papers Set 1"
 date: "2020-10-09"
 categories:
   - Papers
