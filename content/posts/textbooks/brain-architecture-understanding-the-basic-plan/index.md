@@ -67,8 +67,8 @@ excerpt: "A disorganized introduction to the field of neuroscience."
 - The best criteria to classify a neuron is to see what connections it makes.
 - What does it innervate, and thus influence? What does it do?
 - Interneurons can be subdivided into two classes
-    - Local: axon that connects within the region or cell group that generates it.
-    - Projection: axon that connects with another region or cell group.
+    - *Local*: axon that connects within the region or cell group that generates it.
+    - *Projection*: axon that connects with another region or cell group.
 - Adding another neuron type, interneurons, adds more variety which increases the sophisticated organization of neural circuity and thus behavior.
 - Interneurons provide two additional features that are critical for nervous system function
     - Excitatory/inhibitory switching
@@ -80,15 +80,15 @@ excerpt: "A disorganized introduction to the field of neuroscience."
 
 ## Chapter 3: Centralization and Symmetry: Ganglia and Nerves
 
-- Centralization: the concentration of neurons within the body.
+- *Centralization*: the concentration of neurons within the body.
 - Reasons for centralization
     - More efficient use of biological material in the construction of neural circuits.
     - Shorter distances to accomplish topologically similar circuit connections.
     - Shorter conduction times for electrical impulses.
 - Evolution is accompanied by a change from the homogeneous to the heterogeneous, and from the simple to the complex.
 - As neural elements condense and centralize during the course of evolution, they tend to form two broad classes of structure
-    - Ganglia: collection of neuronal cell bodies.
-    - Nerves: bundles of axons.
+    - *Ganglia*: collection of neuronal cell bodies.
+    - *Nerves*: bundles of axons.
 - It’s within the ganglia and central nervous system that most synapses between neurons occur.
 - In all invertebrates except the Cnidaria, most inter and motor neurons are unipolar.
 - This is in stark contrast to vertebrates where most intern and motor neurons are multipolar.
@@ -103,7 +103,7 @@ excerpt: "A disorganized introduction to the field of neuroscience."
 - Given that our skeleton is similar to other animals, such as birds, maybe all of the great systems of the body, including the nervous system, share a fundamental architecture.
 - In the end, humans are really just a specialized vertebrate, and the organization of our nervous system is simply a reflection of how the rest of our body is specialized relative to other vertebrate classes and species.
 - Review of embryonic development and nervous system development.
-- Baer’s law: in vertebrate embryogenesis, the general develops before the specific.
+- *Baer’s law*: in vertebrate embryogenesis, the general develops before the specific.
 - Experimental fate mapping has led to a general understanding of how the major divisions of the CNS are represented in the neural plate and early neural tube.
 
 ## Chapter 5: Brain and Behavior: A Four Systems Network Model
@@ -129,8 +129,8 @@ excerpt: "A disorganized introduction to the field of neuroscience."
 
 - This chapter introduces the basic organization of the motor system and its divisions.
 - We can divide bodily functions into two main categories
-    - Somatic: deals with the external world such as the musculoskeletal system.
-    - Visceral: deals with the internal world such as digestion, the cardiovascular system, and reproduction.
+    - *Somatic*: deals with the external world such as the musculoskeletal system.
+    - *Visceral*: deals with the internal world such as digestion, the cardiovascular system, and reproduction.
 - Three types of motor systems
     - Somatic/Voluntary
     - Autonomic/Nonvoluntary
@@ -207,8 +207,8 @@ excerpt: "A disorganized introduction to the field of neuroscience."
     - Unimodal sensory areas
     - Association areas
 - Two types of connections in the cortex
-    - Association: connections within a hemisphere.
-    - Commissural: connections between hemispheres.
+    - *Association*: connections within a hemisphere.
+    - *Commissural*: connections between hemispheres.
 - Three main commissures
     - Anterior commissure
     - Corpus callosum
@@ -262,8 +262,8 @@ excerpt: "A disorganized introduction to the field of neuroscience."
 
 - The brain is constantly changing due to influences from the internal and external environment, and because of genetic factors.
 - Two levels of brain organization
-    - Macrocircuitry: the species level of organization.
-    - Microcircuitry: the individual level of organization.
+    - *Macrocircuitry*: the species level of organization.
+    - *Microcircuitry*: the individual level of organization.
 - Review of habituation, sensitization, classical conditioning, reinforcement learning, and LTP.
 - LTP is accompanied by changes in the shape of synapses, but also changes in the number of synapses.
 - A good empirical definition of stress is any stimulus that causes the secretion of ACTH from the pituitary gland, and thus the release of glucocorticoid steroid hormones.
