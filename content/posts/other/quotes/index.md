@@ -20,6 +20,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Get busy living or get busy dying.
 - One of the hardest things you will ever have to do is grieve the loss of a person who is still alive.
 - The unexamined life is not worth living. - **Socrates**
+- The unexamined life may not be worth living, but the life too closely examined may not be lived at all. - **Mark Twain**
 - "What happens after you die?" "Lot's of things happen after you die - they just don't involve you"
 - Don't cry because it's over, smile because it happened.
 - We all have two lives, the second one starts when you realise you only have one.
@@ -39,10 +40,11 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - The only desire the Culture could not satisfy from within itself was one common to both the descendants of its original human stock and the machines they had (at however great a remove) brought into being: the urge not to feel useless. - **Iain M. Banks, Consider Phlebas**
 - Sometimes I feel my bones straining under the weight of all the lives I'm not living.
 - That dwelling in the past only wastes your present and shortens your future.
+- One of the hardest decisions you'll ever face in life is choosing whether to walk away or try harder. - **Ziad Abdelnour**
 
 ## Science
 
-- We must know - we will know. - **David Hilbert**
+- We must know, we will know. - **David Hilbert**
 - A scientist builds in order to learn; an engineer learns in order to build.
 - Computer science is no more about computers than astronomy is about telescopes.
 - I mean, you could claim that anything's real if the only basis for believing in it is that nobody's proved it doesn't exist!
@@ -63,6 +65,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - The time dilation effect seems to have been made so that people are able to travel to the stars.
 - Computer science actually began with its 'theory of everything'.
 - When you are famous it is hard to work on small problems. This is what did Shannon in. After information theory, what do you do for an encore? The great scientists often make this error. They fail to continue to plant the little acorns from which the mighty oak trees grow. They try to get the big thing right off. And that isn't the way things go. So that is another reason why you find that when you get early recognition it seems to sterilize you. - **Richard Hamming**
+- What we know is a drop, what we don't know is an ocean. - **Issac Newton**
 
 ### Neuroscience
 
@@ -104,7 +107,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - “Don't you find it odd," she continued, "that when you're a kid, everyone, all the world, encourages you to follow your dreams. But when you're older, somehow they act offended if you even try.” - **Ethan Hawke**
 - To look up and wonder at our place in the universe, to look down and wonder my place in humanity.
 - You know that place between asleep and awake, that place where you still remember dreaming? That’s where I’ll always love you. That’s where I’ll be waiting. - **Rich Edwards, Where I'll Be Waiting**
-
+- They pop up every now and then. People who don't wake up from the dream even after tens of years. I love people like that. - **Erika Yano, Shirobako**
 
 ## Identity
 
@@ -139,17 +142,19 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Think about yourself first. You’re no good to others if you aren’t good to yourself.
 - They're not looking for a story that tells them who they are. They already know who they are. They're here because they want a glimpse of who they could be. - **Ford, Westworld**
 - You were comforted by your future self. - **Kubera**
-- Be the change that you wish to see in the world.
-- The world is changed by your example, not by your opinion.
+- Be the change that you wish to see in the world. - **Mahatma Gandhi**
+- The world is changed by your example, not by your opinion. - **Paulo Coelho**
 - The child who is not embraced by the village will burn it down to feel its warmth.
 - Don't make this hard on me, I'm already hard on myself. - **TELYKast, Somebody Else**
-- When you're 20 you care what everyone thinks, when you're 40 you stop caring what everyone thinks, when you're 60 you realize no one was ever thinking about you in the first place.
-- Every action you take is a vote for the type of person you wish to become.
+- When you're 20 you care what everyone thinks, when you're 40 you stop caring what everyone thinks, when you're 60 you realize no one was ever thinking about you in the first place. - **Reddit**
+- Every action you take is a vote for the type of person you wish to become. - **James Clear**
 - Never make fun of someone for things they can't change.
 - You do not follow me because I am the strongest. Pax is. You do not follow me because I am the brightest. Mustang is. You follow me because you do not know where you are going. I do. - **Darrow, Red Rising**
 - Respect yourself enough to walk away anything that no longer serves you, grows you or makes you happy.
 - Remember you’ll always regret what you didn’t do rather than what you did.
 - I want to know who they were, help them be who they are, and be there for who they will be.
+- These mountains that you are carrying, you were only supposed to climb. - **Najwa Zebian**
+- Some people die at 25 and aren't buried until 75. - **Benjamin Franklin**
 
 ## Mastery
 
@@ -184,6 +189,9 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - We’re born with capabilities, and have to transform those capabilities into actual abilities.
 - Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.
 - No. You’ve got it wrong Steve. Everything you didn’t circle just became your ‘avoid at all cost list’. No matter what, these things get no attention from you until you’ve succeeded with your top 5. - **Warren Buffet**
+- We don't rise to the level of our expectations, we fall to the level of our training.
+- The best exercise for gaining strength is not missing workouts. - **James Clear**
+- Not everyone who works hard is rewarded, however all those who succeed have worked hard! - **Hajime no Ippo**
 
 ## Relationships
 
@@ -223,13 +231,13 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - It's important to remember that it's not how a relationship starts that matters, it's how it evolves.
 - Do you feel victory when your words cause pain?
 - The most fucked up joke life can play on you is letting you meet the right person at the wrong time.
-- I'd rather be hated for who I am than loved for who I am not. -Kurt Cobain
+- I'd rather be hated for who I am than loved for who I am not. - **Kurt Cobain**
 
 ### Loneliness
 
 - A hug, all the warmth, but none of the heat. - **V.E. Schwab, Vicious**
 - I lost myself trying to please everyone. Now I'm losing everyone as I find myself.
-- I learned to give ... not because I have too much. But because I know how it feels to have nothing.
+- I learned to give, not because I have too much. But because I know how it feels to have nothing.
 - I think the saddest people always try their hardest to make people happy because they know what it’s like to feel absolutely worthless and they don’t want anyone else to feel like that.
 - The loneliest people are the kindest, The saddest people smile the brightest. The most damaged people are the wisest. All because they do not wish to see anyone else suffer the way they do.
 - In an era of breadlines, Depression, and wars, I tried to help people get away from all the misery; to turn their minds to something else. I wanted to make people happy, if only for an hour. - **Busby Berkeley**
@@ -278,6 +286,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Pretending that the fake is real only makes the real seem fake.
 - Insanity is doing the same thing, over and over again, but expecting different results.
 - It is the obvious which is so difficult to see most of the time. People say 'It's as plain as the nose on your face.' But how much of the nose on your face can you see, unless someone holds a mirror up to you?
+- The future seems knowable only when it becomes the past.
 
 ## Funny
 
@@ -286,17 +295,18 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Just found out I'm actually dead inside a living body. Like if you're a transexistential too.
 - English class is like a conspiracy theory class because they will find meaning in absolutely anything.
 - If light travels faster than sound, then why can I hear my girlfriend bitching at me before I see what I've done wrong.
-- Whenever I feel the need to exercise, I lie down until it goes away.
+- Whenever I feel the need to exercise, I lie down until it goes away. - **Reddit**
 - Anyone going slower than you is an idiot and anyone going faster than you is a maniac.
 - You'll never get her if you just keep staring at her Facebook page.
-- From a female friend who went to an engineering school: "The odds are good, but the goods are odd."
-- Watching a graduation ceremony is like sitting through a movie thats entirely end credits.
+- From a female friend who went to an engineering school: "The odds are good, but the goods are odd." - **Reddit**
+- Watching a graduation ceremony is like sitting through a movie thats entirely end credits. - **Reddit**
 - A girl says "Taken but not appreciated" in response to being given some advice about something. Someone responds with "I didn't ask for the title of your autobiography".
 - Suppose we've chosen the wrong god. Every time we go to church we're just making him madder and madder. - **Homer J. Simpson**
 - Those people who think they know everything are a great annoyance to those of us who do.
 - Why do I need to fight a depressed dude when I can just wait.
 - The story so far: In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move. - **The Hitchhiker's Guide to the Galaxy**
 - Now they pass it by Congress who will carefully evaluate the plan and eventually come to the conclusion that sending people in rockets to other planets is a waste of money better spend on sending rockets into people on this planet.
+- Before you embark on a journey of revenge, dig two graves.
 
 ## Money
 

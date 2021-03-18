@@ -106,6 +106,7 @@ A list of useful links on artificial intelligence, neuroscience, and on becoming
 - [Nicky Case](https://ncase.me/)
 - [Effectiviology](https://effectiviology.com/)
 - [James Clear Articles](https://jamesclear.com/articles)
+- [THE SLOW SCIENCE MANIFESTO](http://slow-science.org/)
 
 ### On becoming an master
 

@@ -44,7 +44,6 @@ I plan to read the following textbooks and books. This list will be updated as m
 
 - Biopsychology (10th Ed.)
 - Cognition (8th Ed.)
-- *Psychology Applied to Modern Life (10th Ed.)
 - Handbook of Collective Intelligence
 - The Cambridge Handbook of Expertise and Expert Performance
 
@@ -70,5 +69,5 @@ I plan to read the following textbooks and books. This list will be updated as m
 ### Other
 
 - The Secret of Our Success
-- *Culture series (Consider Phlebas, The Player of Games, Use of Weapons, The State of the Art, Excession)
 - Themis Files series (Sleeping Giants, Waking Gods, Only Human, Lost Files)
+- Code: The Hidden Language of Computer Hardware and Software
