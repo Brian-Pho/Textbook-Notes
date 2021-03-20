@@ -38,6 +38,7 @@ export interface PostType {
   frontmatter: {
     title: string
     date: string
+    book_authors: string
     categories: string[]
     excerpt: string
   }

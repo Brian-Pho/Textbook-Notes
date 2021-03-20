@@ -14,10 +14,14 @@ interface PostContentProps {
 }
 
 const PostContent = ({ post, previous, next }: PostContentProps) => {
+  const authors = (post.frontmatter.book_authors ? 
+    post.frontmatter.book_authors : "Brian Pho")
+
   return (
     <Col xl={6} md={9} xs={12} className="p-md-4 p-xl-5">
       <header>
         <h1>{post.frontmatter.title}</h1>
+        {authors ? (<small className="authors">By {authors}<br></br></small>) : null}
         <PostMeta post={post} />
       </header>
       <section

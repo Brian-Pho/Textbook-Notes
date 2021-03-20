@@ -33,6 +33,7 @@ export const pageQuery = graphql`
       frontmatter {
         title
         date(formatString: "MMMM DD, YYYY")
+        book_authors
         categories
       }
     }
