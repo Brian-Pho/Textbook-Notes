@@ -4,7 +4,8 @@ title: "The Feeling of What Happens"
 date: "2019-09-01"
 categories:
   - Books
-excerpt: "An amazing and scientific account of consciousness."
+book_authors: "Antonio Damasio"
+excerpt: "Body and emotion in the making of consciousness."
 ---
 
 # Part I: Introduction

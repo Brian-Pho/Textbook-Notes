@@ -4,7 +4,8 @@ title: "Livewired"
 date: "2020-11-12"
 categories:
   - Books
-excerpt: "How the brain changes."
+book_authors: "David Eagleman"
+excerpt: "How the brain rewrites its own circuitry."
 ---
 
 ## Chapter 1: The Delicate Pink Magisterium

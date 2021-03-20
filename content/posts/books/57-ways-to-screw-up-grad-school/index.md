@@ -4,7 +4,8 @@ title: "57 Ways to Screw Up Grad School"
 date: "2019-02-01"
 categories:
   - Books
-excerpt: "How to do well in graduate school."
+book_authors: "Kevin D. Haggerty, Aaron Doyle"
+excerpt: "Perverse professional lessons for graduate students."
 ---
 
 ## Starting Out

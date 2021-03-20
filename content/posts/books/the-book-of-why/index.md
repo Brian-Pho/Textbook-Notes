@@ -4,7 +4,8 @@ title: "The Book of Why"
 date: "2020-04-14"
 categories:
   - Books
-excerpt: "An introduction to the new science of causality."
+book_authors: "Judea Pearl"
+excerpt: "The new science of cause and effect."
 ---
 
 ## Introduction: Mind over Data

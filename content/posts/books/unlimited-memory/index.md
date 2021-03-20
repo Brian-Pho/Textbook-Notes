@@ -4,7 +4,8 @@ title: "Unlimited Memory (Incomplete)"
 date: "2018-10-08"
 categories:
   - Books
-excerpt: "Memorizing memory techniques."
+book_authors: "Kevin Horsley"
+excerpt: "How to use advanced learning strategies to learn faster, remember more, and be more productive."
 ---
 
 ## General Notes

@@ -4,7 +4,8 @@ title: "Catching Fire"
 date: "2019-10-07"
 categories:
   - Books
-excerpt: "An exploration of how cooking has affected humanity."
+book_authors: "Richard Wrangham"
+excerpt: "How cooking made us human."
 ---
 
 ## Introduction

@@ -4,7 +4,8 @@ title: "The Idea of the Brain"
 date: "2021-03-11"
 categories:
   - Books
-excerpt: "An amazing history of the brain."
+book_authors: "Matthew Cobb"
+excerpt: "The past and future of neuroscience."
 ---
 
 ## Introduction

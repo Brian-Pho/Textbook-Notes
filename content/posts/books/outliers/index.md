@@ -4,7 +4,8 @@ title: "Outliers (Incomplete)"
 date: "2018-09-17"
 categories:
   - Books
-excerpt: "Outing the outliers."
+book_authors: "Malcolm Gladwell"
+excerpt: "The story of success."
 ---
 
 My apologies for the lack of notes on this book. I read this years ago and I didn't take very good notes at the time.

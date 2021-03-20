@@ -4,7 +4,8 @@ title: "The Power of Meaning"
 date: "2018-12-08"
 categories:
   - Books
-excerpt: "On how to live a meaningful life."
+book_authors: "Emily Esfahani-Smith"
+excerpt: "Finding fulfillment in a world obsessed with happiness."
 ---
 
 ## Introduction

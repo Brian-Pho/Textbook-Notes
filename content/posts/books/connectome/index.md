@@ -4,7 +4,8 @@ title: "Connectome"
 date: "2019-06-15"
 categories:
   - Books
-excerpt: "How the connections in our brain make us who we are."
+book_authors: "Sebastian Seung"
+excerpt: "How the brain's wiring makes us who we are."
 ---
 
 ## Introduction

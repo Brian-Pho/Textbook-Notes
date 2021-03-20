@@ -4,7 +4,8 @@ title: "Nonviolent Communication"
 date: "2020-05-17"
 categories:
   - Books
-excerpt: "How to communicate with people."
+book_authors: " Marshall B. Rosenberg"
+excerpt: "A language of life for healthy relationships."
 ---
 
 ## Chapter 1: Giving From the Heart

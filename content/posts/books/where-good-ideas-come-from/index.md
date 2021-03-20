@@ -4,7 +4,8 @@ title: "Where Good Ideas Come From"
 date: "2019-04-29"
 categories:
   - Books
-excerpt: "An exploration of how good ideas are formed."
+book_authors: "Steven Johnson"
+excerpt: "The natural history of innovation."
 ---
 
 ## Introduction: REEF, CITY, WEB

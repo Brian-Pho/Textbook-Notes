@@ -4,7 +4,8 @@ title: "The Human Advantage"
 date: "2019-05-25"
 categories:
   - Books
-excerpt: "Questioning the basic assumptions of neuroscience and what makes us human."
+book_authors: "Suzana Herculano-Houzel"
+excerpt: "How our brains became remarkable."
 ---
 
 ## Preface

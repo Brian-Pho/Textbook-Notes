@@ -4,7 +4,8 @@ title: "Thinking, Fast and Slow"
 date: "2019-01-20"
 categories:
   - Books
-excerpt: "On the intuitive and the rational sides of the mind."
+book_authors: "Daniel Kahneman"
+excerpt: "On the two systems that drive our decisions."
 ---
 
 ## Part 1: Two Systems

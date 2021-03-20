@@ -4,7 +4,8 @@ title: "Peak"
 date: "2018-12-21"
 categories:
   - Books
-excerpt: "Reaching expertise and mastery."
+book_authors: "Anders Ericsson, Robert Pool"
+excerpt: "Secrets from the new science of expertise."
 ---
 
 ## Introduction: The Gift

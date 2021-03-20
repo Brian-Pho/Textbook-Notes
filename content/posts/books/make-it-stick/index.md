@@ -4,7 +4,8 @@ title: "Make It Stick"
 date: "2018-10-28"
 categories:
   - Books
-excerpt: "Learning to learn."
+book_authors: "Peter C. Brown, Henry L. Roediger III, Mark A. McDaniel"
+excerpt: "The science of successful learning."
 ---
 
 ## Chapter 1: Learning is Misunderstood

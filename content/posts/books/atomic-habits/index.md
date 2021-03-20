@@ -4,7 +4,8 @@ title: "Atomic Habits"
 date: "2019-04-07"
 categories:
   - Books
-excerpt: "How to build good habits and to break bad habits."
+book_authors: "James Clear"
+excerpt: "An easy and proven way to build good habits and break bad ones."
 ---
 
 # The Fundamentals

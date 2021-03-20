@@ -4,6 +4,7 @@ title: "Mastery"
 date: "2018-10-07"
 categories:
   - Books
+book_authors: "Robert Greene"
 excerpt: "The steps on the stairway to mastery."
 ---
 

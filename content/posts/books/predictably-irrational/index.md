@@ -4,7 +4,8 @@ title: "Predictably Irrational"
 date: "2018-08-12"
 categories:
   - Books
-excerpt: "A rational approach to irrational decisions."
+book_authors: "Dan Ariely"
+excerpt: "The hidden forces that shape our decision."
 ---
 
 ## Chapter 1: The Truth about Relativity

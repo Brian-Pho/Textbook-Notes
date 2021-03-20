@@ -4,7 +4,8 @@ title: "In Search of Memory"
 date: "2020-11-29"
 categories:
   - Books
-excerpt: "Eric Kandel's autobiography."
+book_authors: "Eric Kandel"
+excerpt: "Eric Kandel's autobiography and on the emergence of a new science of mind."
 ---
 
 ## General Notes

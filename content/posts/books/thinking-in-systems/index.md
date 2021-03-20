@@ -4,7 +4,8 @@ title: "Thinking in Systems"
 date: "2020-06-20"
 categories:
   - Books
-excerpt: "Insights on how to think about and analyze systems."
+book_authors: "Donella H. Meadows"
+excerpt: "On how to think about and analyze systems."
 ---
 
 ## Introduction: The Systems Lens

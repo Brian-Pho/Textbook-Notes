@@ -4,7 +4,8 @@ title: "On Writing Well"
 date: "2020-07-14"
 categories:
   - Books
-excerpt: "On how to rewrite well."
+book_authors: "William Zinsser"
+excerpt: "The classic guide to writing nonfiction."
 ---
 
 ## Introduction
