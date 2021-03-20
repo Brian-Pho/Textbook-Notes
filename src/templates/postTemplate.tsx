@@ -3,11 +3,11 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
 import PostContent from "../components/post/postContent"
 import PostToc from "../components/post/postToc"
-import { MarkdownType } from "../utils/graphqlTypes"
+import { MarkdownType, PostContextType } from "../utils/graphqlTypes"
 
 interface PostTemplateProps {
   data: MarkdownType
-  pageContext: any
+  pageContext: PostContextType
 }
 
 const PostTemplate = ({ data, pageContext }: PostTemplateProps) => {

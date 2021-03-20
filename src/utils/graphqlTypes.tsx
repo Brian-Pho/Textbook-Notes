@@ -21,11 +21,13 @@ export interface MarkdownType {
 }
 
 export interface AllMarkdownType {
-  allMarkdownRemark: {
-    edges: {
-      node: PostType
-    }[]
-  }
+  allMarkdownRemark: PostListType
+}
+
+export interface PostListType {
+  edges: {
+    node: PostType
+  }[]
 }
 
 export interface PostType {
@@ -51,4 +53,14 @@ export interface PostNavLinkType {
   frontmatter: {
     title: string
   }
+}
+
+export interface PostContextType {
+  previous: PostNavLinkType
+  next: PostNavLinkType
+}
+
+export interface PageContextType {
+  currentPage: number
+  numPages: number
 }

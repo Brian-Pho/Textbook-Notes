@@ -3,32 +3,20 @@ import { Link, withPrefix } from "gatsby"
 import Col from "react-bootstrap/Col"
 import Pagination from "react-bootstrap/Pagination"
 import ListGroup from "react-bootstrap/ListGroup"
-import { PostType } from "../../utils/graphqlTypes"
+import { PageContextType, PostListType } from "../../utils/graphqlTypes"
 import PostMeta from "../post/postMeta"
 
-interface PostListPaginationProps {
-  currPage: number
-  numPages: number
+interface PostListProps extends PageContextType {
+  postList: PostListType
 }
 
-interface PostListProps extends PostListPaginationProps {
-  postList: {
-    edges: {
-      node: PostType
-    }[]
-  }
-}
-
-const PostListPagination = ({
-  currPage,
-  numPages,
-}: PostListPaginationProps) => {
-  const isFirstPage = currPage === 1
-  const isLastPage = currPage === numPages
+const PostListPagination = ({currentPage, numPages}: PageContextType) => {
+  const isFirstPage = currentPage === 1
+  const isLastPage = currentPage === numPages
   const firstPage = ""
   const lastPage = numPages
-  const prevPage = currPage === 2 ? firstPage : currPage - 1
-  const nextPage = currPage + 1
+  const prevPage = currentPage === 2 ? firstPage : currentPage - 1
+  const nextPage = currentPage + 1
 
   return (
     <Pagination className="p-2 p-md-4 mb-0 justify-content-center">
@@ -41,7 +29,7 @@ const PostListPagination = ({
           </Pagination.Item>
         </>
       ) : null}
-      <Pagination.Item active>{currPage}</Pagination.Item>
+      <Pagination.Item active>{currentPage}</Pagination.Item>
       {!isLastPage ? (
         <>
           <Pagination.Item href={withPrefix(`/${nextPage}`)}>
@@ -55,7 +43,7 @@ const PostListPagination = ({
   )
 }
 
-const PostList = ({ postList, currPage, numPages }: PostListProps) => {
+const PostList = ({ postList, currentPage, numPages }: PostListProps) => {
   const posts = postList.edges
 
   return (
@@ -76,7 +64,7 @@ const PostList = ({ postList, currPage, numPages }: PostListProps) => {
           )
         })}
       </ListGroup>
-      <PostListPagination currPage={currPage} numPages={numPages} />
+      <PostListPagination currentPage={currentPage} numPages={numPages} />
     </Col>
   )
 }

@@ -1,14 +1,9 @@
 import React from "react"
+import { PostType } from "utils/graphqlTypes"
 import "./postMeta.scss"
 
 interface PostMetaProps {
-  post: {
-    timeToRead: number
-    frontmatter: {
-      date: string
-      categories: string[]
-    }
-  }
+  post: PostType
 }
 
 const PostMeta = ({ post }: PostMetaProps) => {

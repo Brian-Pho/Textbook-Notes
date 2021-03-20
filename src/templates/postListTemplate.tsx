@@ -2,11 +2,11 @@ import React from "react"
 import { graphql } from "gatsby"
 import Layout from "../components/layout/layout"
 import PostList from "../components/postList/postList"
-import { AllMarkdownType } from "../utils/graphqlTypes"
+import { AllMarkdownType, PageContextType } from "../utils/graphqlTypes"
 
 interface PostListTemplateProps {
   data: AllMarkdownType
-  pageContext: any
+  pageContext: PageContextType
 }
 
 const PostListTemplate = ({ data, pageContext }: PostListTemplateProps) => {
@@ -17,7 +17,7 @@ const PostListTemplate = ({ data, pageContext }: PostListTemplateProps) => {
     <Layout activePage="Home">
       <PostList
         postList={postList}
-        currPage={currentPage}
+        currentPage={currentPage}
         numPages={numPages}
       />
     </Layout>
