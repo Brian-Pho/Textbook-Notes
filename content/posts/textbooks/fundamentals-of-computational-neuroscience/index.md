@@ -160,10 +160,18 @@ excerpt: "An introduction to the field of computational neuroscience."
 - Drawbacks of the basic IF model
     - Might not approximate the sub-threshold dynamics of the membrane potential.
     - Doesn’t include the variety of response patterns seen in real neurons.
-- However, more realistic neuron models are more computationally demanding.
+- However, more realistic neuron models are also more computationally demanding.
 - One model reaches a good tradeoff between computation and realism, the Izhikevich neuron model.
-![Figure 3.4](figure3-4.png)
+- Izhikevich model
+    - $$\frac{dv(t)}{dt} = 0.04v^{2}(t) + 5v(t) + 140 -u +I(t)$$
+    - $$\frac{du(t)}{dt} = a(bv - u)$$
+- The membrane potential $$v$$, and the recovery variable $$u$$, are limited by conditions
+    - $$v(v > 30) = c$$
+    - $$u(v > 30) = u - d$$
+- Where $$a, b, c, d$$ are four parameters.
 - We can modify the four parameters of the Izhikevich model to match different types of neural firing patterns.
+![Figure 3.4](figure3-4.png)
+- In contrast to the IF neuron, and more consistent with real neurons, the Izhikevich model doesn't have a constant firing threshold.
 - One of the oldest and simplest neuron models is the McCulloch-Pitts (MCP) neuron. This model is used in artificial neural networks.
 - However, the MCP model is used to model the computational properties of neurons rather than the physical properties of neurons.
 - Neurons in the brain do not fire regularly, rather, they seem extremely noisy.
