@@ -1,0 +1,282 @@
+---
+layout: post
+title: "So You Want to Be a Neuroscientist?"
+date: "2021-04-16"
+categories:
+  - Books
+book_authors: "Ashley Juavinett"
+excerpt: "A modern account of how to become a neuroscientist."
+---
+
+# Part I: Why Should You Study the Nervous System?
+
+- It wasn't until the second half of the 20th century that we had a reasonable way to study the brain and nervous system.
+- Slowly, but surely, we started putting together a coarse picture of how the brain sees, decides, and remembers.
+- Many neuroscientists would argue that we should try to understand all of the parts before we can understand the whole (bottom-up). Others argue that the function of the system is emergent and can't be distilled to smaller components (top-down).
+- Often, there's a modifier before biology/neuroscience specifying the scale of investigation.
+- E.g. Molecular, cellular, systems, cognitive.
+![Figure 3.2](figure3-2.png)
+- When a label is more psychology-centric, it means that it's focus is more broad than neuroscience as it focuses less on neural mechanisms and more on behavior.
+- Clinical/translational research is often tied directly to diseases.
+- Basic research: research that doesn't directly address any one disease.
+- Neuroscience's highest goal is to understand everything about the nervous system.
+- E.g. How consciousness and behaviour arises.
+- Neuroscience is driven by technological innovation.
+- Some researchers are worried that we're too focused on the tools and that we should instead be thinking about how we can ask our questions.
+- If you want to know how the brain works, you need tools that can record from as much of the brain as possible in as much detail as possible.
+- As a result, neuroscience is getting bigger.
+- Organizations like the Allen Institute for Brain Science alone generate insane amounts of data, enough for probably an entire generation of PhD students to analyze.
+- For many years, physicists have recognized that big questions require big scientific collaborations and neuroscientists are beginning to adapt to this idea.
+- Ultimately, neuroscience will come to resemble astronomy more than classical biology due to it’s data.
+- Neuroscience is in need of people who can tackle large datasets.
+- This means we need people who can move us from data, to information, to knowledge.
+- E.g. To see the forest instead of the trees.
+- The hard work that needs to be done
+    - Formulating precisely the question that we actually want to know.
+    - What an answer would look like.
+    - What kind of insight we can take away from the experiment.
+- Theorists who think deeply about conceptual frameworks of brain function are absolutely essential here.
+- Data is getting easier to collect but not easier to analyze.
+- In the next few decades, we'll know all of the cells and connections in the brain, but we don't have a conceptual framework on how to think about this data.
+- Both data wrangling and analysis will require knowledge of programming.
+
+# Part II: Graduate School in Neuroscience
+
+- Harvard opened the first official department of neurobiology in 1966.
+- This part talks about whether a PhD is a good route for you.
+- The PhD is the highest degree you can obtain in neuroscience.
+- Getting a PhD isn't the only way to learn about the brain.
+- Some good reasons to get a PhD
+    - It'll open doors to different careers and higher paying positions.
+    - You'll gain self-confidence and project management skills.
+    - You'll get five years of intense research experience.
+- Some misguided reasons to get a PhD
+    - To learn about the brain.
+    - For the money.
+    - To help people.
+- Two main reasons why you should get a PhD
+    - You're positive you need a PhD to get to the next step in your career.
+    - You'll just really love five or more years of research and the value that will bring to your life.
+- Is this the right time in your life for this step?
+- If neither of these are true, consider working in a lab for a year or two to test the waters.
+- E.g. Postbaccalaureate program or technician positions.
+- Finishing a PhD is difficult not because of the coursework, but because it's very emotionally and psychologically demanding.
+- E.g. Irregular hours, challenging research advisors, uncertain outcomes.
+- As a PhD student, you're trained to criticize everything.
+- Bring a good scientist means having a critical eye for weaknesses in experimental designs and interpretations.
+- Don't dive in before you feel ready to take on a few challenging years.
+- Typical three stages of a neuroscience PhD
+    1. First year: coursework + research rotations
+    2. Second year: coursework + research in you PhD lab
+    3. Third plus years: research. All day, most days.
+- Most programs will pay you a small yearly stipend as a graduate student.
+- Almost every university will pay for your tuition costs and health insurance.
+- Neuroscientists come from a wide range of backgrounds and you shouldn't feel like there's only one path into a career in neuroscience.
+- Previous research experience was the most predictive factor for getting into graduate school.
+- If you find yourself not loving your first research experience, remember that the stages beyond will likely provide much more intellectual freedom and interesting daily tasks than your first experience.
+- You might consider giving another lab a shot before you decide research isn't for you.
+- It isn't just about the science, as where you study is also where you live.
+- No matter how amazing you think someone's science is, don't apply to an institution for one rock star faculty member.
+- Make sure there are at least five advisors that you can imagine yourself working with.
+- Meeting the students in someone's lab can be much more informative than reading their research papers.
+- In some ways, choosing your lab and advisor is more critical than choosing your graduate program.
+- Ensuring that your lab of choice is at least reasonable is your first major challenge in graduate school.
+- Choosing your advisor is one of the most important decision you'll make regarding graduate school.
+- How much your advisor is willing to invest in mentoring you does matter.
+- Unfortunately, academia tolerates a lot of really bad mentorship.
+- Do your best to find an advisor whose science you respect and who will also respect you.
+- Signs of a well-organized lab
+    - People have clearly defined roles.
+    - It's clear where resources are.
+    - There's no competition among individuals.
+    - The advisor is present at least sometimes.
+- The best way to find out what the lab culture is like is to actually speak to people in the lab.
+- Another important consideration when choosing a lab is its size.
+- Labs can range from one person to thirty people.
+- Labs can also range in their newness.
+- Newer labs are more risky but are also more exciting since you’re building up the lab, similar to a startup.
+- There's not much information to assess a lab's success rate, mentor's reputation, and lab culture.
+- Some people that would be great on your committee
+    - Someone who will be fair but also thoughtful.
+    - Someone who has experience with the same techniques.
+    - Someone who works in the same topic on similar questions.
+- It's really important to set boundaries for when you do work and when you don't.
+- This is your PhD and your life, you can also decide a PhD isn't for you.
+- Life is short, spend your years how you choose.
+- Writing your dissertation may be the hardest, most stressful, and most momentous moment of your entire adult life.
+- Things to consider to determine if you're ready to leave graduate school
+    - Is there anything more you'd still like to learn from this lab?
+    - Did you accomplish what you set out to accomplish?
+    - Will staying for another year really add more to your skillset or project?
+    - Do you have an idea of what you'd like to do next?
+- No notes on the "Formatting your dissertation" section but I should come back to it when I'm ready to write mine.
+- A dissertation is a necessary step to getting a PhD, and a PhD is a necessary step to becoming a neuroscience researcher.
+- But in the field of neuroscience, few people will actually read your dissertation.
+- You'll be lucky if your dissertation committee reads it in full.
+- Dissertations are very rarely cited in scientific papers.
+- The same goes for citing conference posters or preprint papers.
+- So what does your dissertation stand for in the end?
+- It's more about the process than the final product.
+
+# Part III: Research, Research, Research
+
+- The type of research that you do will dramatically change the type of questions you can ask.
+- In general, our tools to study the nervous system can be broken up into two categories
+    - Structural: anatomy and connectivity.
+    - Functional: activity of the nervous system.
+- Types of research conditions
+    - In vitro: cells in a laboratory dish.
+    - In vivo: live animals.
+    - In silico: modelling the brain using a computer.
+- Types of model organisms in neuroscience
+    - Humans
+        - One major benefit is that work done on humans is the model that we care the most about.
+        - However, it also means you're limited with the types of techniques you're able to use and therefore the types of questions you can answer.
+    - Primates
+        - Researcher may become attached to the animals they work with.
+        - However, because humans are primates, work on nonhuman primates is very important for understanding how brains work.
+        - They aren't always willing to cooperate with experimenters.
+        - The experimenter and subjects tend to spend years together.
+    - Rodents
+        - Most common model in biomedical research in academia and industry due to low expenses, close model to humans, and lots of standardized procedures.
+    - Other vertebrates
+        - Birds and bats have also proven useful. Same goes for tadpoles and zebrafish.
+    - Invertebrates
+        - Simpler and easier to manipulate compared to vertebrates.
+        - Cheap and easy to maintain.
+        - Don't need formal approval except for octopuses.
+        - E.g. Hydra, leeches, moths, fruit flies, sea slugs, and round worms.
+- Good research habits
+    - Read a lot
+        - It helps to dedicate a few hours a week to reading the current literature.
+        - Science Twitter is also very helpful in keeping up with the latest findings.
+        - Consider this as a metric: If someone asks you a question about your project or about related work, you should have an answer or at least know where to find it.
+    - Be intentional about your research questions
+        - There are an infinite number of questions you could ask about the nervous system, but this doesn't mean that they're all worth investigating.
+        - Choose projects that are interesting but also feasible.
+        - Just because a question is interesting doesn't mean that you'll find an interesting answer.
+        - Think about potential answers and if they're interesting, then go for it.
+        - Vary your project timelines and risk levels.
+        - E.g. Have one project be in the planning phase, another project in the experimentation phase, and one in the analysis phase.
+        - Having two/three ongoing projects is reasonable, with one/two being time consuming and the last project either in the very early or late stage.
+        - Decide on the appropriate risk level for your projects.
+        - E.g. Descriptive or data-driven projects are less risky and lower impact than hypothesis-driven.
+        - Projects that rely on newer, cutting-edge technology also tend to be riskier.
+        - It helps to have both high- and low-risk projects.
+        - If the high-risk project doesn't work, you can fall back on the low-risk project.
+        - If the high-risk project does work, you can put the low-risk project on hold.
+        - Ask yourself: what are the chances that this will actually work?
+        - Deep and specific or shallow and broad?
+    - Be a good person
+        - Science can become territorial.
+        - The thing is, nobody has rightful claim to our understanding of the brain.
+        - Neuroscience isn't a huge field so you'll meet and interact with a lot of the same people.
+        - Science doesn't happen in isolation.
+        - "It's important to defend the truth before defending ourselves." - Ramon y Cajal
+- Many people agree that you should learn to code.
+- Authorship can be a difficult topic for many researchers.
+- Four rules for authorship
+    - You should talk about authorship before you think you need to talk about authorship.
+    - You should talk about authorship even though it can be awkward.
+    - You should talk about authorship even if you're not sure exactly where the project is headed.
+    - You should talk about authorship before you think you need to.
+- Author order
+    - Lead author(s): lead the research, collected most of the data, wrote the paper.
+    - Middle author(s): conducted some research, ran some analyses, gave substantial input.
+    - Principle investigator(s): designed the project, provided the funds and resources, wrote the paper.
+- The best way to protect your work is to start a conversation.
+- It's critical that you communicate honestly, concisely, and convincingly about your research.
+- Research should be communicated as concisely as possible.
+- The burden is never on the audience in scientific communication.
+- Concise research will be more widely read and understood, and that's a good thing.
+- Identifying which details you can leave out, while still leaving your communication honest and accurate, is a skill that will help you communicate accurately and concisely.
+- One of the most important scientific skills is the ability to convince others that your research is important, worthwhile, and feasible.
+- Three stages of creating a narrative about your research
+    - Setting
+        - What does my audience need to know in order to understand what I'm doing and appreciate its significance?
+        - The introduction to your research ends with a big "BUT".
+        - E.g. "But something is missing."
+        - And then, you came along, and found the answer, or at least a way to address the question.
+        - Boom, this is where your work comes in.
+    - Challenge
+    - Resolution
+- Ultimately, no research project is flawless.
+- The brain is complicated and each method has its caveats.
+- The best way to write better is to write a lot and to get feedback from others on it.
+- Scientific posters are the most common form of scientific communication for trainees.
+- Being able to give an accurate and convincing presentation is one of the most important skills for any scientist.
+- Important presentation points
+    - It's not about you.
+    - Practice, practice, practice.
+    - Reduce your text and improve your figures.
+- Networking tips
+    - Work through who you know.
+    - Write emails to scientists.
+    - Don't fear social media.
+- Regardless of your career stage, you need mentorship.
+- The trick is that some mentors are more skilled at giving thoughtful guidance than others.
+
+# Part IV: Where Do All the Neuroscientists Go?
+
+- You may begin your schooling with one idea for a career and leave with totally different ideas.
+- What do you want to do for the next five years?
+- About 75% of postdoctoral graduates in the US begin a postdoctoral position after receiving their PhD.
+- After that, paths diverge quite a bit.
+- Doing something other than academia isn't quitting.
+- Many people perceive jobs outside of academia as selling out, but this is wrong and not useful.
+- It isn't worse or better outside of academia, just different.
+- Transferable graduate school skills
+    - Can work independently
+    - Motivate yourself
+    - Tackle complex problems
+    - Great at reading and writing
+    - Specialized knowledge
+    - Hardworking
+    - Critical of data and are curious
+    - Presenting complex data to a general crowd
+- Consider skills developed outside of school like teaching, clubs, writing, and outreach.
+- Side hustles can often become your main hustle.
+- On your resume, whenever you can put numbers behind your claims, you should.
+- It's notoriously difficult to get a job as a principal investigator (PI).
+- Of all biology postdocs, about 27 percent will obtain a tenure-track faculty job.
+- The chances of you getting some sort of research job as an academic is about 30-40 percent.
+- Postdocs are additional years spent in a lab to gain more experience.
+- The main reason to pursue a postdoc fellowship is to stay in academia because they're necessary steps for tenure-track faculty jobs.
+- In most cases, doing a traditional academic postdoc won't give you an advantage in industry jobs.
+- US neuroscience postdocs aren't standardized and can vary in length from 1-7 or more years, with the average around 4.5 years.
+- Postdocs are often not very structured.
+- Interestingly, many postdoc positions are obtained by cold contacting PIs.
+- PIs rarely do experiments and spend most of their time writing grants and papers, preparing and giving talks at conferences, teaching classes, and reading and reviewing papers.
+- There's a stark difference between being a graduate student and being a PI.
+- Graduate students spend more time collecting and analyzing data, while PIs are more group leaders or project managers.
+- PIs decide on the lab's projects, get funding, and communicate their findings.
+- This means PIs are more independent and have more freedom (within their funding).
+- For many people, leading a lab is the dream.
+- However, funding and space is limited which leads to competition.
+- Criteria for getting a PI job
+    - History of publishing in top-tier journals.
+    - Motivation to solve a particular problem.
+    - Patience.
+- Being a PI isn't the only way to stay in academia, there's also the teaching and research paths.
+- E.g. Lecturers, community college, high school, staff scientist, adjunct researchers.
+- As for industry, there are two main paths for neuroscientists
+    - Technology
+        - E.g. Data science, wearables, robotics, AI.
+    - Therapeutic
+        - E.g. Pharmaceuticals, medical devices, EEG, prosthetics.
+- Freelance, private, and government consulting are also viable paths.
+- A lot of data science roles overlap with neuroscience.
+- E.g. Collecting and cleaning data, managing and analyzing it, and presenting it.
+- Data science isn't just about knowing how to program and knowing how to apply ML, it's about experimental design, knowing how to ask the right questions, trusting data sources, and data intuition.
+- In industry, the projects move much faster than in academia.
+- Science communication and policy is also another possible career path for neuroscientists.
+- This role requires you to analyze primary research and to effectively communicate it to your audience.
+- Science communicators often need to focus on the big picture rather than focusing on the details.
+- They constantly ask: why is this important?
+- Science editor is also a viable path but this doesn't mean editing in the traditional sense. It means choosing and curating content for scientific journals.
+- Most of the main science journals employ full-time editors who handle manuscript submissions from scientists.
+- Scientists can also work at the intersection between research and policymaking.
+- The book ends with a bunch of stories from neuroscientists, these are great but I have no notes for them.
+- “If you don't see what it's like first hand, then you don't really know if it's right for you.”
+- “I didn't necessarily see myself getting grants for the rest of my life.”
+- At its core, good journalism is really about asking the right questions.
