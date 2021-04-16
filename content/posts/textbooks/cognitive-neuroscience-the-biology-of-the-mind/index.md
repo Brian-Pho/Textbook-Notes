@@ -1054,7 +1054,7 @@ excerpt: "The defining textbook of cognitive neuroscience."
 - Most researchers agree that emotional responses can be characterized by two factors
     - *Valence*: pleasant to unpleasant.
     - *Arousal*: intensity.
-- E.g. Finding $5 on the ground versus winning $10 million in a lottery. Both evoke happiness but to a different intensity.
+- E.g. Finding five dollars on the ground versus winning ten million dollars in a lottery. Both evoke happiness but to a different intensity.
 - Yet a person can experience two emotions with opposite valences at the same time.
 - E.g. Scared and excited on a roller coaster, happy and sad in a bittersweet movie ending.
 - These situations suggest that positive and negative emotions have different underlying mechanisms that they can be activated simultaneously.

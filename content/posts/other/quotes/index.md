@@ -14,7 +14,7 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Life is wasted on the living.
 - Live and let live.
 - Many people die at twenty five and aren’t buried until they are seventy five.
-- Blink. And then it's over.
+- Blink. And then it's over. - **Slander & William Black, Back To U**
 - The days are long, but the years are short.
 - Life is too short to not be pursuing the best opportunity you know of.
 - Get busy living or get busy dying.
@@ -287,6 +287,8 @@ A list of my favourite quotes that I've collected over the years. Note: To be ed
 - Insanity is doing the same thing, over and over again, but expecting different results.
 - It is the obvious which is so difficult to see most of the time. People say 'It's as plain as the nose on your face.' But how much of the nose on your face can you see, unless someone holds a mirror up to you?
 - The future seems knowable only when it becomes the past.
+- If you are given a choice, you believe you have acted freely. - **Raymond Teller**
+- You had hoped that smarter creatures would be wiser ones. - **Peter Watts, Firefall**
 
 ## Funny
 

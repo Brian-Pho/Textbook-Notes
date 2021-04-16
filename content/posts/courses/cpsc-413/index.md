@@ -44,21 +44,13 @@ Def: $$O(g) = \{f:R \Rightarrow R\ |\ \exists n_{0} > 0, \exists c_{2} > 0, f_{1
 
 ## L02: (Asymp) Asymptotics, big-Oh notation
 
-| notion        | idea     | interpretation                 |
-| ------------- | -------- | ------------------------------ |
-| $$o(g)$$      | $$<$$    | f grows strictly slower than g |
-| $$O(g)$$      | $$\leq$$ | f grows no faster than g       |
-| $$\theta(g)$$ | $$=$$    | f grows as fast as g           |
-| $$\Omega(g)$$ | $$\geq$$ | f grows no slower than g       |
-| $$\omega(g)$$ | $$>$$    | f grows strictly faster than g |
-
-Pronounced
-
-- little-oh
-- big-oh
-- theta
-- big-omega
-- little-omega
+| notion         | idea      | interpretation                 | pronunciation  |
+| -------------- | --------- | ------------------------------ | -------------- |
+| $$o(g)$$       | $$<$$     | f grows strictly slower than g | little-oh      |
+| $$O(g)$$       | $$\leq$$  | f grows no faster than g       | big-oh         |
+| $$\theta(g)$$  | $$=$$     | f grows as fast as g           | theta          |
+| $$\Omega(g)$$  | $$\geq$$  | f grows no slower than g       | big-omega      |
+| $$\omega(g)$$  | $$>$$     | f grows strictly faster than g | little-omega   |
 
 Ex: If $$f_{1}(n) = n^{2}$$, $$g_{1}(n) = n^{3}$$, then $$f_{1}(n)\ \epsilon\ O(g_{1}(n))$$.
 Proof: Let $$n_{0} = 1$$ and $$c_{2} = 1$$.
@@ -165,9 +157,9 @@ Properties of big-O
         - Proof by contradiction. Assume there is some $$j$$ such that $$A_{j}$$ can’t be extended to an optimal solution. Aka assume there’s a state that can’t be extended to an optimal solution.
         - Let $$r = smallest\ j$$ such that $$A_{j}$$ can’t be extended to an optimal solution.
             - $$A_{0} = \{\} \cup \{9, 4, 8, 10\}$$ where $$\{9, 4, 8, 10\}$$ is an extension that would lead to an optimal solution.
-      - $$A_{1} = \{9\} \cup \{4, 8, 10\}$$
+        - $$A_{1} = \{9\} \cup \{4, 8, 10\}$$
             - $$A_{r-1} = \{a_{1}, a_{2}, ..., a_{r-1}\} \cup \{b_{r}, b_{r+1}, ..., b_{n}\}$$ where $$\{b_{r}, b_{r+1}, ..., b_{n}\}$$ is an extension that would lead to an optimal solution.
-      - $$A_{r} = \{a_{1}, a_{2}, ..., a_{r-1}\} \cup \{a_{r}\}$$ ← The step where we made a mistake aka we can’t extend to an optimal solution.
+        - $$A_{r} = \{a_{1}, a_{2}, ..., a_{r-1}\} \cup \{a_{r}\}$$ ← The step where we made a mistake aka we can’t extend to an optimal solution.
             - Fact 1: $$\bar{A_{r}} = \{a_{1}, a_{2}, ..., a_{r-1}\} \cup \{a_{r}\} \cup \{b_{r+1}, b_{k}\}$$
                 - Observation 1: $$\bar{A_{r}}$$ has size $$k$$ so it is a valid set.
           1. The indices $$\{a_{1},..., a_{r-1}, a_{r}\}$$ are all distinct because the greedy algorithm picks only distinct indices by definition of our greedy algorithm.
@@ -304,7 +296,7 @@ Properties of big-O
     - 3 multiplications (1 at r, 1 at s, 1 at t)
     - 5 additions/subtractions (2 at r, 2 at e, 1 at f)
 
-```none
+```python
 r = (a + b)(c + d) = ac - bd + bc - ad
 s = bc
 t = ad
@@ -512,7 +504,7 @@ f = ad + bc = s + t
         - Number of subproblems is $$\Theta(nm)$$ because subproblems is $$(n+1)(m+1)$$. Since each subproblem takes constant time, the runtime is $$\Theta(nm)$$.
     - Printing the LCS
 
-```none
+```python
 PrintLCS(C, n, m, X, Y)  # Call subroutine
 PrintLCSRec(C, i, j, X, Y):  # Define subroutine
 if i == 0 or j == 0:
@@ -585,7 +577,7 @@ else:
     - If problem Y can be solved in poly-time, so can X.
     - If problem X cannot be solved in poly-time, then neither can Y.
     - Problem X and problem y are equally hard.
-    - $$X \leq Y$$ = “Problem X is easier than Problem Y”.$$
+    - $$X \leq Y$$ = Problem X is easier than Problem Y
 - Independent Set
     - Input: Graph $$G=(V, E)$$ on $$n = \lvert V \rvert$$ vertices and an integer k, $$0 \leq k \leq n$$.
     - Output: “Yes”, if G contains an independent set of size k or “No” otherwise.
@@ -692,7 +684,7 @@ else:
         - Stage 1: Pick one of the $$3^n$$ possible colourings.
             - We’ll use 3 variables for each vertex $$x_j: v_j, w_j, z_j$$.
             - $$v_j = 1$$ iff $$x_j$$ gets colour v, $$w_j = 1$$ iff $$x_j$$ gets colour w, $$z_j = 1$$ iff $$x_j$$ gets colour z.
-      - Start with $$(v_j \lor w_j \lor z_j) \land (\bar{v_j} \lor \bar{w_j} \lor \bar{z_j})$$ to say each node gets at least one color, but not all three colors.
+            - Start with $$(v_j \lor w_j \lor z_j) \land (\bar{v_j} \lor \bar{w_j} \lor \bar{z_j})$$ to say each node gets at least one color, but not all three colors.
             - AND it with $$(v_j \lor \bar{w_j} \lor \bar{z_j}) \land (\bar{v_j} \lor w_j \lor \bar{z_j}) \land (\bar{v_j} \lor \bar{w_j} \lor z_j)$$ to rule out nodes with two colors.
             - Used to rule out 5 out of 8 combinations in the truth table.
         - Stage 2: The two endpoints $$x_i\ \&\ x_j$$ of an edge $$(x_i, x_j)$$ have different colors.

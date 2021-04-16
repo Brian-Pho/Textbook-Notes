@@ -21,8 +21,8 @@ I plan to read the following textbooks and books. This list will be updated as m
 - Language in Our Brain - The Origins of a Uniquely Human Capacity
 - Open MIND - philosophy and the mind sciences in the 21st century
 - The Neuroscience of Intelligence
-- *Theoretical Neuroscience - Computational and Mathematical Modeling of Neural Systems
-- *After Phrenology - Neural Reuse and the Interactive Brain
+- Theoretical Neuroscience - Computational and Mathematical Modeling of Neural Systems
+- After Phrenology - Neural Reuse and the Interactive Brain
 - Networks of the Brain
 - 23 Problems in Systems Neuroscience
 - Brain Computation as Hierarchical Abstraction

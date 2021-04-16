@@ -15,7 +15,7 @@ excerpt: "A modern account of how to become a neuroscientist."
 - Many neuroscientists would argue that we should try to understand all of the parts before we can understand the whole (bottom-up). Others argue that the function of the system is emergent and can't be distilled to smaller components (top-down).
 - Often, there's a modifier before biology/neuroscience specifying the scale of investigation.
 - E.g. Molecular, cellular, systems, cognitive.
-![Figure 3.2](figure3-2.png)
+![Figure 2.3](figure2-3.png)
 - When a label is more psychology-centric, it means that it's focus is more broad than neuroscience as it focuses less on neural mechanisms and more on behavior.
 - Clinical/translational research is often tied directly to diseases.
 - Basic research: research that doesn't directly address any one disease.

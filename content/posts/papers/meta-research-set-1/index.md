@@ -436,6 +436,7 @@ excerpt: "My notes on papers exploring how to be a more effective scientist."
     - Expert performers have acquired skills that enable them to circumvent general memory and processing limits.
 - It’s theorized that experts acquire domain-specific memory skills that enable them to rapidly access relevant information in an extended working memory that relies on long-term memory.
 - This acquired memory skill underlies experts’ superior ability to plan and evaluate potential sequences of actions in the domain.
+- Mastery, in part, is the superior organization of information.
 - The most important implication of these acquired memory skills is that they enable experts to circumvent the limited storage capacity of short-term memory, thus eliminating any restrictive influence of individual differences in this basic capacity.
 - E.g. Expert typists look ahead in the text to be typed and if that preview is removed, then they type at speeds comparable to those of novices.
 - The ability to anticipate future events and thus prepare actions in advance is critical in many domains of expertise.

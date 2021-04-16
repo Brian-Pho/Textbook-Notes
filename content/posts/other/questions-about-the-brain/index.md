@@ -7,7 +7,7 @@ categories:
 excerpt: "My questions about the brain."
 ---
 
-The following is a list of question about the brain that I don't know the answer to. I hopeful to someday answer every question on this list.
+The following is a list of question about the brain that I don't know the answer to. I hope to someday answer every question on this list.
 
 ## Unsolved Questions
 
@@ -34,11 +34,17 @@ The following is a list of question about the brain that I don't know the answer
 - After a signal is finished being processed in the brain, where does it go? When I see an object and follow the path of APs, where does it stop?
 - What's the purpose of the brain ventricle? What's the wiring diagram for the neocortex?
 - What is neuroscience trying to achieve? What does a complete understanding of the brain mean?
-- What role did having white scleras play in social interactions?
-    - Hypothesis is eye gaze.
 - Is the meaning of a neural signal determined by the pathway it travels? Or is it due to the source/destination?
+- Is the grow of new neural pathways similar to the growth of new blood vessels? (angiogenesis)
 
 ## Solved Questions
 
+- What role did having white scleras play in social interactions?
+    - Hypothesis is eye gaze.
+    - Domesticated dogs also show an increase in scleras, why?
 - Is the brain a computer?
     - No, the brain isn't an implementation of a Turing machine.
+- Are mirror neurons a valid finding?
+    - No
+- Population coding based on Georgepopulous?
+    - No
