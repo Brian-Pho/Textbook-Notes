@@ -24,7 +24,6 @@ I plan to read the following textbooks and books. This list will be updated as m
 - Theoretical Neuroscience - Computational and Mathematical Modeling of Neural Systems
 - After Phrenology - Neural Reuse and the Interactive Brain
 - Networks of the Brain
-- 23 Problems in Systems Neuroscience
 - Brain Computation as Hierarchical Abstraction
 
 ### Neuromorphic Computing
@@ -69,5 +68,4 @@ I plan to read the following textbooks and books. This list will be updated as m
 ### Other
 
 - The Secret of Our Success
-- Themis Files series (Sleeping Giants, Waking Gods, Only Human, Lost Files)
 - Code: The Hidden Language of Computer Hardware and Software

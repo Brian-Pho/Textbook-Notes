@@ -107,7 +107,7 @@ excerpt: "A modern account of how to become a neuroscientist."
 - Things to consider to determine if you're ready to leave graduate school
     - Is there anything more you'd still like to learn from this lab?
     - Did you accomplish what you set out to accomplish?
-    - Will staying for another year really add more to your skillset or project?
+    - Will staying for another year really add more to your skill set or project?
     - Do you have an idea of what you'd like to do next?
 - No notes on the "Formatting your dissertation" section but I should come back to it when I'm ready to write mine.
 - A dissertation is a necessary step to getting a PhD, and a PhD is a necessary step to becoming a neuroscience researcher.

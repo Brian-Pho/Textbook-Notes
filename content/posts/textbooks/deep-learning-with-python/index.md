@@ -600,7 +600,7 @@ model.add(layers.Dense(1, activation='sigmoid'))
     - Rotation
     - Translation
     - Shear
-    - Zoon
+    - Zoom
     - Flip
 - *Pretrained network*: a saved network that was previously trained on a large dataset.
 - The two ways to use a pretrained network
