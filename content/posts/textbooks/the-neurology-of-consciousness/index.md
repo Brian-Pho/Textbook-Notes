@@ -633,58 +633,65 @@ excerpt: "A collection of literature reviews on consciousness."
     - Doesn’t reduce to attention or memory.
 - We also shouldn’t confound consciousness with processes that directly precede or follow experience. Consciousness is the experience, not the stuff before and after.
 - E.g. Expectations, task planning, self-monitoring, unconscious stimulus processing, or verbal reporting.
-- We are usually conscious of what goes on around us and what goes on within our body.
-- So it’s natural to think that consciousness may be tightly linked to the ongoing interactions between the world and body.
-- However, there are many examples that contest this idea.
-- E.g. Stimulus-independent consciousness. We are conscious of our thoughts, which don’t seem to correspond to anything out there, we can also imagine things that aren’t real, we also dream.
-- When we do, sensory areas can be activated from the inside.
-- All that seems to matter is that the corticothalamic system continues to function during dreaming and wakefulness.
-- Further evidence that neither sensory inputs nor motor outputs are needed to generate consciousness comes from blind people and from locked-in syndrome patients.
-- E.g. People with retina blindness can both imagine and dream visually if they become blind after the age of 6-7 years old.
-- Locked-in syndrome patients can be almost completely paralyzed, and yet they’re just as conscious as healthy subjects.
-- Thus, consciousness seems to depend on what certain parts of the brain are doing, without requiring any interaction with the environment or the body.
-- This also refutes Antonio Damasio’s theory of consciousness that depends on the brain feeling itself and the body.
-- There have also been claims that consciousness only emerges with language.
-- However, neurological evidence from patients with aphasia shows that it doesn’t interrupt the flow of experience, even though it may change or remove certain aspects of it like inner speech.
-- Consciousness continues in the absence of language.
-- Consciousness is usually evaluated by verbal reports, which suggests that consciousness may arise through the ability to reflect on our own perceptions.
-- Contradicting evidence comes from when we become absorbed in some intense perceptual task.
-- E.g. Watching an engrossing movie, playing a fast-paced video game, in a major accident, or during non-lucid dreaming.
-- We are vividly conscious, as in we’re immersed in the rapid flow of experience, but without the need for reflection or introspection.
-- Often, we become so immersed that we may lose our sense of self, our inner voice.
-- Much of experience is unreflective but that doesn’t mean that we’re not conscious of it.
-- Another study of a classification task that varied the speed of the experiment found that the slow and fast conditions were similar in the cognitive task but differed in the sensorimotor and attentional loads.
-- Behavioral measurements confirmed that self-awareness was high during the slow condition but abolished during the fast condition.
-- The results of the study showed that during the slow, introspective condition, there was activation of prefrontal regions, whereas during the fast condition, there was strong activation of the sensory cortex.
-- Crucially, during the fast condition, self-related cortex was deactivated below the rest condition.
-- This deactivation of prefrontal regions was thus the neural correlated of “losing oneself” during the fast condition.
-- These prefrontal regions were involved in self-representations and suggest that their activation isn’t necessary for perceptual consciousness, but only to reflect upon it and to report it to others.
-- It appears that self-related activity is actually shut off during highly demanding sensory tasks.
-- Frontal activity relates to introspection and reporting rather than to conscious perception.
-- Attention and consciousness often go hand-in-hand.
-- E.g. When we pay attention to an object, it becomes more vivid. And when we shift it away, it fades from consciousness.
-- While attention and consciousness may seem to be identical, there are strong arguments for the dissociation between attention and consciousness.
-- E.g. Paying attention to a stimulus decreases the duration of its afterimage, whereas consciously seeing the stimulus increases the duration of its afterimage.
-- Attention can also be deployed to a stimulus that remains unconscious.
-- The other dissociation, consciousness without attention, is more controversial.
-- E.g. When driving along a familiar road, we might not be paying attention to the road but does that mean we don’t experience it at all.
-- There’s also a dissociation between working memory and consciousness as there are patients with prefrontal lesions, where working memory is severely compromised, but consciousness is clearly preserved.
-- There’s also the case of people with amnesia that have lost their episodic memories but are still conscious.
-- E.g. Patient H.M.
-- The brain employs different maps of space using different frames of reference.
-- E.g. Eye-centered. head-centered, and body-centered maps.
-- Like attention, it’s difficult to dissociate consciousness from spatial awareness.
-- E.g. The condition of neglect pairs awareness and consciousness to ignore a part of the visual field, body, or space.
-- Can consciousness exist in the absence of a sense of self or of a body?
-- Distinctions of self
-    - *Narrative, autobiographical self*: the self that characterizes the fundamental sense of who we are.
-    - *Feeling of agency*: experiencing that one is the source of one’s actions.
-    - *Feeling of ownership*: the knowledge that your body and its parts are yours.
-        - E.g. The body is heavily represented in the brain.
-- Experiments like the rubber hand illusion show us that our sense of ownership can be altered.
-- Conditions like asomatognosia further show us that our sense of ownership over our own body can be altered without changes in consciousness.
-- Even if we take away the bodily self, our experience still seems to be centered somewhere behind the eyes.
-- Consciousness feels to be centered somewhere.
+- Consciousness and sensory input/motor output
+    - We are usually conscious of what goes on around us and what goes on within our body.
+    - So it’s natural to think that consciousness may be tightly linked to the ongoing interactions between the world and body.
+    - However, there are many examples that contest this idea.
+    - E.g. Stimulus-independent consciousness. We are conscious of our thoughts, which don’t seem to correspond to anything out there, we can also imagine things that aren’t real, we also dream.
+    - When we do, sensory areas can be activated from the inside.
+    - All that seems to matter is that the corticothalamic system continues to function during dreaming and wakefulness.
+    - Further evidence that neither sensory inputs nor motor outputs are needed to generate consciousness comes from blind people and from locked-in syndrome patients.
+    - E.g. People with retina blindness can both imagine and dream visually if they become blind after the age of 6-7 years old. Locked-in syndrome patients can be almost completely paralyzed, and yet they’re just as conscious as healthy subjects.
+    - Thus, consciousness seems to depend on what certain parts of the brain are doing, without requiring any interaction with the environment or the body.
+    - This also refutes Antonio Damasio’s theory of consciousness that depends on the brain feeling itself and the body.
+- Consciousness and language
+    - There have also been claims that consciousness only emerges with language.
+    - However, neurological evidence from patients with aphasia shows that it doesn’t interrupt the flow of experience, even though it may change or remove certain aspects of it like inner speech.
+    - Consciousness continues in the absence of language.
+- Consciousness and introspection
+    - Consciousness is usually evaluated by verbal reports, which suggests that consciousness may arise through the ability to reflect on our own perceptions.
+    - So it’s natural to suggest that consciousness may arise through the ability to reflect on our own perceptions.
+    - Contradicting evidence comes from when we become absorbed in some intense perceptual task.
+    - E.g. Watching an engrossing movie, playing a fast-paced video game, in a major accident, or during non-lucid dreaming.
+    - We are vividly conscious, as in we’re immersed in the rapid flow of experience, but without the need for reflection or introspection.
+    - Often, we become so immersed that we may lose our sense of self, our inner voice.
+    - Much of experience is unreflective but that doesn’t mean that we’re not conscious of it.
+    - Another study of a classification task that varied the speed of the experiment found that the slow and fast conditions were similar in the cognitive task but differed in the sensorimotor and attentional loads.
+    - Behavioral measurements confirmed that self-awareness was high during the slow condition but abolished during the fast condition.
+    - The results of the study showed that during the slow, introspective condition, there was activation of prefrontal regions, whereas during the fast condition, there was strong activation of the sensory cortex.
+    - Crucially, during the fast condition, self-related cortex was deactivated below the rest condition.
+    - This deactivation of prefrontal regions was thus the neural correlated of “losing oneself” during the fast condition.
+    - These prefrontal regions are involved in self-representations and suggest that their activation isn’t necessary for perceptual consciousness, but only to reflect upon it and to report it to others.
+    - It appears that self-related activity is actually shut off during highly demanding sensory tasks.
+    - Frontal activity relates to introspection and reporting rather than to conscious perception.
+- Consciousness and attention
+    - Attention and consciousness often go hand-in-hand.
+    - E.g. When we pay attention to an object, it becomes more vivid. And when we shift it away, it fades from consciousness.
+    - While attention and consciousness may seem to be identical, there are strong arguments for the dissociation between attention and consciousness.
+    - E.g. Paying attention to a stimulus decreases the duration of its afterimage, whereas consciously seeing the stimulus increases the duration of its afterimage.
+    - Attention can also be deployed to a stimulus that remains unconscious.
+    - The other dissociation, consciousness without attention, is more controversial.
+    - E.g. When driving along a familiar road, we might not be paying attention to the road but does that mean we don’t experience it at all.
+- Consciousness and memory
+    - There’s also a dissociation between working memory and consciousness as there are patients with prefrontal lesions, where working memory is severely compromised, but consciousness is clearly preserved.
+    - There’s also the case of people with amnesia that have lost their episodic memories but are still conscious.
+    - E.g. Patient H.M.
+- Consciousness and space
+    - The brain employs different maps of space using different frames of reference.
+    - E.g. Eye-centered. head-centered, and body-centered maps.
+    - Like attention, it’s difficult to dissociate consciousness from spatial awareness.
+    - E.g. The condition of neglect pairs awareness and consciousness to ignore a part of the visual field, body, or space.
+- Consciousness and the bodily self
+    - Can consciousness exist in the absence of a sense of self or of a body?
+    - Distinctions of self
+        - *Narrative, autobiographical self*: the self that characterizes the fundamental sense of who we are.
+        - *Feeling of agency*: experiencing that one is the source of one’s actions.
+        - *Feeling of ownership*: the knowledge that your body and its parts are yours.
+            - E.g. The body is heavily represented in the brain.
+    - Experiments like the rubber hand illusion show us that our sense of ownership can be altered.
+    - Conditions like asomatognosia further show us that our sense of ownership over our own body can be altered without changes in consciousness.
+    - Even if we take away the bodily self, our experience still seems to be centered somewhere behind the eyes.
+    - Consciousness feels to be centered somewhere.
 - To locate the brain regions for each conscious modality, we would look to regions whose lesions eliminates the experience of colors, shapes, faces, etc.
 - However, creating such a list is difficult because lesions are rarely selective and symptoms change with time.
 - Three criteria for mapping a brain region to sensory experience
@@ -723,45 +730,50 @@ excerpt: "A collection of literature reviews on consciousness."
 - E.g. Contents of consciousness are the experiences you are having at the moment.
 - On one side, there are localized brain lesions that affect the contents of consciousness, such as agnosia, without affecting the level of consciousness.
 - On the other side, there are lesions that affect the level of consciousness, such as coma, that don’t affect the contents of consciousness.
-- Review of waking up from NREM and REM sleep.
-- During NREM sleep, if TMS is applied, it remains localized to the site of stimulation without spreading out and activating connected brain regions.
-- There’s a correlation between the reduced level of consciousness during sleep and the break down of connectivity among cortical regions.
-- Measurements suggest that the sleeping brain becomes bistable. It either breaks down in causally independent modules or bursts into a global, stereotypical response.
+- Sleep
+    - Review of waking up from NREM and REM sleep.
+    - During NREM sleep, if TMS is applied, it remains localized to the site of stimulation without spreading out and activating connected brain regions.
+    - There’s a correlation between the reduced level of consciousness during sleep and the break down of connectivity among cortical regions.
+    - Measurements suggest that the sleeping brain becomes bistable. It either breaks down in causally independent modules or bursts into a global, stereotypical response.
 ![Figure 25.3](figure25-3.png)
-- Lucid dreaming is a good example of the dissociation between consciousness and reflective consciousness.
-- After sleeping, anesthesia is the next most common manipulation of the level of consciousness.
-- Anesthesia comes in two class
-    - *Intravenous*: injected into the blood stream.
-    - *Inhaled*: breathed in.
-- At low levels of inhaled anesthesia, subjects report distortions of time perception, a feeling of disconnection from the environment, and drowsiness.
-- At medium levels, people experience a shrinking in the field of consciousness, as if they were on the verge of falling asleep.
-- The transition to unconsciousness (loss of consciousness (LOC)) is sudden, suggesting that neural processes underlying consciousness change in a non-linear manner.
-- At the cellular level, many anesthetics have mixed effects, but the overall result is a decrease in neuronal excitability by either increasing inhibition or decreasing excitation.
-- E.g. Enhancing GABA inhibition or hyperpolarizing cells by leaking potassium.
-- Several anesthetics act on common sites such as
-    - Posterior cingulate cortex
-    - Parietal cortex
-- It’s difficult to say, however, if anesthetics produce unconsciousness when they affect a particular set of areas, or if they produce widespread deactivation of corticothalamic circuits.
-- The most consistent effect is a reduction of thalamic metabolism and blood flow, suggesting that the thalamus may serve as a consciousness switch.
-- Remember the fMRI signals mostly reflect synaptic activity rather than cellular firing.
-- Another study showed that when a patient lost consciousness, the cortical EEG changed dramatically but thalamic EEG didn’t change until 10 minutes later.
-- This implies that the deactivation of cortex alone is sufficient for loss of consciousness and doesn’t require thalamic activity.
-- Anesthetics may also induce LOC by disrupting the integration between the corticothalamic system as this system seems to be organized like a small-world network.
-- Thus, anesthetics only need to disrupt a few long-range connections to disrupt integration and global connectivity.
-- Coma and vegetative state (also called unresponsive wakefulness syndrome) are characterized by a loss of consciousness that is hard or impossible to reverse.
-- Recovery from a vegetative state is associated with restoring the functional connectivity between intralaminar thalamic nuclei and prefrontal and anterior cingulate cortices.
-- LOC during the tonic phase of generalized seizures is noteworthy because it occurs at times when neuronal activity is extremely high and synchronous.
-- All seizures that cause an impairment of consciousness are associated with changes in activity in three sets of brain areas.
-    - Increased activity in the upper brainstem and medial thalamus.
-    - Decreased activity in the anterior and posterior cingulate, medial frontal cortex, and precuneus.
-    - Altered activity in the lateral and orbital frontal cortex and in the lateral parietal cortex.
-- It isn’t known which of these three sets of areas are crucial for the LOC.
-- Two things are clear
-    - These same areas are also affected in sleep, anesthesia, and vegetative state.
-    - It seems that consciousness is lost when neurons are excessively and synchronously active, rather than inactive.
+    - Lucid dreaming is a good example of the dissociation between consciousness and reflective consciousness.
+- Anesthesia
+    - After sleeping, anesthesia is the next most common manipulation of the level of consciousness.
+    - Anesthesia comes in two class
+        - *Intravenous*: injected into the blood stream.
+        - *Inhaled*: breathed in.
+    - At low levels of inhaled anesthesia, subjects report distortions of time perception, a feeling of disconnection from the environment, and drowsiness.
+    - At medium levels, people experience a shrinking in the field of consciousness, as if they were on the verge of falling asleep.
+    - The transition to unconsciousness (loss of consciousness (LOC)) is sudden, suggesting that neural processes underlying consciousness change in a non-linear manner.
+    - At the cellular level, many anesthetics have mixed effects, but the overall result is a decrease in neuronal excitability by either increasing inhibition or decreasing excitation.
+    - E.g. Enhancing GABA inhibition or hyperpolarizing cells by leaking potassium.
+    - Several anesthetics act on common sites such as
+        - Posterior cingulate cortex
+        - Parietal cortex
+    - It’s difficult to say, however, if anesthetics produce unconsciousness when they affect a particular set of areas, or if they produce widespread deactivation of corticothalamic circuits.
+    - The most consistent effect is a reduction of thalamic metabolism and blood flow, suggesting that the thalamus may serve as a consciousness switch.
+    - Remember that fMRI signals mostly reflect synaptic activity rather than cellular firing.
+    - Another study showed that when a patient lost consciousness, the cortical EEG changed dramatically but thalamic EEG didn’t change until 10 minutes later.
+    - This implies that the deactivation of cortex alone is sufficient for loss of consciousness and doesn’t require thalamic activity.
+    - Anesthetics may also induce LOC by disrupting the integration between the corticothalamic system as this system seems to be organized like a small-world network.
+    - Thus, anesthetics only need to disrupt a few long-range connections to disrupt integration and global connectivity.
+- Coma and related states
+    - Coma and vegetative state (also called unresponsive wakefulness syndrome) are characterized by a loss of consciousness that is hard or impossible to reverse.
+    - Recovery from a vegetative state is associated with restoring the functional connectivity between intralaminar thalamic nuclei and prefrontal and anterior cingulate cortices.
+- Seizures
+    - LOC during the tonic phase of generalized seizures is noteworthy because it occurs at times when neuronal activity is extremely high and synchronous.
+    - All seizures that cause an impairment of consciousness are associated with changes in activity in three sets of brain areas.
+        - Increased activity in the upper brainstem and medial thalamus.
+        - Decreased activity in the anterior and posterior cingulate, medial frontal cortex, and precuneus.
+        - Altered activity in the lateral and orbital frontal cortex and in the lateral parietal cortex.
+    - It isn’t known which of these three sets of areas are crucial for the LOC.
+    - Two things are clear
+        - These same areas are also affected in sleep, anesthesia, and vegetative state.
+        - It seems that consciousness is lost when neurons are excessively and synchronously active, rather than inactive.
 - Despite knowing this, it’s difficult to converge on a set of brain structures that are sufficient and necessary for consciousness.
 - What’s undisputed is that broad lesions or inactivation of the corticothalamic system abolish consciousness.
 - Evidence for this fact
+    - Unambiguous examples of unresponsive wakefulness syndrome demonstrate that the loss of consciousness is usually associated with widespeard lesions of the grey or white matter of the cortex, and most of the time with significant thalamic involvement.
     - Lesions outside of the corticothalamic system don’t affect consciousness.
     - E.g. Spinal cord and cerebellum.
     - Rather than playing a direct role in consciousness, the cerebellum appears to function to control the acquisition of sensory inputs and as a learning device for motor, perceptual, and cognitive functions.

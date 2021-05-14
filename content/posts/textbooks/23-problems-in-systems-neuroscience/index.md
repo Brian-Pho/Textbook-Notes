@@ -6,7 +6,7 @@ categories:
   - Textbooks
 book: "23-problems-in-systems-neuroscience"
 book_authors: "J. Leo van Hemmen, Terrence J. Sejnowski"
-excerpt: "A discussion of some problems in systems neuroscience"
+excerpt: "A discussion of some problems in systems neuroscience."
 ---
 
 # Part I: How Have Brains Evolved?

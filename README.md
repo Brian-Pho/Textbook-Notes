@@ -75,3 +75,4 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 
 - Replace "\. \n" with ".\n" and replace "\? \n" with "?\n" for notes written on mobile (it auto-adds space after period).
 - VS Code Replace "- (.*[^*]):" with "- *$1*:".
+- ![Figure ](figure.png)

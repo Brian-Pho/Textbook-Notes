@@ -48,3 +48,5 @@ The following is a list of question about the brain that I don't know the answer
     - No
 - Population coding based on Georgepopulous?
     - No
+- Panpsychism?
+    - No

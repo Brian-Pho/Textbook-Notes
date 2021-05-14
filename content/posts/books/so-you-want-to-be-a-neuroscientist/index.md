@@ -51,9 +51,9 @@ excerpt: "A modern account of how to become a neuroscientist."
     - You'll gain self-confidence and project management skills.
     - You'll get five years of intense research experience.
 - Some misguided reasons to get a PhD
-    - To learn about the brain.
-    - For the money.
-    - To help people.
+    - To learn about the brain
+    - For the money
+    - To help people
 - Two main reasons why you should get a PhD
     - You're positive you need a PhD to get to the next step in your career.
     - You'll just really love five or more years of research and the value that will bring to your life.
@@ -66,8 +66,8 @@ excerpt: "A modern account of how to become a neuroscientist."
 - Bring a good scientist means having a critical eye for weaknesses in experimental designs and interpretations.
 - Don't dive in before you feel ready to take on a few challenging years.
 - Typical three stages of a neuroscience PhD
-    1. First year: coursework + research rotations
-    2. Second year: coursework + research in you PhD lab
+    1. First year: coursework + research rotations.
+    2. Second year: coursework + research in you PhD lab.
     3. Third plus years: research. All day, most days.
 - Most programs will pay you a small yearly stipend as a graduate student.
 - Almost every university will pay for your tuition costs and health insurance.
@@ -239,7 +239,7 @@ excerpt: "A modern account of how to become a neuroscientist."
 - On your resume, whenever you can put numbers behind your claims, you should.
 - It's notoriously difficult to get a job as a principal investigator (PI).
 - Of all biology postdocs, about 27 percent will obtain a tenure-track faculty job.
-- The chances of you getting some sort of research job as an academic is about 30-40 percent.
+- The chances of you getting some sort of research job as an academic is about 30-40%.
 - Postdocs are additional years spent in a lab to gain more experience.
 - The main reason to pursue a postdoc fellowship is to stay in academia because they're necessary steps for tenure-track faculty jobs.
 - In most cases, doing a traditional academic postdoc won't give you an advantage in industry jobs.
@@ -277,6 +277,6 @@ excerpt: "A modern account of how to become a neuroscientist."
 - Most of the main science journals employ full-time editors who handle manuscript submissions from scientists.
 - Scientists can also work at the intersection between research and policymaking.
 - The book ends with a bunch of stories from neuroscientists, these are great but I have no notes for them.
-- “If you don't see what it's like first hand, then you don't really know if it's right for you.”
-- “I didn't necessarily see myself getting grants for the rest of my life.”
-- At its core, good journalism is really about asking the right questions.
+    - "If you don't see what it's like first hand, then you don't really know if it's right for you."
+    - "I didn't necessarily see myself getting grants for the rest of my life."
+    - "At its core, good journalism is really about asking the right questions."

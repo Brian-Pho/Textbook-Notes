@@ -25,7 +25,7 @@ A list of resources and people in artificial intelligence and neuroscience resea
 - Marcus Hutter (deepmind)
 - Josh Tenenbaum (cognitive science, probabilistic models)
 - Gary Marcus (critic of deep learning, hybrid ai)
-- Richard S. Sutton (reinforcement learning, temporal difference learning)
+- Richard Sutton (reinforcement learning, temporal difference learning)
 - Judea Pearl (bayesian networks, causal inference)
 - Ben Goertzel (opencog)
 - Pei Wang (non-axiomatic reasoning system)

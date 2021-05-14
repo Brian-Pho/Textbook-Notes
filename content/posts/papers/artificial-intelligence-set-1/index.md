@@ -510,6 +510,7 @@ excerpt: "My notes on papers exploring artificial intelligence."
     - Local generalization: new information but within a known distribution (known unknowns).
     - Broad generalization: new information outside of known distribution (unknown unknowns).
     - Extreme generalization: ability to handle entirely new tasks that only share abstract commonalities with previously encountered situations (unknown unknowns across an unknown range of tasks/domains). Humans are at this stage.
+
 | **Degree of Generalization** | **Training Distribution** | **Testing Distribution** | **Human Tasks** | **All Tasks** |
 | ---------------------------- | ------------------------- | ------------------------ | --------------- | ------------- |
 | Absence                      | Known                     | Known                    | Known           | Known         |

@@ -44,7 +44,6 @@ I plan to read the following textbooks and books. This list will be updated as m
 - Biopsychology (10th Ed.)
 - Cognition (8th Ed.)
 - Handbook of Collective Intelligence
-- The Cambridge Handbook of Expertise and Expert Performance
 
 ## Books
 
