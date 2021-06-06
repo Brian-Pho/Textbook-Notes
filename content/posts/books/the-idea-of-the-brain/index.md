@@ -10,7 +10,7 @@ excerpt: "The past and future of neuroscience."
 
 ## Introduction
 
-- Steno’s view: if we want to understand what the brain does and how it does it, we should view the brain as a machine and take it apart to see how it works.
+- *Steno’s view*: if we want to understand what the brain does and how it does it, we should view the brain as a machine and take it apart to see how it works.
 - For over 350 years, we've been following this suggestion.
 - This books tells the story of the brain and the discoveries that we've made along the way.
 - Despite a solid bedrock of understanding, we have no clear idea on how neurons produce the brain's activity.
@@ -165,7 +165,7 @@ excerpt: "The past and future of neuroscience."
 - Review of behaviorism.
 - At the time, there was still no good explanation of apparent goal-directed phenomenon in physiology and behaviour.
 - Uexkull's two key ideas
-    - Umwelt: the inner sensory world of each species.
+    - *Umwelt*: the inner sensory world of each species.
     - That the brain could sense how its output had changed the world and alter its functioning accordingly; in essence feedback.
 - The nature of our sensory impressions is determined a priori, before any experience, by this physiological apparatus of our senses, sensory nerves, and sensory nerve centers.
 - One way to be relatively sure of understanding a mechanism is to make that mechanism.
@@ -267,7 +267,7 @@ excerpt: "The past and future of neuroscience."
 - Review of the critical period and how the brain changes structure as a consequence of experience.
 - HW's work suggests that visual processing in the brain is hierarchically organized.
 - Review of grandmother cells, the Jennifer Aniston neuron, and the dorsal and ventral visual streams.
-- Sparse coding: the higher the level of representation, the fewer the number of cells involved and the sparser their activity.
+- *Sparse coding*: the higher the level of representation, the fewer the number of cells involved and the sparser their activity.
 - Review of the connectome and our inability to have cell-level connectome knowledge due to technological issues with the storage and processing of brain scans at that resolution.
 - Work by researchers in simple nervous systems suggests that connectomics, while providing essential anatomical background, will fail to explain what's going on in the brain unless it's also accompanied by both experimental and modelling approaches.
 - The complexity of any nervous system is simply astonishing.
@@ -396,7 +396,7 @@ excerpt: "The past and future of neuroscience."
 - One of the greatest problems that we have to solve is how to link the cell-level of the brain with the population-level of the brain.
 - The author suspects that for much of the rest of the century, this is the main problem we face.
 - An even bigger problem with theories that are intended to understand brain function on the basis of structure can be seen if we imagine that a microprocessor were an example of Crick's alien technology.
-- Crick's alien technology: if we were given a device from a Martian/alien, how could we understand what it does and how it does it?
+- *Crick's alien technology*: if we were given a device from a Martian/alien, how could we understand what it does and how it does it?
 - A full analysis would reveal that input from the external world could alter its function, but it seems unlikely that we would realize that a Martian would use the device to play a game.
 - And to know that, we would have to see how a Martian interacts with the machine.
 - In the absence of that external element, both the meaning and the mode of functioning of the device would be obscure.

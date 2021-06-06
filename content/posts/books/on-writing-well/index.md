@@ -214,7 +214,7 @@ excerpt: "The classic guide to writing nonfiction."
 - Lead readers who know nothing, step by step, to grasp a subject that they didn't think they could understand or are too afraid they are too dumb to understand.
 - Imagine science writing as an upside-down pyramid.
 - Start with facts and build from there.
-- Ask yourself: so what? Why?
+- Ask yourself: So what? Why?
 - Help the reader to identify with the scientific work being done.
 - Avoid technical jargon.
 - Never forget where you left the reader.

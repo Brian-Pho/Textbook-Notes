@@ -18,7 +18,7 @@ excerpt: "A modern account of how to become a neuroscientist."
 ![Figure 2.3](figure2-3.png)
 - When a label is more psychology-centric, it means that it's focus is more broad than neuroscience as it focuses less on neural mechanisms and more on behavior.
 - Clinical/translational research is often tied directly to diseases.
-- Basic research: research that doesn't directly address any one disease.
+- *Basic research*: research that doesn't directly address any one disease.
 - Neuroscience's highest goal is to understand everything about the nervous system.
 - E.g. How consciousness and behaviour arises.
 - Neuroscience is driven by technological innovation.
@@ -122,12 +122,12 @@ excerpt: "A modern account of how to become a neuroscientist."
 
 - The type of research that you do will dramatically change the type of questions you can ask.
 - In general, our tools to study the nervous system can be broken up into two categories
-    - Structural: anatomy and connectivity.
-    - Functional: activity of the nervous system.
+    - *Structural*: anatomy and connectivity.
+    - *Functional*: activity of the nervous system.
 - Types of research conditions
-    - In vitro: cells in a laboratory dish.
-    - In vivo: live animals.
-    - In silico: modelling the brain using a computer.
+    - *In vitro*: cells in a laboratory dish.
+    - *In vivo*: live animals.
+    - *In silico*: modelling the brain using a computer.
 - Types of model organisms in neuroscience
     - Humans
         - One major benefit is that work done on humans is the model that we care the most about.
@@ -181,9 +181,9 @@ excerpt: "A modern account of how to become a neuroscientist."
     - You should talk about authorship even if you're not sure exactly where the project is headed.
     - You should talk about authorship before you think you need to.
 - Author order
-    - Lead author(s): lead the research, collected most of the data, wrote the paper.
-    - Middle author(s): conducted some research, ran some analyses, gave substantial input.
-    - Principle investigator(s): designed the project, provided the funds and resources, wrote the paper.
+    - *Lead author(s)*: lead the research, collected most of the data, wrote the paper.
+    - *Middle author(s)*: conducted some research, ran some analyses, gave substantial input.
+    - *Principle investigator(s)*: designed the project, provided the funds and resources, wrote the paper.
 - The best way to protect your work is to start a conversation.
 - It's critical that you communicate honestly, concisely, and convincingly about your research.
 - Research should be communicated as concisely as possible.

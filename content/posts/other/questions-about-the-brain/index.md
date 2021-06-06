@@ -32,10 +32,14 @@ The following is a list of question about the brain that I don't know the answer
 - What's the difference between a signal and information?
     - This is important in understanding the brain because APs are signals, but that doesn't mean they carry information.
 - After a signal is finished being processed in the brain, where does it go? When I see an object and follow the path of APs, where does it stop?
-- What's the purpose of the brain ventricle? What's the wiring diagram for the neocortex?
+- What's the wiring diagram for the neocortex?
 - What is neuroscience trying to achieve? What does a complete understanding of the brain mean?
 - Is the meaning of a neural signal determined by the pathway it travels? Or is it due to the source/destination?
 - Is the grow of new neural pathways similar to the growth of new blood vessels? (angiogenesis)
+- Why does vision feel so different from smell?
+    - Maybe the subjective experience of a sense is determined by the structure of the data.
+    - Maybe the pathway the information takes determines the experience; the meaning of the signal.
+    - As long as there is clear structure to the data and a feedback loop, the data should give rise to new qualia.
 
 ## Solved Questions
 
@@ -43,10 +47,23 @@ The following is a list of question about the brain that I don't know the answer
     - Hypothesis is eye gaze.
     - Domesticated dogs also show an increase in scleras, why?
 - Is the brain a computer?
-    - No, the brain isn't an implementation of a Turing machine.
-- Are mirror neurons a valid finding?
-    - No
+    - No, the brain isn't an implementation of a Turing machine nor does it perform computation as defined by computer science (performing calculations).
 - Population coding based on Georgepopulous?
+    - No
+- Mirror neurons?
     - No
 - Panpsychism?
     - No
+- fMRI?
+    - Initially no (blobology), but this [paper](http://doi.org/10.1126/science.1239052) convinced me that fMRI does have a place in explaining the brain. Mainly, it can record from scales greater than single neurons, but smaller than EEG. The results from that paper probably couldn't have been found using electrode recordings or EEG.
+- Is the purpose of brains to help us survive?
+    - Yes and no. On a species-level, yes. On an individual-level, no. This is seen in cases where people commit suicide and become addicted to drugs, fast-food, and don't care for their survival.
+- Is the purpose of brains to mirror the outside work; to reflect reality?
+    - Yes and no. Brains mirror the outside world as argued in Livewired, but we can also imagine ideas that don't exist in reality such as fantasy books, dreams, and counterfactuals.
+
+## To Explore Questions
+
+- Is LTP expressed presynaptically or postsynaptically?
+    - I know the consensus is postsynaptically, but I want to know how they got this answer.
+- What's the purpose of the brain ventricle?
+- I'm very skeptical of grid and place cells. Do they actually exist? What purpose do they serve? What other theory could explain the data?

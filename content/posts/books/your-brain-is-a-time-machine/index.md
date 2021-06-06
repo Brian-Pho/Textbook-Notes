@@ -36,8 +36,8 @@ excerpt: "The Neuroscience and Physics of Time."
 - Information about the past is only useful if it allows us to anticipate the future.
 - There's been an increasing focus on time in neuroscience and psychology.
 - Two philosophical theories of time
-    - Presentism: argues that only the present is real.
-    - Eternalism: argues that the past and future are equal to the present.
+    - *Presentism*: argues that only the present is real.
+    - *Eternalism*: argues that the past and future are equal to the present.
 ![Figure 1.2](figure1-2.png)
 - In presentism, time travel is impossible because you can't travel to a time that doesn't exist regardless of the laws of physics.
 - In eternalism, time travel is possible but may not be achievable due to impossible requirements such as negative mass and infinite energy.
@@ -48,11 +48,11 @@ excerpt: "The Neuroscience and Physics of Time."
 - Any discussion of time is inevitably muddled by the many meanings of the word "time".
 - E.g. "Her talk on the nature of time ended on time, but seemed to drag on for a long time."
 - This sentence mixes three definitions of time
-    - Natural time: the concept of time as a medium or dimension.
-    - Clock time: time as what clocks measure.
-    - Subjective time: our conscious sense of time; the subjective feeling of the passage of time and how much of it has passed.
+    - *Natural time*: the concept of time as a medium or dimension.
+    - *Clock time*: time as what clocks measure.
+    - *Subjective time*: our conscious sense of time; the subjective feeling of the passage of time and how much of it has passed.
 - What exactly is a clock?
-- Clock: a device that undergoes a reproducible change and offers a way to quantify these changes.
+- *Clock*: a device that undergoes a reproducible change and offers a way to quantify these changes.
 - E.g. Swings of a pendulum, vibrations of a quartz crystal, or the amount of radioisotopes of carbon in a fossil sample.
 - Clock time is a local measure of time that's neither universal nor absolute.
 - Like all subjective experiences, subjective time is made up by the brain and doesn't exist outside the skull.
@@ -141,12 +141,12 @@ excerpt: "The Neuroscience and Physics of Time."
 - People generally overestimate the duration of intense events, but this also happens for mundane events such as waiting in line at the grocery store.
 - Our subjective sense of time is actually quite inaccurate.
 - Boring activities can create a feeling of chronostasis.
-- Chronostasis: the sensation that time is standing still.
+- *Chronostasis*: the sensation that time is standing still.
 - Exciting or engaging events have the opposite effect where time seems to have vaporized.
 - E.g. Being immersed in your favorite hobby or experiencing how time flies by while having fun.
 - Two types of timing
-    - Prospective: determining the passage of time starting from the present into the future.
-    - Retrospective: determining the passage of time from the past until the present.
+    - *Prospective*: determining the passage of time starting from the present into the future.
+    - *Retrospective*: determining the passage of time from the past until the present.
 - We engage in both types of timing everyday.
 - E.g. If someone asks you to remind them in five minutes versus if someone left five minutes ago and someone else asks how long ago since they left.
 - The brain uses different mechanisms for each type of timing.
@@ -180,10 +180,10 @@ excerpt: "The Neuroscience and Physics of Time."
 
 ## Chapter 5: Patterns in Time
 
-- Phoneme: the smallest unit of speech.
+- *Phoneme*: the smallest unit of speech.
 - Different languages use different sets of phonemes, but the collection of all possible phonemes is known and studied by linguists.
 - Review of voice-onset time and prosody.
-- Motherese (baby talk): a change in speech patterns when talking to infants where the parent slows down their speech.
+- *Motherese (baby talk)*: a change in speech patterns when talking to infants where the parent slows down their speech.
 - Time is to speech and music recognition as space is to visual object recognition.
 - They require solving a hierarchy of embedded temporal problem and this requires some sort of memory.
 - In object recognition, all of the features are simultaneously present but the relevant features of speech and music require integration across time.
@@ -220,11 +220,11 @@ excerpt: "The Neuroscience and Physics of Time."
 - E.g. Oscillating brain waves, breathing, walking, heartbeat, circadian clocks.
 - The circuits controlling breathing have no idea if they've generated one thousand, one million, or one billion breathing cycles.
 - There's little experimental support for the internal clock model of timing.
-- Spatiotemporal pattern: a spatial pattern that changes over time.
-- Short-term synaptic plasticity: use-dependent changes in synaptic strength.
+- *Spatiotemporal pattern*: a spatial pattern that changes over time.
+- *Short-term synaptic plasticity*: use-dependent changes in synaptic strength.
 - Much like how the diameter of a ripple in a pond contains information about how much time has elapsed since the raindrop fell, the strength of a synapse at any given moment contains temporal information about how long ago that synapse was last used.
 - Maybe this is how the brain tells time on the order of hundreds of milliseconds; using short-term synaptic plasticity.
-- Population clock: that each moment of time is represented by a large subpopulation of active neurons.
+- *Population clock*: that each moment of time is represented by a large subpopulation of active neurons.
 - If spatiotemporal patterns of neural activity within a population of neurons are to be used as a timer, they must repeat the same pattern again and again in response to the same context and stimulus.
 - Experimental evidence supports the repetition of the spatiotemporal pattern, but the mechanism is unknown.
 - Review of chaotic dynamical systems.
@@ -243,7 +243,7 @@ excerpt: "The Neuroscience and Physics of Time."
 - Much like how the brain has different mechanisms to tell time prospectively and retrospectively, we've developed different ways to tell times backwards and forwards.
 - This chapter recounts the history of clock development.
 - One of the main ways for telling time backwards is radiodating.
-- Radiodating: using the current amount of a radioactive element and its half life to work out when that organism/item was created.
+- *Radiodating*: using the current amount of a radioactive element and its half life to work out when that organism/item was created.
 - This was used to settle the debate on whether new neurons are created in adult human brains.
 - If new neurons are created, then we'd expect them to pick up more carbon 14 isotopes and that's exactly what we see in dead brains.
 - Carbon 14 is used as the measure because nuclear bombs release it and it’s picked up by organisms. So if new neurons aren’t created, then we wouldn’t see any carbon 14 in a dead person’s brain.
@@ -322,7 +322,7 @@ excerpt: "The Neuroscience and Physics of Time."
 - E.g. A short video or he was studying for a long time. I'm looking forward to your birthday. The day flew by.
 - When it comes to statements about moving in space, there's always some standard reference, usually the ground.
 - When it comes to statements about moving in time, there's no standard frame of reference.
-- Kappa effect: that the distance between two events has a profound effect on people's judgments of the amount of time between them.
+- *Kappa effect*: that the distance between two events has a profound effect on people's judgments of the amount of time between them.
 - E.g. If a dot on the left is flashed and then a dot on the right, and if the distance between the dots is greater, then people estimate that the time between flashes is longer.
 - In other words, people seem to use distance as a proxy for time even if it isn’t accurate.
 - The reverse was also shown to be true (called the tau effect).
@@ -341,7 +341,7 @@ excerpt: "The Neuroscience and Physics of Time."
 
 ## Chapter 11: Mental Time Travel
 
-- Mental time travel: the ability to project ourselves into the past or future.
+- *Mental time travel*: the ability to project ourselves into the past or future.
 - E.g. Replaying memories or daydreaming about the future.
 - We can revisit the past and previsit the future.
 - Review of semantic (knowledge) and episodic (event) memory. It's the difference between knowing and remembering.
@@ -385,7 +385,7 @@ excerpt: "The Neuroscience and Physics of Time."
 - E.g. Speech has a temporal window of 100 ms but the window is asymmetric. If the sound comes 50 ms before sight, we notice. If it comes after, we don't.
 - The temporal window isn't set in stone and can adapt to the incoming data.
 - The most compelling case of how consciousness reflects a temporally edited account of reality is that later sensory events can actually alter earlier ones.
-- E.g. Cutaneous rabbit illusion: where two taps to the wrist and two taps to the elbow within 100 ms results in feeling four taps hopping along your arm instead of the predicted two taps to each location.
+- E.g. *Cutaneous rabbit illusion*: where two taps to the wrist and two taps to the elbow within 100 ms results in feeling four taps hopping along your arm instead of the predicted two taps to each location.
 - The location of later stimuli alters your conscious perception of the location of the earlier ones.
 - So, consciousness can't be a uniform and continuous account of the flow of time.
 - Review of the neural correlates of consciousness.

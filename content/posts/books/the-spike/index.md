@@ -281,12 +281,12 @@ excerpt: "An epic journey through the brain in 2.1 seconds."
 - The deeper we've plunged into the cortex, the less we can predict from a spike about what's going on in the outside world.
 - Predictive models tell us little about the spikes in the brain.
 - If we only look at what happens in the outside world, then we ignore the influence of other neurons on that neuron.
-- Counters, timers, predictors: all these are views of the output of a single neuron.
+- *Counters, timers, predictors*: all these are views of the output of a single neuron.
 - However, to make a single spike requires more than a single neuron.
 - So Counters and Timers are asking the wrong question.
 - Meaning isn't the spikes of one neuron, but of the Legion.
 - Ask not what a neuron sends, but what it receives.
-- Population decoding: taking the activity of lots of neurons and seeing if we can decide what the population sees.
+- *Population decoding*: taking the activity of lots of neurons and seeing if we can decide what the population sees.
 - All over the cortex, population decoding can successfully predict what’s happening in the outside world from the pattern of spikes.
 - It shows us that the spikes of a population of neurons carry meaning that's invisible when we look at members of that population.
 - However, just because the decoding is successful doesn't mean that that's what's happening in the brain.
@@ -322,7 +322,7 @@ excerpt: "An epic journey through the brain in 2.1 seconds."
 - One of neuroscience's big mysteries is how muscles know when to not do anything.
 - Why are we not always flapping our arms? What controls movement?
 - The answer lies in the newly discovered "null space".
-- Null space: the space of all possible ways the neurons in the motor parts of cortex controlling the body can add up to the same number of total spikes.
+- *Null space*: the space of all possible ways the neurons in the motor parts of cortex controlling the body can add up to the same number of total spikes.
 - The basal ganglia are the brain's stern parents.
 - All layer five neurons that send axons within the cortex seem to send a branch down to the striatum.
 - Electrical stimulation of the striatum causes a body part to move.
@@ -392,7 +392,7 @@ excerpt: "An epic journey through the brain in 2.1 seconds."
 - E.g. Highway What can detect an animal in a visual scene in about 150 ms.
 - The more processing the brain has to do, the slower the response.
 - Stanislas Dehaene five comparison experiment
-    - Asked subjects: is this number larger or smaller than five?
+    - *Asked subjects*: is this number larger or smaller than five?
     - Average response took 400 ms.
     - Which part is the bottleneck? Comprehending, comparing, or responding?
     - Responses were faster if the number was shown not spoken, suggesting the brain comprehends writing faster than speech.

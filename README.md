@@ -11,13 +11,6 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 - <https://github.com/cotes2020/jekyll-theme-chirpy>
 - <https://www.facebook.com/careers/>
 
-## TODO
-
-- [ ] Clean up notes
-- [ ] Clean up grammar and spelling
-- [ ] Fix scrollbar shifting content
-- [ ] Fix iPad view
-
 ## Favicon Generator
 
 - <https://favicon.io/>
@@ -39,6 +32,7 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 - <https://regexr.com/>
 - <https://www.thepunctuationguide.com/>
 - <https://www.quickpicturetools.com/en/combine_images/>
+- Markdown linter: <https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint>
 
 ## Note Creation Process
 
@@ -46,6 +40,7 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 
 - Parts use h1 (\#), chapters use h2 (\#\#), and subsections use h3 (\#\#\#)
 - If a part/chapter has a subtitle, use italics (\*subtitle goes here\*)
+- Parts are in roman numerals, chapters are in digits.
 - Definitions are in italics, don't italicize the colon, end with a period.
 - E.g. *Algorithm*: a series of steps to complete a goal.
 - End bullet points with periods unless they have sub-bullet points.
@@ -55,9 +50,6 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
     - Except when the inner points are full sentences or long.
 - No newline breaks except between sections within a chapter.
 - No colon “:” before nested list.
-- Parts are in roman numerals.
-- Chapters are in digits.
-- Markdown linter: <https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint>
 
 ### Process
 
@@ -75,4 +67,5 @@ The website was built using Gatsby and React-Bootstrap, and the theme was heavil
 
 - Replace "\. \n" with ".\n" and replace "\? \n" with "?\n" for notes written on mobile (it auto-adds space after period).
 - VS Code Replace "- (.*[^*]):" with "- *$1*:".
+- Replace double spaces "  " with single space " "
 - ![Figure ](figure.png)

@@ -36,7 +36,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
     - To use distributed dynamics both to confer stability on each representation in the face of noise and to optimize the filling of the representation space.
 - We propose that the olfactory bulb (OB) actively transforms a distributed, multidimensional, afferent input into a compact and easily recalled representation.
 - In zebrafish, we found that spatiotemporal patterning results in a rapid decorrelation of odor representations.
-- Decorrelation: that the overlap between the representations of related odors decreases over time.
+- *Decorrelation*: that the overlap between the representations of related odors decreases over time.
 - However, representation size, on average, remained constant.
 - Early epochs offered reliable clues for odor classification; later ones allowed for precise stimulus identification.
 - Each odor is represented by a constantly changing assembly in which each active neuron both participates in the dynamics of others, and benefits from the global stability of the assembly, preventing large individual response deviations.
@@ -58,14 +58,14 @@ excerpt: "A discussion of some problems in systems neuroscience."
 - There are also associative areas in the brain that don’t receive any direct sensory input in invertebrates and vertebrates.
 - We are far from being able to answer the question in the chapter title.
 - The rest of this chapter is a case study on hunting in the barn owl; demonstrating the importance of natural environments in studying brains.
-- Hunting: a behavior that can be divided into components such as decision to start hunting, searching for prey, localization of prey, etc.
+- *Hunting*: a behavior that can be divided into components such as decision to start hunting, searching for prey, localization of prey, etc.
 - Barn owls mainly hunt small rodents such as mice or insectivores such as shrews.
 - These animals have to fly out from the nest, search an area of several square kilometers, detect, localize, catch prey, and then fly back to the nest.
 - Field observations suggest that barn owls follow a favored route, suggesting memory for places with abundant food.
 - Out of the possible 3D coordinate systems that describe the hunting situation, the spherical coordinate system seems to be the closest to the natural coordinate system that the owl uses.
 - A spherical coordinate system consists of two angles
-    - Azimuth: horizonal angular deviation of the prey from the midsagittal plane.
-    - Elevation: vertical angular deviation of the prey from the horizontal plane.
+    - *Azimuth*: horizonal angular deviation of the prey from the midsagittal plane.
+    - *Elevation*: vertical angular deviation of the prey from the horizontal plane.
 - We shouldn’t forget that barn owls have adapted to hunting at night or in environments lacking visibility, which explains their heavy reliance on auditory information.
 - For sound localization, barn owls use changes in interaural level difference (ILD) for changes in elevation, and changes in interaural time difference (ITD) for changes in azimuth.
 - So, the asymmetry in ear position leads to a separation of 2D coordinates, one for ITD and one for ILD.
@@ -120,11 +120,11 @@ excerpt: "A discussion of some problems in systems neuroscience."
 - E.g. Why doesn’t the retina directly project to the cortex instead of relaying through the lateral geniculate nucleus (LGN)?
 - Based on a new interpretation of the data, the author suggests that the thalamus doesn’t merely relay information, but also serves a vital role in corticocortical communication.
 - Every relay cell of every thalamic nucleus of every mammalian species has displayed the property of low-threshold spiking.
-- Low-threshold spiking: when it’s easy for a neuron to spike.
+- *Low-threshold spiking*: when it’s easy for a neuron to spike.
 - This means that the only messages reaching the cortex from relay cells is by action potentials.
 - Two firing modes of relay cells
-    - Tonic: slow.
-    - Burst: fast.
+    - *Tonic*: slow.
+    - *Burst*: fast.
 - To change the firing mode of a thalamic relay cell, we have to sustain (longer than 100 ms) either a hyperpolarization to switch to burst mode, or a depolarization to switch to tonic mode.
 - An analysis of raw information content relayed suggests that the amount is roughly the same during tonic and burst firing.
 - However, the nature of the information differs.
@@ -137,9 +137,9 @@ excerpt: "A discussion of some problems in systems neuroscience."
 - One place to look for ways to control the response model is in thalamic circuitry.
 - E.g. Neurotransmitters and postsynaptic receptors.
 - Two classes of receptors
-    - Ionotropic: transmission is simpler and faster.
+    - *Ionotropic*: transmission is simpler and faster.
         - E.g. AMPA and NMDA.
-    - Metabotropic: transmission is slower.
+    - *Metabotropic*: transmission is slower.
         - E.g. Metabotropic glutamate and muscarinic.
 - The differences between these two classes of receptors are critical in their ability to control response mode.
 - Ionotropic receptors seem too fast to perform the control needed, but metabotropic receptors are slow enough and can sustain the required control signal.
@@ -154,9 +154,9 @@ excerpt: "A discussion of some problems in systems neuroscience."
 - No evidence has supported this idea but it seems plausible.
 - Thus, external control of firing mode is done by cortical and brainstem input. Directly, they depolarize relay cells to effect tonic firing, and indirectly, they hyperpolarize to effect burst firing.
 - Two types of input to thalamic relay cells
-    - Driver: inputs that convey basic information to the cortex.
+    - *Driver*: inputs that convey basic information to the cortex.
         - E.g. LGN for vision, VPN for somatosensory, and MGN for sound.
-    - Modulator: inputs that modulate the thalamic relay.
+    - *Modulator*: inputs that modulate the thalamic relay.
 - Summary of differences
 
 | Driver                                  | Modulator                             |
@@ -242,7 +242,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
 - This suggests that feedback connections act more on the building blocks of cortical processing and less on the higher stages of processing.
 - It’s assumed that attention effects in lower-order areas are under the control of higher-order areas through feedback connections.
 - However, there’s little published evidence for this assumption and the role of feedback connections remains to understood.
-- Attention: used to reduce the load of processing sensory signals by selecting relevant inputs and ignoring others.
+- *Attention*: used to reduce the load of processing sensory signals by selecting relevant inputs and ignoring others.
 - Spatial attention has been shown to influence the gain of neurons in several visual areas.
 - Research suggests that attention regulates the contrast gain of neuron responses in V1.
 - Feedback connections are important for differentiating figure from background.
@@ -277,7 +277,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
     - In other words, faster membranes can spike more frequently.
 - Coding
     - Early studies suggest that external input is represented in the brain by neuronal firing rates.
-    - Firing rate: number of spikes in a specified time window.
+    - *Firing rate*: number of spikes in a specified time window.
     - Since interspike intervals vary from one spike to the next, we need to average over several spikes in order to get a reasonable estimate of the firing rate.
     - In many experiments, the time window is 100 ms or longer.
     - If temporal averaging isn’t just an experimental convenience but the actual code used by neurons, then a neuron further down in the processing stream would have to average its input spike trains over at least 100 ms in order to decode the message of the presynaptic neuron.
@@ -320,7 +320,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
     - Evidence for the synfire model in the cortex is weak at best.
 - An intermediate model that has gained popularity in the last decade is a model in which not only the rates of neurons carry information, but also the correlations in their activity.
 - A pure rate code has difficulty with the binding problem.
-- Binding problem: if multiple objects are present and elevated rates in different populations of neurons indicate features of the object, how does the cortex decide which features belong to the same object?
+- *Binding problem*: if multiple objects are present and elevated rates in different populations of neurons indicate features of the object, how does the cortex decide which features belong to the same object?
 - A correlation-based mechanism has no binding problems.
 - E.g. Multiple objects have correlations between activities representative of the same object in different areas, with no correlation between activities due to different objects.
 - Evidence supports this idea as the level of synchronization seems to encode whether the stimulation is due to one or more objects.
@@ -346,7 +346,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
 - Spontaneous cortical activity of single neurons is often either dismissed as noise or is regarded as insignificant.
 - Recent research suggests that such assumptions should be revised.
 - Author’s results suggest that our understanding of the neural code may remain incomplete if subthreshold dendritic activity isn’t considered and the role of spontaneous population activity is ignored.
-- Cell assembly: when cortical neurons organize dynamically into functional groups by the temporal structure of their spike activity.
+- *Cell assembly*: when cortical neurons organize dynamically into functional groups by the temporal structure of their spike activity.
 - The activity of cells in an assembly is time locked however, the cells that make up the assembly may be spatially intermixed with cells from other assemblies that are performing different computational tasks.
 - So, techniques that can visualize only the average population activity in a given cortical region aren’t adequate to study cell assemblies.
 - Is ongoing activity randomly distributed in space and time, or is its distribution somehow structured?
@@ -354,15 +354,15 @@ excerpt: "A discussion of some problems in systems neuroscience."
 - Spontaneous activity of two adjacent neurons was often correlated with two different spatiotemporal patterns of coherent activity, suggesting that adjacent neurons in the same orientation column can belong to different neuronal assemblies.
 - In spite of the large variability, the evoked responses in single trials can be predicted by taking into account the preceding ongoing activity.
 - Results indicate that ongoing activity plays a major role in affecting cortical response and isn’t noisy, but rather shows a large degree of temporal coherence.
-- Spontaneous regime: ongoing patterns of cortical population activity that occur simultaneously with the AP of a single neuron.
-- Evoked regime: a reproducible pattern of activity evoked by the presentation of a well-defined stimulus that’s optimal for that neuron.
+- *Spontaneous regime*: ongoing patterns of cortical population activity that occur simultaneously with the AP of a single neuron.
+- *Evoked regime*: a reproducible pattern of activity evoked by the presentation of a well-defined stimulus that’s optimal for that neuron.
 - Is there a link between the spontaneous and evoked regime?
 - To use the orchestra analogy
     - We first study the role the neuron plays in the orchestra when we let the orchestra play a familiar tune by presenting it with a stimulus.
     - We then study whether the neuron played the same role in the orchestra when the tune was no longer imposed in the absence of a stimulus.
 - The vast majority of single neurons in the visual cortex have a well-defined tuning curve.
 - E.g. They’re selective for stimuli of specific orientations.
-- Preferred cortical state (PCS): the optimal spatial pattern for a given neuron.
+- *Preferred cortical state (PCS)*: the optimal spatial pattern for a given neuron.
 - One experiment showed that during the presentation of a full-field stimulus optimal for the neuron, the neuron is an obedient member of a larger orchestra; unsurprising.
 - Each presentation of the optimal stimulus evoked increased spiking activity and, as expected, the pattern of population activity became more similar to the neuron’s PCS, as reflected by higher correlation values.
 - The instantaneous state of the population activity can indeed predict how likely a neuron is to fire at any given moment.
@@ -453,7 +453,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
         - This also avoid the problem of grandmother cells since this is more robust to damage.
     - Contour integration
         - Results suggest that V1 neurons have an orientation- and position-specific connectivity structure beyond what’s included in the standard model.
-        - Contour integration hypothesis: that the role of horizontal connections is to amplify the structure of contours.
+        - *Contour integration hypothesis*: that the role of horizontal connections is to amplify the structure of contours.
     - Surface representation
         - The fundamental feature of images are surfaces, not 2D features such as spots, bars, edges, or gratings.
         - Furthermore, we rarely see the entire surface of an object due to occlusion.
@@ -563,7 +563,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
 - How is time represented in the brain?
 - Given that evolution built up neural representations over time, we don’t expect a single and universal answer.
 - Which types of representations best support flexible and robust computations of temporal relations?
-- Time warp: a change of stimulus intensity or a change of the duration of all signal components.
+- *Time warp*: a change of stimulus intensity or a change of the duration of all signal components.
 - This chapter presents a collection of basic computing principles with a focus on algorithms that deal with sensory sequences over varying time scales.
 - One way to integrate temporal information over short time scales is to use axonal, synaptic, and dendritic delays.
 - E.g. Jeffress delay-line model of sound localization.
@@ -591,7 +591,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
 - E.g. If speech is played back at two-times speed, we can still recognize and understand the speech. Or how both AAABBBCCCCCCDDD and ABCCD are both the same signal, with the first signal being a threefold time warp.
 - How does the brain perform this time-warp-invariant recognition?
 - This problem is a special case of the analog-match problem.
-- Analog-match problem: to recognize a multidimensional input vector ($$x_1, x_2, ..., x_N$$) in a scale-invariant manner ($$\lambda x_1, \lambda x_2, ..., \lambda x_N$$ with $$\lambda \in R$$).
+- *Analog-match problem*: to recognize a multidimensional input vector ($$x_1, x_2, ..., x_N$$) in a scale-invariant manner ($$\lambda x_1, \lambda x_2, ..., \lambda x_N$$ with $$\lambda \in R$$).
 - In our case, we want the time invariant which means $$T-t_1, T-t_2, ..., T-t_N \approx t_1, t_2, ..., t_N$$.
 - The original time-warp problem can be solved if it’s rephrased as an analog-match problem.
 - A comparison of the current firing rate with the initial firing rate provides a direct measure for the time elapses since the triggering event.
@@ -759,9 +759,9 @@ excerpt: "A discussion of some problems in systems neuroscience."
 - The VD stream, in addition to organizing movements requiring space computation, is also involved in the organization of grasping and manipulating hand movements.
 - These movements require the computation of the size and shape of objects rather than space.
 - Area AIP in the parietal lobe provides this function and it has three main classes of neurons
-    - Visual-dominant: discharge during object fixation and grasping in light but not dark.
-    - Visual-and-motor: discharge in both light and dark but stronger in light.
-    - Motor-dominant: discharge in both light and dark but are silent during object fixation.
+    - *Visual-dominant*: discharge during object fixation and grasping in light but not dark.
+    - *Visual-and-motor*: discharge in both light and dark but stronger in light.
+    - *Motor-dominant*: discharge in both light and dark but are silent during object fixation.
 - AIP is reciprocally connected with area F5 and electrical stimulation of F5 shows that it contains a representation of hand movements.
 - Single-neuron recordings show that most F5 neurons code for specific hand actions.
 - E.g. Grasping, holding, tearing, and manipulating.
@@ -801,7 +801,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
 - A neuron’s projective field, it’s impact on other neurons, is equally important to its function.
 - Cortical neurons don’t act individually but work together with other neurons to accomplish tasks.
 - The goal of uncovering a neuron’s projective field would complement our knowledge of a neuron’s receptive field.
-- Receptive field: a stimulus that causes the receptor/neuron to respond in a specific way.
+- *Receptive field*: a stimulus that causes the receptor/neuron to respond in a specific way.
 - The stimulus that elicits the strongest response is used to define the trigger feature of the cell, which had led to the view that cortical neurons are feature detectors.
 - However, this simplistic view has changed as we’ve learned more.
 - New details of receptive fields
@@ -809,7 +809,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
     - Cortical neurons have intrinsic properties that allow neurons to generate activity without an external stimulus.
     - There are regions outside the defined receptive field that can modulate the response of the cell such as context to enable invariant recognition.
 - Only knowing the receptive field of a neuron isn’t enough to conclude it’s function.
-- Projective field: the impact a neuron has on downstream targets.
+- *Projective field*: the impact a neuron has on downstream targets.
 - The receptive field of a neuron depends on its synaptic inputs; in contrast, the projective field of a neuron depends on its axonal arborization/targets.
 - E.g. If a neuron projects to a motor structure, it hints that that neuron influences motor control.
 - In addition to knowing where a neuron projects to, it’s also important to know the impact that the firing that neuron has on the downstream targets.
@@ -858,8 +858,8 @@ excerpt: "A discussion of some problems in systems neuroscience."
 - Neuromodulation isn’t considered a candidate mechanism because it’s too slow and imprecise to switch complex neural circuits and responses.
 - Switching in neural circuits means to modify that circuit’s neural activity.
 - This could mean changing the state of neurons or the state of synapses.
-- Soft switching: modulating the gain.
-- Hard switching: modulating the ability to evoke any response at all.
+- *Soft switching*: modulating the gain.
+- *Hard switching*: modulating the ability to evoke any response at all.
 - Due to the existence of a threshold for AP generation, hard switching can be implemented by strong inhibition.
 - E.g. Hyperpolarization = Switching a neuron off.
 - Gain modulation appears to be the primary mechanism by which cortical neurons nonlinearly combine input signals.
@@ -981,7 +981,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
 - How do we explain qualia in terms of science?
 - E.g. The redness of red or the painfulness of pain.
 - The authors’ strategy is to leave the core of the problem for later (the hard problem of consciousness) and to try, instead, to discover the neural correlates of consciousness.
-- Neural correlates of consciousness (NCC): the minimal neural mechanisms jointly sufficient for any one conscious sensation or percept.
+- *Neural correlates of consciousness (NCC)*: the minimal neural mechanisms jointly sufficient for any one conscious sensation or percept.
 - This chapter focuses on the visual system in humans and macaque monkeys.
 - It’s generally agreed that much of the activity of our brains is unconscious.
 - E.g. The nervous system of the digestive tract and the retina.
@@ -1009,7 +1009,7 @@ excerpt: "A discussion of some problems in systems neuroscience."
 - What we’re left with is that consciousness requires some form of short-term memory.
 - The difficult case is working memory.
 - A person with small working memory, although handicapped, appears to be conscious.
-- Bloch’s law: for stimulus duration less than about a tenth of a second, the brightness of the stimulus appears the same provided the product of its intensity and its duration is constant.
+- *Bloch’s law*: for stimulus duration less than about a tenth of a second, the brightness of the stimulus appears the same provided the product of its intensity and its duration is constant.
 - In other words, the system/brain is integrating the input over some short time interval.
 - Experimental results suggest that the NCC comes into being abruptly rather than gradually.
 - Once the relevant neural activity reaches some threshold, a constant percept of brightness results, at least for a short time.
